@@ -168,6 +168,7 @@
   * [ring ![GitHub Repo stars](https://img.shields.io/github/stars/ring-clojure/ring) ![GitHub last commit](https://img.shields.io/github/last-commit/ring-clojure/ring)](https://github.com/ring-clojure/ring) : HTTP server abstraction
   * [kvlt ![GitHub Repo stars](https://img.shields.io/github/stars/nervous-systems/kvlt) ![GitHub last commit](https://img.shields.io/github/last-commit/nervous-systems/kvlt)](https://github.com/nervous-systems/kvlt) : Uniform, asychronous client interface for HTTP across JVM / Node / browsers
   * [aleph ![GitHub Repo stars](https://img.shields.io/github/stars/clj-commons/aleph) ![GitHub last commit](https://img.shields.io/github/last-commit/clj-commons/aleph)](https://github.com/clj-commons/aleph) : Async client/server based on Netty, with defaults for HTTP, TCP and UDP
+  * [hato ![GitHub Repo stars](https://img.shields.io/github/stars/gnarroway/hato) ![GitHub last commit](https://img.shields.io/github/last-commit/gnarroway/hato)](https://github.com/gnarroway/hato) : An HTTP client for Clojure, wrapping JDK 11's HttpClient
 
 ## Database
 
