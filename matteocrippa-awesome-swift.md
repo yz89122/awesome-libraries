@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1060 | August 09, 2021
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1061 | September 06, 2021
 
 ### Contents
 
@@ -939,6 +939,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [LocalizationKit ![GitHub Repo stars](https://img.shields.io/github/stars/willpowell8/LocalizationKit_iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/willpowell8/LocalizationKit_iOS)](https://github.com/willpowell8/LocalizationKit_iOS) - Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app.
 * [Localize ![GitHub Repo stars](https://img.shields.io/github/stars/andresilvagomez/Localize) ![GitHub last commit](https://img.shields.io/github/last-commit/andresilvagomez/Localize)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Localize-Swift ![GitHub Repo stars](https://img.shields.io/github/stars/marmelroy/Localize-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelroy/Localize-Swift)](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
+* [Locheck ![GitHub Repo stars](https://img.shields.io/github/stars/Asana/locheck) ![GitHub last commit](https://img.shields.io/github/last-commit/Asana/locheck)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
 * [NoOptionalInterpolation ![GitHub Repo stars](https://img.shields.io/github/stars/T-Pham/NoOptionalInterpolation) ![GitHub last commit](https://img.shields.io/github/last-commit/T-Pham/NoOptionalInterpolation)](https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(...)" and "nil" in string interpolation. Easy pluralization.
 * [SwiftGen-L10n ![GitHub Repo stars](https://img.shields.io/github/stars/SwiftGen/SwiftGen) ![GitHub last commit](https://img.shields.io/github/last-commit/SwiftGen/SwiftGen)](https://github.com/SwiftGen/SwiftGen#localizablestrings) - A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).
 * [Translatio ![GitHub Repo stars](https://img.shields.io/github/stars/andrealufino/Translatio) ![GitHub last commit](https://img.shields.io/github/last-commit/andrealufino/Translatio)](https://github.com/andrealufino/Translatio) - Super lightweight library that helps you to localize strings, even directly in storyboards.
