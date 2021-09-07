@@ -577,10 +577,13 @@ permissions, authentication and authorization.</strong>
 
 <ul>
   <li>
-    <p><a href="https://goteleport.com/blog/access-controls/">In Search For a Perfect Access Control System</a> - An overview of the most popular types of authorization schemes, and their historical origins.</p>
+    <p><a href="https://tailscale.com/blog/rbac-like-it-was-meant-to-be/">RBAC like it was meant to be</a> - How we got from DAC (unix permissions, secret URL), to MAC (DRM, MFA, 2FA, SELinux), to RBAC. Details how the latter allows for better modeling of policies, ACLs, users and groups.</p>
   </li>
   <li>
-    <p><a href="https://csrc.nist.gov/projects/role-based-access-control">Role Based Access Control</a> - A NIST project to explain RBAC concepts, costs and benefits, the economic impact of RBAC, design and implementation issues, the standard itself, and advanced research topics.</p>
+    <p><a href="https://cerbos.dev/blog/the-case-for-granular-permissions">The Case for Granular Permissions</a> - Discuss the limitations of RBAC and how ABAC (Attribute-Based Access Control) addresses them.</p>
+  </li>
+  <li>
+    <p><a href="https://goteleport.com/blog/access-controls/">In Search For a Perfect Access Control System</a> - The historical origins of authorization schemes. Hints at the future of sharing, trust and delegation between different teams and organizations.</p>
   </li>
   <li>
     <p><a href="https://d1.awsstatic.com/Security/pdfs/Semantic_Based_Automated_Reasoning_for_AWS_Access_Policies_Using_SMT.pdf">Semantic-based Automated Reasoning for AWS Access Policies using SMT</a> - Zelkova is how AWS does it. This system perform symbolic analysis of IAM policies, and solve the reachability of resources according user’s rights and access constraints. Also see the higher-level <a href="https://youtu.be/x6wsTFnU3eY?t=2111">introduction given at re:inforce 2019</a>.</p>
@@ -621,6 +624,9 @@ permissions, authentication and authorization.</strong>
   </li>
   <li>
     <p><a href="https://github.com/osohq/oso">Oso <img src="https://img.shields.io/github/stars/osohq/oso" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/osohq/oso" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A batteries-included library for building authorization in your application.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/cerbos/cerbos">Cerbos <img src="https://img.shields.io/github/stars/cerbos/cerbos" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/cerbos/cerbos" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - An authorization endpoint to write context-aware access control policies.</p>
   </li>
 </ul>
 
