@@ -283,6 +283,7 @@
 - 🚀 [Tailwind CSS Boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/michelegera/create-tailwindcss-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/create-tailwindcss-boilerplate)](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
 - 🚀 [Jekyll Starter ![GitHub Repo stars](https://img.shields.io/github/stars/taylorbryant/tailwind-jekyll) ![GitHub last commit](https://img.shields.io/github/last-commit/taylorbryant/tailwind-jekyll)](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter ![GitHub Repo stars](https://img.shields.io/github/stars/mhanberg/jekyll-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/mhanberg/jekyll-tailwind-starter)](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
+- 🚀 [Jekyll Starter ![GitHub Repo stars](https://img.shields.io/github/stars/shenlu89/jekyll-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/shenlu89/jekyll-tailwindcss-starter)](https://github.com/shenlu89/jekyll-tailwindcss-starter) - Jekyll starter using Tailwind CSS
 - 🚀 [Gulp Starter ![GitHub Repo stars](https://img.shields.io/github/stars/simonswiss/tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/simonswiss/tailwind-starter)](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
 - 🚀 [Gatsby Starter ![GitHub Repo stars](https://img.shields.io/github/stars/taylorbryant/gatsby-starter-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/taylorbryant/gatsby-starter-tailwind)](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
 - 🚀 [Gatsby Starter Simplicity ![GitHub Repo stars](https://img.shields.io/github/stars/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) ![GitHub last commit](https://img.shields.io/github/last-commit/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme)](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) - Gatsby starter using Tailwind CSS.
@@ -368,7 +369,7 @@
 - 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 - 🎥 [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
-- 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
+- ��� [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
 <p align="center">
