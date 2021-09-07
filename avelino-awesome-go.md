@@ -1499,6 +1499,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 * [gentleman ![GitHub Repo stars](https://img.shields.io/github/stars/h2non/gentleman) ![GitHub last commit](https://img.shields.io/github/last-commit/h2non/gentleman)](https://github.com/h2non/gentleman) - Full-featured plugin-driven HTTP client library.
 * [go-http-client ![GitHub Repo stars](https://img.shields.io/github/stars/bozd4g/go-http-client) ![GitHub last commit](https://img.shields.io/github/last-commit/bozd4g/go-http-client)](https://github.com/bozd4g/go-http-client) - Make http calls simply and easily.
+* [go-req ![GitHub Repo stars](https://img.shields.io/github/stars/wenerme/go-req) ![GitHub last commit](https://img.shields.io/github/last-commit/wenerme/go-req)](https://github.com/wenerme/go-req) - Declarative golang HTTP client.
 * [grequests ![GitHub Repo stars](https://img.shields.io/github/stars/levigross/grequests) ![GitHub last commit](https://img.shields.io/github/last-commit/levigross/grequests)](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library.
 * [heimdall ![GitHub Repo stars](https://img.shields.io/github/stars/gojektech/heimdall) ![GitHub last commit](https://img.shields.io/github/last-commit/gojektech/heimdall)](https://github.com/gojektech/heimdall) - An enchanced http client with retry and hystrix capabilities.
 * [httpc ![GitHub Repo stars](https://img.shields.io/github/stars/valord577/httpc) ![GitHub last commit](https://img.shields.io/github/last-commit/valord577/httpc)](https://github.com/valord577/httpc) - A customizable and simple HTTP client library. Only depend on the stdlib HTTP client.
@@ -2644,7 +2645,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 * [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
-* [For the Love of Go](https://bitfieldconsulting.com/books) - A series of introductory books for Go beginners.
+* [For the Love of Go](https://bitfieldconsulting.com/books/love) - An introductory book for Go beginners.
 * [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
 * [Go Bootcamp](http://golangbootcamp.com)
 * [Go Succinctly ![GitHub Repo stars](https://img.shields.io/github/stars/thedevsir/gosuccinctly) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevsir/gosuccinctly)](https://github.com/thedevsir/gosuccinctly) - in Persian.
