@@ -369,4 +369,4 @@ Similar to other [resources aggregators ![GitHub Repo stars](https://img.shields
 
 If you do cite this repository you can as: 
 
-planning-technology-resources. (2020) APA Technology Division. Taken from: from https://github.com/APA-Technology-Division
+urban-and-regional-planning-resources. (2020) APA Technology Division. Taken from: from https://github.com/APA-Technology-Division
