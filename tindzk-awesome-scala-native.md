@@ -71,6 +71,7 @@
 * [ncurses ![GitHub Repo stars](https://img.shields.io/github/stars/edadma/ncurses) ![GitHub last commit](https://img.shields.io/github/last-commit/edadma/ncurses)](https://github.com/edadma/ncurses) - Bindings for the [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
 * [readline ![GitHub Repo stars](https://img.shields.io/github/stars/edadma/readline) ![GitHub last commit](https://img.shields.io/github/last-commit/edadma/readline)](https://github.com/edadma/readline) - Bindings for the [GNU Readline Library](https://www.gnu.org/software/readline/).
 * [libsndfile ![GitHub Repo stars](https://img.shields.io/github/stars/edadma/libsndfile) ![GitHub last commit](https://img.shields.io/github/last-commit/edadma/libsndfile)](https://github.com/edadma/libsndfile) - Bindings for the [Libsndfile](https://tiswww.cwru.edu/php/chet/libsndfile/rltop.html) C library for sampled sound manipulation.
+* [libpng ![GitHub Repo stars](https://img.shields.io/github/stars/edadma/libpng) ![GitHub last commit](https://img.shields.io/github/last-commit/edadma/libpng)](https://github.com/edadma/libpng) - Bindings for the [libpng](http://www.libpng.org/) C reference library for reading and writing PNGs.
 
 ## File Formats and Parsers
 * [msgpack4z ![GitHub Repo stars](https://img.shields.io/github/stars/msgpack4z/msgpack4z-native) ![GitHub last commit](https://img.shields.io/github/last-commit/msgpack4z/msgpack4z-native)](https://github.com/msgpack4z/msgpack4z-native) - Implementation of [MessagePack](https://msgpack.org/), a binary serialisation format.
