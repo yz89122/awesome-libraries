@@ -747,6 +747,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [Rationals ![GitHub Repo stars](https://img.shields.io/github/stars/tompazourek/Rationals) ![GitHub last commit](https://img.shields.io/github/last-commit/tompazourek/Rationals)](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
 * [MKL.NET ![GitHub Repo stars](https://img.shields.io/github/stars/AnthonyLloyd/MKL.NET) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyLloyd/MKL.NET)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
 * [AngouriMath ![GitHub Repo stars](https://img.shields.io/github/stars/asc-community/AngouriMath) ![GitHub last commit](https://img.shields.io/github/last-commit/asc-community/AngouriMath)](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
+* [Vim.Math3d ![GitHub Repo stars](https://img.shields.io/github/stars/vimaec/math3d) ![GitHub last commit](https://img.shields.io/github/last-commit/vimaec/math3d)](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math. 
 
 ## Media
 
