@@ -2767,11 +2767,11 @@ _**Unofficial** set of patterns for structuring projects._
 
 * [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 * [Awesome Remote Job ![GitHub Repo stars](https://img.shields.io/github/stars/lukasz-madon/awesome-remote-job) ![GitHub last commit](https://img.shields.io/github/last-commit/lukasz-madon/awesome-remote-job)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
+* [Awesome Golang Workshops ![GitHub Repo stars](https://img.shields.io/github/stars/amit-davidson/awesome-golang-workshops) ![GitHub last commit](https://img.shields.io/github/last-commit/amit-davidson/awesome-golang-workshops)](https://github.com/amit-davidson/awesome-golang-workshops) - A curated list of awesome golang workshops.
 * [awesome-awesomeness ![GitHub Repo stars](https://img.shields.io/github/stars/bayandin/awesome-awesomeness) ![GitHub last commit](https://img.shields.io/github/last-commit/bayandin/awesome-awesomeness)](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 * [awesome-go-extra ![GitHub Repo stars](https://img.shields.io/github/stars/xwjdsh/awesome-go-extra) ![GitHub last commit](https://img.shields.io/github/last-commit/xwjdsh/awesome-go-extra)](https://github.com/xwjdsh/awesome-go-extra) - Parse awesome-go README file and generate a new README file with repo info.
 * [CodinGame](https://www.codingame.com/) - Learn Go by solving interactive tasks using small games as practical examples.
 * [Go Blog](http://blog.golang.org) - The official Go blog.
-* [Go Challenge](http://golang-challenge.org/) - Learn Go by solving problems and getting feedback from Go experts.
 * [Go Code Club](https://www.youtube.com/watch?v=nvoIPQYdx9g&list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3) - A group of Gophers read and discuss a different Go project every week.
 * [Go Community on Hashnode](https://hashnode.com/n/go) - Community of Gophers on Hashnode.
 * [Go Forum](https://forum.golangbridge.org) - Forum to discuss Go.
