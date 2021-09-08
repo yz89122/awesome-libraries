@@ -71,6 +71,6 @@
 
 ## Support
 
+- [Github Discussions ![GitHub Repo stars](https://img.shields.io/github/stars/avajs/ava) ![GitHub last commit](https://img.shields.io/github/last-commit/avajs/ava)](https://github.com/avajs/ava/discussions)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
-- [Spectrum](https://spectrum.chat/ava)
 - [Twitter](https://twitter.com/ava__js)
