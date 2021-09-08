@@ -276,6 +276,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [github ![GitHub Repo stars](https://img.shields.io/github/stars/hipstersmoothie/eslint-formatter-github) ![GitHub last commit](https://img.shields.io/github/last-commit/hipstersmoothie/eslint-formatter-github)](https://github.com/hipstersmoothie/eslint-formatter-github) - See ESLint errors and warnings directly in pull requests.
 - [gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - Output ESLint results in the GitLab code quality results.
 - [mo ![GitHub Repo stars](https://img.shields.io/github/stars/fengzilong/eslint-formatter-mo) ![GitHub last commit](https://img.shields.io/github/last-commit/fengzilong/eslint-formatter-mo)](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter and also for delightful reading experience.
+- [SARIF](https://www.npmjs.com/package/@microsoft/eslint-formatter-sarif) - Generate a results in a SARIF format so it can be imported into tools like GitHub Advanced Security.
 - [summary-chart ![GitHub Repo stars](https://img.shields.io/github/stars/davidjbradshaw/eslint-formatter-summary-chart) ![GitHub last commit](https://img.shields.io/github/last-commit/davidjbradshaw/eslint-formatter-summary-chart)](https://github.com/davidjbradshaw/eslint-formatter-summary-chart) - Format ESLint output into a bar chart.
 
 ## Globals
