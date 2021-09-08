@@ -159,6 +159,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ### Provisioning
 
+- [Ansible ya_provider](https://galaxy.ansible.com/golemfactory/ya_provider)- Ansible role that deploys a Golem provider automatically with minimal configuration required.
 - [WSL ![GitHub Repo stars](https://img.shields.io/github/stars/r34x/WSL) ![GitHub last commit](https://img.shields.io/github/last-commit/r34x/WSL)](https://github.com/r34x/WSL) - Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine.
 - [Golem Provider Terraform ![GitHub Repo stars](https://img.shields.io/github/stars/nemani/golem-provider-terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/nemani/golem-provider-terraform)](https://github.com/nemani/golem-provider-terraform) - Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
 - [Automatic Golem ![GitHub Repo stars](https://img.shields.io/github/stars/r34x/Automatic-Golem) ![GitHub last commit](https://img.shields.io/github/last-commit/r34x/Automatic-Golem)](https://github.com/r34x/Automatic-Golem) - Setup a Golem Provider with simple instructions and logs guiding you through the process.
