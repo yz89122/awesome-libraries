@@ -387,6 +387,7 @@ _Libraries that assist with processing office document formats._
 
 _Libraries related to the financial domain._
 
+- [Cassandre ![GitHub Repo stars](https://img.shields.io/github/stars/cassandre-tech/cassandre-trading-bot) ![GitHub last commit](https://img.shields.io/github/last-commit/cassandre-tech/cassandre-trading-bot)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
 - [Parity ![GitHub Repo stars](https://img.shields.io/github/stars/paritytrading/parity) ![GitHub last commit](https://img.shields.io/github/last-commit/paritytrading/parity)](https://github.com/paritytrading/parity) - Platform for trading venues.
 - [Philadelphia ![GitHub Repo stars](https://img.shields.io/github/stars/paritytrading/philadelphia) ![GitHub last commit](https://img.shields.io/github/last-commit/paritytrading/philadelphia)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
 - [Square ![GitHub Repo stars](https://img.shields.io/github/stars/square/connect-java-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/square/connect-java-sdk)](https://github.com/square/connect-java-sdk) - Integration with the Square API.
@@ -595,6 +596,7 @@ _Tools that provide specific statistical algorithms for learning from data._
 - [DJL](https://djl.ai) - High-level and engine-agnostic framework for deep learning.
 - [H2O ![c]](https://www.h2o.ai) - Analytics engine for statistics over big data.
 - [JSAT ![GitHub Repo stars](https://img.shields.io/github/stars/EdwardRaff/JSAT) ![GitHub last commit](https://img.shields.io/github/last-commit/EdwardRaff/JSAT)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
+- [m2cgen ![GitHub Repo stars](https://img.shields.io/github/stars/BayesWitnesses/m2cgen) ![GitHub last commit](https://img.shields.io/github/last-commit/BayesWitnesses/m2cgen)](https://github.com/BayesWitnesses/m2cgen) - CLI tool to transpile models into native code.
 - [oj! Algorithms](https://www.ojalgo.org/) - High-performance mathematics, linear algebra and optimisation needed for data science, machine learning and scientific computing.
 - [Oryx 2 ![GitHub Repo stars](https://img.shields.io/github/stars/OryxProject/oryx) ![GitHub last commit](https://img.shields.io/github/last-commit/OryxProject/oryx)](https://github.com/OryxProject/oryx) - Framework for building real-time, large-scale machine learning applications. Includes end-to-end applications for collaborative filtering, classification, regression, and clustering.
 - [Siddhi ![GitHub Repo stars](https://img.shields.io/github/stars/siddhi-io/siddhi) ![GitHub last commit](https://img.shields.io/github/last-commit/siddhi-io/siddhi)](https://github.com/siddhi-io/siddhi) - Cloud native streaming and complex event processing engine.
@@ -667,6 +669,7 @@ _Everything else._
 - [TypeTools ![GitHub Repo stars](https://img.shields.io/github/stars/jhalterman/typetools) ![GitHub last commit](https://img.shields.io/github/last-commit/jhalterman/typetools)](https://github.com/jhalterman/typetools) - Tools for resolving generic types.
 - [XMLBeam ![GitHub Repo stars](https://img.shields.io/github/stars/SvenEwald/xmlbeam) ![GitHub last commit](https://img.shields.io/github/last-commit/SvenEwald/xmlbeam)](https://github.com/SvenEwald/xmlbeam) - Processes XML by using annotations or XPath within code.
 - [yGuard ![GitHub Repo stars](https://img.shields.io/github/stars/yWorks/yGuard) ![GitHub last commit](https://img.shields.io/github/last-commit/yWorks/yGuard)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
+- [JObfuscator![c]](https://www.pelock.com/products/jobfuscator) - Source code obfuscator.
 
 ### Mobile Development
 
@@ -1043,6 +1046,7 @@ _Libraries that provide custom matchers._
 
 _Other stuff related to testing._
 
+- [ConsoleCaptor ![GitHub Repo stars](https://img.shields.io/github/stars/Hakky54/console-captor) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/console-captor)](https://github.com/Hakky54/console-captor) - Captures console output for unit testing purposes.
 - [junit-dataprovider ![GitHub Repo stars](https://img.shields.io/github/stars/TNG/junit-dataprovider) ![GitHub last commit](https://img.shields.io/github/last-commit/TNG/junit-dataprovider)](https://github.com/TNG/junit-dataprovider) - TestNG-like data provider/runner for JUnit.
 - [LogCaptor ![GitHub Repo stars](https://img.shields.io/github/stars/Hakky54/log-captor) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/log-captor)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
 - [Mutability Detector ![GitHub Repo stars](https://img.shields.io/github/stars/MutabilityDetector/MutabilityDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/MutabilityDetector/MutabilityDetector)](https://github.com/MutabilityDetector/MutabilityDetector) - Reports whether instances of a given class are immutable.
@@ -1122,6 +1126,7 @@ _Frameworks that handle the communication between the layers of a web applicatio
 ### Workflow Orchestration Engines
 
 - [Cadence](https://cadenceworkflow.io) - Stateful code platform from Uber.
+- [flowable ![GitHub Repo stars](https://img.shields.io/github/stars/flowable/flowable-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/flowable/flowable-engine)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 - [Temporal](https://temporal.io) - Microservice orchestration platform, forked from Cadence but gRPC based.
 
 ## Resources

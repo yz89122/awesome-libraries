@@ -391,6 +391,7 @@ This section is for inactive projects that are nonetheless still of interest reg
 - [Awesome Ad-Free ![GitHub Repo stars](https://img.shields.io/github/stars/johnjago/awesome-ad-free) ![GitHub last commit](https://img.shields.io/github/last-commit/johnjago/awesome-ad-free)](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the web.
 - [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives) - A curated list of (F)OSS / Federated alternatives to proprietary software and services.
 - [Open Sustainable Technology ![GitHub Repo stars](https://img.shields.io/github/stars/protontypes/open-sustainable-technology) ![GitHub last commit](https://img.shields.io/github/last-commit/protontypes/open-sustainable-technology)](https://github.com/protontypes/open-sustainable-technology) - Projects preserving stable climate, energy supply and natural resources.
+- [Awesome Sustainable VPS](https://codeberg.org/jonatasbaldin/awesome-sustainable-vps) - A list of sustainable VPS (Virtual Private Servers) providers.
 
 Also check out these sites for great alternatives to the monopolistic, privacy-invading software you may now be using:
 
