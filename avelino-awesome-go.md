@@ -26,6 +26,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 - [Awesome Go](#awesome-go)
     - [Audio and Music](#audio-and-music)
     - [Authentication and OAuth](#authentication-and-oauth)
+    - [Blockchain](#blockchain)
     - [Bot Building](#bot-building)
     - [Build Automation](#build-automation)
     - [Command Line](#command-line)
@@ -174,6 +175,17 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [sessions ![GitHub Repo stars](https://img.shields.io/github/stars/adam-hanna/sessions) ![GitHub last commit](https://img.shields.io/github/last-commit/adam-hanna/sessions)](https://github.com/adam-hanna/sessions) - Dead simple, highly performant, highly customizable sessions service for go http servers.
 * [sessionup ![GitHub Repo stars](https://img.shields.io/github/stars/swithek/sessionup) ![GitHub last commit](https://img.shields.io/github/last-commit/swithek/sessionup)](https://github.com/swithek/sessionup) - Simple, yet effective HTTP session management and identification package.
 * [sjwt ![GitHub Repo stars](https://img.shields.io/github/stars/brianvoe/sjwt) ![GitHub last commit](https://img.shields.io/github/last-commit/brianvoe/sjwt)](https://github.com/brianvoe/sjwt) - Simple jwt generator and parser.
+
+## Blockchain
+
+*Tools for building blockchains.*
+
+* [cosmos-sdk ![GitHub Repo stars](https://img.shields.io/github/stars/cosmos/cosmos-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmos/cosmos-sdk)](https://github.com/cosmos/cosmos-sdk) - A Framework for Building Public Blockchains in the Cosmos Ecosystem.
+* [go-ethereum ![GitHub Repo stars](https://img.shields.io/github/stars/ethereum/go-ethereum) ![GitHub last commit](https://img.shields.io/github/last-commit/ethereum/go-ethereum)](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
+* [gossamer ![GitHub Repo stars](https://img.shields.io/github/stars/ChainSafe/gossamer) ![GitHub last commit](https://img.shields.io/github/last-commit/ChainSafe/gossamer)](https://github.com/ChainSafe/gossamer) - A Go implementation of the Polkadot Host
+* [tendermint ![GitHub Repo stars](https://img.shields.io/github/stars/tendermint/tendermint) ![GitHub last commit](https://img.shields.io/github/last-commit/tendermint/tendermint)](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
+
+
 
 ## Bot Building
 
@@ -699,7 +711,6 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [rpcx ![GitHub Repo stars](https://img.shields.io/github/stars/smallnest/rpcx) ![GitHub last commit](https://img.shields.io/github/last-commit/smallnest/rpcx)](https://github.com/smallnest/rpcx) - Distributed pluggable RPC service framework like alibaba Dubbo.
 * [Semaphore ![GitHub Repo stars](https://img.shields.io/github/stars/jexia/semaphore) ![GitHub last commit](https://img.shields.io/github/last-commit/jexia/semaphore)](https://github.com/jexia/semaphore) - A straightforward (micro) service orchestrator.
 * [sleuth ![GitHub Repo stars](https://img.shields.io/github/stars/ursiform/sleuth) ![GitHub last commit](https://img.shields.io/github/last-commit/ursiform/sleuth)](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ ![GitHub Repo stars](https://img.shields.io/github/stars/zeromq/libzmq) ![GitHub last commit](https://img.shields.io/github/last-commit/zeromq/libzmq)](https://github.com/zeromq/libzmq)).
-* [tendermint ![GitHub Repo stars](https://img.shields.io/github/stars/tendermint/tendermint) ![GitHub last commit](https://img.shields.io/github/last-commit/tendermint/tendermint)](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
 * [torrent ![GitHub Repo stars](https://img.shields.io/github/stars/anacrolix/torrent) ![GitHub last commit](https://img.shields.io/github/last-commit/anacrolix/torrent)](https://github.com/anacrolix/torrent) - BitTorrent client package.
 
 ## Dynamic DNS
@@ -1799,6 +1810,7 @@ _**Unofficial** set of patterns for structuring projects._
     * [dsunit ![GitHub Repo stars](https://img.shields.io/github/stars/viant/dsunit) ![GitHub last commit](https://img.shields.io/github/last-commit/viant/dsunit)](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
     * [embedded-postgres ![GitHub Repo stars](https://img.shields.io/github/stars/fergusstrange/embedded-postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/fergusstrange/embedded-postgres)](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
     * [endly ![GitHub Repo stars](https://img.shields.io/github/stars/viant/endly) ![GitHub last commit](https://img.shields.io/github/last-commit/viant/endly)](https://github.com/viant/endly) - Declarative end to end functional testing.
+    * [fixenv ![GitHub Repo stars](https://img.shields.io/github/stars/rekby/fixenv) ![GitHub last commit](https://img.shields.io/github/last-commit/rekby/fixenv)](https://github.com/rekby/fixenv) - Fixture manage engine, inspired by pytest fixtures.
     * [flute ![GitHub Repo stars](https://img.shields.io/github/stars/suzuki-shunsuke/flute) ![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/flute)](https://github.com/suzuki-shunsuke/flute) - HTTP client testing framework.
     * [frisby ![GitHub Repo stars](https://img.shields.io/github/stars/verdverm/frisby) ![GitHub last commit](https://img.shields.io/github/last-commit/verdverm/frisby)](https://github.com/verdverm/frisby) - REST API testing framework.
     * [ginkgo](http://onsi.github.io/ginkgo/) - BDD Testing Framework for Go.
@@ -2167,6 +2179,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [scan ![GitHub Repo stars](https://img.shields.io/github/stars/blockloop/scan) ![GitHub last commit](https://img.shields.io/github/last-commit/blockloop/scan)](https://github.com/blockloop/scan) - Scan golang `sql.Rows` directly to structs, slices, or primitive types.
 * [scany ![GitHub Repo stars](https://img.shields.io/github/stars/georgysavva/scany) ![GitHub last commit](https://img.shields.io/github/last-commit/georgysavva/scany)](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more.
 * [serve ![GitHub Repo stars](https://img.shields.io/github/stars/syntaqx/serve) ![GitHub last commit](https://img.shields.io/github/last-commit/syntaqx/serve)](https://github.com/syntaqx/serve) - A static http server anywhere you need.
+* [set ![GitHub Repo stars](https://img.shields.io/github/stars/nofeaturesonlybugs/set) ![GitHub last commit](https://img.shields.io/github/last-commit/nofeaturesonlybugs/set)](https://github.com/nofeaturesonlybugs/set) - Performant and flexible struct mapping and loose type conversion.
 * [shutdown ![GitHub Repo stars](https://img.shields.io/github/stars/ztrue/shutdown) ![GitHub last commit](https://img.shields.io/github/last-commit/ztrue/shutdown)](https://github.com/ztrue/shutdown) - App shutdown hooks for `os.Signal` handling.
 * [silk ![GitHub Repo stars](https://img.shields.io/github/stars/chrispassas/silk) ![GitHub last commit](https://img.shields.io/github/last-commit/chrispassas/silk)](https://github.com/chrispassas/silk) - Read silk netflow files.
 * [slice ![GitHub Repo stars](https://img.shields.io/github/stars/psampaz/slice) ![GitHub last commit](https://img.shields.io/github/last-commit/psampaz/slice)](https://github.com/psampaz/slice) - Type-safe functions for common Go slice operations.
@@ -2314,6 +2327,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [Limiter ![GitHub Repo stars](https://img.shields.io/github/stars/ulule/limiter) ![GitHub last commit](https://img.shields.io/github/last-commit/ulule/limiter)](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go.
 * [ln-paywall ![GitHub Repo stars](https://img.shields.io/github/stars/philippgille/ln-paywall) ![GitHub last commit](https://img.shields.io/github/last-commit/philippgille/ln-paywall)](https://github.com/philippgille/ln-paywall) - Go middleware for monetizing APIs on a per-request basis with the Lightning Network (Bitcoin).
 * [rk-gin ![GitHub Repo stars](https://img.shields.io/github/stars/rookie-ninja/rk-gin) ![GitHub last commit](https://img.shields.io/github/last-commit/rookie-ninja/rk-gin)](https://github.com/rookie-ninja/rk-gin) - Middleware for Gin framework with logging, metrics, auth, tracing etc.
+* [rk-grpc ![GitHub Repo stars](https://img.shields.io/github/stars/rookie-ninja/rk-grpc) ![GitHub last commit](https://img.shields.io/github/last-commit/rookie-ninja/rk-grpc)](https://github.com/rookie-ninja/rk-grpc) - Middleware for gRPC with logging, metrics, auth, tracing etc.
 * [Tollbooth ![GitHub Repo stars](https://img.shields.io/github/stars/didip/tollbooth) ![GitHub last commit](https://img.shields.io/github/last-commit/didip/tollbooth)](https://github.com/didip/tollbooth) - Rate limit HTTP request handler.
 * [XFF ![GitHub Repo stars](https://img.shields.io/github/stars/sebest/xff) ![GitHub last commit](https://img.shields.io/github/last-commit/sebest/xff)](https://github.com/sebest/xff) - Handle `X-Forwarded-For` header and friends.
 
