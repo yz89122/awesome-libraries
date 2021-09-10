@@ -179,12 +179,13 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Official Coq-Club mailing list](https://sympa.inria.fr/sympa/arc/coq-club)
 - [Official Coq wiki ![GitHub Repo stars](https://img.shields.io/github/stars/coq/coq) ![GitHub last commit](https://img.shields.io/github/last-commit/coq/coq)](https://github.com/coq/coq/wiki)
 - [Official Coq Twitter](https://twitter.com/CoqLang)
-- [100 famous theorems proved using Coq ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/coq-100-theorems) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/coq-100-theorems)](https://github.com/coq-community/coq-100-theorems)
-- [coq-community package maintenance project ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/manifesto) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/manifesto)](https://github.com/coq-community/manifesto)
+- [Coq Zulip chat archive](https://coq.gitlab.io/zulip-archive/)
 - [Coq subreddit](https://www.reddit.com/r/coq/)
 - [Coq tag on Stack Overflow](https://stackoverflow.com/questions/tagged/coq)
 - [Coq tag on Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/tagged/coq)
+- [coq-community package maintenance project ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/manifesto) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/manifesto)](https://github.com/coq-community/manifesto)
 - [Mathematical Components wiki ![GitHub Repo stars](https://img.shields.io/github/stars/math-comp/math-comp) ![GitHub last commit](https://img.shields.io/github/last-commit/math-comp/math-comp)](https://github.com/math-comp/math-comp/wiki)
+- [100 famous theorems proved using Coq ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/coq-100-theorems) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/coq-100-theorems)](https://github.com/coq-community/coq-100-theorems)
 - [Planet Coq link aggregator](https://coq.pl-a.net)
 
 ### Blogs
