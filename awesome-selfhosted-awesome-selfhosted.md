@@ -21,6 +21,7 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 <!-- BEGIN SOFTWARE LIST -->
 
+
 ### Analytics
 
 **[`^        back to top        ^`](#)**
@@ -34,7 +35,7 @@ _Related: [Personal Dashboards](#personal-dashboards)_
 
 **[`^        back to top        ^`](#)**
 
-_Some [Content Management System](#content-management-systems-cms) solutions also feature archiving and digital preservation._
+_Related: [Content Management Systems](#content-management-systems-cms)_
 
 - [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/artefactual/atom) ![GitHub last commit](https://img.shields.io/github/last-commit/artefactual/atom)](https://github.com/artefactual/atom)) `AGPL-3.0-only` `PHP`
 - [ArchiveBox](https://archivebox.io/) - Self-hosted _wayback machine_ that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/ArchiveBox/ArchiveBox) ![GitHub last commit](https://img.shields.io/github/last-commit/ArchiveBox/ArchiveBox)](https://github.com/ArchiveBox/ArchiveBox)) `MIT` `Python`
@@ -43,6 +44,7 @@ _Some [Content Management System](#content-management-systems-cms) solutions als
 - [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/ckan/ckan) ![GitHub last commit](https://img.shields.io/github/last-commit/ckan/ckan)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 - [Collective Access - Providence](https://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/collectiveaccess/providence) ![GitHub last commit](https://img.shields.io/github/last-commit/collectiveaccess/providence)](https://github.com/collectiveaccess/providence)) `GPL-3.0-only` `PHP`
 - [Horahora ![GitHub Repo stars](https://img.shields.io/github/stars/horahoradev/horahora) ![GitHub last commit](https://img.shields.io/github/last-commit/horahoradev/horahora)](https://github.com/horahoradev/horahora) - Video hosting website and video archival manager for Niconico, Bilibili, and Youtube. `MIT` `Go`
+
 
 ### Automation
 
@@ -92,6 +94,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 - [Zenbot ![GitHub Repo stars](https://img.shields.io/github/stars/DeviaVir/zenbot) ![GitHub last commit](https://img.shields.io/github/last-commit/DeviaVir/zenbot)](https://github.com/DeviaVir/zenbot) - Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more. `MIT` `Nodejs`
 - [ZeroQueue ![GitHub Repo stars](https://img.shields.io/github/stars/thezeroqueue/zeroqueue) ![GitHub last commit](https://img.shields.io/github/last-commit/thezeroqueue/zeroqueue)](https://github.com/thezeroqueue/zeroqueue) - A low-code queue management system that lets you run scheduled jobs for anything. `GPL-3.0` `Nodejs`
 - [µTask ![GitHub Repo stars](https://img.shields.io/github/stars/ovh/utask) ![GitHub last commit](https://img.shields.io/github/last-commit/ovh/utask)](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go`
+
 
 ### Blogging Platforms
 
@@ -225,6 +228,7 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 - [ZeroNet](https://zeronet.io/) `⚠` - Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/HelloZeroNet/ZeroNet) ![GitHub last commit](https://img.shields.io/github/last-commit/HelloZeroNet/ZeroNet)](https://github.com/HelloZeroNet/ZeroNet)) `GPL-2.0` `Python`
 - [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/zulip/zulip) ![GitHub last commit](https://img.shields.io/github/last-commit/zulip/zulip)](https://github.com/zulip/zulip)) `Apache-2.0/Other` `Python`
 
+
 ### Communication - Email
 
 **[`^        back to top        ^`](#)**
@@ -252,6 +256,7 @@ _Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 - [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/simple-login/app) ![GitHub last commit](https://img.shields.io/github/last-commit/simple-login/app)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
 - [wildduck](https://wildduck.email/) - Scalable no-SPOF IMAP/POP3 mail server. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/nodemailer/wildduck) ![GitHub last commit](https://img.shields.io/github/last-commit/nodemailer/wildduck)](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs`
 
+
 ### Communication - Email - Mail Transfer Agents
 
 _MTAs / SMTP servers_
@@ -269,6 +274,7 @@ _MTAs / SMTP servers_
 - [Sendmail](https://www.proofpoint.com/us/products/email-protection/open-source-email-solution) - Message transfer agent (MTA). `Sendmail` `C`
 - [Slimta](https://www.slimta.org) - Mail Transfer Library built on Python. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/slimta/python-slimta) ![GitHub last commit](https://img.shields.io/github/last-commit/slimta/python-slimta)](https://github.com/slimta/python-slimta)) `MIT` `Python`
 
+
 ### Communication - Email - Mail Delivery Agents
 
 _MDAs - IMAP/POP3 software_
@@ -277,6 +283,7 @@ _MDAs - IMAP/POP3 software_
 - [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/dovecot/core) ![GitHub last commit](https://img.shields.io/github/last-commit/dovecot/core)](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C`
 - [MailForm ![GitHub Repo stars](https://img.shields.io/github/stars/Feuerhamster/mailform) ![GitHub last commit](https://img.shields.io/github/last-commit/Feuerhamster/mailform)](https://github.com/Feuerhamster/mailform) - Lightweight self-hosted open source alternative to Formspree and SendGrid. `Apache-2.0` `Nodejs`
 - [Piler](https://www.mailpiler.org/wiki/start) - feature-rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPL-3.0` `C`
+
 
 ### Communication - Email - Mailing Lists and Newsletters
 
@@ -295,6 +302,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 - [Schleuder](https://schleuder.nadir.org/) - GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPL-3.0` `Ruby`
 - [Sympa](https://www.sympa.org/) - Mailing list manager. `GPL-2.0` `Perl`
 
+
 ### Communication - Email - Webmail Clients
 
 - [Afterlogic WebMail Lite](https://afterlogic.org/webmail-lite) - Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel. ([Demo](https://lite.afterlogic.com/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/afterlogic/webmail-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/afterlogic/webmail-lite)](https://github.com/afterlogic/webmail-lite)) `AGPL-3.0` `PHP`
@@ -306,6 +314,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 - [RainLoop](https://www.rainloop.net/) - Simple, modern and fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](https://mail.rainloop.net), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/RainLoop/rainloop-webmail) ![GitHub last commit](https://img.shields.io/github/last-commit/RainLoop/rainloop-webmail)](https://github.com/RainLoop/rainloop-webmail)). `AGPL-3.0` `PHP`
 - [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/roundcube/roundcubemail) ![GitHub last commit](https://img.shields.io/github/last-commit/roundcube/roundcubemail)](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP`
 - [SquirrelMail](https://squirrelmail.org) - Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPL-2.0` `PHP`
+
 
 ### Communication - IRC
 
@@ -326,6 +335,7 @@ _[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software
 - [Tiny Tiny IRC](https://tt-rss.org/tt-irc/) - An open source AJAX-powered chat platform with support for IRC ([Source Code](https://git.tt-rss.org/fox/tt-irc)). `GPL-3.0` `PHP/Java`
 - [Weechat](https://weechat.org/) - Fast, light and extensible chat client. `GPL-3.0` `C`
 - [ZNC](https://wiki.znc.in/ZNC) - Advanced IRC bouncer. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/znc/znc) ![GitHub last commit](https://img.shields.io/github/last-commit/znc/znc)](https://github.com/znc/znc)) `Apache-2.0` `C++`
+
 
 ### Communication - SIP
 
