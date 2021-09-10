@@ -125,6 +125,7 @@
     - [State Management](#state-management)
       - [Redux](#redux)
       - [Mobx](#mobx)
+      - [Pinia](#pinia)
       - [Authentication/Authorization](#authenticationauthorization)
       - [Vuex Utilities](#vuex-utilities)
         - [Sync Between Tabs](#sync-between-tabs)
@@ -658,6 +659,7 @@
 - [Large Scale Apps with Vue 3 and TypeScript](http://leanpub.com/vue-typescript/c/vaYXLEFWbMi7) Damiano Fusco, Leanpub (September, 2020)
 - [Vue - The Road To Enterprise](https://theroadtoenterprise.com/?utm_source=github&utm_medium=vue-awesome&utm_campaign=vue_the_road_to_enterprise) Thomas Findlay (January, 2021)
 - [Accessible Vue – Get started with Accessibility in Vue.js!](https://accessible-vue.com) by Marcus Herrmann (March 2021)
+- [Building a Strapi E-Commerce: Nuxt.js Tutorial & Live Demo](https://snipcart.com/blog/strapi-ecommerce-nuxtjs-tutorial) (September 2021)
 
 ### Blog Posts
 
@@ -1066,7 +1068,7 @@
 - [Remote-Access-SSH ![GitHub Repo stars](https://img.shields.io/github/stars/mritunjaygoutam12/Remote-host) ![GitHub last commit](https://img.shields.io/github/last-commit/mritunjaygoutam12/Remote-host)](https://github.com/mritunjaygoutam12/Remote-host) - Web based remote host access with node-ssh
 - [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) - A Free Online Tool To Generate Custom Map Icons On The Fly
 - [Monocle Reader](https://monoclereader.com/) - Follow feeds, Twitter, YouTube, Blogs and everything else, all in one place.
-- [前站导航](https://www.frontendjs.com/) - 前端社区、文档收录.
+- [前站导航](https://www.frontendjs.com/) - 前端社区、文��收录.
 - [Geenes](https://geenes.app) - Generate and apply color palettes to your UI, then export it to sketch or code.
 - [Blurrish](http://blurrish.cognitusapps.com/) - Encrypted Morning Pages journal for Mac/Windows, built with Vue and Electron. Blurs as you write so you can journal in public workspaces.
 - [ExifShot](https://exifshot.com/) - What and how on photography, beautifully.
@@ -2211,6 +2213,7 @@ _Display images_
 - [vue-paycard ![GitHub Repo stars](https://img.shields.io/github/stars/guastallaigor/vue-paycard) ![GitHub last commit](https://img.shields.io/github/last-commit/guastallaigor/vue-paycard)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
 - [vue-list-picker ![GitHub Repo stars](https://img.shields.io/github/stars/guastallaigor/vue-list-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/guastallaigor/vue-list-picker)](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
 - [vue-diagram-editor ![GitHub Repo stars](https://img.shields.io/github/stars/max-kut/vue-diagram-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/max-kut/vue-diagram-editor)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
+- [v-use-places-autocomplete ![GitHub Repo stars](https://img.shields.io/github/stars/wobsoriano/v-use-places-autocomplete) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/v-use-places-autocomplete)](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
 
 ##### Wizard
 
@@ -2241,6 +2244,7 @@ _Display images_
 - [vue-rough ![GitHub Repo stars](https://img.shields.io/github/stars/dneustadt/vue-rough) ![GitHub last commit](https://img.shields.io/github/last-commit/dneustadt/vue-rough)](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style.
 - [vue3-signature ![GitHub Repo stars](https://img.shields.io/github/stars/WangShayne/vue3-signature) ![GitHub last commit](https://img.shields.io/github/last-commit/WangShayne/vue3-signature)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
 - [vue-signature ![GitHub Repo stars](https://img.shields.io/github/stars/WangShayne/vue-signature) ![GitHub last commit](https://img.shields.io/github/last-commit/WangShayne/vue-signature)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
+- [v-perfect-signature ![GitHub Repo stars](https://img.shields.io/github/stars/wobsoriano/v-perfect-signature) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/v-perfect-signature)](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
 
 
 #### Link Preview
@@ -2924,6 +2928,7 @@ _LocalStorage etc._
 - [vue-object-state ![GitHub Repo stars](https://img.shields.io/github/stars/crashkonijn/vue-object-state) ![GitHub last commit](https://img.shields.io/github/last-commit/crashkonijn/vue-object-state)](https://github.com/crashkonijn/vue-object-state) - Simple object/dto/model state tracking
 - [vue-datatable-url-sync ![GitHub Repo stars](https://img.shields.io/github/stars/socotecio/vue-datatable-url-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/socotecio/vue-datatable-url-sync)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 - [vue-path-store ![GitHub Repo stars](https://img.shields.io/github/stars/kouts/vue-path-store) ![GitHub last commit](https://img.shields.io/github/last-commit/kouts/vue-path-store)](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins.
+- [pinia ![GitHub Repo stars](https://img.shields.io/github/stars/posva/pinia) ![GitHub last commit](https://img.shields.io/github/last-commit/posva/pinia)](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
 
 ##### Redux
 
@@ -2937,6 +2942,13 @@ _LocalStorage etc._
 
 - [movue ![GitHub Repo stars](https://img.shields.io/github/stars/nighca/movue) ![GitHub last commit](https://img.shields.io/github/last-commit/nighca/movue)](https://github.com/nighca/movue) - Mobx integration for Vue.js.
 - [vue-mobx ![GitHub Repo stars](https://img.shields.io/github/stars/dwqs/vue-mobx) ![GitHub last commit](https://img.shields.io/github/last-commit/dwqs/vue-mobx)](https://github.com/dwqs/vue-mobx) - Mobx binding for Vuejs 2.x.
+- [mobx-vue-lite ![GitHub Repo stars](https://img.shields.io/github/stars/wobsoriano/mobx-vue-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/mobx-vue-lite)](https://github.com/wobsoriano/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
+
+##### Pinia
+
+- [pinia-shared-state ![GitHub Repo stars](https://img.shields.io/github/stars/wobsoriano/pinia-shared-state) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/pinia-shared-state)](https://github.com/wobsoriano/pinia-shared-state) - A lightweight plugin to sync your pinia state across browser tabs.
+- [pinia-undo ![GitHub Repo stars](https://img.shields.io/github/stars/wobsoriano/pinia-undo) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/pinia-undo)](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
+- [pinia-xstate ![GitHub Repo stars](https://img.shields.io/github/stars/wobsoriano/pinia-xstate) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/pinia-xstate)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 
 ##### Authentication/Authorization
 
