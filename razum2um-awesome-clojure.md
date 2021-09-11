@@ -175,6 +175,7 @@
 *Databases and database client libraries*
 
   * [Datomic](http://www.datomic.com/)
+  * [xtdb ![GitHub Repo stars](https://img.shields.io/github/stars/xtdb/xtdb) ![GitHub last commit](https://img.shields.io/github/last-commit/xtdb/xtdb)](https://github.com/xtdb/xtdb): bitemporal database for SQL, Datalog & graph queries
   * [Datahike ![GitHub Repo stars](https://img.shields.io/github/stars/replikativ/datahike) ![GitHub last commit](https://img.shields.io/github/last-commit/replikativ/datahike)](https://github.com/replikativ/datahike)
   * [Datascript ![GitHub Repo stars](https://img.shields.io/github/stars/tonsky/datascript) ![GitHub last commit](https://img.shields.io/github/last-commit/tonsky/datascript)](https://github.com/tonsky/datascript)
   * [Datalevin ![GitHub Repo stars](https://img.shields.io/github/stars/juji-io/datalevin) ![GitHub last commit](https://img.shields.io/github/last-commit/juji-io/datalevin)](https://github.com/juji-io/datalevin)
