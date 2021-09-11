@@ -36,6 +36,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo stars](https://img.shields.io/gith
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
 - [SuperStarfighter ![GitHub Repo stars](https://img.shields.io/github/stars/notapixelstudio/superstarfighter) ![GitHub last commit](https://img.shields.io/github/last-commit/notapixelstudio/superstarfighter)](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena.
+- [Portal 2D ![GitHub Repo stars](https://img.shields.io/github/stars/JulianWels/portal2d) ![GitHub last commit](https://img.shields.io/github/last-commit/JulianWels/portal2d)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 - [TuxBuilder ![GitHub Repo stars](https://img.shields.io/github/stars/Alzter/TuxBuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/Alzter/TuxBuilder)](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
 
 #### Godot 3.1
