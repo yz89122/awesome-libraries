@@ -47,6 +47,7 @@
 - [ava-fixture-docker-db ![GitHub Repo stars](https://img.shields.io/github/stars/cdaringe/ava-fixture-docker-db) ![GitHub last commit](https://img.shields.io/github/last-commit/cdaringe/ava-fixture-docker-db)](https://github.com/cdaringe/ava-fixture-docker-db) - Add docker databases to your test contexts.
 - [ava-webcomponents ![GitHub Repo stars](https://img.shields.io/github/stars/Wildhoney/ava-webcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/Wildhoney/ava-webcomponents)](https://github.com/Wildhoney/ava-webcomponents) - Testing web components via Puppeteer.
 - [ava-tap-json ![GitHub Repo stars](https://img.shields.io/github/stars/yovasx2/ava-tap-json) ![GitHub last commit](https://img.shields.io/github/last-commit/yovasx2/ava-tap-json)](https://github.com/yovasx2/ava-tap-json) - JSON output with AVA compatibility.
+- [pava ![GitHub Repo stars](https://img.shields.io/github/stars/TomerAberbach/pava) ![GitHub last commit](https://img.shields.io/github/last-commit/TomerAberbach/pava)](https://github.com/TomerAberbach/pava) - Parameterized testing.
 
 ## Works with AVA
 
