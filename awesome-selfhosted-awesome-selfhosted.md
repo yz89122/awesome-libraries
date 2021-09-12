@@ -125,6 +125,17 @@ _See also: [WeblogMatrix](https://www.weblogmatrix.org/)_
 - [Serendipity](https://docs.s9y.org/) - Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/s9y/serendipity) ![GitHub last commit](https://img.shields.io/github/last-commit/s9y/serendipity)](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`
 
 
+### Booking and Scheduling
+
+**[`^        back to top        ^`](#)**
+
+_Related: [Polls and Events](#polls-and-events)_
+
+- [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/alfio-event/alf.io) ![GitHub last commit](https://img.shields.io/github/last-commit/alfio-event/alf.io)](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
+- [Calendso](https://calendso.com/) - The open-source online appointment scheduling system. ([Demo](https://app.calendso.com/bailey), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/calendso/calendso) ![GitHub last commit](https://img.shields.io/github/last-commit/calendso/calendso)](https://github.com/calendso/calendso)) `MIT` `Nodejs`
+- [Easy!Appointments](https://easyappointments.org/) - A highly customizable web application that allows your customers to book appointments with you via the web. ([Demo](https://easyappointments.org/demo/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/alextselegidis/easyappointments) ![GitHub last commit](https://img.shields.io/github/last-commit/alextselegidis/easyappointments)](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`
+
+
 ### Bookmarks and Link Sharing
 
 **[`^        back to top        ^`](#)**
@@ -1298,6 +1309,8 @@ _Related: [Monitoring](#monitoring)_
 
 **[`^        back to top        ^`](#)**
 
+_Related: [Booking and Scheduling](#booking-and-scheduling)_
+
 - [Calagator](https://calagator.org/) - Event aggregator. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/calagator/calagator) ![GitHub last commit](https://img.shields.io/github/last-commit/calagator/calagator)](https://github.com/calagator/calagator)) `MIT` `Ruby`
 - [Clerk ![GitHub Repo stars](https://img.shields.io/github/stars/AppMini/Clerk) ![GitHub last commit](https://img.shields.io/github/last-commit/AppMini/Clerk)](https://github.com/AppMini/Clerk) - Simple event logger to keep track of periodic events, habits, etc. as they occur. `GPL-3.0` `PHP`
 - [Croodle ![GitHub Repo stars](https://img.shields.io/github/stars/jelhan/croodle) ![GitHub last commit](https://img.shields.io/github/last-commit/jelhan/croodle)](https://github.com/jelhan/croodle) - Croodle is an end-to-end encrypted web application to schedule a date or to do a poll on any topic. `MIT` `Javascript`
@@ -1314,13 +1327,6 @@ _Related: [Monitoring](#monitoring)_
 - [Mobilizon](https://mobilizon.org) - A federated tool that helps you find, create and organise events and groups. ([Demo](https://demo.mobilizon.org/), [Source Code](https://framagit.org/framasoft/mobilizon/)) `GPL-3.0` `Elixir`
 - [Open Event Server ![GitHub Repo stars](https://img.shields.io/github/stars/fossasia/open-event-server) ![GitHub last commit](https://img.shields.io/github/last-commit/fossasia/open-event-server)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python`
 - [PHPBack](https://www.phpback.org) - The open source feedback system. ([Demo](https://www.phpback.org/demo/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/ivandiazwm/phpback) ![GitHub last commit](https://img.shields.io/github/last-commit/ivandiazwm/phpback)](https://github.com/ivandiazwm/phpback)) `GPL-3.0` `PHP`
-
-
-### Booking and Scheduling
-
-- [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/alfio-event/alf.io) ![GitHub last commit](https://img.shields.io/github/last-commit/alfio-event/alf.io)](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
-- [Calendso](https://calendso.com/) - The open-source online appointment scheduling system. ([Demo](https://app.calendso.com/bailey), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/calendso/calendso) ![GitHub last commit](https://img.shields.io/github/last-commit/calendso/calendso)](https://github.com/calendso/calendso)) `MIT` `Nodejs`
-- [Easy!Appointments](https://easyappointments.org/) - A highly customizable web application that allows your customers to book appointments with you via the web. ([Demo](https://easyappointments.org/demo/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/alextselegidis/easyappointments) ![GitHub last commit](https://img.shields.io/github/last-commit/alextselegidis/easyappointments)](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`
 
 
 ### Proxy
