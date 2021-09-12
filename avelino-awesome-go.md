@@ -136,7 +136,6 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [PortAudio ![GitHub Repo stars](https://img.shields.io/github/stars/gordonklaus/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/gordonklaus/portaudio)](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
 * [portmidi ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll/portmidi) ![GitHub last commit](https://img.shields.io/github/last-commit/rakyll/portmidi)](https://github.com/rakyll/portmidi) - Go bindings for PortMidi.
 * [vorbis ![GitHub Repo stars](https://img.shields.io/github/stars/mccoyst/vorbis) ![GitHub last commit](https://img.shields.io/github/last-commit/mccoyst/vorbis)](https://github.com/mccoyst/vorbis) - "Native" Go Vorbis decoder (uses CGO, but has no dependencies).
-* [waveform ![GitHub Repo stars](https://img.shields.io/github/stars/mdlayher/waveform) ![GitHub last commit](https://img.shields.io/github/last-commit/mdlayher/waveform)](https://github.com/mdlayher/waveform) - Go package capable of generating waveform images from audio streams.
 
 ## Authentication and OAuth
 
