@@ -235,7 +235,7 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 
 ### Communication - Email - Complete Solutions
 
-_Simple deployment of a mail server, e.g. for inexperienced or impatient admins._
+Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 
 - [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/anonaddy/anonaddy) ![GitHub last commit](https://img.shields.io/github/last-commit/anonaddy/anonaddy)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
 - [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/debops/debops) ![GitHub last commit](https://img.shields.io/github/last-commit/debops/debops)](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
@@ -259,7 +259,7 @@ _Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 
 ### Communication - Email - Mail Transfer Agents
 
-_MTAs / SMTP servers_
+MTAs / SMTP servers
 
 - [chasquid](https://blitiri.com.ar/p/chasquid/) - SMTP (email) server with a focus on simplicity, security, and ease of operation. ([Source Code](https://blitiri.com.ar/git/r/chasquid/)) `Apache-2.0` `Go`
 - [Courier MTA](https://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([Source Code](https://www.courier-mta.org/repo.html)) `GPL-3.0` `C`
@@ -277,7 +277,7 @@ _MTAs / SMTP servers_
 
 ### Communication - Email - Mail Delivery Agents
 
-_MDAs - IMAP/POP3 software_
+MDAs - IMAP/POP3 software
 
 - [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/cyrusimap/cyrus-imapd) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrusimap/cyrus-imapd)](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`
 - [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/dovecot/core) ![GitHub last commit](https://img.shields.io/github/last-commit/dovecot/core)](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C`
@@ -287,7 +287,7 @@ _MDAs - IMAP/POP3 software_
 
 ### Communication - Email - Mailing Lists and Newsletters
 
-_Mailing lists servers and mass mailing software - one message to many recipients._
+Mailing lists servers and mass mailing software - one message to many recipients.
 
 - [Dada Mail](https://dadamailproject.com/) - Web-based list management system that can be used for announcement lists and/or discussion lists. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/justingit/dada-mail) ![GitHub last commit](https://img.shields.io/github/last-commit/justingit/dada-mail)](https://github.com/justingit/dada-mail)) `GPL-2.0` `Perl`
 - [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/knadh/listmonk) ![GitHub last commit](https://img.shields.io/github/last-commit/knadh/listmonk)](https://github.com/knadh/listmonk)) `AGPL-3.0` `Go`
@@ -320,7 +320,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 
 **[`^        back to top        ^`](#)**
 
-_[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software_
+[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software
 
 - [Convos](https://convos.chat/) - Always online web IRC client. ([Demo](https://convos.chat/#instant-demo), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/nordaaker/convos) ![GitHub last commit](https://img.shields.io/github/last-commit/nordaaker/convos)](https://github.com/nordaaker/convos)) `Artistic-2.0` `Perl`
 - [Dispatch ![GitHub Repo stars](https://img.shields.io/github/stars/khlieng/dispatch) ![GitHub last commit](https://img.shields.io/github/last-commit/khlieng/dispatch)](https://github.com/khlieng/dispatch) - Self-hosted web IRC client written in Go. ([Demo](https://dispatch.khlieng.com/connect)) `MIT` `Go`
@@ -341,7 +341,7 @@ _[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software
 
 **[`^        back to top        ^`](#)**
 
-_[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
+[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software
 
 - [Asterisk](https://www.asterisk.org/) - Easy to use but advanced IP PBX system, VoIP gateway and conference server. `GPL-2.0` `C`
 - [ASTPP](https://www.astppbilling.org/) - is an Open Source VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/iNextrix/ASTPP) ![GitHub last commit](https://img.shields.io/github/last-commit/iNextrix/ASTPP)](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`
@@ -455,7 +455,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 
 **[`^        back to top        ^`](#)**
 
-_Management and administration tools for community supported agriculture and food cooperatives_
+Management and administration tools for community supported agriculture and food cooperatives
 
 _Related: [E-commerce](#e-commerce)_
 
@@ -488,7 +488,7 @@ _Related: [E-commerce](#e-commerce)_
 
 **[`^        back to top        ^`](#)**
 
-_CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs._
+CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs.
 
 _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#static-site-generators)_
 
@@ -804,7 +804,7 @@ _Related: [Groupware](#groupware)_
 
 **[`^        back to top        ^`](#)**
 
-_Games, game servers and control panels._
+Games, game servers and control panels.
 
 - [A Dark Room ![GitHub Repo stars](https://img.shields.io/github/stars/doublespeakgames/adarkroom) ![GitHub last commit](https://img.shields.io/github/last-commit/doublespeakgames/adarkroom)](https://github.com/doublespeakgames/adarkroom) - Minimalist text adventure game for your browser. ([Demo](https://adarkroom.doublespeakgames.com/)) `MPL-2.0` `HTML5`
 - [elevatorsaga](https://play.elevatorsaga.com/) - The elevator programming game. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/magwo/elevatorsaga) ![GitHub last commit](https://img.shields.io/github/last-commit/magwo/elevatorsaga)](https://github.com/magwo/elevatorsaga)) `MIT` `Javascript`
@@ -958,21 +958,7 @@ _See also: [awesome-gis ![GitHub Repo stars](https://img.shields.io/github/stars
 
 _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/List_of_streaming_media_systems), [Comparison of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems)_
 
-
-### Media Streaming - Multimedia Streaming
-
-- [Gerbera](https://gerbera.io/) - Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/gerbera/gerbera) ![GitHub last commit](https://img.shields.io/github/last-commit/gerbera/gerbera)](https://github.com/gerbera/gerbera)) `GPL-2.0` `C++`
-- [homehost ![GitHub Repo stars](https://img.shields.io/github/stars/ridhwaans/homehost) ![GitHub last commit](https://img.shields.io/github/last-commit/ridhwaans/homehost)](https://github.com/ridhwaans/homehost) `⚠` - Self-hosted React + Redux app that streams your media collection (music, movies, books, podcasts, comics etc). `MIT` `Nodejs`
-- [Icecast 2](https://icecast.org) - streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. ([Source Code](https://gitlab.xiph.org/xiph/icecast-server), [Clients](https://icecast.org/apps/)) `GPL-2.0` `C`
-- [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin) ![GitHub last commit](https://img.shields.io/github/last-commit/jellyfin/jellyfin)](https://github.com/jellyfin/jellyfin)) `GPL-2.0` `C#`
-- [Karaoke Forever](https://www.karaoke-forever.com) - Host awesome karaoke parties where everyone can easily find and queue songs from their phone's web browser. The player is also browser-based with support for MP3+G, MP4 and WebGL visualizations. ([Source Code](https://www.karaoke-forever.com/repo)) `ISC` `Nodejs`
-- [LBRY](https://lbry.com/) - Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon. ([Demo](https://lbry.tv/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/lbryio/lbry.com) ![GitHub last commit](https://img.shields.io/github/last-commit/lbryio/lbry.com)](https://github.com/lbryio/lbry.com), [Clients ![GitHub Repo stars](https://img.shields.io/github/stars/lbryio/lbry-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/lbryio/lbry-desktop)](https://github.com/lbryio/lbry-desktop)) `MIT` `PHP`
-- [MistServer](https://mistserver.org/) - Streaming media server that works well in any streaming environment. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/DDVTECH/mistserver) ![GitHub last commit](https://img.shields.io/github/last-commit/DDVTECH/mistserver)](https://github.com/DDVTECH/mistserver)) `AGPL-3.0` `C++`
-- [NymphCast](http://nyanko.ws/nymphcast.php) - NymphCast is a Chromecast alternative which turns your choice of Linux-capable hardware into an audio and video source for a television or powered speakers. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/MayaPosch/NymphCast) ![GitHub last commit](https://img.shields.io/github/last-commit/MayaPosch/NymphCast)](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`
-- [Podify](https://www.podify.org/) - Allows you to download videos and audio from any source supported by youtube-dl and subscribe to and watch these downloads using your favorite podcast app. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/podify-org/podify) ![GitHub last commit](https://img.shields.io/github/last-commit/podify-org/podify)](https://github.com/podify-org/podify/)) `GPL-3.0` `Ruby`
-- [ReadyMedia](https://sourceforge.net/projects/minidlna/) - Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ([Source Code](https://sourceforge.net/p/minidlna/git/ci/master/tree/)) `GPL-2.0` `C`
-- [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ([Source Code](https://gitlab.gnome.org/GNOME/rygel/)) `GPL-3.0` `C`
-- [üWave](https://u-wave.net/) `⚠` - üWave is a self-hosted collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud. ([Demo](https://wlk.yt/), [Source Code](https://github.com/u-wave)) `MIT` `Nodejs`
+**Please visit [Media streaming - Audio Streaming](#media-streaming---audio-streaming), [Media streaming - Multimedia Streaming](#media-streaming---mutimedia-streaming), [Media streaming - Video Streaming](#media-streaming---video-streaming)**
 
 
 ### Media Streaming - Audio Streaming
@@ -1007,6 +993,22 @@ _See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.or
 - [Stretto ![GitHub Repo stars](https://img.shields.io/github/stars/benkaiser/stretto) ![GitHub last commit](https://img.shields.io/github/last-commit/benkaiser/stretto)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients ![GitHub Repo stars](https://img.shields.io/github/stars/benkaiser/stretto-mobile-next) ![GitHub last commit](https://img.shields.io/github/last-commit/benkaiser/stretto-mobile-next)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
 - [Volumio](https://volumio.org/) - A free and open source linux distribution, designed and fine-tuned exclusively for music playback. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/volumio/Volumio2) ![GitHub last commit](https://img.shields.io/github/last-commit/volumio/Volumio2)](https://github.com/volumio/Volumio2)) `GPL-3.0` `Nodejs`
 - [ympd](https://www.ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/notandy/ympd) ![GitHub last commit](https://img.shields.io/github/last-commit/notandy/ympd)](https://github.com/notandy/ympd)) `GPL-2.0` `C`
+
+
+### Media Streaming - Multimedia Streaming
+
+- [Gerbera](https://gerbera.io/) - Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/gerbera/gerbera) ![GitHub last commit](https://img.shields.io/github/last-commit/gerbera/gerbera)](https://github.com/gerbera/gerbera)) `GPL-2.0` `C++`
+- [homehost ![GitHub Repo stars](https://img.shields.io/github/stars/ridhwaans/homehost) ![GitHub last commit](https://img.shields.io/github/last-commit/ridhwaans/homehost)](https://github.com/ridhwaans/homehost) `⚠` - Self-hosted React + Redux app that streams your media collection (music, movies, books, podcasts, comics etc). `MIT` `Nodejs`
+- [Icecast 2](https://icecast.org) - streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. ([Source Code](https://gitlab.xiph.org/xiph/icecast-server), [Clients](https://icecast.org/apps/)) `GPL-2.0` `C`
+- [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin) ![GitHub last commit](https://img.shields.io/github/last-commit/jellyfin/jellyfin)](https://github.com/jellyfin/jellyfin)) `GPL-2.0` `C#`
+- [Karaoke Forever](https://www.karaoke-forever.com) - Host awesome karaoke parties where everyone can easily find and queue songs from their phone's web browser. The player is also browser-based with support for MP3+G, MP4 and WebGL visualizations. ([Source Code](https://www.karaoke-forever.com/repo)) `ISC` `Nodejs`
+- [LBRY](https://lbry.com/) - Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon. ([Demo](https://lbry.tv/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/lbryio/lbry.com) ![GitHub last commit](https://img.shields.io/github/last-commit/lbryio/lbry.com)](https://github.com/lbryio/lbry.com), [Clients ![GitHub Repo stars](https://img.shields.io/github/stars/lbryio/lbry-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/lbryio/lbry-desktop)](https://github.com/lbryio/lbry-desktop)) `MIT` `PHP`
+- [MistServer](https://mistserver.org/) - Streaming media server that works well in any streaming environment. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/DDVTECH/mistserver) ![GitHub last commit](https://img.shields.io/github/last-commit/DDVTECH/mistserver)](https://github.com/DDVTECH/mistserver)) `AGPL-3.0` `C++`
+- [NymphCast](http://nyanko.ws/nymphcast.php) - NymphCast is a Chromecast alternative which turns your choice of Linux-capable hardware into an audio and video source for a television or powered speakers. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/MayaPosch/NymphCast) ![GitHub last commit](https://img.shields.io/github/last-commit/MayaPosch/NymphCast)](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`
+- [Podify](https://www.podify.org/) - Allows you to download videos and audio from any source supported by youtube-dl and subscribe to and watch these downloads using your favorite podcast app. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/podify-org/podify) ![GitHub last commit](https://img.shields.io/github/last-commit/podify-org/podify)](https://github.com/podify-org/podify/)) `GPL-3.0` `Ruby`
+- [ReadyMedia](https://sourceforge.net/projects/minidlna/) - Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ([Source Code](https://sourceforge.net/p/minidlna/git/ci/master/tree/)) `GPL-2.0` `C`
+- [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ([Source Code](https://gitlab.gnome.org/GNOME/rygel/)) `GPL-3.0` `C`
+- [üWave](https://u-wave.net/) `⚠` - üWave is a self-hosted collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud. ([Demo](https://wlk.yt/), [Source Code](https://github.com/u-wave)) `MIT` `Nodejs`
 
 
 ### Media Streaming - Video Streaming
@@ -1394,6 +1396,87 @@ _Related: [Monitoring](#monitoring)_
 **[`^        back to top        ^`](#)**
 
 
+### Software Development - Bug Trackers
+
+**Please visit [Ticketing](#ticketing)**
+
+
+### Software Development - Continuous Integration & Deployment
+
+**Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
+
+
+### Software Development - API Management
+
+- [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/dreamfactorysoftware/dreamfactory) ![GitHub last commit](https://img.shields.io/github/last-commit/dreamfactorysoftware/dreamfactory)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP`
+- [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs`
+- [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/apioo/fusio) ![GitHub last commit](https://img.shields.io/github/last-commit/apioo/fusio)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP`
+- [Hapttic ![GitHub Repo stars](https://img.shields.io/github/stars/jsoendermann/hapttic) ![GitHub last commit](https://img.shields.io/github/last-commit/jsoendermann/hapttic)](https://github.com/jsoendermann/hapttic) - Simple HTTP server that forwards all requests to a shell script to handle webhooks you receive. `Apache-2.0` `Go`
+- [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell`
+- [Hoppscotch](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch) ![GitHub last commit](https://img.shields.io/github/last-commit/hoppscotch/hoppscotch)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Vue/Nuxt`
+- [Kong](https://konghq.com/kong/) - The World’s Most Popular Open Source Microservice API Gateway and Platform. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Kong/kong) ![GitHub last commit](https://img.shields.io/github/last-commit/Kong/kong)](https://github.com/Kong/kong)) `Apache-2.0` `Lua`
+- [Lura](https://luraproject.org/) - Open source High-Performance API Gateway. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/luraproject/lura) ![GitHub last commit](https://img.shields.io/github/last-commit/luraproject/lura)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
+- [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/erudika/para) ![GitHub last commit](https://img.shields.io/github/last-commit/erudika/para)](https://github.com/erudika/para)) `Apache-2.0` `Java`
+- [Pizzly ![GitHub Repo stars](https://img.shields.io/github/stars/bearer/pizzly) ![GitHub last commit](https://img.shields.io/github/last-commit/bearer/pizzly)](https://github.com/bearer/pizzly) - Open-source API Integrations Manager that provides everything a developer needs to interact with OAuth based APIs. `MIT` `Nodejs`
+- [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/TykTechnologies/tyk) ![GitHub last commit](https://img.shields.io/github/last-commit/TykTechnologies/tyk)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go`
+
+
+### Software Development - Documentation Generators
+
+_Related: [Static site generators](#static-site-generators)_
+
+- [Docstore](https://git.haldean.org/docstore/) - Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/haldean/docstore) ![GitHub last commit](https://img.shields.io/github/last-commit/haldean/docstore)](https://github.com/haldean/docstore)) `BSD-3-Clause` `Javascript`
+- [Flatdoc](https://ricostacruz.com/flatdoc/) - Small Javascript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`
+- [markdown-tree ![GitHub Repo stars](https://img.shields.io/github/stars/mil/markdown-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/mil/markdown-tree)](https://github.com/mil/markdown-tree) - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown. `MIT` `Ruby`
+- [Read the Docs](https://readthedocs.org/) - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar. ([Demo](https://readthedocs.org/projects/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/readthedocs/readthedocs.org) ![GitHub last commit](https://img.shields.io/github/last-commit/readthedocs/readthedocs.org)](https://github.com/readthedocs/readthedocs.org)) `MIT` `Python`
+
+
+### Software Development - FaaS & Serverless
+
+_[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)_
+
+- [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/appwrite) ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`
+- [fx ![GitHub Repo stars](https://img.shields.io/github/stars/metrue/fx) ![GitHub last commit](https://img.shields.io/github/last-commit/metrue/fx)](https://github.com/metrue/fx) - fx is a tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
+- [IronFunctions ![GitHub Repo stars](https://img.shields.io/github/stars/iron-io/functions) ![GitHub last commit](https://img.shields.io/github/last-commit/iron-io/functions)](https://github.com/iron-io/functions) - The serverless microservices platform by [iron.io](https://www.iron.io/). `Apache-2.0` `Go`
+- [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/localstack/localstack) ![GitHub last commit](https://img.shields.io/github/last-commit/localstack/localstack)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Other`
+- [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/openfaas/faas) ![GitHub last commit](https://img.shields.io/github/last-commit/openfaas/faas)](https://github.com/openfaas/faas)) `MIT` `Go`
+- [Trusted-CGI ![GitHub Repo stars](https://img.shields.io/github/stars/reddec/trusted-cgi) ![GitHub last commit](https://img.shields.io/github/last-commit/reddec/trusted-cgi)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go`
+
+
+### Software Development - IDE & Tools
+
+- [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/appsmithorg/appsmith) ![GitHub last commit](https://img.shields.io/github/last-commit/appsmithorg/appsmith)](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
+- [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Atheos/Atheos) ![GitHub last commit](https://img.shields.io/github/last-commit/Atheos/Atheos)](https://github.com/Atheos/Atheos)) `MIT` `PHP`
+- [Babelfish ![GitHub Repo stars](https://img.shields.io/github/stars/bblfsh/bblfshd) ![GitHub last commit](https://img.shields.io/github/last-commit/bblfsh/bblfshd)](https://github.com/bblfsh/bblfshd) - Self-hosted server for source code parsing. It can parse any file, in any supported language, extract an Abstract Syntax Tree from it, and convert it to a Universal Abstract Syntax Tree which can enable further analysis and transformation. `GPL-3.0` `Go`
+- [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes. Budibase is the open source alternative to Outsystems, Retool, Mendix, Appian. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Budibase/budibase) ![GitHub last commit](https://img.shields.io/github/last-commit/Budibase/budibase)](https://github.com/Budibase/budibase)) `GPL-3.0` `Nodejs`
+- [Code-Server](https://coder.com/) - Visual Studio Code in the browser, hosted on a remote server. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/cdr/code-server) ![GitHub last commit](https://img.shields.io/github/last-commit/cdr/code-server)](https://github.com/cdr/code-server)) `MIT` `Nodejs/Docker`
+- [Eclipse Che](https://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/eclipse/che) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse/che)](https://github.com/eclipse/che)) `EPL-1.0` `Docker/Java`
+- [Gitpod](https://gitpod.io/) - Online IDE for GitHub and GitLab. ([Demo](https://gitpod.io/#https://github.com/awesome-selfhosted/awesome-selfhosted), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/gitpod-io/self-hosted) ![GitHub last commit](https://img.shields.io/github/last-commit/gitpod-io/self-hosted)](https://github.com/gitpod-io/self-hosted)) `EPL-2.0` `Go/Docker`
+- [Hakatime ![GitHub Repo stars](https://img.shields.io/github/stars/mujx/hakatime) ![GitHub last commit](https://img.shields.io/github/last-commit/mujx/hakatime)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+- [HttPlaceholder ![GitHub Repo stars](https://img.shields.io/github/stars/dukeofharen/httplaceholder) ![GitHub last commit](https://img.shields.io/github/last-commit/dukeofharen/httplaceholder)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+- [ICEcoder](https://icecoder.net/) - ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser. ([Demo](http://demo.icecoder.net/ICEcoder/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/icecoder/ICEcoder) ![GitHub last commit](https://img.shields.io/github/last-commit/icecoder/ICEcoder)](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
+- [JS Bin](https://jsbin.com/) - Open source collaborative web development debugging tool. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/jsbin/jsbin) ![GitHub last commit](https://img.shields.io/github/last-commit/jsbin/jsbin)](https://github.com/jsbin/jsbin)) `MIT` `Nodejs`
+- [Judge0 CE](https://judge0.com) - Open source API to compile and run source code. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/judge0/judge0) ![GitHub last commit](https://img.shields.io/github/last-commit/judge0/judge0)](https://github.com/judge0/judge0)) `GPL-3.0` `Ruby`
+- [JupyterLab](https://jupyterlab.github.io/jupyterlab/) - Web-based environment for interactive and reproducible computing. ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/jupyterlab/jupyterlab) ![GitHub last commit](https://img.shields.io/github/last-commit/jupyterlab/jupyterlab)](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`
+- [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/lowdefy/lowdefy) ![GitHub last commit](https://img.shields.io/github/last-commit/lowdefy/lowdefy)](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs`
+- [ML Workspace ![GitHub Repo stars](https://img.shields.io/github/stars/ml-tooling/ml-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/ml-tooling/ml-workspace)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. `Apache-2.0` `Docker`
+- [Regexr](https://regexr.com/) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/gskinner/regexr) ![GitHub last commit](https://img.shields.io/github/last-commit/gskinner/regexr)](https://github.com/gskinner/regexr)) `MIT` `Nodejs`
+- [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/rstudio) ![GitHub last commit](https://img.shields.io/github/last-commit/rstudio/rstudio)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
+- [Slingcode](https://slingcode.net/) - Web app IDE and computing platform in a single static HTML file. ([Demo](https://slingcode.net/slingcode.html), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/chr15m/slingcode) ![GitHub last commit](https://img.shields.io/github/last-commit/chr15m/slingcode)](https://github.com/chr15m/slingcode/)) `MIT` `HTML`
+- [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegraph/sourcegraph) ![GitHub last commit](https://img.shields.io/github/last-commit/sourcegraph/sourcegraph)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+- [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/muety/wakapi) ![GitHub last commit](https://img.shields.io/github/last-commit/muety/wakapi)](https://github.com/muety/wakapi)) `GPL-3.0` `Go`
+
+
+### Software Development - Localization
+
+- [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mirego/accent) ![GitHub last commit](https://img.shields.io/github/last-commit/mirego/accent)](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir`
+- [Localizer](https://localizer.dev) - Free self-hosted open-source crowd-translating service for your product. ([Demo](https://localize.todorant.com), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/backmeupplz/localizer-backend) ![GitHub last commit](https://img.shields.io/github/last-commit/backmeupplz/localizer-backend)](https://github.com/backmeupplz/localizer-backend)) `MIT` `Nodejs/Docker`
+- [Pootle](https://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/translate/pootle) ![GitHub last commit](https://img.shields.io/github/last-commit/translate/pootle)](https://github.com/translate/pootle)) `GPL-3.0` `Python`
+- [Traduora](https://traduora.com) - Translation management platform for teams. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/ever-co/ever-traduora) ![GitHub last commit](https://img.shields.io/github/last-commit/ever-co/ever-traduora)](https://github.com/ever-co/ever-traduora)) `AGPL-3.0` `Docker/Nodejs`
+- [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/WeblateOrg/weblate) ![GitHub last commit](https://img.shields.io/github/last-commit/WeblateOrg/weblate)](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python`
+- [Zanata](http://zanata.org) - Web-based translation platform for translators, content creators and developers to manage localisation projects. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/zanata/zanata-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/zanata/zanata-platform)](https://github.com/zanata/zanata-platform)) `GPL-2.0` `Java`
+
+
 ### Software Development - Project Management
 
 _Related: [Ticketing](#ticketing), [Task management & To-do lists](#task-management--to-do-lists)_
@@ -1435,90 +1518,11 @@ _See also: [awesome-sysadmin/Code Review ![GitHub Repo stars](https://img.shield
 - [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/uvdesk/community-skeleton) ![GitHub last commit](https://img.shields.io/github/last-commit/uvdesk/community-skeleton)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 - [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](https://demo.zentao.pm/user-login.html), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/easysoft/zentaopms) ![GitHub last commit](https://img.shields.io/github/last-commit/easysoft/zentaopms)](https://github.com/easysoft/zentaopms)) `ZPL-1.2` `PHP`
 
-### Software Development - Bug Trackers
-
-**Please visit [Ticketing](#ticketing)**
-
-
-### Software Development - IDE & Tools
-
-- [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/appsmithorg/appsmith) ![GitHub last commit](https://img.shields.io/github/last-commit/appsmithorg/appsmith)](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
-- [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Atheos/Atheos) ![GitHub last commit](https://img.shields.io/github/last-commit/Atheos/Atheos)](https://github.com/Atheos/Atheos)) `MIT` `PHP`
-- [Babelfish ![GitHub Repo stars](https://img.shields.io/github/stars/bblfsh/bblfshd) ![GitHub last commit](https://img.shields.io/github/last-commit/bblfsh/bblfshd)](https://github.com/bblfsh/bblfshd) - Self-hosted server for source code parsing. It can parse any file, in any supported language, extract an Abstract Syntax Tree from it, and convert it to a Universal Abstract Syntax Tree which can enable further analysis and transformation. `GPL-3.0` `Go`
-- [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes. Budibase is the open source alternative to Outsystems, Retool, Mendix, Appian. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Budibase/budibase) ![GitHub last commit](https://img.shields.io/github/last-commit/Budibase/budibase)](https://github.com/Budibase/budibase)) `GPL-3.0` `Nodejs`
-- [Code-Server](https://coder.com/) - Visual Studio Code in the browser, hosted on a remote server. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/cdr/code-server) ![GitHub last commit](https://img.shields.io/github/last-commit/cdr/code-server)](https://github.com/cdr/code-server)) `MIT` `Nodejs/Docker`
-- [Eclipse Che](https://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/eclipse/che) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse/che)](https://github.com/eclipse/che)) `EPL-1.0` `Docker/Java`
-- [Gitpod](https://gitpod.io/) - Online IDE for GitHub and GitLab. ([Demo](https://gitpod.io/#https://github.com/awesome-selfhosted/awesome-selfhosted), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/gitpod-io/self-hosted) ![GitHub last commit](https://img.shields.io/github/last-commit/gitpod-io/self-hosted)](https://github.com/gitpod-io/self-hosted)) `EPL-2.0` `Go/Docker`
-- [Hakatime ![GitHub Repo stars](https://img.shields.io/github/stars/mujx/hakatime) ![GitHub last commit](https://img.shields.io/github/last-commit/mujx/hakatime)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
-- [HttPlaceholder ![GitHub Repo stars](https://img.shields.io/github/stars/dukeofharen/httplaceholder) ![GitHub last commit](https://img.shields.io/github/last-commit/dukeofharen/httplaceholder)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
-- [ICEcoder](https://icecoder.net/) - ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser. ([Demo](http://demo.icecoder.net/ICEcoder/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/icecoder/ICEcoder) ![GitHub last commit](https://img.shields.io/github/last-commit/icecoder/ICEcoder)](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
-- [JS Bin](https://jsbin.com/) - Open source collaborative web development debugging tool. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/jsbin/jsbin) ![GitHub last commit](https://img.shields.io/github/last-commit/jsbin/jsbin)](https://github.com/jsbin/jsbin)) `MIT` `Nodejs`
-- [Judge0 CE](https://judge0.com) - Open source API to compile and run source code. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/judge0/judge0) ![GitHub last commit](https://img.shields.io/github/last-commit/judge0/judge0)](https://github.com/judge0/judge0)) `GPL-3.0` `Ruby`
-- [JupyterLab](https://jupyterlab.github.io/jupyterlab/) - Web-based environment for interactive and reproducible computing. ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/jupyterlab/jupyterlab) ![GitHub last commit](https://img.shields.io/github/last-commit/jupyterlab/jupyterlab)](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`
-- [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/lowdefy/lowdefy) ![GitHub last commit](https://img.shields.io/github/last-commit/lowdefy/lowdefy)](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs`
-- [ML Workspace ![GitHub Repo stars](https://img.shields.io/github/stars/ml-tooling/ml-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/ml-tooling/ml-workspace)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. `Apache-2.0` `Docker`
-- [Regexr](https://regexr.com/) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/gskinner/regexr) ![GitHub last commit](https://img.shields.io/github/last-commit/gskinner/regexr)](https://github.com/gskinner/regexr)) `MIT` `Nodejs`
-- [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/rstudio) ![GitHub last commit](https://img.shields.io/github/last-commit/rstudio/rstudio)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
-- [Slingcode](https://slingcode.net/) - Web app IDE and computing platform in a single static HTML file. ([Demo](https://slingcode.net/slingcode.html), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/chr15m/slingcode) ![GitHub last commit](https://img.shields.io/github/last-commit/chr15m/slingcode)](https://github.com/chr15m/slingcode/)) `MIT` `HTML`
-- [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegraph/sourcegraph) ![GitHub last commit](https://img.shields.io/github/last-commit/sourcegraph/sourcegraph)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
-- [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/muety/wakapi) ![GitHub last commit](https://img.shields.io/github/last-commit/muety/wakapi)](https://github.com/muety/wakapi)) `GPL-3.0` `Go`
-
-### Software Development - Continuous Integration & Deployment
-
-**Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
-
 
 ### Software Development - UX Testing
 
 - [Selenoid](https://aerokube.com/selenoid/latest/) - Lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/aerokube/selenoid) ![GitHub last commit](https://img.shields.io/github/last-commit/aerokube/selenoid)](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`
 - [Uier ![GitHub Repo stars](https://img.shields.io/github/stars/sjoerdvanderhoorn/Uier) ![GitHub last commit](https://img.shields.io/github/last-commit/sjoerdvanderhoorn/Uier)](https://github.com/sjoerdvanderhoorn/Uier) - Codeless or low-code User Experience test editing and management using Selenium to perform testing or UI automation. Uier tends to be a free self hostable alternative to Applitools, Endtest, Ghost Inspector, Usetrace, Screenster and many others. `Apache-2.0` `Nodejs`
-
-
-### Software Development - FaaS & Serverless
-
-_[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)_
-
-- [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/appwrite) ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`
-- [fx ![GitHub Repo stars](https://img.shields.io/github/stars/metrue/fx) ![GitHub last commit](https://img.shields.io/github/last-commit/metrue/fx)](https://github.com/metrue/fx) - fx is a tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
-- [IronFunctions ![GitHub Repo stars](https://img.shields.io/github/stars/iron-io/functions) ![GitHub last commit](https://img.shields.io/github/last-commit/iron-io/functions)](https://github.com/iron-io/functions) - The serverless microservices platform by [iron.io](https://www.iron.io/). `Apache-2.0` `Go`
-- [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/localstack/localstack) ![GitHub last commit](https://img.shields.io/github/last-commit/localstack/localstack)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Other`
-- [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/openfaas/faas) ![GitHub last commit](https://img.shields.io/github/last-commit/openfaas/faas)](https://github.com/openfaas/faas)) `MIT` `Go`
-- [Trusted-CGI ![GitHub Repo stars](https://img.shields.io/github/stars/reddec/trusted-cgi) ![GitHub last commit](https://img.shields.io/github/last-commit/reddec/trusted-cgi)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go`
-
-
-### Software Development - API Management
-
-- [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/dreamfactorysoftware/dreamfactory) ![GitHub last commit](https://img.shields.io/github/last-commit/dreamfactorysoftware/dreamfactory)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP`
-- [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs`
-- [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/apioo/fusio) ![GitHub last commit](https://img.shields.io/github/last-commit/apioo/fusio)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP`
-- [Hapttic ![GitHub Repo stars](https://img.shields.io/github/stars/jsoendermann/hapttic) ![GitHub last commit](https://img.shields.io/github/last-commit/jsoendermann/hapttic)](https://github.com/jsoendermann/hapttic) - Simple HTTP server that forwards all requests to a shell script to handle webhooks you receive. `Apache-2.0` `Go`
-- [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell`
-- [Hoppscotch](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch) ![GitHub last commit](https://img.shields.io/github/last-commit/hoppscotch/hoppscotch)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Vue/Nuxt`
-- [Kong](https://konghq.com/kong/) - The World’s Most Popular Open Source Microservice API Gateway and Platform. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Kong/kong) ![GitHub last commit](https://img.shields.io/github/last-commit/Kong/kong)](https://github.com/Kong/kong)) `Apache-2.0` `Lua`
-- [Lura](https://luraproject.org/) - Open source High-Performance API Gateway. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/luraproject/lura) ![GitHub last commit](https://img.shields.io/github/last-commit/luraproject/lura)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
-- [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/erudika/para) ![GitHub last commit](https://img.shields.io/github/last-commit/erudika/para)](https://github.com/erudika/para)) `Apache-2.0` `Java`
-- [Pizzly ![GitHub Repo stars](https://img.shields.io/github/stars/bearer/pizzly) ![GitHub last commit](https://img.shields.io/github/last-commit/bearer/pizzly)](https://github.com/bearer/pizzly) - Open-source API Integrations Manager that provides everything a developer needs to interact with OAuth based APIs. `MIT` `Nodejs`
-- [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/TykTechnologies/tyk) ![GitHub last commit](https://img.shields.io/github/last-commit/TykTechnologies/tyk)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go`
-
-
-### Software Development - Documentation Generators
-
-_Related: [Static site generators](#static-site-generators)_
-
-- [Docstore](https://git.haldean.org/docstore/) - Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/haldean/docstore) ![GitHub last commit](https://img.shields.io/github/last-commit/haldean/docstore)](https://github.com/haldean/docstore)) `BSD-3-Clause` `Javascript`
-- [Flatdoc](https://ricostacruz.com/flatdoc/) - Small Javascript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`
-- [markdown-tree ![GitHub Repo stars](https://img.shields.io/github/stars/mil/markdown-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/mil/markdown-tree)](https://github.com/mil/markdown-tree) - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown. `MIT` `Ruby`
-- [Read the Docs](https://readthedocs.org/) - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar. ([Demo](https://readthedocs.org/projects/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/readthedocs/readthedocs.org) ![GitHub last commit](https://img.shields.io/github/last-commit/readthedocs/readthedocs.org)](https://github.com/readthedocs/readthedocs.org)) `MIT` `Python`
-
-
-### Software Development - Localization
-
-- [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mirego/accent) ![GitHub last commit](https://img.shields.io/github/last-commit/mirego/accent)](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir`
-- [Localizer](https://localizer.dev) - Free self-hosted open-source crowd-translating service for your product. ([Demo](https://localize.todorant.com), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/backmeupplz/localizer-backend) ![GitHub last commit](https://img.shields.io/github/last-commit/backmeupplz/localizer-backend)](https://github.com/backmeupplz/localizer-backend)) `MIT` `Nodejs/Docker`
-- [Pootle](https://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/translate/pootle) ![GitHub last commit](https://img.shields.io/github/last-commit/translate/pootle)](https://github.com/translate/pootle)) `GPL-3.0` `Python`
-- [Traduora](https://traduora.com) - Translation management platform for teams. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/ever-co/ever-traduora) ![GitHub last commit](https://img.shields.io/github/last-commit/ever-co/ever-traduora)](https://github.com/ever-co/ever-traduora)) `AGPL-3.0` `Docker/Nodejs`
-- [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/WeblateOrg/weblate) ![GitHub last commit](https://img.shields.io/github/last-commit/WeblateOrg/weblate)](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python`
-- [Zanata](http://zanata.org) - Web-based translation platform for translators, content creators and developers to manage localisation projects. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/zanata/zanata-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/zanata/zanata-platform)](https://github.com/zanata/zanata-platform)) `GPL-2.0` `Java`
 
 
 ### Static Site Generators
@@ -1582,7 +1586,7 @@ _Related: [Task management & To-do lists](#task-management--to-do-lists), [Softw
 
 ### URL Shorteners
 
-_Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners._
+Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners.
 
 **[`^        back to top        ^`](#)**
 
