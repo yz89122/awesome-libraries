@@ -252,6 +252,7 @@ Compute:
 - [FastAPI and React Template ![GitHub Repo stars](https://img.shields.io/github/stars/Buuntu/fastapi-react) ![GitHub last commit](https://img.shields.io/github/last-commit/Buuntu/fastapi-react)](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
 - [FastAPI Nano ![GitHub Repo stars](https://img.shields.io/github/stars/rednafi/fastapi-nano) ![GitHub last commit](https://img.shields.io/github/last-commit/rednafi/fastapi-nano)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 - [inboard ![GitHub Repo stars](https://img.shields.io/github/stars/br3ndonland/inboard) ![GitHub last commit](https://img.shields.io/github/last-commit/br3ndonland/inboard)](https://github.com/br3ndonland/inboard) - Docker images to power your FastAPI apps and help you ship faster.
+- [FastAPI template ![GitHub Repo stars](https://img.shields.io/github/stars/s3rius/FastAPI-template) ![GitHub last commit](https://img.shields.io/github/last-commit/s3rius/FastAPI-template)](https://github.com/s3rius/FastAPI-template) - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
 
 ### Open Source Projects
 
