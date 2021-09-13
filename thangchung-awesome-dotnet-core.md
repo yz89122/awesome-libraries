@@ -652,6 +652,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [RawRabbit ![GitHub Repo stars](https://img.shields.io/github/stars/pardahlman/RawRabbit) ![GitHub last commit](https://img.shields.io/github/last-commit/pardahlman/RawRabbit)](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
 * [Rebus ![GitHub Repo stars](https://img.shields.io/github/stars/rebus-org/Rebus) ![GitHub last commit](https://img.shields.io/github/last-commit/rebus-org/Rebus)](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 * [Restbus](http://restbus.org) - Messaging library for RabbitMq.
+* [Silverback ![GitHub Repo stars](https://img.shields.io/github/stars/BEagle1984/silverback) ![GitHub last commit](https://img.shields.io/github/last-commit/BEagle1984/silverback)](https://github.com/BEagle1984/silverback) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
 * [Tossit ![GitHub Repo stars](https://img.shields.io/github/stars/turgayozgur/tossit) ![GitHub last commit](https://img.shields.io/github/last-commit/turgayozgur/tossit)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ### Reporting

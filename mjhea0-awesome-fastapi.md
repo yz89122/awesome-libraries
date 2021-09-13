@@ -42,14 +42,14 @@
 ### Auth
 
 - [FastAPI Auth ![GitHub Repo stars](https://img.shields.io/github/stars/dmontagu/fastapi-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/dmontagu/fastapi-auth)](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
-- [FastAPI Azure auth ![GitHub Repo stars](https://img.shields.io/github/stars/Intility/fastapi-azure-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/Intility/fastapi-azure-auth)](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your FastAPI.
+- [FastAPI Azure Auth ![GitHub Repo stars](https://img.shields.io/github/stars/Intility/fastapi-azure-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/Intility/fastapi-azure-auth)](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
 - [FastAPI Cloud Auth ![GitHub Repo stars](https://img.shields.io/github/stars/tokusumi/fastapi-cloudauth) ![GitHub last commit](https://img.shields.io/github/last-commit/tokusumi/fastapi-cloudauth)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 - [FastAPI Login ![GitHub Repo stars](https://img.shields.io/github/stars/MushroomMaula/fastapi_login) ![GitHub last commit](https://img.shields.io/github/last-commit/MushroomMaula/fastapi_login)](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login ![GitHub Repo stars](https://img.shields.io/github/stars/maxcountryman/flask-login) ![GitHub last commit](https://img.shields.io/github/last-commit/maxcountryman/flask-login)](https://github.com/maxcountryman/flask-login)).
 - [FastAPI JWT Auth ![GitHub Repo stars](https://img.shields.io/github/stars/IndominusByte/fastapi-jwt-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/IndominusByte/fastapi-jwt-auth)](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT auth (based on [Flask-JWT-Extended ![GitHub Repo stars](https://img.shields.io/github/stars/vimalloc/flask-jwt-extended) ![GitHub last commit](https://img.shields.io/github/last-commit/vimalloc/flask-jwt-extended)](https://github.com/vimalloc/flask-jwt-extended)).
 - [FastAPI Permissions ![GitHub Repo stars](https://img.shields.io/github/stars/holgi/fastapi-permissions) ![GitHub last commit](https://img.shields.io/github/last-commit/holgi/fastapi-permissions)](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
 - [FastAPI Security ![GitHub Repo stars](https://img.shields.io/github/stars/jmagnusson/fastapi-security) ![GitHub last commit](https://img.shields.io/github/last-commit/jmagnusson/fastapi-security)](https://github.com/jmagnusson/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 - [FastAPI Simple Security ![GitHub Repo stars](https://img.shields.io/github/stars/mrtolkien/fastapi_simple_security) ![GitHub last commit](https://img.shields.io/github/last-commit/mrtolkien/fastapi_simple_security)](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
-- [FastAPI Users ![GitHub Repo stars](https://img.shields.io/github/stars/frankie567/fastapi-users) ![GitHub last commit](https://img.shields.io/github/last-commit/frankie567/fastapi-users)](https://github.com/frankie567/fastapi-users) - Account management, authentication, authorization.
+- [FastAPI Users ![GitHub Repo stars](https://img.shields.io/github/stars/fastapi-users/fastapi-users) ![GitHub last commit](https://img.shields.io/github/last-commit/fastapi-users/fastapi-users)](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
 
 ### Databases
 
@@ -65,11 +65,11 @@
 - [Piccolo ![GitHub Repo stars](https://img.shields.io/github/stars/piccolo-orm/piccolo) ![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
   - [FastAPI Examples ![GitHub Repo stars](https://img.shields.io/github/stars/piccolo-orm/piccolo_examples) ![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo_examples)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
   - [Piccolo Admin ![GitHub Repo stars](https://img.shields.io/github/stars/piccolo-orm/piccolo_admin) ![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo_admin)](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
-- [Tortoise ORM](https://tortoise-orm.readthedocs.io/en/latest/index.html) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
-  - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
+- [Tortoise ORM](https://tortoise.github.io) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
+  - [FastAPI Example](https://tortoise.github.io/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
   - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
-  - [Aerich](https://tortoise-orm.readthedocs.io/en/latest/migration.html) - Tortoise ORM migrations tools.
-- [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects. 
+  - [Aerich ![GitHub Repo stars](https://img.shields.io/github/stars/tortoise/aerich) ![GitHub last commit](https://img.shields.io/github/last-commit/tortoise/aerich)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
+- [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects.
 
 #### Query Builders
 
@@ -78,8 +78,7 @@
 
 #### ODMs
 
-- [Beanie ![GitHub Repo stars](https://img.shields.io/github/stars/roman-right/beanie) ![GitHub last commit](https://img.shields.io/github/last-commit/roman-right/beanie)](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/)
-and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and schema migrations out of the box.
+- [Beanie ![GitHub Repo stars](https://img.shields.io/github/stars/roman-right/beanie) ![GitHub last commit](https://img.shields.io/github/last-commit/roman-right/beanie)](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and schema migrations out of the box.
 - [MongoEngine](http://mongoengine.org/) - A Document-Object Mapper (think ORM, but for document databases) for working with MongoDB from Python.
 - [Motor](https://motor.readthedocs.io/) - Asynchronous Python driver for MongoDB.
 - [ODMantic](https://art049.github.io/odmantic/) - AsyncIO MongoDB ODM integrated with [Pydantic](https://pydantic-docs.helpmanual.io/).
@@ -258,6 +257,7 @@ Compute:
 
 - [Awesome FastAPI Projects ![GitHub Repo stars](https://img.shields.io/github/stars/Kludex/awesome-fastapi-projects) ![GitHub last commit](https://img.shields.io/github/last-commit/Kludex/awesome-fastapi-projects)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart ![GitHub Repo stars](https://img.shields.io/github/stars/bitcartcc/bitcart) ![GitHub last commit](https://img.shields.io/github/last-commit/bitcartcc/bitcart)](https://github.com/bitcartcc/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
+- [Bunnybook ![GitHub Repo stars](https://img.shields.io/github/stars/pietrobassi/bunnybook) ![GitHub last commit](https://img.shields.io/github/last-commit/pietrobassi/bunnybook)](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 - [Coronavirus-tg-api ![GitHub Repo stars](https://img.shields.io/github/stars/egbakou/coronavirus-tg-api) ![GitHub last commit](https://img.shields.io/github/last-commit/egbakou/coronavirus-tg-api)](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
 - [Dispatch ![GitHub Repo stars](https://img.shields.io/github/stars/Netflix/dispatch) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/dispatch)](https://github.com/Netflix/dispatch) - Manage security incidents.
 - FastAPI CRUD Example:
@@ -276,7 +276,7 @@ Compute:
 - [Sprites as a service ![GitHub Repo stars](https://img.shields.io/github/stars/ljvmiranda921/sprites-as-a-service) ![GitHub last commit](https://img.shields.io/github/last-commit/ljvmiranda921/sprites-as-a-service)](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
 - [Slackers ![GitHub Repo stars](https://img.shields.io/github/stars/uhavin/slackers) ![GitHub last commit](https://img.shields.io/github/last-commit/uhavin/slackers)](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair ![GitHub Repo stars](https://img.shields.io/github/stars/cs01/termpair) ![GitHub last commit](https://img.shields.io/github/last-commit/cs01/termpair)](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
-- [Universities ![GitHub Repo stars](https://img.shields.io/github/stars/ycd/universities) ![GitHub last commit](https://img.shields.io/github/last-commit/ycd/universities)](https://github.com/ycd/universities) -  API service for obtaining information about +9600 universities worldwide.
+- [Universities ![GitHub Repo stars](https://img.shields.io/github/stars/ycd/universities) ![GitHub last commit](https://img.shields.io/github/last-commit/ycd/universities)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
 
 ## Sponsors
 
