@@ -8,6 +8,7 @@
 
 <a href="https://www.producthunt.com/posts/awesome-go?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-go" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=291535&theme=light" alt="awesome-go - Curated list awesome Go frameworks, libraries and software | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+
 ## Sponsorships
 > [![Digital Ocean](https://avelino.run/sponsors/do_logo_horizontal_blue-210.png)](https://m.do.co/c/bd3b723c0a36?utm_medium=opensource&utm_source=awesome-go)
 
@@ -119,6 +120,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
     - [Websites](#websites)
         - [Tutorials](#tutorials)
 
+**[⬆ back to top](#contents)**
+
 ## Audio and Music
 
 *Libraries for manipulating audio.*
@@ -136,6 +139,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [PortAudio ![GitHub Repo stars](https://img.shields.io/github/stars/gordonklaus/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/gordonklaus/portaudio)](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
 * [portmidi ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll/portmidi) ![GitHub last commit](https://img.shields.io/github/last-commit/rakyll/portmidi)](https://github.com/rakyll/portmidi) - Go bindings for PortMidi.
 * [vorbis ![GitHub Repo stars](https://img.shields.io/github/stars/mccoyst/vorbis) ![GitHub last commit](https://img.shields.io/github/last-commit/mccoyst/vorbis)](https://github.com/mccoyst/vorbis) - "Native" Go Vorbis decoder (uses CGO, but has no dependencies).
+
+**[⬆ back to top](#contents)**
 
 ## Authentication and OAuth
 
@@ -175,6 +180,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [sessionup ![GitHub Repo stars](https://img.shields.io/github/stars/swithek/sessionup) ![GitHub last commit](https://img.shields.io/github/last-commit/swithek/sessionup)](https://github.com/swithek/sessionup) - Simple, yet effective HTTP session management and identification package.
 * [sjwt ![GitHub Repo stars](https://img.shields.io/github/stars/brianvoe/sjwt) ![GitHub last commit](https://img.shields.io/github/last-commit/brianvoe/sjwt)](https://github.com/brianvoe/sjwt) - Simple jwt generator and parser.
 
+**[⬆ back to top](#contents)**
+
 ## Blockchain
 
 *Tools for building blockchains.*
@@ -184,7 +191,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [gossamer ![GitHub Repo stars](https://img.shields.io/github/stars/ChainSafe/gossamer) ![GitHub last commit](https://img.shields.io/github/last-commit/ChainSafe/gossamer)](https://github.com/ChainSafe/gossamer) - A Go implementation of the Polkadot Host
 * [tendermint ![GitHub Repo stars](https://img.shields.io/github/stars/tendermint/tendermint) ![GitHub last commit](https://img.shields.io/github/last-commit/tendermint/tendermint)](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
 
-
+**[⬆ back to top](#contents)**
 
 ## Bot Building
 
@@ -212,6 +219,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [telegram-bot-api ![GitHub Repo stars](https://img.shields.io/github/stars/Syfaro/telegram-bot-api) ![GitHub last commit](https://img.shields.io/github/last-commit/Syfaro/telegram-bot-api)](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client.
 * [Tenyks ![GitHub Repo stars](https://img.shields.io/github/stars/kyleterry/tenyks) ![GitHub last commit](https://img.shields.io/github/last-commit/kyleterry/tenyks)](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
 
+**[⬆ back to top](#contents)**
+
 ## Build Automation
 
 *Libraries and tools helping with build automation.*
@@ -225,6 +234,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [realize ![GitHub Repo stars](https://img.shields.io/github/stars/tockins/realize) ![GitHub last commit](https://img.shields.io/github/last-commit/tockins/realize)](https://github.com/tockins/realize) - Go build system with file watchers and live reload. Run, build and watch file changes with custom paths.
 * [Task ![GitHub Repo stars](https://img.shields.io/github/stars/go-task/task) ![GitHub last commit](https://img.shields.io/github/last-commit/go-task/task)](https://github.com/go-task/task) - simple "Make" alternative.
 * [taskctl ![GitHub Repo stars](https://img.shields.io/github/stars/taskctl/taskctl) ![GitHub last commit](https://img.shields.io/github/last-commit/taskctl/taskctl)](https://github.com/taskctl/taskctl) - Concurrent task runner.
+
+**[⬆ back to top](#contents)**
 
 ## Command Line
 
@@ -273,6 +284,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [wlog ![GitHub Repo stars](https://img.shields.io/github/stars/dixonwille/wlog) ![GitHub last commit](https://img.shields.io/github/last-commit/dixonwille/wlog)](https://github.com/dixonwille/wlog) - Simple logging interface that supports cross-platform color and concurrency.
 * [wmenu ![GitHub Repo stars](https://img.shields.io/github/stars/dixonwille/wmenu) ![GitHub last commit](https://img.shields.io/github/last-commit/dixonwille/wmenu)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompts users to make choices.
 
+**[⬆ back to top](#contents)**
+
 ### Advanced Console UIs
 
 *Libraries for building Console Applications and Console User Interfaces.*
@@ -309,6 +322,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [uiprogress ![GitHub Repo stars](https://img.shields.io/github/stars/gosuri/uiprogress) ![GitHub last commit](https://img.shields.io/github/last-commit/gosuri/uiprogress)](https://github.com/gosuri/uiprogress) - Flexible library to render progress bars in terminal applications.
 * [uitable ![GitHub Repo stars](https://img.shields.io/github/stars/gosuri/uitable) ![GitHub last commit](https://img.shields.io/github/last-commit/gosuri/uitable)](https://github.com/gosuri/uitable) - Library to improve readability in terminal apps using tabular data.
 * [yacspin ![GitHub Repo stars](https://img.shields.io/github/stars/theckman/yacspin) ![GitHub last commit](https://img.shields.io/github/last-commit/theckman/yacspin)](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners.
+
+**[⬆ back to top](#contents)**
 
 ## Configuration
 
@@ -363,6 +378,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [xdg ![GitHub Repo stars](https://img.shields.io/github/stars/OpenPeeDeeP/xdg) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenPeeDeeP/xdg)](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html).
 * [ini ![GitHub Repo stars](https://img.shields.io/github/stars/wlevene/ini) ![GitHub last commit](https://img.shields.io/github/last-commit/wlevene/ini)](https://github.com/wlevene/ini) - INI Parser & Write Library, Unmarshal to Struct,Marshal to Json,Write File,watch file.
 
+**[⬆ back to top](#contents)**
+
 ## Continuous Integration
 
 *Tools for help with continuous integration.*
@@ -376,12 +393,16 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [overalls ![GitHub Repo stars](https://img.shields.io/github/stars/go-playground/overalls) ![GitHub last commit](https://img.shields.io/github/last-commit/go-playground/overalls)](https://github.com/go-playground/overalls) - Multi-Package go project coverprofile for tools like goveralls.
 * [roveralls ![GitHub Repo stars](https://img.shields.io/github/stars/LawrenceWoodman/roveralls) ![GitHub last commit](https://img.shields.io/github/last-commit/LawrenceWoodman/roveralls)](https://github.com/LawrenceWoodman/roveralls) - Recursive coverage testing tool.
 
+**[⬆ back to top](#contents)**
+
 ## CSS Preprocessors
 
 *Libraries for preprocessing CSS files.*
 
 * [gcss ![GitHub Repo stars](https://img.shields.io/github/stars/yosssi/gcss) ![GitHub last commit](https://img.shields.io/github/last-commit/yosssi/gcss)](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor.
 * [go-libsass ![GitHub Repo stars](https://img.shields.io/github/stars/wellington/go-libsass) ![GitHub last commit](https://img.shields.io/github/last-commit/wellington/go-libsass)](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project.
+
+**[⬆ back to top](#contents)**
 
 ## Data Structures
 
@@ -454,6 +475,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [ttlcache ![GitHub Repo stars](https://img.shields.io/github/stars/ReneKroon/ttlcache) ![GitHub last commit](https://img.shields.io/github/last-commit/ReneKroon/ttlcache)](https://github.com/ReneKroon/ttlcache) - In-memory string-interface{} cache with various time-based expiration options and callbacks.
 * [typ ![GitHub Repo stars](https://img.shields.io/github/stars/gurukami/typ) ![GitHub last commit](https://img.shields.io/github/last-commit/gurukami/typ)](https://github.com/gurukami/typ) - Null Types, Safe primitive type conversion and fetching value from complex structures.
 * [willf/bloom ![GitHub Repo stars](https://img.shields.io/github/stars/willf/bloom) ![GitHub last commit](https://img.shields.io/github/last-commit/willf/bloom)](https://github.com/willf/bloom) - Go package implementing Bloom filters.
+
+**[⬆ back to top](#contents)**
 
 ## Database
 
@@ -570,6 +593,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [Squirrel ![GitHub Repo stars](https://img.shields.io/github/stars/Masterminds/squirrel) ![GitHub last commit](https://img.shields.io/github/last-commit/Masterminds/squirrel)](https://github.com/Masterminds/squirrel) - Go library that helps you build SQL queries.
 * [xo ![GitHub Repo stars](https://img.shields.io/github/stars/knq/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/knq/xo)](https://github.com/knq/xo) - Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server.
 
+**[⬆ back to top](#contents)**
+
 ## Database Drivers
 
 *Libraries for connecting and operating databases.*
@@ -634,6 +659,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
     * [dsc ![GitHub Repo stars](https://img.shields.io/github/stars/viant/dsc) ![GitHub last commit](https://img.shields.io/github/last-commit/viant/dsc)](https://github.com/viant/dsc) - Datastore connectivity for SQL, NoSQL, structured files.
     * [gokv ![GitHub Repo stars](https://img.shields.io/github/stars/philippgille/gokv) ![GitHub last commit](https://img.shields.io/github/last-commit/philippgille/gokv)](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
 
+**[⬆ back to top](#contents)**
+
 ## Date and Time
 
 *Libraries for working with dates and times.*
@@ -658,6 +685,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [timespan ![GitHub Repo stars](https://img.shields.io/github/stars/SaidinWoT/timespan) ![GitHub last commit](https://img.shields.io/github/last-commit/SaidinWoT/timespan)](https://github.com/SaidinWoT/timespan) - For interacting with intervals of time, defined as a start time and a duration.
 * [timeutil ![GitHub Repo stars](https://img.shields.io/github/stars/leekchan/timeutil) ![GitHub last commit](https://img.shields.io/github/last-commit/leekchan/timeutil)](https://github.com/leekchan/timeutil) - Useful extensions (Timedelta, Strftime, ...) to the golang's time package.
 * [tuesday ![GitHub Repo stars](https://img.shields.io/github/stars/osteele/tuesday) ![GitHub last commit](https://img.shields.io/github/last-commit/osteele/tuesday)](https://github.com/osteele/tuesday) - Ruby-compatible Strftime function.
+
+**[⬆ back to top](#contents)**
 
 ## Distributed Systems
 
@@ -712,6 +741,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [sleuth ![GitHub Repo stars](https://img.shields.io/github/stars/ursiform/sleuth) ![GitHub last commit](https://img.shields.io/github/last-commit/ursiform/sleuth)](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ ![GitHub Repo stars](https://img.shields.io/github/stars/zeromq/libzmq) ![GitHub last commit](https://img.shields.io/github/last-commit/zeromq/libzmq)](https://github.com/zeromq/libzmq)).
 * [torrent ![GitHub Repo stars](https://img.shields.io/github/stars/anacrolix/torrent) ![GitHub last commit](https://img.shields.io/github/last-commit/anacrolix/torrent)](https://github.com/anacrolix/torrent) - BitTorrent client package.
 
+**[⬆ back to top](#contents)**
+
 ## Dynamic DNS
 
 *Tools for updating dynamic DNS records.*
@@ -719,6 +750,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [DDNS ![GitHub Repo stars](https://img.shields.io/github/stars/skibish/ddns) ![GitHub last commit](https://img.shields.io/github/last-commit/skibish/ddns)](https://github.com/skibish/ddns) - Personal DDNS client with Digital Ocean Networking DNS as backend.
 * [dyndns](https://gitlab.com/alcastle/dyndns) - Background Go process to regularly and automatically check your IP Address and make updates to (one or many) Dynamic DNS records for Google domains whenever your address changes.
 * [GoDNS ![GitHub Repo stars](https://img.shields.io/github/stars/timothyye/godns) ![GitHub last commit](https://img.shields.io/github/last-commit/timothyye/godns)](https://github.com/timothyye/godns) - A dynamic DNS client tool, supports DNSPod & HE.net, written in Go.
+
+**[⬆ back to top](#contents)**
 
 ## Email
 
@@ -741,6 +774,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [MailHog ![GitHub Repo stars](https://img.shields.io/github/stars/mailhog/MailHog) ![GitHub last commit](https://img.shields.io/github/last-commit/mailhog/MailHog)](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface.
 * [SendGrid ![GitHub Repo stars](https://img.shields.io/github/stars/sendgrid/sendgrid-go) ![GitHub last commit](https://img.shields.io/github/last-commit/sendgrid/sendgrid-go)](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
 * [smtp ![GitHub Repo stars](https://img.shields.io/github/stars/mailhog/smtp) ![GitHub last commit](https://img.shields.io/github/last-commit/mailhog/smtp)](https://github.com/mailhog/smtp) - SMTP server protocol state machine.
+
+**[⬆ back to top](#contents)**
 
 ## Embeddable Scripting Languages
 
@@ -765,6 +800,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [purl ![GitHub Repo stars](https://img.shields.io/github/stars/ian-kent/purl) ![GitHub last commit](https://img.shields.io/github/last-commit/ian-kent/purl)](https://github.com/ian-kent/purl) - Perl 5.18.2 embedded in Go.
 * [tengo ![GitHub Repo stars](https://img.shields.io/github/stars/d5/tengo) ![GitHub last commit](https://img.shields.io/github/last-commit/d5/tengo)](https://github.com/d5/tengo) - Bytecode compiled script language for Go.
 
+**[⬆ back to top](#contents)**
+
 ## Error Handling
 
 *Libraries for handling errors.*
@@ -781,6 +818,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [Falcon ![GitHub Repo stars](https://img.shields.io/github/stars/SonicRoshan/falcon) ![GitHub last commit](https://img.shields.io/github/last-commit/SonicRoshan/falcon)](https://github.com/SonicRoshan/falcon) - A Simple Yet Highly Powerful Package For Error Handling.
 * [go-multierror ![GitHub Repo stars](https://img.shields.io/github/stars/hashicorp/go-multierror) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/go-multierror)](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
 * [tracerr ![GitHub Repo stars](https://img.shields.io/github/stars/ztrue/tracerr) ![GitHub last commit](https://img.shields.io/github/last-commit/ztrue/tracerr)](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
+
+**[⬆ back to top](#contents)**
 
 ## File Handling
 
@@ -811,6 +850,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [todotxt ![GitHub Repo stars](https://img.shields.io/github/stars/1set/todotxt) ![GitHub last commit](https://img.shields.io/github/last-commit/1set/todotxt)](https://github.com/1set/todotxt) - Go library for Gina Trapani's [*todo.txt*](http://todotxt.org/) files, supports parsing and manipulating of task lists in the [*todo.txt* format ![GitHub Repo stars](https://img.shields.io/github/stars/todotxt/todo.txt) ![GitHub last commit](https://img.shields.io/github/last-commit/todotxt/todo.txt)](https://github.com/todotxt/todo.txt).
 * [vfs ![GitHub Repo stars](https://img.shields.io/github/stars/C2FO/vfs) ![GitHub last commit](https://img.shields.io/github/last-commit/C2FO/vfs)](https://github.com/C2FO/vfs) - A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS.
 
+**[⬆ back to top](#contents)**
+
 ## Financial
 
 *Packages for accounting and finance.*
@@ -835,6 +876,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [transaction ![GitHub Repo stars](https://img.shields.io/github/stars/claygod/transaction) ![GitHub last commit](https://img.shields.io/github/last-commit/claygod/transaction)](https://github.com/claygod/transaction) - Embedded transactional database of accounts, running in multithreaded mode.
 * [vat ![GitHub Repo stars](https://img.shields.io/github/stars/dannyvankooten/vat) ![GitHub last commit](https://img.shields.io/github/last-commit/dannyvankooten/vat)](https://github.com/dannyvankooten/vat) - VAT number validation & EU VAT rates.
 
+**[⬆ back to top](#contents)**
+
 ## Forms
 
 *Libraries for working with forms.*
@@ -850,6 +893,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [qs ![GitHub Repo stars](https://img.shields.io/github/stars/sonh/qs) ![GitHub last commit](https://img.shields.io/github/last-commit/sonh/qs)](https://github.com/sonh/qs) - Go module for encoding structs into URL query parameters.
 * [queryparam ![GitHub Repo stars](https://img.shields.io/github/stars/tomwright/queryparam) ![GitHub last commit](https://img.shields.io/github/last-commit/tomwright/queryparam)](https://github.com/tomwright/queryparam) - Decode `url.Values` into usable struct values of standard or custom types.
 
+**[⬆ back to top](#contents)**
+
 ## Functional
 
 *Packages to support functional programming in Go.*
@@ -858,6 +903,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [fuego ![GitHub Repo stars](https://img.shields.io/github/stars/seborama/fuego) ![GitHub last commit](https://img.shields.io/github/last-commit/seborama/fuego)](https://github.com/seborama/fuego) - Functional Experiment in Go.
 * [go-underscore ![GitHub Repo stars](https://img.shields.io/github/stars/tobyhede/go-underscore) ![GitHub last commit](https://img.shields.io/github/last-commit/tobyhede/go-underscore)](https://github.com/tobyhede/go-underscore) - Useful collection of helpfully functional Go collection utilities.
 * [gofp ![GitHub Repo stars](https://img.shields.io/github/stars/rbrahul/gofp) ![GitHub last commit](https://img.shields.io/github/last-commit/rbrahul/gofp)](https://github.com/rbrahul/gofp) - A lodash like powerful utility library for Golang.
+
+**[⬆ back to top](#contents)**
 
 ## Game Development
 
@@ -882,6 +929,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [termloop ![GitHub Repo stars](https://img.shields.io/github/stars/JoelOtter/termloop) ![GitHub last commit](https://img.shields.io/github/last-commit/JoelOtter/termloop)](https://github.com/JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox.
 * [tile ![GitHub Repo stars](https://img.shields.io/github/stars/kelindar/tile) ![GitHub last commit](https://img.shields.io/github/last-commit/kelindar/tile)](https://github.com/kelindar/tile) - Data-oriented and cache-friendly 2D Grid library (TileMap), includes pathfinding, observers and import/export.
 
+**[⬆ back to top](#contents)**
+
 ## Generation and Generics
 
 *Tools to enhance the language with features like generics via code generation.*
@@ -901,6 +950,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [pkgreflect ![GitHub Repo stars](https://img.shields.io/github/stars/ungerik/pkgreflect) ![GitHub last commit](https://img.shields.io/github/last-commit/ungerik/pkgreflect)](https://github.com/ungerik/pkgreflect) - Go preprocessor for package scoped reflection.
 * [typeregistry ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoxin01/typeregistry) ![GitHub last commit](https://img.shields.io/github/last-commit/xiaoxin01/typeregistry)](https://github.com/xiaoxin01/typeregistry) - A library to create type dynamically.
 
+**[⬆ back to top](#contents)**
+
 ## Geographic
 
 *Geographic tools and servers*
@@ -916,6 +967,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [Tile38 ![GitHub Repo stars](https://img.shields.io/github/stars/tidwall/tile38) ![GitHub last commit](https://img.shields.io/github/last-commit/tidwall/tile38)](https://github.com/tidwall/tile38) - Geolocation DB with spatial index and realtime geofencing.
 * [WGS84 ![GitHub Repo stars](https://img.shields.io/github/stars/wroge/wgs84) ![GitHub last commit](https://img.shields.io/github/last-commit/wroge/wgs84)](https://github.com/wroge/wgs84) - Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM).
 
+**[⬆ back to top](#contents)**
+
 ## Go Compilers
 
 *Tools for compiling Go to other languages.*
@@ -924,6 +977,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [f4go ![GitHub Repo stars](https://img.shields.io/github/stars/Konstantin8105/f4go) ![GitHub last commit](https://img.shields.io/github/last-commit/Konstantin8105/f4go)](https://github.com/Konstantin8105/f4go) - Transpile FORTRAN 77 code to Go code.
 * [gopherjs ![GitHub Repo stars](https://img.shields.io/github/stars/gopherjs/gopherjs) ![GitHub last commit](https://img.shields.io/github/last-commit/gopherjs/gopherjs)](https://github.com/gopherjs/gopherjs) - Compiler from Go to JavaScript.
 * [tardisgo ![GitHub Repo stars](https://img.shields.io/github/stars/tardisgo/tardisgo) ![GitHub last commit](https://img.shields.io/github/last-commit/tardisgo/tardisgo)](https://github.com/tardisgo/tardisgo) - Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.
+
+**[⬆ back to top](#contents)**
 
 ## Goroutines
 
@@ -972,6 +1027,8 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [worker-pool ![GitHub Repo stars](https://img.shields.io/github/stars/vardius/worker-pool) ![GitHub last commit](https://img.shields.io/github/last-commit/vardius/worker-pool)](https://github.com/vardius/worker-pool) - goworker is a Go simple async worker pool.
 * [workerpool ![GitHub Repo stars](https://img.shields.io/github/stars/gammazero/workerpool) ![GitHub last commit](https://img.shields.io/github/last-commit/gammazero/workerpool)](https://github.com/gammazero/workerpool) - Goroutine pool that limits the concurrency of task execution, not the number of tasks queued.
 
+**[⬆ back to top](#contents)**
+
 ## GUI
 
 *Libraries for building GUI Applications.*
@@ -1003,11 +1060,15 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [zenity ![GitHub Repo stars](https://img.shields.io/github/stars/ncruces/zenity) ![GitHub last commit](https://img.shields.io/github/last-commit/ncruces/zenity)](https://github.com/ncruces/zenity) - Cross-platform Go library and CLI to create simple dialogs that interact graphically with the user.
 
 
+**[⬆ back to top](#contents)**
+
 ## Hardware
 
 *Libraries, tools, and tutorials for interacting with hardware.*
 
 See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll/go-hardware) ![GitHub last commit](https://img.shields.io/github/last-commit/rakyll/go-hardware)](https://github.com/rakyll/go-hardware) for a comprehensive list.
+
+**[⬆ back to top](#contents)**
 
 ## Images
 
@@ -1056,6 +1117,8 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 * [tga ![GitHub Repo stars](https://img.shields.io/github/stars/ftrvxmtrx/tga) ![GitHub last commit](https://img.shields.io/github/last-commit/ftrvxmtrx/tga)](https://github.com/ftrvxmtrx/tga) - Package tga is a TARGA image format decoder/encoder.
 * [webp-server ![GitHub Repo stars](https://img.shields.io/github/stars/mehdipourfar/webp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mehdipourfar/webp-server)](https://github.com/mehdipourfar/webp-server) - Simple and minimal image server capable of storing, resizing, converting and caching images.
 
+**[⬆ back to top](#contents)**
+
 ## IoT (Internet of Things)
 
 *Libraries for programming devices of the IoT.*
@@ -1071,6 +1134,8 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 * [mainflux ![GitHub Repo stars](https://img.shields.io/github/stars/Mainflux/mainflux) ![GitHub last commit](https://img.shields.io/github/last-commit/Mainflux/mainflux)](https://github.com/Mainflux/mainflux) - Industrial IoT Messaging and Device Management Server.
 * [periph](https://periph.io/) - Peripherals I/O to interface with low-level board facilities.
 * [sensorbee ![GitHub Repo stars](https://img.shields.io/github/stars/sensorbee/sensorbee) ![GitHub last commit](https://img.shields.io/github/last-commit/sensorbee/sensorbee)](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT.
+
+**[⬆ back to top](#contents)**
 
 ## Job Scheduler
 
@@ -1088,6 +1153,8 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 * [sched ![GitHub Repo stars](https://img.shields.io/github/stars/romshark/sched) ![GitHub last commit](https://img.shields.io/github/last-commit/romshark/sched)](https://github.com/romshark/sched) - A job scheduler with the ability to fast-forward time.
 * [scheduler ![GitHub Repo stars](https://img.shields.io/github/stars/carlescere/scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/carlescere/scheduler)](https://github.com/carlescere/scheduler) - Cronjobs scheduling made easy.
 * [tasks ![GitHub Repo stars](https://img.shields.io/github/stars/madflojo/tasks) ![GitHub last commit](https://img.shields.io/github/last-commit/madflojo/tasks)](https://github.com/madflojo/tasks) - An easy to use in-process scheduler for recurring tasks in Go.
+
+**[⬆ back to top](#contents)**
 
 ## JSON
 
@@ -1124,6 +1191,8 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 * [omg.jsonparser ![GitHub Repo stars](https://img.shields.io/github/stars/dedalqq/omg.jsonparser) ![GitHub last commit](https://img.shields.io/github/last-commit/dedalqq/omg.jsonparser)](https://github.com/dedalqq/omg.jsonparser) - Simple JSON parser with validation by condition via golang struct fields tags.
 * [ujson ![GitHub Repo stars](https://img.shields.io/github/stars/olvrng/ujson) ![GitHub last commit](https://img.shields.io/github/last-commit/olvrng/ujson)](https://github.com/olvrng/ujson) - Fast and minimal JSON parser and transformer that works on unstructured JSON.
 * [vjson ![GitHub Repo stars](https://img.shields.io/github/stars/miladibra10/vjson) ![GitHub last commit](https://img.shields.io/github/last-commit/miladibra10/vjson)](https://github.com/miladibra10/vjson) - Go package for validating JSON objects with declaring a JSON schema with fluent API.
+
+**[⬆ back to top](#contents)**
 
 ## Logging
 
@@ -1180,6 +1249,8 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 * [zerolog ![GitHub Repo stars](https://img.shields.io/github/stars/rs/zerolog) ![GitHub last commit](https://img.shields.io/github/last-commit/rs/zerolog)](https://github.com/rs/zerolog) - Zero-allocation JSON logger.
 * [zkits-logger ![GitHub Repo stars](https://img.shields.io/github/stars/edoger/zkits-logger) ![GitHub last commit](https://img.shields.io/github/last-commit/edoger/zkits-logger)](https://github.com/edoger/zkits-logger) - A powerful zero-dependency JSON logger.
 
+**[⬆ back to top](#contents)**
+
 ## Machine Learning
 
 *Libraries for Machine Learning.*
@@ -1222,6 +1293,8 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 * [shield ![GitHub Repo stars](https://img.shields.io/github/stars/eaigner/shield) ![GitHub last commit](https://img.shields.io/github/last-commit/eaigner/shield)](https://github.com/eaigner/shield) - Bayesian text classifier with flexible tokenizers and storage backends for Go.
 * [tfgo ![GitHub Repo stars](https://img.shields.io/github/stars/galeone/tfgo) ![GitHub last commit](https://img.shields.io/github/last-commit/galeone/tfgo)](https://github.com/galeone/tfgo) - Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python.
 * [Varis ![GitHub Repo stars](https://img.shields.io/github/stars/Xamber/Varis) ![GitHub last commit](https://img.shields.io/github/last-commit/Xamber/Varis)](https://github.com/Xamber/Varis) - Golang Neural Network.
+
+**[⬆ back to top](#contents)**
 
 ## Messaging
 
@@ -1277,6 +1350,8 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 * [Uniqush-Push ![GitHub Repo stars](https://img.shields.io/github/stars/uniqush/uniqush-push) ![GitHub last commit](https://img.shields.io/github/last-commit/uniqush/uniqush-push)](https://github.com/uniqush/uniqush-push) - Redis backed unified push service for server-side notifications to mobile devices.
 * [zmq4 ![GitHub Repo stars](https://img.shields.io/github/stars/pebbe/zmq4) ![GitHub last commit](https://img.shields.io/github/last-commit/pebbe/zmq4)](https://github.com/pebbe/zmq4) - Go interface to ZeroMQ version 4. Also available for [version 3 ![GitHub Repo stars](https://img.shields.io/github/stars/pebbe/zmq3) ![GitHub last commit](https://img.shields.io/github/last-commit/pebbe/zmq3)](https://github.com/pebbe/zmq3) and [version 2 ![GitHub Repo stars](https://img.shields.io/github/stars/pebbe/zmq2) ![GitHub last commit](https://img.shields.io/github/last-commit/pebbe/zmq2)](https://github.com/pebbe/zmq2).
 
+**[⬆ back to top](#contents)**
+
 ## Microsoft Office
 
 * [unioffice ![GitHub Repo stars](https://img.shields.io/github/stars/unidoc/unioffice) ![GitHub last commit](https://img.shields.io/github/last-commit/unidoc/unioffice)](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents.
@@ -1290,6 +1365,8 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 * [goxlsxwriter ![GitHub Repo stars](https://img.shields.io/github/stars/fterrag/goxlsxwriter) ![GitHub last commit](https://img.shields.io/github/last-commit/fterrag/goxlsxwriter)](https://github.com/fterrag/goxlsxwriter) - Golang bindings for libxlsxwriter for writing XLSX (Microsoft Excel) files.
 * [xlsx ![GitHub Repo stars](https://img.shields.io/github/stars/tealeg/xlsx) ![GitHub last commit](https://img.shields.io/github/last-commit/tealeg/xlsx)](https://github.com/tealeg/xlsx) - Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs.
 * [xlsx ![GitHub Repo stars](https://img.shields.io/github/stars/plandem/xlsx) ![GitHub last commit](https://img.shields.io/github/last-commit/plandem/xlsx)](https://github.com/plandem/xlsx) - Fast and safe way to read/update your existing Microsoft Excel files in Go programs.
+
+**[⬆ back to top](#contents)**
 
 ## Miscellaneous
 
@@ -1310,6 +1387,8 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 * [nject/npoint ![GitHub Repo stars](https://img.shields.io/github/stars/BlueOwlOpenSource/nject) ![GitHub last commit](https://img.shields.io/github/last-commit/BlueOwlOpenSource/nject)](https://github.com/BlueOwlOpenSource/nject) - A type safe, reflective framework based on types for libraries, tests, and endpoints.
 * [wire ![GitHub Repo stars](https://img.shields.io/github/stars/Fs02/wire) ![GitHub last commit](https://img.shields.io/github/last-commit/Fs02/wire)](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang.
 
+**[⬆ back to top](#contents)**
+
 ### Project Layout
 
 _**Unofficial** set of patterns for structuring projects._
@@ -1326,6 +1405,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [scaffold ![GitHub Repo stars](https://img.shields.io/github/stars/catchplay/scaffold) ![GitHub last commit](https://img.shields.io/github/last-commit/catchplay/scaffold)](https://github.com/catchplay/scaffold) - Scaffold generates a starter Go project layout. Lets you focus on business logic implemented.
 * [wangyoucao577/go-project-layout ![GitHub Repo stars](https://img.shields.io/github/stars/wangyoucao577/go-project-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/wangyoucao577/go-project-layout)](https://github.com/wangyoucao577/go-project-layout) - Set of practices and discussions on how to structure Go project layout.
 
+**[⬆ back to top](#contents)**
+
 ### Strings
 
 *Libraries for working with strings.*
@@ -1335,6 +1416,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [gobeam/Stringy ![GitHub Repo stars](https://img.shields.io/github/stars/gobeam/Stringy) ![GitHub last commit](https://img.shields.io/github/last-commit/gobeam/Stringy)](https://github.com/gobeam/Stringy) - String manipulation library to convert string to camel case, snake case, kebab case / slugify etc.
 * [strutil ![GitHub Repo stars](https://img.shields.io/github/stars/ozgio/strutil) ![GitHub last commit](https://img.shields.io/github/last-commit/ozgio/strutil)](https://github.com/ozgio/strutil) - String utilities.
 * [xstrings ![GitHub Repo stars](https://img.shields.io/github/stars/huandu/xstrings) ![GitHub last commit](https://img.shields.io/github/last-commit/huandu/xstrings)](https://github.com/huandu/xstrings) - Collection of useful string functions ported from other languages.
+
+**[⬆ back to top](#contents)**
 
 ### Uncategorized
 
@@ -1391,6 +1474,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [xdg ![GitHub Repo stars](https://img.shields.io/github/stars/rkoesters/xdg) ![GitHub last commit](https://img.shields.io/github/last-commit/rkoesters/xdg)](https://github.com/rkoesters/xdg) - FreeDesktop.org (xdg) Specs implemented in Go.
 * [xkg ![GitHub Repo stars](https://img.shields.io/github/stars/go-xkg/xkg) ![GitHub last commit](https://img.shields.io/github/last-commit/go-xkg/xkg)](https://github.com/go-xkg/xkg) - X Keyboard Grabber.
 
+**[⬆ back to top](#contents)**
+
 ## Natural Language Processing
 
 *Libraries for working with human languages.*
@@ -1436,6 +1521,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [transliterator ![GitHub Repo stars](https://img.shields.io/github/stars/alexsergivan/transliterator) ![GitHub last commit](https://img.shields.io/github/last-commit/alexsergivan/transliterator)](https://github.com/alexsergivan/transliterator) - Provides one-way string transliteration with supporting of language-specific transliteration rules.
 * [whatlanggo ![GitHub Repo stars](https://img.shields.io/github/stars/abadojack/whatlanggo) ![GitHub last commit](https://img.shields.io/github/last-commit/abadojack/whatlanggo)](https://github.com/abadojack/whatlanggo) - Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc).
 * [when ![GitHub Repo stars](https://img.shields.io/github/stars/olebedev/when) ![GitHub last commit](https://img.shields.io/github/last-commit/olebedev/when)](https://github.com/olebedev/when) - Natural EN and RU language date/time parser with pluggable rules.
+
+**[⬆ back to top](#contents)**
 
 ## Networking
 
@@ -1505,6 +1592,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [winrm ![GitHub Repo stars](https://img.shields.io/github/stars/masterzen/winrm) ![GitHub last commit](https://img.shields.io/github/last-commit/masterzen/winrm)](https://github.com/masterzen/winrm) - Go WinRM client to remotely execute commands on Windows machines.
 * [xtcp ![GitHub Repo stars](https://img.shields.io/github/stars/xfxdev/xtcp) ![GitHub last commit](https://img.shields.io/github/last-commit/xfxdev/xtcp)](https://github.com/xfxdev/xtcp) - TCP Server Framework with simultaneous full duplex communication, graceful shutdown, and custom protocol.
 
+**[⬆ back to top](#contents)**
+
 ### HTTP Clients
 
 *Libraries for making HTTP requests.*
@@ -1523,6 +1612,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [rq ![GitHub Repo stars](https://img.shields.io/github/stars/ddo/rq) ![GitHub last commit](https://img.shields.io/github/last-commit/ddo/rq)](https://github.com/ddo/rq) - A nicer interface for golang stdlib HTTP client.
 * [sling ![GitHub Repo stars](https://img.shields.io/github/stars/dghubble/sling) ![GitHub last commit](https://img.shields.io/github/last-commit/dghubble/sling)](https://github.com/dghubble/sling) - Sling is a Go HTTP client library for creating and sending API requests.
 
+**[⬆ back to top](#contents)**
+
 ## OpenGL
 
 *Libraries for using OpenGL in Go.*
@@ -1533,6 +1624,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [goxjs/gl ![GitHub Repo stars](https://img.shields.io/github/stars/goxjs/gl) ![GitHub last commit](https://img.shields.io/github/last-commit/goxjs/gl)](https://github.com/goxjs/gl) - Go cross-platform OpenGL bindings (OS X, Linux, Windows, browsers, iOS, Android).
 * [goxjs/glfw ![GitHub Repo stars](https://img.shields.io/github/stars/goxjs/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/goxjs/glfw)](https://github.com/goxjs/glfw) - Go cross-platform glfw library for creating an OpenGL context and receiving events.
 * [mathgl ![GitHub Repo stars](https://img.shields.io/github/stars/go-gl/mathgl) ![GitHub last commit](https://img.shields.io/github/last-commit/go-gl/mathgl)](https://github.com/go-gl/mathgl) - Pure Go math package specialized for 3D math, with inspiration from GLM.
+
+**[⬆ back to top](#contents)**
 
 ## ORM
 
@@ -1559,6 +1652,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [upper.io/db ![GitHub Repo stars](https://img.shields.io/github/stars/upper/db) ![GitHub last commit](https://img.shields.io/github/last-commit/upper/db)](https://github.com/upper/db) - Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers.
 * [XORM](https://gitea.com/xorm/xorm) - Simple and powerful ORM for Go. (Support: MySQL, MyMysql, PostgreSQL, Tidb, SQLite3, MsSql and Oracle).
 * [Zoom ![GitHub Repo stars](https://img.shields.io/github/stars/albrow/zoom) ![GitHub last commit](https://img.shields.io/github/last-commit/albrow/zoom)](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine built on Redis.
+
+**[⬆ back to top](#contents)**
 
 ## Package Management
 
@@ -1587,6 +1682,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [nut ![GitHub Repo stars](https://img.shields.io/github/stars/jingweno/nut) ![GitHub last commit](https://img.shields.io/github/last-commit/jingweno/nut)](https://github.com/jingweno/nut) - Vendor Go dependencies.
 * [VenGO ![GitHub Repo stars](https://img.shields.io/github/stars/DamnWidget/VenGO) ![GitHub last commit](https://img.shields.io/github/last-commit/DamnWidget/VenGO)](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
 
+**[⬆ back to top](#contents)**
+
 ## Performance
 
 * [jaeger ![GitHub Repo stars](https://img.shields.io/github/stars/jaegertracing/jaeger) ![GitHub last commit](https://img.shields.io/github/last-commit/jaegertracing/jaeger)](https://github.com/jaegertracing/jaeger) - A distributed tracing system.
@@ -1594,6 +1691,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [profile ![GitHub Repo stars](https://img.shields.io/github/stars/pkg/profile) ![GitHub last commit](https://img.shields.io/github/last-commit/pkg/profile)](https://github.com/pkg/profile) - Simple profiling support package for Go.
 * [statsviz ![GitHub Repo stars](https://img.shields.io/github/stars/arl/statsviz) ![GitHub last commit](https://img.shields.io/github/last-commit/arl/statsviz)](https://github.com/arl/statsviz) - Live visualization of your Go application runtime statistics.
 * [tracer ![GitHub Repo stars](https://img.shields.io/github/stars/kamilsk/tracer) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilsk/tracer)](https://github.com/kamilsk/tracer) - Simple, lightweight tracing.
+
+**[⬆ back to top](#contents)**
 
 ## Query Language
 
@@ -1612,6 +1711,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [rqp ![GitHub Repo stars](https://img.shields.io/github/stars/timsolov/rest-query-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/timsolov/rest-query-parser)](https://github.com/timsolov/rest-query-parser) - Query Parser for REST API. Filtering, validations, both `AND`, `OR` operations are supported directly in the query.
 * [straf ![GitHub Repo stars](https://img.shields.io/github/stars/SonicRoshan/straf) ![GitHub last commit](https://img.shields.io/github/last-commit/SonicRoshan/straf)](https://github.com/SonicRoshan/straf) - Easily Convert Golang structs to GraphQL objects.
 
+**[⬆ back to top](#contents)**
+
 ## Resource Embedding
 
 * [debme ![GitHub Repo stars](https://img.shields.io/github/stars/leaanthony/debme) ![GitHub last commit](https://img.shields.io/github/last-commit/leaanthony/debme)](https://github.com/leaanthony/debme) - Create an `embed.FS` from an existing `embed.FS` subdirectory.
@@ -1626,6 +1727,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [statik ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll/statik) ![GitHub last commit](https://img.shields.io/github/last-commit/rakyll/statik)](https://github.com/rakyll/statik) - Embeds static files into a Go executable.
 * [templify ![GitHub Repo stars](https://img.shields.io/github/stars/wlbr/templify) ![GitHub last commit](https://img.shields.io/github/last-commit/wlbr/templify)](https://github.com/wlbr/templify) - Embed external template files into Go code to create single file binaries.
 * [vfsgen ![GitHub Repo stars](https://img.shields.io/github/stars/shurcooL/vfsgen) ![GitHub last commit](https://img.shields.io/github/last-commit/shurcooL/vfsgen)](https://github.com/shurcooL/vfsgen) - Generates a vfsdata.go file that statically implements the given virtual filesystem.
+
+**[⬆ back to top](#contents)**
 
 ## Science and Data Analysis
 
@@ -1665,6 +1768,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [TextRank ![GitHub Repo stars](https://img.shields.io/github/stars/DavidBelicza/TextRank) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidBelicza/TextRank)](https://github.com/DavidBelicza/TextRank) - TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support.
 * [triangolatte ![GitHub Repo stars](https://img.shields.io/github/stars/tchayen/triangolatte) ![GitHub last commit](https://img.shields.io/github/last-commit/tchayen/triangolatte)](https://github.com/tchayen/triangolatte) - 2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs.
 
+**[⬆ back to top](#contents)**
+
 ## Security
 
 *Libraries that are used to help make your application more secure.*
@@ -1698,6 +1803,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [themis ![GitHub Repo stars](https://img.shields.io/github/stars/cossacklabs/themis) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/themis)](https://github.com/cossacklabs/themis) - high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps.
 
 
+**[⬆ back to top](#contents)**
+
 ## Serialization
 
 *Libraries and tools for binary serialization.*
@@ -1723,6 +1830,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [pletter ![GitHub Repo stars](https://img.shields.io/github/stars/vimeda/pletter) ![GitHub last commit](https://img.shields.io/github/last-commit/vimeda/pletter)](https://github.com/vimeda/pletter) - A standard way to wrap a proto message for message brokers.
 * [structomap ![GitHub Repo stars](https://img.shields.io/github/stars/tuvistavie/structomap) ![GitHub last commit](https://img.shields.io/github/last-commit/tuvistavie/structomap)](https://github.com/tuvistavie/structomap) - Library to easily and dynamically generate maps from static structures.
 * [unitpacking ![GitHub Repo stars](https://img.shields.io/github/stars/recolude/unitpacking) ![GitHub last commit](https://img.shields.io/github/last-commit/recolude/unitpacking)](https://github.com/recolude/unitpacking) - Library to pack unit vectors into as fewest bytes as possible.
+
+**[⬆ back to top](#contents)**
 
 ## Server Applications
 
@@ -1755,6 +1864,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [Trickster ![GitHub Repo stars](https://img.shields.io/github/stars/tricksterproxy/trickster) ![GitHub last commit](https://img.shields.io/github/last-commit/tricksterproxy/trickster)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 
 
+**[⬆ back to top](#contents)**
+
 ## Stream Processing
 
 *Libraries and tools for stream processing and reactive programming.*
@@ -1762,6 +1873,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [go-streams ![GitHub Repo stars](https://img.shields.io/github/stars/reugn/go-streams) ![GitHub last commit](https://img.shields.io/github/last-commit/reugn/go-streams)](https://github.com/reugn/go-streams) - Go stream processing library.
 * [machine ![GitHub Repo stars](https://img.shields.io/github/stars/whitaker-io/machine) ![GitHub last commit](https://img.shields.io/github/last-commit/whitaker-io/machine)](https://github.com/whitaker-io/machine) - Go library for writing and generating stream workers with built in metrics and traceability.
 * [stream ![GitHub Repo stars](https://img.shields.io/github/stars/youthlin/stream) ![GitHub last commit](https://img.shields.io/github/last-commit/youthlin/stream)](https://github.com/youthlin/stream) - Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...
+
+**[⬆ back to top](#contents)**
 
 ## Template Engines
 
@@ -1790,6 +1903,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [sprig ![GitHub Repo stars](https://img.shields.io/github/stars/Masterminds/sprig) ![GitHub last commit](https://img.shields.io/github/last-commit/Masterminds/sprig)](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 * [tbd ![GitHub Repo stars](https://img.shields.io/github/stars/lucasepe/tbd) ![GitHub last commit](https://img.shields.io/github/last-commit/lucasepe/tbd)](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata
 * [velvet ![GitHub Repo stars](https://img.shields.io/github/stars/gobuffalo/velvet) ![GitHub last commit](https://img.shields.io/github/last-commit/gobuffalo/velvet)](https://github.com/gobuffalo/velvet) - Complete handlebars implementation in Go.
+
+**[⬆ back to top](#contents)**
 
 ## Testing
 
@@ -1881,6 +1996,8 @@ _**Unofficial** set of patterns for structuring projects._
 * Fail injection
     * [failpoint ![GitHub Repo stars](https://img.shields.io/github/stars/pingcap/failpoint) ![GitHub last commit](https://img.shields.io/github/last-commit/pingcap/failpoint)](https://github.com/pingcap/failpoint) - An implementation of [failpoints](http://www.freebsd.org/cgi/man.cgi?query=fail) for Golang.
 
+**[⬆ back to top](#contents)**
+
 ## Text Processing
 
 *Libraries for parsing and manipulating texts.*
@@ -1951,6 +2068,8 @@ _**Unofficial** set of patterns for structuring projects._
     * [TySug ![GitHub Repo stars](https://img.shields.io/github/stars/Dynom/TySug) ![GitHub last commit](https://img.shields.io/github/last-commit/Dynom/TySug)](https://github.com/Dynom/TySug) - Alternative suggestions with respect to keyboard layouts.
     * [xj2go ![GitHub Repo stars](https://img.shields.io/github/stars/stackerzzq/xj2go) ![GitHub last commit](https://img.shields.io/github/last-commit/stackerzzq/xj2go)](https://github.com/stackerzzq/xj2go) - Convert xml or json to go struct.
     * [xurls ![GitHub Repo stars](https://img.shields.io/github/stars/mvdan/xurls) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/xurls)](https://github.com/mvdan/xurls) - Extract urls from text.
+
+**[⬆ back to top](#contents)**
 
 ## Third-party APIs
 
@@ -2047,6 +2166,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [wit-go ![GitHub Repo stars](https://img.shields.io/github/stars/wit-ai/wit-go) ![GitHub last commit](https://img.shields.io/github/last-commit/wit-ai/wit-go)](https://github.com/wit-ai/wit-go) - Go client for wit.ai HTTP API.
 * [ynab ![GitHub Repo stars](https://img.shields.io/github/stars/brunomvsouza/ynab.go) ![GitHub last commit](https://img.shields.io/github/last-commit/brunomvsouza/ynab.go)](https://github.com/brunomvsouza/ynab.go) - Go wrapper for the YNAB API.
 * [zooz ![GitHub Repo stars](https://img.shields.io/github/stars/gojuno/go-zooz) ![GitHub last commit](https://img.shields.io/github/last-commit/gojuno/go-zooz)](https://github.com/gojuno/go-zooz) - Go client for the Zooz API.
+
+**[⬆ back to top](#contents)**
 
 ## Utilities
 
@@ -2202,6 +2323,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [wuzz ![GitHub Repo stars](https://img.shields.io/github/stars/asciimoo/wuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/asciimoo/wuzz)](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection.
 * [xferspdy ![GitHub Repo stars](https://img.shields.io/github/stars/monmohan/xferspdy) ![GitHub last commit](https://img.shields.io/github/last-commit/monmohan/xferspdy)](https://github.com/monmohan/xferspdy) - Xferspdy provides binary diff and patch library in golang.
 
+**[⬆ back to top](#contents)**
+
 ## UUID
 
 *Libraries for working with UUIDs.*
@@ -2217,6 +2340,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [uuid ![GitHub Repo stars](https://img.shields.io/github/stars/gofrs/uuid) ![GitHub last commit](https://img.shields.io/github/last-commit/gofrs/uuid)](https://github.com/gofrs/uuid) - Implementation of Universally Unique Identifier (UUID). Supports both creation and parsing of UUIDs. Actively maintained fork of satori uuid.
 * [uuid ![GitHub Repo stars](https://img.shields.io/github/stars/google/uuid) ![GitHub last commit](https://img.shields.io/github/last-commit/google/uuid)](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 * [wuid ![GitHub Repo stars](https://img.shields.io/github/stars/edwingeng/wuid) ![GitHub last commit](https://img.shields.io/github/last-commit/edwingeng/wuid)](https://github.com/edwingeng/wuid) - An extremely fast unique number generator, 10-135 times faster than UUID.
+
+**[⬆ back to top](#contents)**
 
 ## Validation
 
@@ -2234,6 +2359,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [validate ![GitHub Repo stars](https://img.shields.io/github/stars/gobuffalo/validate) ![GitHub last commit](https://img.shields.io/github/last-commit/gobuffalo/validate)](https://github.com/gobuffalo/validate) - This package provides a framework for writing validations for Go applications.
 * [validator ![GitHub Repo stars](https://img.shields.io/github/stars/go-playground/validator) ![GitHub last commit](https://img.shields.io/github/last-commit/go-playground/validator)](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 
+**[⬆ back to top](#contents)**
+
 ## Version Control
 
 *Libraries for version control.*
@@ -2245,6 +2372,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [go-vcs ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegraph/go-vcs) ![GitHub last commit](https://img.shields.io/github/last-commit/sourcegraph/go-vcs)](https://github.com/sourcegraph/go-vcs) - manipulate and inspect VCS repositories in Go.
 * [hercules ![GitHub Repo stars](https://img.shields.io/github/stars/src-d/hercules) ![GitHub last commit](https://img.shields.io/github/last-commit/src-d/hercules)](https://github.com/src-d/hercules) - gaining advanced insights from Git repository history.
 * [hgo ![GitHub Repo stars](https://img.shields.io/github/stars/beyang/hgo) ![GitHub last commit](https://img.shields.io/github/last-commit/beyang/hgo)](https://github.com/beyang/hgo) - Hgo is a collection of Go packages providing read-access to local Mercurial repositories.
+
+**[⬆ back to top](#contents)**
 
 ## Video
 
@@ -2262,6 +2391,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [libvlc-go ![GitHub Repo stars](https://img.shields.io/github/stars/adrg/libvlc-go) ![GitHub last commit](https://img.shields.io/github/last-commit/adrg/libvlc-go)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
 * [m3u8 ![GitHub Repo stars](https://img.shields.io/github/stars/grafov/m3u8) ![GitHub last commit](https://img.shields.io/github/last-commit/grafov/m3u8)](https://github.com/grafov/m3u8) - Parser and generator library of M3U8 playlists for Apple HLS.
 * [v4l ![GitHub Repo stars](https://img.shields.io/github/stars/korandiz/v4l) ![GitHub last commit](https://img.shields.io/github/last-commit/korandiz/v4l)](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
+
+**[⬆ back to top](#contents)**
 
 ## Web Frameworks
 
@@ -2315,6 +2446,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [WebGo ![GitHub Repo stars](https://img.shields.io/github/stars/bnkamalesh/webgo) ![GitHub last commit](https://img.shields.io/github/last-commit/bnkamalesh/webgo)](https://github.com/bnkamalesh/webgo) - A micro-framework to build web apps; with handler chaining, middleware and context injection. With standard library compliant HTTP handlers(i.e. http.HandlerFunc).
 * [YARF ![GitHub Repo stars](https://img.shields.io/github/stars/yarf-framework/yarf) ![GitHub last commit](https://img.shields.io/github/last-commit/yarf-framework/yarf)](https://github.com/yarf-framework/yarf) - Fast micro-framework designed to build REST APIs and web services in a fast and simple way.
 
+**[⬆ back to top](#contents)**
+
 ### Middlewares
 
 #### Actual middlewares
@@ -2347,6 +2480,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [rye ![GitHub Repo stars](https://img.shields.io/github/stars/InVisionApp/rye) ![GitHub last commit](https://img.shields.io/github/last-commit/InVisionApp/rye)](https://github.com/InVisionApp/rye) - Tiny Go middleware library (with canned Middlewares) that supports JWT, CORS, Statsd, and Go 1.7 context.
 * [stats ![GitHub Repo stars](https://img.shields.io/github/stars/thoas/stats) ![GitHub last commit](https://img.shields.io/github/last-commit/thoas/stats)](https://github.com/thoas/stats) - Go middleware that stores various information about your web application.
 
+**[⬆ back to top](#contents)**
+
 ### Routers
 
 * [alien ![GitHub Repo stars](https://img.shields.io/github/stars/gernest/alien) ![GitHub last commit](https://img.shields.io/github/last-commit/gernest/alien)](https://github.com/gernest/alien) - Lightweight and fast http router from outer space.
@@ -2373,6 +2508,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [xmux ![GitHub Repo stars](https://img.shields.io/github/stars/rs/xmux) ![GitHub last commit](https://img.shields.io/github/last-commit/rs/xmux)](https://github.com/rs/xmux) - High performance muxer based on `httprouter` with `net/context` support.
 * [xujiajun/gorouter ![GitHub Repo stars](https://img.shields.io/github/stars/xujiajun/gorouter) ![GitHub last commit](https://img.shields.io/github/last-commit/xujiajun/gorouter)](https://github.com/xujiajun/gorouter) - A simple and fast HTTP router for Go.
 
+**[⬆ back to top](#contents)**
+
 ## WebAssembly
 
 * [dom ![GitHub Repo stars](https://img.shields.io/github/stars/dennwc/dom) ![GitHub last commit](https://img.shields.io/github/last-commit/dennwc/dom)](https://github.com/dennwc/dom) - DOM library.
@@ -2382,11 +2519,15 @@ _**Unofficial** set of patterns for structuring projects._
 * [wasmbrowsertest ![GitHub Repo stars](https://img.shields.io/github/stars/agnivade/wasmbrowsertest) ![GitHub last commit](https://img.shields.io/github/last-commit/agnivade/wasmbrowsertest)](https://github.com/agnivade/wasmbrowsertest) - Run Go WASM tests in your browser.
 * [webapi ![GitHub Repo stars](https://img.shields.io/github/stars/gowebapi/webapi) ![GitHub last commit](https://img.shields.io/github/last-commit/gowebapi/webapi)](https://github.com/gowebapi/webapi) - Bindings for DOM and HTML generated from WebIDL.
 
+**[⬆ back to top](#contents)**
+
 ## Windows
 
 * [d3d9 ![GitHub Repo stars](https://img.shields.io/github/stars/gonutz/d3d9) ![GitHub last commit](https://img.shields.io/github/last-commit/gonutz/d3d9)](https://github.com/gonutz/d3d9) - Go bindings for Direct3D9.
 * [go-ole ![GitHub Repo stars](https://img.shields.io/github/stars/go-ole/go-ole) ![GitHub last commit](https://img.shields.io/github/last-commit/go-ole/go-ole)](https://github.com/go-ole/go-ole) - Win32 OLE implementation for golang.
 * [gosddl ![GitHub Repo stars](https://img.shields.io/github/stars/MonaxGT/gosddl) ![GitHub last commit](https://img.shields.io/github/last-commit/MonaxGT/gosddl)](https://github.com/MonaxGT/gosddl) - Converter from SDDL-string to user-friendly JSON. SDDL consist of four part: Owner, Primary Group, DACL, SACL.
+
+**[⬆ back to top](#contents)**
 
 ## XML
 
@@ -2402,6 +2543,8 @@ _**Unofficial** set of patterns for structuring projects._
 # Tools
 
 *Go software and plugins.*
+
+**[⬆ back to top](#contents)**
 
 ## Code Analysis
 
@@ -2434,6 +2577,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [unused ![GitHub Repo stars](https://img.shields.io/github/stars/dominikh/go-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dominikh/go-tools)](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 * [validate ![GitHub Repo stars](https://img.shields.io/github/stars/mccoyst/validate) ![GitHub last commit](https://img.shields.io/github/last-commit/mccoyst/validate)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 
+**[⬆ back to top](#contents)**
+
 ## Editor Plugins
 
 * [Go plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/9568-go) - Go plugin for JetBrains IDEs.
@@ -2451,6 +2596,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [vscode-go ![GitHub Repo stars](https://img.shields.io/github/stars/golang/vscode-go) ![GitHub last commit](https://img.shields.io/github/last-commit/golang/vscode-go)](https://github.com/golang/vscode-go) - Extension for Visual Studio Code (VS Code) which provides support for the Go language.
 * [Watch ![GitHub Repo stars](https://img.shields.io/github/stars/eaburns/Watch) ![GitHub last commit](https://img.shields.io/github/last-commit/eaburns/Watch)](https://github.com/eaburns/Watch) - Runs a command in an acme win on file changes.
 
+**[⬆ back to top](#contents)**
+
 ## Go Generate Tools
 
 * [generic ![GitHub Repo stars](https://img.shields.io/github/stars/usk81/generic) ![GitHub last commit](https://img.shields.io/github/last-commit/usk81/generic)](https://github.com/usk81/generic) - flexible data type for Go.
@@ -2463,6 +2610,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [re2dfa ![GitHub Repo stars](https://img.shields.io/github/stars/opennota/re2dfa) ![GitHub last commit](https://img.shields.io/github/last-commit/opennota/re2dfa)](https://github.com/opennota/re2dfa) - Transform regular expressions into finite state machines and output Go source code.
 * [TOML-to-Go](https://xuri.me/toml-to-go) - Translates TOML into a Go type in the browser instantly.
 * [xgen ![GitHub Repo stars](https://img.shields.io/github/stars/xuri/xgen) ![GitHub last commit](https://img.shields.io/github/last-commit/xuri/xgen)](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator.
+
+**[⬆ back to top](#contents)**
 
 ## Go Tools
 
@@ -2484,9 +2633,13 @@ _**Unofficial** set of patterns for structuring projects._
 * [rts ![GitHub Repo stars](https://img.shields.io/github/stars/galeone/rts) ![GitHub last commit](https://img.shields.io/github/last-commit/galeone/rts)](https://github.com/galeone/rts) - RTS: response to struct. Generates Go structs from server responses.
 * [typex ![GitHub Repo stars](https://img.shields.io/github/stars/dtgorski/typex) ![GitHub last commit](https://img.shields.io/github/last-commit/dtgorski/typex)](https://github.com/dtgorski/typex) - Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration.
 
+**[⬆ back to top](#contents)**
+
 ## Software Packages
 
 *Software written in Go.*
+
+**[⬆ back to top](#contents)**
 
 ### DevOps Tools
 
@@ -2556,6 +2709,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
 * [winrm-cli ![GitHub Repo stars](https://img.shields.io/github/stars/masterzen/winrm-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/masterzen/winrm-cli)](https://github.com/masterzen/winrm-cli) - Cli tool to remotely execute commands on Windows machines.
 
+**[⬆ back to top](#contents)**
+
 ### Other Software
 
 * [Better Go Playground](https://goplay.tools) - Go playground with syntax highlight, code completion and other features.
@@ -2616,9 +2771,13 @@ _**Unofficial** set of patterns for structuring projects._
 * [wellington ![GitHub Repo stars](https://img.shields.io/github/stars/wellington/wellington) ![GitHub last commit](https://img.shields.io/github/last-commit/wellington/wellington)](https://github.com/wellington/wellington) - Sass project management tool, extends the language with sprite functions (like Compass).
 * [woke ![GitHub Repo stars](https://img.shields.io/github/stars/get-woke/woke) ![GitHub last commit](https://img.shields.io/github/last-commit/get-woke/woke)](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
 
+**[⬆ back to top](#contents)**
+
 # Resources
 
 *Where to discover new Go libraries.*
+
+**[⬆ back to top](#contents)**
 
 ## Benchmarks
 
@@ -2636,6 +2795,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [kvbench ![GitHub Repo stars](https://img.shields.io/github/stars/jimrobinson/kvbench) ![GitHub last commit](https://img.shields.io/github/last-commit/jimrobinson/kvbench)](https://github.com/jimrobinson/kvbench) - Key/Value database benchmark.
 * [skynet ![GitHub Repo stars](https://img.shields.io/github/stars/atemerev/skynet) ![GitHub last commit](https://img.shields.io/github/last-commit/atemerev/skynet)](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark.
 * [speedtest-resize ![GitHub Repo stars](https://img.shields.io/github/stars/fawick/speedtest-resize) ![GitHub last commit](https://img.shields.io/github/last-commit/fawick/speedtest-resize)](https://github.com/fawick/speedtest-resize) - Compare various Image resize algorithms for the Go language.
+
+**[⬆ back to top](#contents)**
 
 ## Conferences
 
@@ -2657,6 +2818,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [GopherCon Vietnam](https://gophercon.vn/) - Ho Chi Minh City, Vietnam.
 * [GothamGo](http://gothamgo.com/) - New York City, USA.
 * [GoWayFest](https://goway.io/) - Minsk, Belarus.
+
+**[⬆ back to top](#contents)**
 
 ## E-Books
 
@@ -2680,6 +2843,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [Writing A Compiler In Go](https://compilerbook.com)
 * [Writing An Interpreter In Go](https://interpreterbook.com)
 
+**[⬆ back to top](#contents)**
+
 ## Gophers
 
 * [Free Gophers Pack ![GitHub Repo stars](https://img.shields.io/github/stars/MariaLetta/free-gophers-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/MariaLetta/free-gophers-pack)](https://github.com/MariaLetta/free-gophers-pack) - Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.
@@ -2694,6 +2859,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [gophers ![GitHub Repo stars](https://img.shields.io/github/stars/rogeralsing/gophers) ![GitHub last commit](https://img.shields.io/github/last-commit/rogeralsing/gophers)](https://github.com/rogeralsing/gophers) - random gopher graphics.
 * [gophers ![GitHub Repo stars](https://img.shields.io/github/stars/sillecelik/go-gopher) ![GitHub last commit](https://img.shields.io/github/last-commit/sillecelik/go-gopher)](https://github.com/sillecelik/go-gopher) - Gopher amigurumi toy pattern.
 * [gophers ![GitHub Repo stars](https://img.shields.io/github/stars/scraly/gophers) ![GitHub last commit](https://img.shields.io/github/last-commit/scraly/gophers)](https://github.com/scraly/gophers) - Gophers by Aurélie Vache.
+
+**[⬆ back to top](#contents)**
 
 ## Meetups
 
@@ -2760,6 +2927,8 @@ _**Unofficial** set of patterns for structuring projects._
 
 *Add the group of your city/country here (send **PR**)*
 
+**[⬆ back to top](#contents)**
+
 ## Style Guides
 
 * [bahlo/go-styleguide ![GitHub Repo stars](https://img.shields.io/github/stars/bahlo/go-styleguide) ![GitHub last commit](https://img.shields.io/github/last-commit/bahlo/go-styleguide)](https://github.com/bahlo/go-styleguide)
@@ -2771,6 +2940,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [Thanos](https://thanos.io/tip/contributing/coding-style-guide.md/)
 * [Uber ![GitHub Repo stars](https://img.shields.io/github/stars/uber-go/guide) ![GitHub last commit](https://img.shields.io/github/last-commit/uber-go/guide)](https://github.com/uber-go/guide/blob/master/style.md)
 
+**[⬆ back to top](#contents)**
+
 ## Social Media
 ### Twitter
 
@@ -2780,8 +2951,12 @@ _**Unofficial** set of patterns for structuring projects._
 * [@golangflow](https://twitter.com/golangflow)
 * [@golangweekly](https://twitter.com/golangweekly)
 
+**[⬆ back to top](#contents)**
+
 ### Reddit
  * [r/golang](https://www.reddit.com/r/golang/)
+
+**[⬆ back to top](#contents)**
 
 ## Websites
 
@@ -2820,6 +2995,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [studygolang](https://studygolang.com) - The community of studygolang in China.
 * [Trending Go repositories on GitHub today](https://github.com/trending?l=go) - Good place to find new Go libraries.
 * [TutorialEdge - Golang](https://tutorialedge.net/course/golang/)
+
+**[⬆ back to top](#contents)**
 
 ### Tutorials
 
@@ -2861,3 +3038,5 @@ _**Unofficial** set of patterns for structuring projects._
 * [Working with Go ![GitHub Repo stars](https://img.shields.io/github/stars/mkaz/working-with-go) ![GitHub last commit](https://img.shields.io/github/last-commit/mkaz/working-with-go)](https://github.com/mkaz/working-with-go) - Intro to go for experienced programmers.
 * [Your basic Go](http://yourbasic.org/golang) - Huge collection of tutorials and how to's.
 * [Learning Go by examples](https://dev.to/aurelievache/learning-go-by-examples-introduction-448n) -  Serie of article in order to learn Golang language by concrete applications as example
+
+**[⬆ back to top](#contents)**
