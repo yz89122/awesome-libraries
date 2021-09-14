@@ -71,6 +71,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [exojax ![GitHub Repo stars](https://img.shields.io/github/stars/HajimeKawahara/exojax) ![GitHub last commit](https://img.shields.io/github/last-commit/HajimeKawahara/exojax)](https://github.com/HajimeKawahara/exojax) - Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
 - [JAXopt ![GitHub Repo stars](https://img.shields.io/github/stars/google/jaxopt) ![GitHub last commit](https://img.shields.io/github/last-commit/google/jaxopt)](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
 - [PIX ![GitHub Repo stars](https://img.shields.io/github/stars/deepmind/dm_pix) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/dm_pix)](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
+- [bayex ![GitHub Repo stars](https://img.shields.io/github/stars/alonfnt/bayex) ![GitHub last commit](https://img.shields.io/github/last-commit/alonfnt/bayex)](https://github.com/alonfnt/bayex) - Bayesian Optimization powered by JAX. <img src="https://img.shields.io/github/stars/alonfnt/bayex?style=social" align="center">
 
 <a name="models-and-projects" />
 
