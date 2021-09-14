@@ -42,6 +42,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [uz](#uz)
   - [yazt](#yazt)
   - [zapack](#zapack)
+  - [zcomet](#zcomet)
   - [zeesh](#zeesh)
   - [zgem](#zgem)
   - [zgen](#zgen)
@@ -215,6 +216,10 @@ zapack is a basic fast minimal ZSH plugin loader.
 ### [zeesh ![GitHub Repo stars](https://img.shields.io/github/stars/zeekay/zeesh) ![GitHub last commit](https://img.shields.io/github/last-commit/zeekay/zeesh)](https://github.com/zeekay/zeesh)
 
 **Zeesh** is a cross-platform ZSH framework. It's similar to, but incompatible with, [oh-my-zsh](http://ohmyz.sh/). It has a modular plugin architecture making it easy to extend. It has a rich set of defaults, but is designed to be as lightweight as possible.
+
+### [zcomet ![GitHub Repo stars](https://img.shields.io/github/stars/agkozak/zcomet) ![GitHub last commit](https://img.shields.io/github/last-commit/agkozak/zcomet)](https://github.com/agkozak/zcomet)
+
+**zcomet** is a minimalistic ZSH plugin manager that gets you to the prompt surprisingly quickly without caching (see the benchmarks). In addition to loading and updating plugins stored in Git repositories, it supports lazy-loading plugins (further reducing startup time) as well as downloading and sourcing code snippets.
 
 ### [zgem ![GitHub Repo stars](https://img.shields.io/github/stars/qoomon/zgem) ![GitHub last commit](https://img.shields.io/github/last-commit/qoomon/zgem)](https://github.com/qoomon/zgem)
 
@@ -1645,7 +1650,6 @@ If you're using [Antigen ![GitHub Repo stars](https://img.shields.io/github/star
 * [my-hl2 ![GitHub Repo stars](https://img.shields.io/github/stars/liamm91/my-hl2) ![GitHub last commit](https://img.shields.io/github/last-commit/liamm91/my-hl2)](https://github.com/liamm91/my-hl2) - Includes virtualenv, `git` status and directory decorations. Based on omz's [half-life ![GitHub Repo stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/half-life.zsh-theme) theme.
 * [myzsh ![GitHub Repo stars](https://img.shields.io/github/stars/MaxUlysse/myzsh) ![GitHub last commit](https://img.shields.io/github/last-commit/MaxUlysse/myzsh)](https://github.com/MaxUlysse/myzsh) - Maxime Garcia's myzsh theme.
 * [nanofish ![GitHub Repo stars](https://img.shields.io/github/stars/tweekmonster/nanofish) ![GitHub last commit](https://img.shields.io/github/last-commit/tweekmonster/nanofish)](https://github.com/tweekmonster/nanofish) - Adds fish-style directory prompt to nanotech theme.
-* [narren ![GitHub Repo stars](https://img.shields.io/github/stars/narrensingh/zsh-custom-theme-narren) ![GitHub last commit](https://img.shields.io/github/last-commit/narrensingh/zsh-custom-theme-narren)](https://github.com/narrensingh/zsh-custom-theme-narren) - Includes emojii `git` status decorations, exit status emoji and node version.
 * [nbrylevv ![GitHub Repo stars](https://img.shields.io/github/stars/nbrylevv/nbrylevv-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/nbrylevv/nbrylevv-zsh-theme)](https://github.com/nbrylevv/nbrylevv-zsh-theme) - Minimalist theme with text `git` status decorations.
 * [nctu ![GitHub Repo stars](https://img.shields.io/github/stars/leovincentseles/nctu.zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/leovincentseles/nctu.zsh-theme)](https://github.com/leovincentseles/nctu.zsh-theme) - Lightweight theme with an emphasis on speed. Includes `git` status decorations.
 * [neewbie ![GitHub Repo stars](https://img.shields.io/github/stars/neewbee/neewbee.zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/neewbee/neewbee.zsh-theme)](https://github.com/neewbee/neewbee.zsh-theme) - Minimal theme with `git` decorations. Based on [robbyrussell ![GitHub Repo stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell).
