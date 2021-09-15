@@ -139,6 +139,10 @@
 * [sleep-promise ![GitHub Repo stars](https://img.shields.io/github/stars/brummelte/sleep-promise) ![GitHub last commit](https://img.shields.io/github/last-commit/brummelte/sleep-promise)](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
 * [is-promise ![GitHub Repo stars](https://img.shields.io/github/stars/then/is-promise) ![GitHub last commit](https://img.shields.io/github/last-commit/then/is-promise)](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise.
 
+### Data Structure
+
+* [quetie ![GitHub Repo stars](https://img.shields.io/github/stars/TomerAberbach/quetie) ![GitHub last commit](https://img.shields.io/github/last-commit/TomerAberbach/quetie)](https://github.com/TomerAberbach/quetie) - Just the cutest and tiniest queue/deque implementation!
+
 ### File System
 
 * [rimraf ![GitHub Repo stars](https://img.shields.io/github/stars/isaacs/rimraf) ![GitHub last commit](https://img.shields.io/github/last-commit/isaacs/rimraf)](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf).
