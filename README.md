@@ -1,7 +1,5 @@
 <div align="center">
 	<img width="500" height="350" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg" alt="Awesome">
-	<h3><a href="https://www.producthunt.com/posts/plash-2">My macOS app Plash is on Product Hunt</a></h3>
-	<br>
 	<br>
 	<br>
 	<hr>
