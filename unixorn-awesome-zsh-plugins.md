@@ -177,6 +177,7 @@ The PMS framework also allows you to use the same framework in different shells.
 A plugin manager for ZSH doesn't have to be complicated to be powerful. PZ doesn't try to be clever when it can be smart. PZ is a full featured, fast, and easy to understand plugin manager encapsulated in a single file with about 200 lines of clean ZSH.
 
 PZ does just enough to manage your Zsh plugins really well, and then gets out of your way. And it's unit tested too to make sure it works as expected!
+
 ### [sheldon ![GitHub Repo stars](https://img.shields.io/github/stars/rossmacarthur/sheldon) ![GitHub last commit](https://img.shields.io/github/last-commit/rossmacarthur/sheldon)](https://github.com/rossmacarthur/sheldon)
 
 A fast, configurable, shell plugin manager.
@@ -213,13 +214,13 @@ Yazt is a simple zsh theme manager in maintence that is compatible with nearly e
 
 zapack is a basic fast minimal ZSH plugin loader.
 
-### [zeesh ![GitHub Repo stars](https://img.shields.io/github/stars/zeekay/zeesh) ![GitHub last commit](https://img.shields.io/github/last-commit/zeekay/zeesh)](https://github.com/zeekay/zeesh)
-
-**Zeesh** is a cross-platform ZSH framework. It's similar to, but incompatible with, [oh-my-zsh](http://ohmyz.sh/). It has a modular plugin architecture making it easy to extend. It has a rich set of defaults, but is designed to be as lightweight as possible.
-
 ### [zcomet ![GitHub Repo stars](https://img.shields.io/github/stars/agkozak/zcomet) ![GitHub last commit](https://img.shields.io/github/last-commit/agkozak/zcomet)](https://github.com/agkozak/zcomet)
 
 **zcomet** is a minimalistic ZSH plugin manager that gets you to the prompt surprisingly quickly without caching (see the benchmarks). In addition to loading and updating plugins stored in Git repositories, it supports lazy-loading plugins (further reducing startup time) as well as downloading and sourcing code snippets.
+
+### [zeesh ![GitHub Repo stars](https://img.shields.io/github/stars/zeekay/zeesh) ![GitHub last commit](https://img.shields.io/github/last-commit/zeekay/zeesh)](https://github.com/zeekay/zeesh)
+
+**Zeesh** is a cross-platform ZSH framework. It's similar to, but incompatible with, [oh-my-zsh](http://ohmyz.sh/). It has a modular plugin architecture making it easy to extend. It has a rich set of defaults, but is designed to be as lightweight as possible.
 
 ### [zgem ![GitHub Repo stars](https://img.shields.io/github/stars/qoomon/zgem) ![GitHub last commit](https://img.shields.io/github/last-commit/qoomon/zgem)](https://github.com/qoomon/zgem)
 
@@ -691,6 +692,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 * [gitcd (viko16) ![GitHub Repo stars](https://img.shields.io/github/stars/viko16/gitcd.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/viko16/gitcd.plugin.zsh)](https://github.com/viko16/gitcd.plugin.zsh) - Automatically `cd` to a `git` working directory after cloning it.
 * [gitfast ![GitHub Repo stars](https://img.shields.io/github/stars/tevren/gitfast-zsh-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/tevren/gitfast-zsh-plugin)](https://github.com/tevren/gitfast-zsh-plugin) - Updated fork of oh-my-zsh gitfast plugin.
 * [gitgo ![GitHub Repo stars](https://img.shields.io/github/stars/ltj/gitgo) ![GitHub last commit](https://img.shields.io/github/last-commit/ltj/gitgo)](https://github.com/ltj/gitgo) - Open a Github/Gitlab repository in your browser from the command line (macOS only).
+* [github ![GitHub Repo stars](https://img.shields.io/github/stars/shakir-abdo/zsh-github-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/shakir-abdo/zsh-github-plugin)](https://github.com/shakir-abdo/zsh-github-plugin) - Fork of the original [github plugin ![GitHub Repo stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/github) embedded in [oh-my-zsh](http://ohmyz.sh/).
 * [github-issues ![GitHub Repo stars](https://img.shields.io/github/stars/zdharma/zsh-github-issues) ![GitHub last commit](https://img.shields.io/github/last-commit/zdharma/zsh-github-issues)](https://github.com/zdharma/zsh-github-issues) - Subscribe to projects on Github and receive within shell (under prompt) notifications about new issues.
 * [gitignore ![GitHub Repo stars](https://img.shields.io/github/stars/voronkovich/gitignore.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/voronkovich/gitignore.plugin.zsh)](https://github.com/voronkovich/gitignore.plugin.zsh) - Plugin for creating `.gitignore` files.
 * [gitio ![GitHub Repo stars](https://img.shields.io/github/stars/denysdovhan/gitio-zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/denysdovhan/gitio-zsh)](https://github.com/denysdovhan/gitio-zsh) - A ZSH plugin for generating a GitHub short URL using [git.io](https://git.io).
