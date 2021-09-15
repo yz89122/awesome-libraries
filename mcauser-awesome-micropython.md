@@ -393,7 +393,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-upybbot ![GitHub Repo stars](https://img.shields.io/github/stars/jeffmer/micropython-upybbot) ![GitHub last commit](https://img.shields.io/github/last-commit/jeffmer/micropython-upybbot)](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
 * [uln2003 ![GitHub Repo stars](https://img.shields.io/github/stars/IDWizard/uln2003) ![GitHub last commit](https://img.shields.io/github/last-commit/IDWizard/uln2003)](https://github.com/IDWizard/uln2003) - Driver for 5V 28BYJ-48 stepper motors.
-* [micropython-multiaxis](https://gitlab.com/olivier.len02/micropython-multiaxis) - Multiaxis with MicroPython ESP32 and DRV8825.
+* [micropython-multiaxis](https://gitlab.com/olivierlenoir/micropython-multiaxis) - Multiaxis with MicroPython ESP32 and DRV8825.
 * [ticlib ![GitHub Repo stars](https://img.shields.io/github/stars/jphalip/ticlib) ![GitHub last commit](https://img.shields.io/github/last-commit/jphalip/ticlib)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
 
 ### Sensors
@@ -605,6 +605,7 @@ Other places you can look for MicroPython Libraries:
 
 ### IDEs
 
+* [BIPES](https://bipes.net.br/beta2/ui/) - Web based IDE for MicroPython with file manager, editor, code generation from blocks, IoT dashboard and Serial/USB/Bluetooth/WebREPL console on the web browser! Source: [https://github.com/BIPES](https://github.com/BIPES).
 * [JetBrains IntelliJ/PyCharm MicroPython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - Plugin for MicroPython devices in IntelliJ and PyCharm.
 * [Micropython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - MicroPython IDE for VSCode README.
 * [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a MicroPython REPL terminal.
