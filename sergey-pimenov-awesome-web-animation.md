@@ -48,6 +48,7 @@ This list contains the most useful tools and data for creating web animations.
 - [Bezier easing ![GitHub Repo stars](https://img.shields.io/github/stars/gre/bezier-easing) ![GitHub last commit](https://img.shields.io/github/last-commit/gre/bezier-easing)](https://github.com/gre/bezier-easing) - Cubic-bezier implementation for your JavaScript animation easings.
 - [Glsl easings ![GitHub Repo stars](https://img.shields.io/github/stars/glslify/glsl-easings) ![GitHub last commit](https://img.shields.io/github/last-commit/glslify/glsl-easings)](https://github.com/glslify/glsl-easings) - Easing functions in GLSL.
 - [ES6-tween ![GitHub Repo stars](https://img.shields.io/github/stars/tweenjs/es6-tween) ![GitHub last commit](https://img.shields.io/github/last-commit/tweenjs/es6-tween)](https://github.com/tweenjs/es6-tween) - ES6 version of tween.js.
+- [Weeee.js ![GitHub Repo stars](https://img.shields.io/github/stars/sfi0zy/weeee) ![GitHub last commit](https://img.shields.io/github/last-commit/sfi0zy/weeee)](https://github.com/sfi0zy/weeee) - Tiny Javascript tweening engine.
 
 ## CSS
 
