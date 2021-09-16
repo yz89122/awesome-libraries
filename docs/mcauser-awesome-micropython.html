@@ -69,6 +69,8 @@
       <li><a href="#sensors">Sensors</a></li>
       <li><a href="#scheduling">Scheduling</a></li>
       <li><a href="#storage">Storage</a></li>
+      <li><a href="#threading">Threading</a></li>
+      <li><a href="#user-interface">User Interface</a></li>
     </ul>
   </li>
   <li><a href="#community">Community</a></li>
@@ -81,10 +83,12 @@
       <li><a href="#code-generation">Code Generation</a></li>
       <li><a href="#debugging">Debugging</a></li>
       <li><a href="#ides">IDEs</a></li>
+      <li><a href="#logging">Logging</a></li>
       <li><a href="#Shells">Shells</a></li>
     </ul>
   </li>
   <li><a href="#miscellaneous">Miscellaneous</a></li>
+  <li><a href="#contributing">Contributing</a></li>
 </ul>
 
 <h2 id="libraries">Libraries</h2>
@@ -138,7 +142,7 @@
   <li>
 <a href="https://github.com/jczic/KT403A-MP3">KT403A-MP3 <img src="https://img.shields.io/github/stars/jczic/KT403A-MP3" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jczic/KT403A-MP3" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.</li>
   <li>
-<a href="https://github.com/fruch/micropython-buzzer">micropython-buzzer <img src="https://img.shields.io/github/stars/fruch/micropython-buzzer" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/fruch/micropython-buzzer" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Play nokia compose and mid files on buzzers.</li>
+<a href="https://github.com/fruch/micropython-buzzer">micropython-buzzer <img src="https://img.shields.io/github/stars/fruch/micropython-buzzer" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/fruch/micropython-buzzer" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Play Nokia compose and mid files on buzzers.</li>
   <li>
 <a href="https://github.com/ShrimpingIt/micropython-dfplayer">micropython-dfplayer <img src="https://img.shields.io/github/stars/ShrimpingIt/micropython-dfplayer" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/ShrimpingIt/micropython-dfplayer" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Driver for DFPlayer Mini using UART.</li>
   <li>
@@ -173,9 +177,11 @@
   <li>
 <a href="https://github.com/radeklat/micropython-thingspeak">micropython-thingspeak <img src="https://img.shields.io/github/stars/radeklat/micropython-thingspeak" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/radeklat/micropython-thingspeak" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).</li>
   <li>
-<a href="https://github.com/gsampallo/micropython_pushbullet">micropython_pushbullet <img src="https://img.shields.io/github/stars/gsampallo/micropython_pushbullet" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/gsampallo/micropython_pushbullet" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Simple example of how to use pushbullet with MicroPython on ESP8266.</li>
+<a href="https://github.com/gsampallo/micropython_pushbullet">micropython_pushbullet <img src="https://img.shields.io/github/stars/gsampallo/micropython_pushbullet" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/gsampallo/micropython_pushbullet" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Simple example of how to use PushBullet with MicroPython on ESP8266.</li>
   <li>
-<a href="https://github.com/alvarowolfx/esp32-youtube-display">esp32-youtube-display <img src="https://img.shields.io/github/stars/alvarowolfx/esp32-youtube-display" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/alvarowolfx/esp32-youtube-display" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Display Youtube metrics using Google API and MicroPython.</li>
+<a href="https://github.com/alvarowolfx/esp32-youtube-display">esp32-youtube-display <img src="https://img.shields.io/github/stars/alvarowolfx/esp32-youtube-display" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/alvarowolfx/esp32-youtube-display" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Display YouTube metrics using Google API and MicroPython.</li>
+  <li>
+<a href="https://github.com/tltx/micropython-spotify-web-api">micropython-spotify-web-api <img src="https://img.shields.io/github/stars/tltx/micropython-spotify-web-api" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/tltx/micropython-spotify-web-api" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A library for using Spotify’s web API from a IoT device with MicroPython.</li>
 </ul>
 
 <h4 id="bluetooth">Bluetooth</h4>
@@ -184,7 +190,7 @@
   <li>
 <a href="https://github.com/KipCrossing/PyBoard-HC05-Android">PyBoard-HC05-Android <img src="https://img.shields.io/github/stars/KipCrossing/PyBoard-HC05-Android" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/KipCrossing/PyBoard-HC05-Android" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Pyboard HC05 Bluetooth adaptor example application.</li>
   <li>
-<a href="https://github.com/dmazzella/uble">uble <img src="https://img.shields.io/github/stars/dmazzella/uble" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/dmazzella/uble" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Lightweight Bluetooth Low Energy driver written in pure python for micropython.</li>
+<a href="https://github.com/dmazzella/uble">uble <img src="https://img.shields.io/github/stars/dmazzella/uble" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/dmazzella/uble" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Lightweight Bluetooth Low Energy driver written in pure Python for MicroPython.</li>
   <li>
 <a href="https://github.com/Heerkog/MicroPythonBLEHID">MicroPythonBLEHID <img src="https://img.shields.io/github/stars/Heerkog/MicroPythonBLEHID" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Heerkog/MicroPythonBLEHID" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.</li>
   <li>
@@ -212,13 +218,15 @@
   <li>
 <a href="https://github.com/dmazzella/ucrypto">ucrypto <img src="https://img.shields.io/github/stars/dmazzella/ucrypto" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/dmazzella/ucrypto" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython package for doing fast elliptic curve cryptography, specifically digital signatures. API design inspired from fastecdsa and implementation based on tomsfastmath.</li>
   <li>
-<a href="https://github.com/dmazzella/ucryptoauthlib">ucryptoauthlib <img src="https://img.shields.io/github/stars/dmazzella/ucryptoauthlib" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/dmazzella/ucryptoauthlib" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Lightweight driver for Microchip Crypto Authentication secure elements written in pure python for micropython.</li>
+<a href="https://github.com/dmazzella/ucryptoauthlib">ucryptoauthlib <img src="https://img.shields.io/github/stars/dmazzella/ucryptoauthlib" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/dmazzella/ucryptoauthlib" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Lightweight driver for Microchip Crypto Authentication secure elements written in pure python for MicroPython.</li>
   <li>
 <a href="https://github.com/diybitcoinhardware/embit">embit <img src="https://img.shields.io/github/stars/diybitcoinhardware/embit" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/diybitcoinhardware/embit" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A minimal bitcoin library for MicroPython and Python3 with a focus on embedded systems.</li>
   <li>
 <a href="https://github.com/gdassori/microotp">microotp <img src="https://img.shields.io/github/stars/gdassori/microotp" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/gdassori/microotp" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A ESP8266 MicroPython OTP Generator.</li>
   <li>
 <a href="https://github.com/artem-smotrakov/micropython-rsa-signing">micropython-rsa-signing <img src="https://img.shields.io/github/stars/artem-smotrakov/micropython-rsa-signing" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/artem-smotrakov/micropython-rsa-signing" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - RSA signing on MicroPython.</li>
+  <li>
+<a href="https://github.com/jacklinquan/micropython-cryptomsg">micropython-cryptomsg <img src="https://img.shields.io/github/stars/jacklinquan/micropython-cryptomsg" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jacklinquan/micropython-cryptomsg" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A MicroPython module to encrypt and decrypt messages with AES CBC mode.</li>
 </ul>
 
 <h4 id="dns">DNS</h4>
@@ -252,6 +260,8 @@
 <a href="https://github.com/robert-hh/FTP-Server-for-ESP8266-ESP32-and-PYBD">FTP-Server-for-ESP8266-ESP32-and-PYBD <img src="https://img.shields.io/github/stars/robert-hh/FTP-Server-for-ESP8266-ESP32-and-PYBD" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/robert-hh/FTP-Server-for-ESP8266-ESP32-and-PYBD" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Small FTP server for ESP8266/ESP32/PYBD on the MicroPython platform.</li>
   <li>
 <a href="https://github.com/cpopp/MicroFTPServer">MicroFTPServer <img src="https://img.shields.io/github/stars/cpopp/MicroFTPServer" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/cpopp/MicroFTPServer" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Minimal FTP Server that can run on an ESP8266 with MicroPython.</li>
+  <li>
+<a href="https://github.com/cwyark/micropython-uaioftp">micropython-uaioftp <img src="https://img.shields.io/github/stars/cwyark/micropython-uaioftp" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/cwyark/micropython-uaioftp" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Lightweight FTP library for MicroPython.</li>
 </ul>
 
 <h4 id="gps">GPS</h4>
@@ -274,6 +284,8 @@
 <a href="https://github.com/olablt/micropython-sim800">micropython-sim800 <img src="https://img.shields.io/github/stars/olablt/micropython-sim800" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/olablt/micropython-sim800" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython driver for sim800.</li>
   <li>
 <a href="https://github.com/basanovase/sim800">sim800 <img src="https://img.shields.io/github/stars/basanovase/sim800" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/basanovase/sim800" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Library for interfacing with SIM800 module in MicroPython.</li>
+  <li>
+<a href="https://github.com/JiekangHuang/MicroPython-AM7020">MicroPython-AM7020 <img src="https://img.shields.io/github/stars/JiekangHuang/MicroPython-AM7020" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/JiekangHuang/MicroPython-AM7020" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython driver for AM7020 Narrowband Internet of Things (NBIoT) module.</li>
 </ul>
 
 <h4 id="iot">IoT</h4>
@@ -453,7 +465,7 @@
   <li>
 <a href="https://github.com/dastultz/micropython-ppm-decoder">micropython-ppm-decoder <img src="https://img.shields.io/github/stars/dastultz/micropython-ppm-decoder" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/dastultz/micropython-ppm-decoder" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Utility for decoding an R/C receiver PPM frame signal.</li>
   <li>
-<a href="https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools">ESP32-433Mhz-Receiver-and-Tools <img src="https://img.shields.io/github/stars/Aschhoff/ESP32-433Mhz-Receiver-and-Tools" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Aschhoff/ESP32-433Mhz-Receiver-and-Tools" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - ESP32 433Mhz Receiver written in MicroPython and Tools for Windows</li>
+<a href="https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools">ESP32-433Mhz-Receiver-and-Tools <img src="https://img.shields.io/github/stars/Aschhoff/ESP32-433Mhz-Receiver-and-Tools" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Aschhoff/ESP32-433Mhz-Receiver-and-Tools" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - ESP32 433Mhz Receiver written in MicroPython and Tools for Windows.</li>
 </ul>
 
 <h4 id="repl">REPL</h4>
@@ -500,6 +512,8 @@
 <ul>
   <li>
 <a href="https://github.com/jeffmakes/mpy-miniterm">mpy-miniterm <img src="https://img.shields.io/github/stars/jeffmakes/mpy-miniterm" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jeffmakes/mpy-miniterm" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Tool for seamless serial debug and file synchronisation with MicroPython devices via the serial REPL.</li>
+  <li>
+<a href="https://gitlab.com/olivierlenoir/MicroPython-MorseCode">MicroPython-MorseCode</a> - International Morse Code using a micro-controller with MicroPython.</li>
 </ul>
 
 <h4 id="serialization">Serialization</h4>
@@ -511,6 +525,13 @@
 <a href="https://github.com/jazzycamel/micropython-uprotobuf">micropython-uprotobuf <img src="https://img.shields.io/github/stars/jazzycamel/micropython-uprotobuf" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jazzycamel/micropython-uprotobuf" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A lightweight implementation of Google’s Protocol Buffers (protobuf) for MicroPython.</li>
   <li>
 <a href="https://github.com/dogtopus/minipb">minipb <img src="https://img.shields.io/github/stars/dogtopus/minipb" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/dogtopus/minipb" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Mini Protobuf {de}serializer in pure Python.</li>
+</ul>
+
+<h4 id="socks">SOCKS</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/kost/micropython-socks">micropython-socks <img src="https://img.shields.io/github/stars/kost/micropython-socks" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/kost/micropython-socks" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython library implementing SOCKS server.</li>
 </ul>
 
 <h4 id="smtp">SMTP</h4>
@@ -549,7 +570,7 @@
   <li>
 <a href="https://github.com/mitchins/micropython-wifimanager">micropython-wifimanager <img src="https://img.shields.io/github/stars/mitchins/micropython-wifimanager" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mitchins/micropython-wifimanager" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A simple network configuration utility for MicroPython on the ESP8266 board.</li>
   <li>
-<a href="https://github.com/tayfunulu/WiFiManager">WiFiManager <img src="https://img.shields.io/github/stars/tayfunulu/WiFiManager" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/tayfunulu/WiFiManager" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython.</li>
+<a href="https://github.com/tayfunulu/WiFiManager">WiFiManager <img src="https://img.shields.io/github/stars/tayfunulu/WiFiManager" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/tayfunulu/WiFiManager" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.</li>
 </ul>
 
 <h4 id="web">Web</h4>
@@ -679,6 +700,8 @@
 <a href="https://github.com/dhylands/python_lcd">python_lcd <img src="https://img.shields.io/github/stars/dhylands/python_lcd" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/dhylands/python_lcd" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Driver for HD44780 compatible dot matrix LCDs.</li>
   <li>
 <a href="https://github.com/wjdp/micropython-lcd">micropython-lcd <img src="https://img.shields.io/github/stars/wjdp/micropython-lcd" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/wjdp/micropython-lcd" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Class for controlling the HD44780 from a MicroPython pyboard.</li>
+  <li>
+<a href="https://gitlab.com/rafalosa/HD44780-lcd-upy">HD44780-lcd-upy</a> - MicroPython module for controlling a generic HD44780 LCD.</li>
 </ul>
 
 <h4 id="lcd-graphic">LCD Graphic</h4>
@@ -744,7 +767,11 @@
   <li>
 <a href="https://github.com/schumixmd/TTGO-ST7789-MicroPython">TTGO-ST7789-MicroPython <img src="https://img.shields.io/github/stars/schumixmd/TTGO-ST7789-MicroPython" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/schumixmd/TTGO-ST7789-MicroPython" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython ST7789 display driver for TTGO T-Display ESP32 CP2104 WiFi Bluetooth Module 1.14 Inch LCD.</li>
   <li>
-<a href="https://github.com/cheungbx/st7735_micropython">st7735_micropython <img src="https://img.shields.io/github/stars/cheungbx/st7735_micropython" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/cheungbx/st7735_micropython" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - ST7735 MicroPython drivers for 80x160, 128x128, 128x160 for ESP8266</li>
+<a href="https://github.com/cheungbx/st7735_micropython">st7735_micropython <img src="https://img.shields.io/github/stars/cheungbx/st7735_micropython" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/cheungbx/st7735_micropython" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - ST7735 MicroPython drivers for 80x160, 128x128, 128x160 for ESP8266.</li>
+  <li>
+<a href="https://gitlab.com/mhepp63/ili934x-micropython">ili934x-micropython</a> - Library for using ILI9341 display drivers with MicroPython.</li>
+  <li>
+<a href="https://gitlab.com/mo_krauti/micropython-st7735-esp8266">micropython-st7735-esp8266</a> - MicroPython driver for ST7735 TFT displays on the esp8266.</li>
 </ul>
 
 <h4 id="led-matrix">LED Matrix</h4>
@@ -805,7 +832,7 @@
   <li>
 <a href="https://github.com/oysols/tlc5940-micropython">tlc5940-micropython <img src="https://img.shields.io/github/stars/oysols/tlc5940-micropython" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/oysols/tlc5940-micropython" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Driver for TLC5940 16 channel LED driver.</li>
   <li>
-<a href="https://github.com/nickovs/ws2812-SPI">ws2812-SPI <img src="https://img.shields.io/github/stars/nickovs/ws2812-SPI" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/nickovs/ws2812-SPI" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - An efficient micropython WS2812 (NeoPixel) driver.</li>
+<a href="https://github.com/nickovs/ws2812-SPI">ws2812-SPI <img src="https://img.shields.io/github/stars/nickovs/ws2812-SPI" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/nickovs/ws2812-SPI" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - An efficient MicroPython WS2812 (NeoPixel) driver.</li>
   <li>
 <a href="https://github.com/HeMan/micropython-ws2801">micropython-ws2801 <img src="https://img.shields.io/github/stars/HeMan/micropython-ws2801" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/HeMan/micropython-ws2801" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A MicroPython library to interface with strands of WS2801 RGB LEDs.</li>
   <li>
@@ -818,6 +845,8 @@
 <a href="https://github.com/kdschlosser/micropython_fastled">micropython_fastled <img src="https://img.shields.io/github/stars/kdschlosser/micropython_fastled" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/kdschlosser/micropython_fastled" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Port of FastLED to MicroPython.</li>
   <li>
 <a href="https://github.com/thebaron88/micropython_quickled">micropython_quickled <img src="https://img.shields.io/github/stars/thebaron88/micropython_quickled" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/thebaron88/micropython_quickled" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython module which allows python to pump data into the ws2811 leds at full speed.</li>
+  <li>
+<a href="https://gitlab.com/Athanaze/micropython-rgb-led-driver">micropython-rgb-led-driver</a> - Tiny driver to control an RGB LED with PWM.</li>
 </ul>
 
 <h4 id="oled">OLED</h4>
@@ -841,7 +870,7 @@
 <a href="https://github.com/rdagger/micropython-ssd1309">micropython-ssd1309 <img src="https://img.shields.io/github/stars/rdagger/micropython-ssd1309" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rdagger/micropython-ssd1309" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython SSD1309 Monochrome OLED Display Driver.</li>
 </ul>
 
-<h3 id="printer">Printer</h3>
+<h4 id="printer">Printer</h4>
 
 <ul>
   <li>
@@ -904,8 +933,6 @@
 <a href="https://github.com/mcauser/micropython-pcf8575">micropython-pcf8575 <img src="https://img.shields.io/github/stars/mcauser/micropython-pcf8575" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mcauser/micropython-pcf8575" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython driver for PCF8575 16-Bit I2C I/O Expander with Interrupt.</li>
   <li>
 <a href="https://gitlab.com/cediddi/micropython-pcf8591">micropython-pcf8591</a> - MicroPython driver for PCF8591 8-Bit I2C I/O Expander.</li>
-  <li>
-<a href="https://github.com/mcauser/micropython-74hc595">micropython-74hc595 <img src="https://img.shields.io/github/stars/mcauser/micropython-74hc595" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mcauser/micropython-74hc595" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython driver for 74HC595 8-bit shift registers.</li>
 </ul>
 
 <h4 id="joystick">Joystick</h4>
@@ -920,6 +947,10 @@
 <ul>
   <li>
 <a href="https://github.com/mcameron/micropython-keyboard">micropython-keyboard <img src="https://img.shields.io/github/stars/mcameron/micropython-keyboard" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mcameron/micropython-keyboard" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - 47 key keyboard running on a MicroPython pyboard.</li>
+  <li>
+<a href="https://github.com/martinohanlon/pico-rgbkeypad">pico-rgbkeypad <img src="https://img.shields.io/github/stars/martinohanlon/pico-rgbkeypad" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/martinohanlon/pico-rgbkeypad" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A Python class for controlling the Pimoroni RGB Keypad for Raspberry Pi Pico.</li>
+  <li>
+<a href="https://github.com/jacklinquan/micropython-aiobutton">micropython-aiobutton <img src="https://img.shields.io/github/stars/jacklinquan/micropython-aiobutton" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jacklinquan/micropython-aiobutton" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A MicroPython module for asyncio button.</li>
 </ul>
 
 <h4 id="potentiometers">Potentiometers</h4>
@@ -962,6 +993,15 @@
 <a href="https://github.com/infinite-tree/micropython-encoder-knob">micropython-encoder-knob <img src="https://img.shields.io/github/stars/infinite-tree/micropython-encoder-knob" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/infinite-tree/micropython-encoder-knob" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A very simple lightweight encoder knob library with button support.</li>
 </ul>
 
+<h4 id="shift-registers">Shift Registers</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/mcauser/micropython-74hc595">micropython-74hc595 <img src="https://img.shields.io/github/stars/mcauser/micropython-74hc595" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mcauser/micropython-74hc595" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython driver for 74HC595 8-bit shift registers.</li>
+  <li>
+<a href="https://gitlab.com/olivierlenoir/MicroPython-SN74HCS264">MicroPython-SN74HCS264</a> - MicroPython Driver for SN74HCS264 8-Bit Parallel-Out Serial Shift Registers With Schmitt-Trigger Inputs and Inverted Outputs.</li>
+</ul>
+
 <h4 id="waveform-generator">Waveform Generator</h4>
 
 <ul>
@@ -982,6 +1022,8 @@
 <ul>
   <li>
 <a href="https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py">L298N <img src="https://img.shields.io/github/stars/GuyCarver/MicroPython" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/GuyCarver/MicroPython" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Driver for the L298N dual h-bridge motor controller.</li>
+  <li>
+<a href="https://gitlab.com/olivierlenoir/MicroPython-L298">MicroPython-L298</a> - Drive L298 dual H-bridge with MicroPython.</li>
 </ul>
 
 <h4 id="servo">Servo</h4>
@@ -1063,6 +1105,8 @@
 <a href="https://github.com/triplepoint/micropython_bme280_i2c">micropython_bme280_i2c <img src="https://img.shields.io/github/stars/triplepoint/micropython_bme280_i2c" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/triplepoint/micropython_bme280_i2c" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A MicroPython module for communicating with the Bosch BME280 temperature, humidity, and pressure sensor.</li>
   <li>
 <a href="https://github.com/neliogodoi/MicroPython-BME280">MicroPython-BME280 <img src="https://img.shields.io/github/stars/neliogodoi/MicroPython-BME280" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/neliogodoi/MicroPython-BME280" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Driver to digital sensor of Temperature, Pressure and Humidity.</li>
+  <li>
+<a href="https://gitlab.com/flowolf/micropython-bmp180">micropython-bmp180</a> - A module for MicroPython which provides a class for the BMP180 pressure sensor.</li>
 </ul>
 
 <h4 id="battery">Battery</h4>
@@ -1100,6 +1144,13 @@
 <a href="https://github.com/jono-allen/MQTT-Cam">MQTT-Cam <img src="https://img.shields.io/github/stars/jono-allen/MQTT-Cam" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jono-allen/MQTT-Cam" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - ESP-32 Cam MicroPython MQTT AWS S3 Uploader.</li>
 </ul>
 
+<h4 id="colour">Colour</h4>
+
+<ul>
+  <li>
+<a href="https://gitlab.com/robhamerling/micropython-tcs34725">micropython-tcs34725</a> - Driver class for TCS34725 and TCS34727 color sensors.</li>
+</ul>
+
 <h4 id="compass">Compass</h4>
 
 <ul>
@@ -1108,7 +1159,7 @@
   <li>
 <a href="https://github.com/robert-hh/QMC5883">QMC5883 <img src="https://img.shields.io/github/stars/robert-hh/QMC5883" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/robert-hh/QMC5883" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Python class for the QMC5883 Three-Axis Digital Compass IC.</li>
   <li>
-<a href="https://github.com/capella-ben/microPython_AS5600L">microPython_AS5600L <img src="https://img.shields.io/github/stars/capella-ben/microPython_AS5600L" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/capella-ben/microPython_AS5600L" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython driver for AS5600L magnet rotary postion sensor.</li>
+<a href="https://github.com/capella-ben/microPython_AS5600L">microPython_AS5600L <img src="https://img.shields.io/github/stars/capella-ben/microPython_AS5600L" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/capella-ben/microPython_AS5600L" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython driver for AS5600L magnet rotary position sensor.</li>
 </ul>
 
 <h4 id="current">Current</h4>
@@ -1122,6 +1173,8 @@
 <a href="https://github.com/robert-hh/INA219">INA219 <img src="https://img.shields.io/github/stars/robert-hh/INA219" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/robert-hh/INA219" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - INA219 MicroPython driver.</li>
   <li>
 <a href="https://github.com/elschopi/TI_INA226_micropython">TI_INA226_micropython <img src="https://img.shields.io/github/stars/elschopi/TI_INA226_micropython" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/elschopi/TI_INA226_micropython" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython driver for Texas Instruments INA226 power measuring IC.</li>
+  <li>
+<a href="https://gitlab.com/n.rj.powers/micropython-current-monitor">micropython-current-monitor</a> - Current monitor using the INA219 and an SSD1306 OLED.</li>
 </ul>
 
 <h4 id="distance-ir">Distance IR</h4>
@@ -1188,6 +1241,8 @@
 <a href="https://github.com/Notthemarsian/CCS811">CCS811 <img src="https://img.shields.io/github/stars/Notthemarsian/CCS811" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Notthemarsian/CCS811" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Basic MicroPython driver for CCS811 on ESP8266 boards.</li>
   <li>
 <a href="https://github.com/agners/micropython-scd30">micropython-scd30 <img src="https://img.shields.io/github/stars/agners/micropython-scd30" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/agners/micropython-scd30" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.</li>
+  <li>
+<a href="https://github.com/agners/micropython-sgp40">micropython-sgp40 <img src="https://img.shields.io/github/stars/agners/micropython-sgp40" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/agners/micropython-sgp40" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython I2C driver for SGP40 VOC sensor module.</li>
 </ul>
 
 <h4 id="light">Light</h4>
@@ -1231,7 +1286,7 @@
   <li>
 <a href="https://github.com/micropython-IMU/micropython-fusion">micropython-fusion <img src="https://img.shields.io/github/stars/micropython-IMU/micropython-fusion" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/micropython-IMU/micropython-fusion" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.</li>
   <li>
-<a href="https://github.com/wagnerc4/flight_controller">flight_controller <img src="https://img.shields.io/github/stars/wagnerc4/flight_controller" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/wagnerc4/flight_controller" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - micropython flight controller.</li>
+<a href="https://github.com/wagnerc4/flight_controller">flight_controller <img src="https://img.shields.io/github/stars/wagnerc4/flight_controller" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/wagnerc4/flight_controller" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython flight controller.</li>
   <li>
 <a href="micropython-IMU/micropython-bno055">micropython-bno055</a> - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.</li>
   <li>
@@ -1240,13 +1295,15 @@
 <a href="https://github.com/OneMadGypsy/upy-motion">upy-motion <img src="https://img.shields.io/github/stars/OneMadGypsy/upy-motion" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/OneMadGypsy/upy-motion" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A simple MPU6050 driver written in MicroPython.</li>
   <li>
 <a href="https://github.com/rdagger/micropython-bno08x-rvc">micropython-bno08x-rvc <img src="https://img.shields.io/github/stars/rdagger/micropython-bno08x-rvc" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rdagger/micropython-bno08x-rvc" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython library for bno08x.</li>
+  <li>
+<a href="https://gitlab.com/nnayo/micropython-mpu9250">micropython-mpu9250</a> - MicroPython MPU-9250 (MPU-6500 + AK8963) I2C driver.</li>
 </ul>
 
 <h4 id="pressure">Pressure</h4>
 
 <ul>
   <li>
-<a href="https://github.com/minyiky/ms5803-micropython">ms5803-micropython <img src="https://img.shields.io/github/stars/minyiky/ms5803-micropython" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/minyiky/ms5803-micropython" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A micropython implimentation of the driver for an MS5803 pressure &amp; temperature sensor.</li>
+<a href="https://github.com/minyiky/ms5803-micropython">ms5803-micropython <img src="https://img.shields.io/github/stars/minyiky/ms5803-micropython" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/minyiky/ms5803-micropython" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A MicroPython implementation of the driver for an MS5803 pressure &amp; temperature sensor.</li>
   <li>
 <a href="https://github.com/PinsonJonas/MPL3115A2_MicroPython">MPL3115A2_MicroPython <img src="https://img.shields.io/github/stars/PinsonJonas/MPL3115A2_MicroPython" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/PinsonJonas/MPL3115A2_MicroPython" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython library for the MPL3115A2 Altimeter.</li>
 </ul>
@@ -1255,7 +1312,7 @@
 
 <ul>
   <li>
-<a href="https://github.com/rlangoy/uPy_APDS9960">uPy_APDS9960 <img src="https://img.shields.io/github/stars/rlangoy/uPy_APDS9960" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rlangoy/uPy_APDS9960" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython proximitiy library for esp8266 using APDS9960.</li>
+<a href="https://github.com/rlangoy/uPy_APDS9960">uPy_APDS9960 <img src="https://img.shields.io/github/stars/rlangoy/uPy_APDS9960" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rlangoy/uPy_APDS9960" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython proximity library for esp8266 using APDS9960.</li>
 </ul>
 
 <h4 id="radiation">Radiation</h4>
@@ -1290,6 +1347,8 @@
 <a href="https://github.com/mcauser/deshipu-micropython-max31855">micropython-max31855 <img src="https://img.shields.io/github/stars/mcauser/deshipu-micropython-max31855" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-max31855" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Thermocouple amplifier, SPI interface.</li>
   <li>
 <a href="https://github.com/alinbaltaru/max31856">max31856 <img src="https://img.shields.io/github/stars/alinbaltaru/max31856" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/alinbaltaru/max31856" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Precision thermocouple to digital converter with linearization, SPI interface.</li>
+  <li>
+<a href="https://gitlab.com/CrispyCrafter/mcp9700">mcp9700</a> - Generic MicroPython driver for MCP9700.</li>
 </ul>
 
 <h4 id="temperature-digital">Temperature Digital</h4>
@@ -1341,6 +1400,12 @@
 <a href="https://github.com/julianhille/htu21d-esp8266">htu21d-esp8266 <img src="https://img.shields.io/github/stars/julianhille/htu21d-esp8266" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/julianhille/htu21d-esp8266" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - This is a MicroPython module / class to measure data from the htu21d.</li>
   <li>
 <a href="https://github.com/HAIZAKURA/esp-sht3x-micropython">esp-sht3x-micropython <img src="https://img.shields.io/github/stars/HAIZAKURA/esp-sht3x-micropython" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/HAIZAKURA/esp-sht3x-micropython" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A SHT3x (SHT30/31/35) Lib for esp8266/esp32 with MicroPython.</li>
+  <li>
+<a href="https://gitlab.com/miceuz/sht25-micropython">sht25-micropython</a> - MicroPython implementation of API of SHT25 Humidity and Temperature Sensor.</li>
+  <li>
+<a href="https://github.com/schinckel/micropython-sht30">micropython-sht30 <img src="https://img.shields.io/github/stars/schinckel/micropython-sht30" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/schinckel/micropython-sht30" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - SHT30 sensor driver in pure python based on I2C bus.</li>
+  <li>
+<a href="https://github.com/targetblank/micropython_ahtx0">micropython_ahtx0 <img src="https://img.shields.io/github/stars/targetblank/micropython_ahtx0" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/targetblank/micropython_ahtx0" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.</li>
 </ul>
 
 <h4 id="temperature-ir">Temperature IR</h4>
@@ -1359,6 +1424,8 @@
 <a href="https://github.com/mcauser/micropython-ttp223">micropython-ttp223 <img src="https://img.shields.io/github/stars/mcauser/micropython-ttp223" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mcauser/micropython-ttp223" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Examples using TTP223 capacitive touch module.</li>
   <li>
 <a href="https://github.com/alankrantas/micropython-TTP229-BSF">micropython-TTP229-BSF <img src="https://img.shields.io/github/stars/alankrantas/micropython-TTP229-BSF" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/alankrantas/micropython-TTP229-BSF" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython ESP8266/ESP32 driver for TTP229-BSF 16-key capacitive keypad in serial interface mode.</li>
+  <li>
+<a href="https://github.com/fantasticdonkey/uFT6336U">uFT6336U <img src="https://img.shields.io/github/stars/fantasticdonkey/uFT6336U" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/fantasticdonkey/uFT6336U" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython I2C driver for the Focus LCDs FT6336U capacitive touch panel controller IC.</li>
 </ul>
 
 <h4 id="touch-resistive">Touch Resistive</h4>
@@ -1405,6 +1472,8 @@
 <ul>
   <li>
 <a href="https://github.com/peterhinch/micropython_eeprom">micropython_eeprom <img src="https://img.shields.io/github/stars/peterhinch/micropython_eeprom" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/peterhinch/micropython_eeprom" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - MicroPython device drivers for nonvolatile memory chips (EEPROM, FRAM, Flash).</li>
+  <li>
+<a href="https://github.com/MarksBench/mb_24x256_512">mb_24x256_512 <img src="https://img.shields.io/github/stars/MarksBench/mb_24x256_512" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/MarksBench/mb_24x256_512" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Very simple MicroPython module/driver for Microchip 24x256 and 24x512 I2C EEPROM devices.</li>
 </ul>
 
 <h4 id="flash">Flash</h4>
@@ -1419,6 +1488,22 @@
 <ul>
   <li>
 <a href="https://github.com/rolandvs/micropython-fram">micropython-fram <img src="https://img.shields.io/github/stars/rolandvs/micropython-fram" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rolandvs/micropython-fram" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Pyboard driver for Ferroelectric RAM module.</li>
+</ul>
+
+<h3 id="psram">PSRAM</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/MarksBench/mb_PSRAM_64Mb_SPI">mb_PSRAM_64Mb_SPI <img src="https://img.shields.io/github/stars/MarksBench/mb_PSRAM_64Mb_SPI" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/MarksBench/mb_PSRAM_64Mb_SPI" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Very simple MicroPython module to use a generic 64Mbit PSRAM (ie Adafruit 4677) with a Raspberry Pi Pico (RP2040).</li>
+</ul>
+
+<h3 id="sram">SRAM</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/MarksBench/mb_23LC1024">mb_23LC1024 <img src="https://img.shields.io/github/stars/MarksBench/mb_23LC1024" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/MarksBench/mb_23LC1024" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Very simple MicroPython module to use a Microchip 23LC1024 SPI SRAM with a Raspberry Pi Pico (RP2040).</li>
+  <li>
+<a href="https://github.com/MarksBench/mb_47x16">mb_47x16 <img src="https://img.shields.io/github/stars/MarksBench/mb_47x16" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/MarksBench/mb_47x16" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Very simple MicroPython module/driver for Microchip 47x16 EERAM devices (47L/47C).</li>
 </ul>
 
 <h3 id="threading">Threading</h3>
