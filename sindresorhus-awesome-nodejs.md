@@ -523,6 +523,7 @@
 - [jimp ![GitHub Repo stars](https://img.shields.io/github/stars/oliver-moran/jimp) ![GitHub last commit](https://img.shields.io/github/last-commit/oliver-moran/jimp)](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 - [probe-image-size ![GitHub Repo stars](https://img.shields.io/github/stars/nodeca/probe-image-size) ![GitHub last commit](https://img.shields.io/github/last-commit/nodeca/probe-image-size)](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 - [qrcode ![GitHub Repo stars](https://img.shields.io/github/stars/soldair/node-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/soldair/node-qrcode)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+- [ImageScript ![GitHub Repo stars](https://img.shields.io/github/stars/matmen/ImageScript) ![GitHub last commit](https://img.shields.io/github/last-commit/matmen/ImageScript)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ### Text
 

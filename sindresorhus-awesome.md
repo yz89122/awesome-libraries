@@ -828,6 +828,7 @@
 - [Veganism ![GitHub Repo stars](https://img.shields.io/github/stars/sdassow/awesome-veganism) ![GitHub last commit](https://img.shields.io/github/last-commit/sdassow/awesome-veganism)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 - [Translations ![GitHub Repo stars](https://img.shields.io/github/stars/mbiesiad/awesome-translations) ![GitHub last commit](https://img.shields.io/github/last-commit/mbiesiad/awesome-translations)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 - [Scriptable ![GitHub Repo stars](https://img.shields.io/github/stars/dersvenhesse/awesome-scriptable) ![GitHub last commit](https://img.shields.io/github/last-commit/dersvenhesse/awesome-scriptable)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
+- [WebXR ![GitHub Repo stars](https://img.shields.io/github/stars/msub2/awesome-webxr) ![GitHub last commit](https://img.shields.io/github/last-commit/msub2/awesome-webxr)](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
 
 ## Related
 
