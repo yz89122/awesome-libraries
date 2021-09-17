@@ -220,7 +220,7 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 - [Lets-Chat](https://sdelements.github.io/lets-chat/) - Self hosted chat suite written in Node. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/sdelements/lets-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/sdelements/lets-chat)](https://github.com/sdelements/lets-chat)) `MIT` `Nodejs`
 - [LibreNews](https://librenews.io/) - Decentralized and secure breaking news notification system. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/milesmcc/LibreNews-Server) ![GitHub last commit](https://img.shields.io/github/last-commit/milesmcc/LibreNews-Server)](https://github.com/milesmcc/LibreNews-Server/)) `GPL-3.0` `Python`
 - [Live Helper Chat](https://livehelperchat.com/) - Live Support chat for your website. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat) ![GitHub last commit](https://img.shields.io/github/last-commit/LiveHelperChat/livehelperchat)](https://github.com/LiveHelperChat/livehelperchat)) `Apache-2.0` `PHP`
-- [LiveKit](https://livekit.io/) - Modern, scalable WebRTC conferencing platform with client SDKs. ([Demo](https://livekit.io/playground)), ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/livekit/livekit-server) ![GitHub last commit](https://img.shields.io/github/last-commit/livekit/livekit-server)](https://github.com/livekit/livekit-server)) `Apache-2.0` `Go`
+- [LiveKit](https://livekit.io/) - Modern, scalable WebRTC conferencing platform with client SDKs. ([Demo](https://livekit.io/playground), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/livekit/livekit-server) ![GitHub last commit](https://img.shields.io/github/last-commit/livekit/livekit-server)](https://github.com/livekit/livekit-server)) `Apache-2.0` `Go`
 - [Matrix Console Web](https://matrix.org/docs/projects/client/matrix-console-web) - Web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/matrix-org/matrix-angular-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/matrix-org/matrix-angular-sdk)](https://github.com/matrix-org/matrix-angular-sdk)) `Apache-2.0` `Javascript`
 - [Mattermost](https://mattermost.org/) - Open-source, on-prem Slack-alternative. It can be integrated with Gitlab. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/mattermost-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mattermost/mattermost-server)](https://github.com/mattermost/mattermost-server)) `AGPL-3.0/Apache-2.0` `Go`
 - [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Canop/miaou) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/miaou)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
@@ -278,6 +278,18 @@ Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 - [wildduck](https://wildduck.email/) - Scalable no-SPOF IMAP/POP3 mail server. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/nodemailer/wildduck) ![GitHub last commit](https://img.shields.io/github/last-commit/nodemailer/wildduck)](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs`
 
 
+### Communication - Email - Mail Delivery Agents
+
+**[`^        back to top        ^`](#)**
+
+MDAs - IMAP/POP3 software
+
+- [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/cyrusimap/cyrus-imapd) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrusimap/cyrus-imapd)](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`
+- [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/dovecot/core) ![GitHub last commit](https://img.shields.io/github/last-commit/dovecot/core)](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C`
+- [MailForm ![GitHub Repo stars](https://img.shields.io/github/stars/Feuerhamster/mailform) ![GitHub last commit](https://img.shields.io/github/last-commit/Feuerhamster/mailform)](https://github.com/Feuerhamster/mailform) - Lightweight self-hosted open source alternative to Formspree and SendGrid. `Apache-2.0` `Nodejs`
+- [Piler](https://www.mailpiler.org/wiki/start) - feature-rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPL-3.0` `C`
+
+
 ### Communication - Email - Mail Transfer Agents
 
 **[`^        back to top        ^`](#)**
@@ -298,18 +310,6 @@ MTAs / SMTP servers
 - [Slimta](https://www.slimta.org) - Mail Transfer Library built on Python. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/slimta/python-slimta) ![GitHub last commit](https://img.shields.io/github/last-commit/slimta/python-slimta)](https://github.com/slimta/python-slimta)) `MIT` `Python`
 
 
-### Communication - Email - Mail Delivery Agents
-
-**[`^        back to top        ^`](#)**
-
-MDAs - IMAP/POP3 software
-
-- [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/cyrusimap/cyrus-imapd) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrusimap/cyrus-imapd)](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`
-- [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/dovecot/core) ![GitHub last commit](https://img.shields.io/github/last-commit/dovecot/core)](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C`
-- [MailForm ![GitHub Repo stars](https://img.shields.io/github/stars/Feuerhamster/mailform) ![GitHub last commit](https://img.shields.io/github/last-commit/Feuerhamster/mailform)](https://github.com/Feuerhamster/mailform) - Lightweight self-hosted open source alternative to Formspree and SendGrid. `Apache-2.0` `Nodejs`
-- [Piler](https://www.mailpiler.org/wiki/start) - feature-rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPL-3.0` `C`
-
-
 ### Communication - Email - Mailing Lists and Newsletters
 
 **[`^        back to top        ^`](#)**
@@ -317,12 +317,12 @@ MDAs - IMAP/POP3 software
 Mailing lists servers and mass mailing software - one message to many recipients.
 
 - [Dada Mail](https://dadamailproject.com/) - Web-based list management system that can be used for announcement lists and/or discussion lists. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/justingit/dada-mail) ![GitHub last commit](https://img.shields.io/github/last-commit/justingit/dada-mail)](https://github.com/justingit/dada-mail)) `GPL-2.0` `Perl`
+- [HyperKitty](https://wiki.list.org/HyperKitty) - Open source Django application to provide a web interface to access GNU Mailman v3 archives. ([Demo](https://lists.mailman3.org/), [Source Code](https://gitlab.com/mailman/hyperkitty)) `GPL-3.0` `Python`
 - [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/knadh/listmonk) ![GitHub last commit](https://img.shields.io/github/last-commit/knadh/listmonk)](https://github.com/knadh/listmonk)) `AGPL-3.0` `Go`
 - [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `GPL-3.0` `Python`
 - [Mailtrain](https://mailtrain.org/) - Self hosted newsletter application. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Mailtrain-org/mailtrain) ![GitHub last commit](https://img.shields.io/github/last-commit/Mailtrain-org/mailtrain)](https://github.com/Mailtrain-org/mailtrain)) `GPL-3.0` `Nodejs`
 - [MailyHerald](https://mailyherald.org/) - Self-hosted Mailchimp alternative that you can easily integrate with your site. Helps you send and manage your application mailings. It supports email marketing and conducting the daily stream of notifications you send to your users. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Sology/maily_herald) ![GitHub last commit](https://img.shields.io/github/last-commit/Sology/maily_herald)](https://github.com/Sology/maily_herald)) `LGPL-3.0` `Ruby`
 - [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social and more). ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mautic/mautic) ![GitHub last commit](https://img.shields.io/github/last-commit/mautic/mautic)](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`
-- [HyperKitty](https://wiki.list.org/HyperKitty) - Open source Django application to provide a web interface to access GNU Mailman v3 archives. ([Demo](https://lists.mailman3.org/), [Source Code](https://gitlab.com/mailman/hyperkitty)) `GPL-3.0` `Python`
 - [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPL-3.0` `PHP`
 - [Postal](https://postal.atech.media/) - Fully featured open source mail delivery platform for incoming and outgoing e-mail. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/postalhq/postal) ![GitHub last commit](https://img.shields.io/github/last-commit/postalhq/postal)](https://github.com/postalhq/postal)) `MIT` `Ruby`
 - [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - Web user interface to access GNU Mailman. ([Source Code](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`
@@ -595,9 +595,9 @@ _See also: [awesome-sysadmin/DNS ![GitHub Repo stars](https://img.shields.io/git
 - [EveryDocs ![GitHub Repo stars](https://img.shields.io/github/stars/jonashellmann/everydocs-core) ![GitHub last commit](https://img.shields.io/github/last-commit/jonashellmann/everydocs-core)](https://github.com/jonashellmann/everydocs-core/) - A simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Ruby`
 - [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mkucej/i-librarian-free) ![GitHub last commit](https://img.shields.io/github/last-commit/mkucej/i-librarian-free)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
 - [Mayan EDMS](https://www.mayan-edms.com) - Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features. ([Source Code](https://gitlab.com/mayan-edms/mayan-edms)) `Apache-2.0` `Python`
-- [paper{s}pace](https://dedicatedcode.com/projects/) - a small web application to manage all your offline documents. Provides a searchable storage for your documents and reminds you of upcoming tasks. ([Source Code](https://gitlab.com/dedicatedcode/paperspace)) `MIT` `Java`
 - [Paperless-ng ![GitHub Repo stars](https://img.shields.io/github/stars/jonaswinkler/paperless-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/jonaswinkler/paperless-ng)](https://github.com/jonaswinkler/paperless-ng) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. `GPL-3.0` `Python`
 - [Papermerge](https://www.papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/ciur/papermerge) ![GitHub last commit](https://img.shields.io/github/last-commit/ciur/papermerge)](https://github.com/ciur/papermerge)) `Apache-2.0` `Python`
+- [paper{s}pace](https://dedicatedcode.com/projects/) - a small web application to manage all your offline documents. Provides a searchable storage for your documents and reminds you of upcoming tasks. ([Source Code](https://gitlab.com/dedicatedcode/paperspace)) `MIT` `Java`
 - [Teedy](https://teedy.io/) - (Ex SismicsDocs) Lightweight document management system packed with all the features you can expect from big expensive solutions. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/sismics/docs) ![GitHub last commit](https://img.shields.io/github/last-commit/sismics/docs)](https://github.com/sismics/docs)) `GPL-2.0` `Java`
 
 
@@ -617,17 +617,6 @@ _See also: [awesome-sysadmin/DNS ![GitHub Repo stars](https://img.shields.io/git
 - [The Epube](https://tt-rss.org/the-epube) - Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre. ([Source Code](https://git.tt-rss.org/fox/the-epube)) `GPL-3.0` `PHP`
 
 
-### Document Management - Integrated Library Systems (ILS)
-
-**[`^        back to top        ^`](#)**
-
-_Related: [Content Management Systems (CMS)](#content-management-systems-cms), [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)_
-
-- [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/evergreen-library-system/Evergreen) ![GitHub last commit](https://img.shields.io/github/last-commit/evergreen-library-system/Evergreen)](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PL/pgSQL`
-- [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Koha-Community/Koha) ![GitHub last commit](https://img.shields.io/github/last-commit/Koha-Community/Koha)](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
-- [RERO ILS](https://rero21.ch/) - Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. ([Demo](https://ils.test.rero.ch/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/rero/rero-ils) ![GitHub last commit](https://img.shields.io/github/last-commit/rero/rero-ils)](https://github.com/rero/rero-ils)) `AGPL-3.0` `Python/Other`
-
-
 ### Document Management - Institutional Repository and Digital Library Software
 
 **[`^        back to top        ^`](#)**
@@ -637,6 +626,17 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [
 - [Fedora Commons Repository](https://fedorarepository.org/) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/fcrepo/fcrepo) ![GitHub last commit](https://img.shields.io/github/last-commit/fcrepo/fcrepo)](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
 - [Islandora](https://islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Islandora/islandora) ![GitHub last commit](https://img.shields.io/github/last-commit/Islandora/islandora)](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
 - [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/samvera/hyrax) ![GitHub last commit](https://img.shields.io/github/last-commit/samvera/hyrax)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
+
+
+### Document Management - Integrated Library Systems (ILS)
+
+**[`^        back to top        ^`](#)**
+
+_Related: [Content Management Systems (CMS)](#content-management-systems-cms), [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)_
+
+- [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/evergreen-library-system/Evergreen) ![GitHub last commit](https://img.shields.io/github/last-commit/evergreen-library-system/Evergreen)](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PL/pgSQL`
+- [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Koha-Community/Koha) ![GitHub last commit](https://img.shields.io/github/last-commit/Koha-Community/Koha)](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
+- [RERO ILS](https://rero21.ch/) - Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. ([Demo](https://ils.test.rero.ch/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/rero/rero-ils) ![GitHub last commit](https://img.shields.io/github/last-commit/rero/rero-ils)](https://github.com/rero/rero-ils)) `AGPL-3.0` `Python/Other`
 
 
 ### E-commerce
@@ -681,9 +681,14 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 
 **[`^        back to top        ^`](#)**
 
+A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed a feed aggregator, feed reader, news reader, [RSS](https://en.wikipedia.org/wiki/RSS) reader or simply an aggregator, is client software or a web application that aggregates syndicated web content such as online newspapers, blogs/vlogs, podcasts, and other updates in one location for easy viewing. This also section includes RSS/Atom automation tools.
+
 - [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Athou/commafeed) ![GitHub last commit](https://img.shields.io/github/last-commit/Athou/commafeed)](https://github.com/Athou/commafeed)) `Apache-2.0` `Java`
 - [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/feedhq/feedhq) ![GitHub last commit](https://img.shields.io/github/last-commit/feedhq/feedhq)](https://github.com/feedhq/feedhq)) `BSD-3-Clause` `Python`
+- [Feedpushr ![GitHub Repo stars](https://img.shields.io/github/stars/ncarlier/feedpushr) ![GitHub last commit](https://img.shields.io/github/last-commit/ncarlier/feedpushr)](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go`
 - [FreshRSS](https://freshrss.org/) - Self-hostable RSS feed aggregator. ([Demo](https://demo.freshrss.org/i/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS) ![GitHub last commit](https://img.shields.io/github/last-commit/FreshRSS/FreshRSS)](https://github.com/FreshRSS/FreshRSS), [Clients ![GitHub Repo stars](https://img.shields.io/github/stars/Alkarex/EasyRSS) ![GitHub last commit](https://img.shields.io/github/last-commit/Alkarex/EasyRSS)](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP`
+- [Full-Text RSS](https://fivefilters.org/content-only) - Extract article content from news sites and blogs and convert RSS feeds that contain only extracts of stories to full-text feeds. Developed by FiveFilters.org. ([Source Code](https://bitbucket.org/fivefilters/full-text-rss)) `GPL-3.0` `PHP`
+- [Goeland ![GitHub Repo stars](https://img.shields.io/github/stars/slurdge/goeland) ![GitHub last commit](https://img.shields.io/github/last-commit/slurdge/goeland)](https://github.com/slurdge/goeland) - Reads RSS/Atom feeds and filter/digest them to create beautiful emails. `MIT` `Go`
 - [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/nhoening/gritttt-rss) ![GitHub last commit](https://img.shields.io/github/last-commit/nhoening/gritttt-rss)](https://github.com/nhoening/gritttt-rss)) `BSD-2-Clause` `Python`
 - [JARR](https://1pxsolidblack.pl/jarr-en.html) - JARR (Just Another RSS Reader) is a web-based news aggregator and reader (fork of Newspipe). ([Demo](https://jarr.info/login?next=%2F), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/jaesivsm/JARR) ![GitHub last commit](https://img.shields.io/github/last-commit/jaesivsm/JARR)](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Python`
 - [Kriss Feed](https://tontof.net/kriss/feed/) - Simple and smart (or stupid) feed reader. ([Demo](https://tontof.net/feed/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/tontof/kriss_feed) ![GitHub last commit](https://img.shields.io/github/last-commit/tontof/kriss_feed)](https://github.com/tontof/kriss_feed)) `CC0-1.0` `PHP`
@@ -695,8 +700,14 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 - [NewsBlur](https://www.newsblur.com/) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/samuelclay/NewsBlur) ![GitHub last commit](https://img.shields.io/github/last-commit/samuelclay/NewsBlur)](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`
 - [newsdash ![GitHub Repo stars](https://img.shields.io/github/stars/buzz/newsdash) ![GitHub last commit](https://img.shields.io/github/last-commit/buzz/newsdash)](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes. `AGPL-3.0` `Nodejs`
 - [Newspipe](https://git.sr.ht/~cedric/newspipe) - Newspipe is a web news reader. ([Demo](https://www.newspipe.org/signup)) `AGPL-3.0` `Python`
+- [PolitePol ![GitHub Repo stars](https://img.shields.io/github/stars/taroved/pol) ![GitHub last commit](https://img.shields.io/github/last-commit/taroved/pol)](https://github.com/taroved/pol) - Online tool for creation of RSS feeds for any web page. ([Demo](https://politepol.com)) `MIT` `Python`
 - [reader ![GitHub Repo stars](https://img.shields.io/github/stars/lemon24/reader) ![GitHub last commit](https://img.shields.io/github/last-commit/lemon24/reader)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
+- [RSS Fulltext Proxy ![GitHub Repo stars](https://img.shields.io/github/stars/Kombustor/rss-fulltext-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/Kombustor/rss-fulltext-proxy)](https://github.com/Kombustor/rss-fulltext-proxy) - Mirrors RSS feeds to return the full content of the items, extracted from the website. `MIT` `Nodejs`
+- [RSS Merger ![GitHub Repo stars](https://img.shields.io/github/stars/taophp/rss-merger) ![GitHub last commit](https://img.shields.io/github/last-commit/taophp/rss-merger)](https://github.com/taophp/rss-merger) - PHP script which will take multiple RSS / Atom feeds as input and merge them into a single RSS feed. `GPL-2.0` `PHP`
 - [RSS Monster ![GitHub Repo stars](https://img.shields.io/github/stars/pietheinstrengholt/rssmonster) ![GitHub last commit](https://img.shields.io/github/last-commit/pietheinstrengholt/rssmonster)](https://github.com/pietheinstrengholt/rssmonster) - RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader. `MIT` `PHP`
+- [RSS-Bridge ![GitHub Repo stars](https://img.shields.io/github/stars/RSS-Bridge/rss-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/RSS-Bridge/rss-bridge)](https://github.com/RSS-Bridge/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Unlicense` `PHP`
+- [RSS2EMail ![GitHub Repo stars](https://img.shields.io/github/stars/rss2email/rss2email) ![GitHub last commit](https://img.shields.io/github/last-commit/rss2email/rss2email)](https://github.com/rss2email/rss2email) - Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. `GPL-2.0` `Python`
+- [Screaming Liquid Tiger ![GitHub Repo stars](https://img.shields.io/github/stars/herrbischoff/screaming-liquid-tiger) ![GitHub last commit](https://img.shields.io/github/last-commit/herrbischoff/screaming-liquid-tiger)](https://github.com/herrbischoff/screaming-liquid-tiger) - Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder. `MIT` `PHP`
 - [Selfoss](https://selfoss.aditu.de/) - New multipurpose rss reader, live stream, mashup, aggregation web application. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/fossar/selfoss) ![GitHub last commit](https://img.shields.io/github/last-commit/fossar/selfoss)](https://github.com/fossar/selfoss)) `GPL-3.0` `PHP`
 - [Sismics Reader](https://www.sismics.com/reader/) - Free and open source feeds reader, including all major Google Reader features. ([Demo](https://www.sismics.com/reader/#!/demo), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/sismics/reader) ![GitHub last commit](https://img.shields.io/github/last-commit/sismics/reader)](https://github.com/sismics/reader)) `GPL-2.0` `Java`
 - [Stringer ![GitHub Repo stars](https://img.shields.io/github/stars/swanson/stringer) ![GitHub last commit](https://img.shields.io/github/last-commit/swanson/stringer)](https://github.com/swanson/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
@@ -705,18 +716,6 @@ _Related: [Community-Supported Agriculture (CSA)](#community-supported-agricultu
 - [ttrss-mobile ![GitHub Repo stars](https://img.shields.io/github/stars/mboinet/ttrss-mobile) ![GitHub last commit](https://img.shields.io/github/last-commit/mboinet/ttrss-mobile)](https://github.com/mboinet/ttrss-mobile) - Mobile webapp for Tiny Tiny RSS. `AGPL-3.0` `Javascript`
 - [ttrss-reader ![GitHub Repo stars](https://img.shields.io/github/stars/kucrut/ttrss-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/kucrut/ttrss-reader)](https://github.com/kucrut/ttrss-reader) - Light and responsive client for TTRSS. `GPL-2.0` `Javascript`
 - [Winds](https://getstream.io/winds/) `⚠` - Open source and beautiful RSS reader built using React/Redux/Sails/Node and Stream. It showcases personalized feeds powered by the Stream API. ([Demo](https://winds.getstream.io/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/GetStream/Winds) ![GitHub last commit](https://img.shields.io/github/last-commit/GetStream/Winds)](https://github.com/GetStream/Winds)) `BSD-3-Clause` `Nodejs`
-
-_RSS/Atom automation_
-
-- [Feedpushr ![GitHub Repo stars](https://img.shields.io/github/stars/ncarlier/feedpushr) ![GitHub last commit](https://img.shields.io/github/last-commit/ncarlier/feedpushr)](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go`
-- [Full-Text RSS](https://fivefilters.org/content-only) - Extract article content from news sites and blogs and convert RSS feeds that contain only extracts of stories to full-text feeds. Developed by FiveFilters.org. ([Source Code](https://bitbucket.org/fivefilters/full-text-rss)) `GPL-3.0` `PHP`
-- [Goeland ![GitHub Repo stars](https://img.shields.io/github/stars/slurdge/goeland) ![GitHub last commit](https://img.shields.io/github/last-commit/slurdge/goeland)](https://github.com/slurdge/goeland) - Reads RSS/Atom feeds and filter/digest them to create beautiful emails. `MIT` `Go`
-- [PolitePol ![GitHub Repo stars](https://img.shields.io/github/stars/taroved/pol) ![GitHub last commit](https://img.shields.io/github/last-commit/taroved/pol)](https://github.com/taroved/pol) - Online tool for creation of RSS feeds for any web page. ([Demo](https://politepol.com)) `MIT` `Python`
-- [RSS Fulltext Proxy ![GitHub Repo stars](https://img.shields.io/github/stars/Kombustor/rss-fulltext-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/Kombustor/rss-fulltext-proxy)](https://github.com/Kombustor/rss-fulltext-proxy) - Mirrors RSS feeds to return the full content of the items, extracted from the website. `MIT` `Nodejs`
-- [RSS Merger ![GitHub Repo stars](https://img.shields.io/github/stars/taophp/rss-merger) ![GitHub last commit](https://img.shields.io/github/last-commit/taophp/rss-merger)](https://github.com/taophp/rss-merger) - PHP script which will take multiple RSS / Atom feeds as input and merge them into a single RSS feed. `GPL-2.0` `PHP`
-- [RSS-Bridge ![GitHub Repo stars](https://img.shields.io/github/stars/RSS-Bridge/rss-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/RSS-Bridge/rss-bridge)](https://github.com/RSS-Bridge/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Unlicense` `PHP`
-- [RSS2EMail ![GitHub Repo stars](https://img.shields.io/github/stars/rss2email/rss2email) ![GitHub last commit](https://img.shields.io/github/last-commit/rss2email/rss2email)](https://github.com/rss2email/rss2email) - Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. `GPL-2.0` `Python`
-- [Screaming Liquid Tiger ![GitHub Repo stars](https://img.shields.io/github/stars/herrbischoff/screaming-liquid-tiger) ![GitHub last commit](https://img.shields.io/github/last-commit/herrbischoff/screaming-liquid-tiger)](https://github.com/herrbischoff/screaming-liquid-tiger) - Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder. `MIT` `PHP`
 
 
 ### File Transfer & Synchronization
@@ -995,9 +994,9 @@ _See also: [awesome-gis ![GitHub Repo stars](https://img.shields.io/github/stars
 
 **[`^        back to top        ^`](#)**
 
-_See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/List_of_streaming_media_systems), [Comparison of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems)_
-
 **Please visit [Media streaming - Audio Streaming](#media-streaming---audio-streaming), [Media streaming - Multimedia Streaming](#media-streaming---mutimedia-streaming), [Media streaming - Video Streaming](#media-streaming---video-streaming)**
+
+_See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/List_of_streaming_media_systems), [Comparison of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems)_
 
 
 ### Media Streaming - Audio Streaming
