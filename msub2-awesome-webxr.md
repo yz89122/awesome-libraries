@@ -69,6 +69,7 @@
 
 ### Discord
 
+- [Metaverse Makers](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - Official Discord server for all things WebXR, with over 1000 members.
 - [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
 
@@ -97,9 +98,10 @@
 - [Active Replica](https://www.activereplica.com/) - Offers virtual event hosting through Mozilla Hubs.
 - [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
 - [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
+- [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
 - [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
-- [Vhite Rabbit](https://vhiterabbit.com/) - Parent company responsible for Construct Arcade and Wonderland Engine.
+- [Vhite Rabbit](https://vhiterabbit.com/) - Parent company behind Construct Arcade.
 
 ## Content Hubs
 
@@ -202,6 +204,7 @@
 
 *YouTube channels with a heavy focus on WebXR.*
 
+- [M3](https://www.youtube.com/channel/UCSNCMWhEojiVjUySdI7J_wg) - Official M3 channel.
 - [WebXR](https://www.youtube.com/c/WebXR) - Official WebXR channel.
 - [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - Contains clips, VODs, and other videos from the WebXR Summit Series.
 - [Wonderland Engine](https://www.youtube.com/channel/UCgaPCwqmAmre7mW0J7K8IkA) - Official Wonderland Engine channel.
