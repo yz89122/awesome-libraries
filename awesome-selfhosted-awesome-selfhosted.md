@@ -455,7 +455,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-_[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software_
+[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software
 
 
 ### Communication - XMPP - Servers
@@ -573,48 +573,6 @@ _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#s
 - [WriteFreely](https://writefreely.org) - Writing software for starting a minimalist, federated blog — or an entire community. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/writefreely/writefreely) ![GitHub last commit](https://img.shields.io/github/last-commit/writefreely/writefreely)](https://github.com/writefreely/writefreely)) `AGPL-3.0` `Go`
 
 
-### Recipe Management
-
-**[`^        back to top        ^`](#)**
-
-- [kcal ![GitHub Repo stars](https://img.shields.io/github/stars/kcal-app/kcal) ![GitHub last commit](https://img.shields.io/github/last-commit/kcal-app/kcal)](https://github.com/kcal-app/kcal) - Track nutritional information about foods and recipes, set goals, and record a food journal to help along the way. Kcal is a personal system that focuses on direct control of inputs and a minimal, easy to use recipe presentation for preparing meals. ([Demo](http://demo.kcal.cooking/login)) `MPL-2.0` `PHP`
-- [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/hay-kot/mealie) ![GitHub last commit](https://img.shields.io/github/last-commit/hay-kot/mealie)](https://github.com/hay-kot/mealie)) `MIT` `Python`
-- [OpenEats ![GitHub Repo stars](https://img.shields.io/github/stars/open-eats/OpenEats) ![GitHub last commit](https://img.shields.io/github/last-commit/open-eats/OpenEats)](https://github.com/open-eats/OpenEats) - Recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Demo](https://open-eats.github.io/)) `MIT` `Python`
-- [RecipeSage ![GitHub Repo stars](https://img.shields.io/github/stars/julianpoy/recipesage) ![GitHub last commit](https://img.shields.io/github/last-commit/julianpoy/recipesage)](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
-- [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/vabene1111/recipes) ![GitHub last commit](https://img.shields.io/github/last-commit/vabene1111/recipes)](https://github.com/vabene1111/recipes/)) `MIT` `Python`
-
-
-### E-commerce
-
-**[`^        back to top        ^`](#)**
-
-_Related: [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)_
-
-- [Aimeos](https://aimeos.org/) - Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code](https://github.com/aimeos)) `LGPL-3.0/MIT` `PHP`
-- [Attendize](https://www.attendize.com/) - Ticket selling and event management platform. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/attendize/attendize) ![GitHub last commit](https://img.shields.io/github/last-commit/attendize/attendize)](https://github.com/attendize/attendize)) `AAL` `PHP`
-- [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/bagisto/bagisto) ![GitHub last commit](https://img.shields.io/github/last-commit/bagisto/bagisto)](https://github.com/bagisto/bagisto)) `MIT` `PHP`
-- [CoreShop](https://www.coreshop.org) - CoreShop is a e-commerce plugin for Pimcore. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/coreshop/CoreShop) ![GitHub last commit](https://img.shields.io/github/last-commit/coreshop/CoreShop)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
-- [Drupal Commerce](https://drupalcommerce.org) - Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/drupalcommerce/commerce) ![GitHub last commit](https://img.shields.io/github/last-commit/drupalcommerce/commerce)](https://github.com/drupalcommerce/commerce)) `GPL-2.0` `PHP`
-- [Magento](https://magento.com/) - Leading provider of open omnichannel innovation. ([Demo](https://magento.com/schedule-a-demo), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/magento/magento2) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento2)](https://github.com/magento/magento2)) `OSL-3.0` `PHP`
-- [Microweber](https://microweber.com/) - Drag and Drop CMS and online shop. ([Demo](https://demo.microweber.org/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/microweber/microweber) ![GitHub last commit](https://img.shields.io/github/last-commit/microweber/microweber)](https://github.com/microweber/microweber)) `Apache-2.0` `PHP`
-- [Open Source POS](https://www.opensourcepos.org/) - Open Source Point of Sale is a web based point of sale system. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos) ![GitHub last commit](https://img.shields.io/github/last-commit/opensourcepos/opensourcepos)](https://github.com/opensourcepos/opensourcepos)) `MIT` `PHP`
-- [OpenBazaar](https://www.openbazaar.org) - Decentralized marketplace using cryptocurrency. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/openbazaar/openbazaar-go) ![GitHub last commit](https://img.shields.io/github/last-commit/openbazaar/openbazaar-go)](https://github.com/openbazaar/openbazaar-go)) `MIT` `Go`
-- [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/opencart/opencart) ![GitHub last commit](https://img.shields.io/github/last-commit/opencart/opencart)](https://github.com/opencart/opencart)) `GPL-3.0` `PHP`
-- [OXID eShop](https://oxidforge.org) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Demo](https://demoshop.oxid-esales.com/community-edition/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/OXID-eSales/oxideshop_ce) ![GitHub last commit](https://img.shields.io/github/last-commit/OXID-eSales/oxideshop_ce)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
-- [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](https://demo.prestashop.com/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop) ![GitHub last commit](https://img.shields.io/github/last-commit/PrestaShop/PrestaShop)](https://github.com/PrestaShop/PrestaShop)) `OSL-3.0` `PHP`
-- [Pretix](https://pretix.eu/) - Django based ticket sales platform for events. ([Source Code](https://github.com/pretix)) `Apache-2.0` `Python`
-- [Reaction Commerce](https://reactioncommerce.com/) - Customizable, real-time reactive, Javascript commerce platform. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/reactioncommerce/reaction) ![GitHub last commit](https://img.shields.io/github/last-commit/reactioncommerce/reaction)](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
-- [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.getsaleor.com/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mirumee/saleor) ![GitHub last commit](https://img.shields.io/github/last-commit/mirumee/saleor)](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
-- [Shopware Community Edition](https://shopware.com/community/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/shopware/platform) ![GitHub last commit](https://img.shields.io/github/last-commit/shopware/platform)](https://github.com/shopware/platform)) `MIT` `PHP`
-- [Shuup](https://www.shuup.com/) - Django powered fully customizable open source e-commerce framework for small and large sites. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/shuup/shuup) ![GitHub last commit](https://img.shields.io/github/last-commit/shuup/shuup)](https://github.com/shuup/shuup)) `AGPL-3.0` `Python`
-- [Solidus](https://solidus.io/) - A free, open-source ecommerce platform that gives you complete control over your store. ([Demo](http://demo.solidus.io/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/solidusio/solidus) ![GitHub last commit](https://img.shields.io/github/last-commit/solidusio/solidus)](https://github.com/solidusio/solidus)) `BSD-3-Clause` `Ruby`
-- [Spree Commerce](https://spreecommerce.org) - Spree is a complete, modular & API-driven open source e-commerce solution for Ruby on Rails. ([Demo](https://new-ux.spreecommerce.org/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/spree/spree) ![GitHub last commit](https://img.shields.io/github/last-commit/spree/spree)](https://github.com/spree/spree)) `BSD-3-Clause` `Ruby`
-- [Sylius](https://sylius.com) - Symfony2 powered open source full-stack platform for eCommerce. ([Demo](https://sylius.com/try/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Sylius/Sylius) ![GitHub last commit](https://img.shields.io/github/last-commit/Sylius/Sylius)](https://github.com/Sylius/Sylius)) `MIT` `PHP`
-- [Thelia](https://thelia.net/) - Thelia is an open source and flexible e-commerce solution. ([Demo](https://demo.thelia.net/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/thelia/thelia) ![GitHub last commit](https://img.shields.io/github/last-commit/thelia/thelia)](https://github.com/thelia/thelia)) `LGPL-3.0` `PHP`
-- [WooCommerce](https://woocommerce.com/) - WordPress based e-commerce solution. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/woocommerce/woocommerce) ![GitHub last commit](https://img.shields.io/github/last-commit/woocommerce/woocommerce)](https://github.com/woocommerce/woocommerce)) `GPL-3.0` `PHP`
-- [Yclas](https://yclas.com/) - Free open-source, self-hosted CMS for classifieds sites. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/yclas/yclas) ![GitHub last commit](https://img.shields.io/github/last-commit/yclas/yclas)](https://github.com/yclas/yclas)) `GPL-3.0` `PHP`
-
-
 ### DNS
 
 **[`^        back to top        ^`](#)**
@@ -681,6 +639,37 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [
 - [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/samvera/hyrax) ![GitHub last commit](https://img.shields.io/github/last-commit/samvera/hyrax)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 
+### E-commerce
+
+**[`^        back to top        ^`](#)**
+
+_Related: [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)_
+
+- [Aimeos](https://aimeos.org/) - Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code](https://github.com/aimeos)) `LGPL-3.0/MIT` `PHP`
+- [Attendize](https://www.attendize.com/) - Ticket selling and event management platform. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/attendize/attendize) ![GitHub last commit](https://img.shields.io/github/last-commit/attendize/attendize)](https://github.com/attendize/attendize)) `AAL` `PHP`
+- [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/bagisto/bagisto) ![GitHub last commit](https://img.shields.io/github/last-commit/bagisto/bagisto)](https://github.com/bagisto/bagisto)) `MIT` `PHP`
+- [CoreShop](https://www.coreshop.org) - CoreShop is a e-commerce plugin for Pimcore. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/coreshop/CoreShop) ![GitHub last commit](https://img.shields.io/github/last-commit/coreshop/CoreShop)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
+- [Drupal Commerce](https://drupalcommerce.org) - Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/drupalcommerce/commerce) ![GitHub last commit](https://img.shields.io/github/last-commit/drupalcommerce/commerce)](https://github.com/drupalcommerce/commerce)) `GPL-2.0` `PHP`
+- [Magento](https://magento.com/) - Leading provider of open omnichannel innovation. ([Demo](https://magento.com/schedule-a-demo), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/magento/magento2) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento2)](https://github.com/magento/magento2)) `OSL-3.0` `PHP`
+- [Microweber](https://microweber.com/) - Drag and Drop CMS and online shop. ([Demo](https://demo.microweber.org/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/microweber/microweber) ![GitHub last commit](https://img.shields.io/github/last-commit/microweber/microweber)](https://github.com/microweber/microweber)) `Apache-2.0` `PHP`
+- [Open Source POS](https://www.opensourcepos.org/) - Open Source Point of Sale is a web based point of sale system. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos) ![GitHub last commit](https://img.shields.io/github/last-commit/opensourcepos/opensourcepos)](https://github.com/opensourcepos/opensourcepos)) `MIT` `PHP`
+- [OpenBazaar](https://www.openbazaar.org) - Decentralized marketplace using cryptocurrency. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/openbazaar/openbazaar-go) ![GitHub last commit](https://img.shields.io/github/last-commit/openbazaar/openbazaar-go)](https://github.com/openbazaar/openbazaar-go)) `MIT` `Go`
+- [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/opencart/opencart) ![GitHub last commit](https://img.shields.io/github/last-commit/opencart/opencart)](https://github.com/opencart/opencart)) `GPL-3.0` `PHP`
+- [OXID eShop](https://oxidforge.org) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Demo](https://demoshop.oxid-esales.com/community-edition/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/OXID-eSales/oxideshop_ce) ![GitHub last commit](https://img.shields.io/github/last-commit/OXID-eSales/oxideshop_ce)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
+- [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](https://demo.prestashop.com/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop) ![GitHub last commit](https://img.shields.io/github/last-commit/PrestaShop/PrestaShop)](https://github.com/PrestaShop/PrestaShop)) `OSL-3.0` `PHP`
+- [Pretix](https://pretix.eu/) - Django based ticket sales platform for events. ([Source Code](https://github.com/pretix)) `Apache-2.0` `Python`
+- [Reaction Commerce](https://reactioncommerce.com/) - Customizable, real-time reactive, Javascript commerce platform. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/reactioncommerce/reaction) ![GitHub last commit](https://img.shields.io/github/last-commit/reactioncommerce/reaction)](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
+- [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.getsaleor.com/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mirumee/saleor) ![GitHub last commit](https://img.shields.io/github/last-commit/mirumee/saleor)](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
+- [Shopware Community Edition](https://shopware.com/community/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/shopware/platform) ![GitHub last commit](https://img.shields.io/github/last-commit/shopware/platform)](https://github.com/shopware/platform)) `MIT` `PHP`
+- [Shuup](https://www.shuup.com/) - Django powered fully customizable open source e-commerce framework for small and large sites. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/shuup/shuup) ![GitHub last commit](https://img.shields.io/github/last-commit/shuup/shuup)](https://github.com/shuup/shuup)) `AGPL-3.0` `Python`
+- [Solidus](https://solidus.io/) - A free, open-source ecommerce platform that gives you complete control over your store. ([Demo](http://demo.solidus.io/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/solidusio/solidus) ![GitHub last commit](https://img.shields.io/github/last-commit/solidusio/solidus)](https://github.com/solidusio/solidus)) `BSD-3-Clause` `Ruby`
+- [Spree Commerce](https://spreecommerce.org) - Spree is a complete, modular & API-driven open source e-commerce solution for Ruby on Rails. ([Demo](https://new-ux.spreecommerce.org/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/spree/spree) ![GitHub last commit](https://img.shields.io/github/last-commit/spree/spree)](https://github.com/spree/spree)) `BSD-3-Clause` `Ruby`
+- [Sylius](https://sylius.com) - Symfony2 powered open source full-stack platform for eCommerce. ([Demo](https://sylius.com/try/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Sylius/Sylius) ![GitHub last commit](https://img.shields.io/github/last-commit/Sylius/Sylius)](https://github.com/Sylius/Sylius)) `MIT` `PHP`
+- [Thelia](https://thelia.net/) - Thelia is an open source and flexible e-commerce solution. ([Demo](https://demo.thelia.net/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/thelia/thelia) ![GitHub last commit](https://img.shields.io/github/last-commit/thelia/thelia)](https://github.com/thelia/thelia)) `LGPL-3.0` `PHP`
+- [WooCommerce](https://woocommerce.com/) - WordPress based e-commerce solution. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/woocommerce/woocommerce) ![GitHub last commit](https://img.shields.io/github/last-commit/woocommerce/woocommerce)](https://github.com/woocommerce/woocommerce)) `GPL-3.0` `PHP`
+- [Yclas](https://yclas.com/) - Free open-source, self-hosted CMS for classifieds sites. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/yclas/yclas) ![GitHub last commit](https://img.shields.io/github/last-commit/yclas/yclas)](https://github.com/yclas/yclas)) `GPL-3.0` `PHP`
+
+
 ### Federated Identity & Authentication
 
 **[`^        back to top        ^`](#)**
@@ -730,13 +719,6 @@ _RSS/Atom automation_
 - [Screaming Liquid Tiger ![GitHub Repo stars](https://img.shields.io/github/stars/herrbischoff/screaming-liquid-tiger) ![GitHub last commit](https://img.shields.io/github/last-commit/herrbischoff/screaming-liquid-tiger)](https://github.com/herrbischoff/screaming-liquid-tiger) - Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder. `MIT` `PHP`
 
 
-### Distributed Filesystems
-
-**[`^        back to top        ^`](#)**
-
-**Please visit [awesome-sysadmin/Distributed Filesystems ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems)**
-
-
 ### File Transfer & Synchronization
 
 **[`^        back to top        ^`](#)**
@@ -759,6 +741,23 @@ _Related: [Groupware](#groupware)_
 - [Z-Push](https://z-push.org/) - Implementation of Microsoft’s ActiveSync protocol. ([Source Code](https://stash.kopano.io/projects/ZHUB/repos/z-push)) `AGPL-3.0` `PHP`
 
 
+### File Transfer - Distributed Filesystems
+
+**[`^        back to top        ^`](#)**
+
+**Please visit [awesome-sysadmin/Distributed Filesystems ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems)**
+
+
+### File Transfer - Object Storage & File Servers
+
+**[`^        back to top        ^`](#)**
+
+- [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/minio/minio) ![GitHub last commit](https://img.shields.io/github/last-commit/minio/minio)](https://github.com/minio/minio)) `Apache-2.0` `Go`
+- [SeaweedFS ![GitHub Repo stars](https://img.shields.io/github/stars/chrislusf/seaweedfs) ![GitHub last commit](https://img.shields.io/github/last-commit/chrislusf/seaweedfs)](https://github.com/chrislusf/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
+- [SFTPGo ![GitHub Repo stars](https://img.shields.io/github/stars/drakkan/sftpgo) ![GitHub last commit](https://img.shields.io/github/last-commit/drakkan/sftpgo)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go`
+- [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/scality/cloudserver) ![GitHub last commit](https://img.shields.io/github/last-commit/scality/cloudserver)](https://github.com/scality/cloudserver)) `Apache-2.0` `Nodejs`
+
+
 ### File Transfer - Peer-to-peer Filesharing
 
 **[`^        back to top        ^`](#)**
@@ -778,16 +777,6 @@ _Related: [Groupware](#groupware)_
 - [Send ![GitHub Repo stars](https://img.shields.io/github/stars/timvisee/send) ![GitHub last commit](https://img.shields.io/github/last-commit/timvisee/send)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients ![GitHub Repo stars](https://img.shields.io/github/stars/timvisee/send) ![GitHub last commit](https://img.shields.io/github/last-commit/timvisee/send)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`
 - [Torrents.csv](https://codeberg.org/heretic/torrents-csv-server) - A self-hostable torrent search engine. `GPL-3.0` `Rust`
 - [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/transmission/transmission) ![GitHub last commit](https://img.shields.io/github/last-commit/transmission/transmission)](https://github.com/transmission/transmission)) `GPL-3.0` `C`
-
-
-### File Transfer - Object Storage & File Servers
-
-**[`^        back to top        ^`](#)**
-
-- [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/minio/minio) ![GitHub last commit](https://img.shields.io/github/last-commit/minio/minio)](https://github.com/minio/minio)) `Apache-2.0` `Go`
-- [SeaweedFS ![GitHub Repo stars](https://img.shields.io/github/stars/chrislusf/seaweedfs) ![GitHub last commit](https://img.shields.io/github/last-commit/chrislusf/seaweedfs)](https://github.com/chrislusf/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
-- [SFTPGo ![GitHub Repo stars](https://img.shields.io/github/stars/drakkan/sftpgo) ![GitHub last commit](https://img.shields.io/github/last-commit/drakkan/sftpgo)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go`
-- [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/scality/cloudserver) ![GitHub last commit](https://img.shields.io/github/last-commit/scality/cloudserver)](https://github.com/scality/cloudserver)) `Apache-2.0` `Nodejs`
 
 
 ### File Transfer - Single-click & Drag-n-drop Upload
@@ -821,19 +810,13 @@ _Related: [Groupware](#groupware)_
 - [Pste](https://dev.pste.pw/) - Just a simple file hosting application inspired by the likes of pomf.se and teknik.io. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/FoxDev/pste) ![GitHub last commit](https://img.shields.io/github/last-commit/FoxDev/pste)](https://github.com/FoxDev/pste)) `GPL-3.0` `Python`
 - [Share ![GitHub Repo stars](https://img.shields.io/github/stars/MrDemonWolf/share) ![GitHub last commit](https://img.shields.io/github/last-commit/MrDemonWolf/share)](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader - upload files, images and text with moderation tools for admins. Can be used for friends and family or just for you. Integration with ShareX and more. `MIT` `Nodejs`
 - [Sharry ![GitHub Repo stars](https://img.shields.io/github/stars/eikek/sharry) ![GitHub last commit](https://img.shields.io/github/last-commit/eikek/sharry)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java`
+- [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/dutchcoders/transfer.sh) ![GitHub last commit](https://img.shields.io/github/last-commit/dutchcoders/transfer.sh)](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
 - [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/nokonoko/uguu) ![GitHub last commit](https://img.shields.io/github/last-commit/nokonoko/uguu)](https://github.com/nokonoko/uguu)) `MIT` `PHP`
 - [Up1 ![GitHub Repo stars](https://img.shields.io/github/stars/Upload/Up1) ![GitHub last commit](https://img.shields.io/github/last-commit/Upload/Up1)](https://github.com/Upload/Up1) - Client-side Encrypted Image Host. `MIT` `Nodejs`
 - [Web-File-Uploader](https://v2.femto.pw/) - A simple tool to let people upload and share images and files. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/femto-apps/web-file-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/femto-apps/web-file-uploader)](https://github.com/femto-apps/web-file-uploader)) `MIT` `Nodejs`
 - [XBackBone ![GitHub Repo stars](https://img.shields.io/github/stars/SergiX44/XBackBone) ![GitHub last commit](https://img.shields.io/github/last-commit/SergiX44/XBackBone)](https://github.com/SergiX44/XBackBone) - A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). `AGPL-3.0` `PHP`
 - [YouTransfer](https://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer and sharing solution. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/YouTransfer/YouTransfer) ![GitHub last commit](https://img.shields.io/github/last-commit/YouTransfer/YouTransfer)](https://github.com/YouTransfer/YouTransfer)) `Apache-2.0` `Nodejs`
 - [Zipline](https://zipline.diced.me/) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/diced/zipline) ![GitHub last commit](https://img.shields.io/github/last-commit/diced/zipline)](https://github.com/diced/zipline)) `MIT` `Nodejs`
-
-
-### File Transfer - Command-line File Upload
-
-**[`^        back to top        ^`](#)**
-
-- [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/dutchcoders/transfer.sh) ![GitHub last commit](https://img.shields.io/github/last-commit/dutchcoders/transfer.sh)](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
 
 
 ### File Transfer - Web-based File Managers
@@ -988,7 +971,7 @@ Games, game servers and control panels.
 
 **[`^        back to top        ^`](#)**
 
-_See also: [awesome-gis ![GitHub Repo stars](https://img.shields.io/github/stars/sshuair/awesome-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/sshuair/awesome-gis)](https://github.com/sshuair/awesome-gis)._
+_See also: [awesome-gis ![GitHub Repo stars](https://img.shields.io/github/stars/sshuair/awesome-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/sshuair/awesome-gis)](https://github.com/sshuair/awesome-gis)_
 
 - [Geo2tz ![GitHub Repo stars](https://img.shields.io/github/stars/noandrea/geo2tz) ![GitHub last commit](https://img.shields.io/github/last-commit/noandrea/geo2tz)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 - [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/graphhopper/graphhopper) ![GitHub last commit](https://img.shields.io/github/last-commit/graphhopper/graphhopper)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
@@ -1412,6 +1395,17 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 - [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](https://app.wallabag.it/register/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/wallabag/wallabag) ![GitHub last commit](https://img.shields.io/github/last-commit/wallabag/wallabag)](https://github.com/wallabag/wallabag)) `MIT` `PHP`
 
 
+### Recipe Management
+
+**[`^        back to top        ^`](#)**
+
+- [kcal ![GitHub Repo stars](https://img.shields.io/github/stars/kcal-app/kcal) ![GitHub last commit](https://img.shields.io/github/last-commit/kcal-app/kcal)](https://github.com/kcal-app/kcal) - Track nutritional information about foods and recipes, set goals, and record a food journal to help along the way. Kcal is a personal system that focuses on direct control of inputs and a minimal, easy to use recipe presentation for preparing meals. ([Demo](http://demo.kcal.cooking/login)) `MPL-2.0` `PHP`
+- [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/hay-kot/mealie) ![GitHub last commit](https://img.shields.io/github/last-commit/hay-kot/mealie)](https://github.com/hay-kot/mealie)) `MIT` `Python`
+- [OpenEats ![GitHub Repo stars](https://img.shields.io/github/stars/open-eats/OpenEats) ![GitHub last commit](https://img.shields.io/github/last-commit/open-eats/OpenEats)](https://github.com/open-eats/OpenEats) - Recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Demo](https://open-eats.github.io/)) `MIT` `Python`
+- [RecipeSage ![GitHub Repo stars](https://img.shields.io/github/stars/julianpoy/recipesage) ![GitHub last commit](https://img.shields.io/github/last-commit/julianpoy/recipesage)](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
+- [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/vabene1111/recipes) ![GitHub last commit](https://img.shields.io/github/last-commit/vabene1111/recipes)](https://github.com/vabene1111/recipes/)) `MIT` `Python`
+
+
 ### Resource Planning
 
 **[`^        back to top        ^`](#)**
@@ -1478,20 +1472,6 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 **[`^        back to top        ^`](#)**
 
 
-### Software Development - Bug Trackers
-
-**[`^        back to top        ^`](#)**
-
-**Please visit [Ticketing](#ticketing)**
-
-
-### Software Development - Continuous Integration & Deployment
-
-**[`^        back to top        ^`](#)**
-
-**Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
-
-
 ### Software Development - API Management
 
 **[`^        back to top        ^`](#)**
@@ -1507,6 +1487,20 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 - [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/erudika/para) ![GitHub last commit](https://img.shields.io/github/last-commit/erudika/para)](https://github.com/erudika/para)) `Apache-2.0` `Java`
 - [Pizzly ![GitHub Repo stars](https://img.shields.io/github/stars/bearer/pizzly) ![GitHub last commit](https://img.shields.io/github/last-commit/bearer/pizzly)](https://github.com/bearer/pizzly) - Open-source API Integrations Manager that provides everything a developer needs to interact with OAuth based APIs. `MIT` `Nodejs`
 - [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/TykTechnologies/tyk) ![GitHub last commit](https://img.shields.io/github/last-commit/TykTechnologies/tyk)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go`
+
+
+### Software Development - Bug Trackers
+
+**[`^        back to top        ^`](#)**
+
+**Please visit [Ticketing](#ticketing)**
+
+
+### Software Development - Continuous Integration & Deployment
+
+**[`^        back to top        ^`](#)**
+
+**Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
 
 
 ### Software Development - Documentation Generators
@@ -1525,7 +1519,7 @@ _Related: [Static site generators](#static-site-generators)_
 
 **[`^        back to top        ^`](#)**
 
-_[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)_
+[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)
 
 - [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/appwrite) ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`
 - [fx ![GitHub Repo stars](https://img.shields.io/github/stars/metrue/fx) ![GitHub last commit](https://img.shields.io/github/last-commit/metrue/fx)](https://github.com/metrue/fx) - fx is a tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
@@ -1636,7 +1630,7 @@ _See also: [awesome-sysadmin/Code Review ![GitHub Repo stars](https://img.shield
 
 **[`^        back to top        ^`](#)**
 
-_Related: [Software Development - Project Management](#software-development---project-management), [Ticketing](#ticketing)._
+_Related: [Software Development - Project Management](#software-development---project-management), [Ticketing](#ticketing)_
 
 - [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/focalboard) ![GitHub last commit](https://img.shields.io/github/last-commit/mattermost/focalboard)](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go`
 - [Kanbana ![GitHub Repo stars](https://img.shields.io/github/stars/SrGMC/kanbana) ![GitHub last commit](https://img.shields.io/github/last-commit/SrGMC/kanbana)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files. Forked from Crepido. `MIT` `Nodejs`
@@ -1686,9 +1680,10 @@ _Related: [Task management & To-do lists](#task-management--to-do-lists), [Softw
 
 ### URL Shorteners
 
+**[`^        back to top        ^`](#)**
+
 Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners.
 
-**[`^        back to top        ^`](#)**
 
 - [gShort ![GitHub Repo stars](https://img.shields.io/github/stars/someone-stole-my-name/gShort) ![GitHub last commit](https://img.shields.io/github/last-commit/someone-stole-my-name/gShort)](https://github.com/someone-stole-my-name/gShort) - Privacy-friendly self-hosted URL shortener. ([Demo](http://gshort.christiansegundo.com/)) `GPL-3.0` `Go`
 - [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/thedevs-network/kutt) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevs-network/kutt)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
@@ -1728,7 +1723,7 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 
 _Related: [Software Development - Documentation Generators](#software-development---documentation-generators)_
 
-_See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex](https://wikiindex.org/Category:Wiki_Engine), [List of wiki software - Wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)._
+_See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex](https://wikiindex.org/Category:Wiki_Engine), [List of wiki software - Wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)_
 
 - [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/BookStackApp/BookStack) ![GitHub last commit](https://img.shields.io/github/last-commit/BookStackApp/BookStack)](https://github.com/BookStackApp/BookStack)) `MIT` `PHP`
 - [Cowyo ![GitHub Repo stars](https://img.shields.io/github/stars/schollz/cowyo) ![GitHub last commit](https://img.shields.io/github/last-commit/schollz/cowyo)](https://github.com/schollz/cowyo) - Cowyo is a feature-rich wiki for minimalists. ([Demo](https://cowyo.com)) `MIT` `Go`
