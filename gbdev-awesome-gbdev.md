@@ -333,7 +333,7 @@ Fragments of code, effects, proof of concepts and generally non complete games.
 
 - [dev'rs ASM section](http://www.devrs.com/gb/asmcode.php) - A lot of working demos and sources.
 - [EmmaEwert's experiments ![GitHub Repo stars](https://img.shields.io/github/stars/EmmaEwert/gameboy) ![GitHub last commit](https://img.shields.io/github/last-commit/EmmaEwert/gameboy)](https://github.com/EmmaEwert/gameboy) - A collection of prototype programs, mostly just toying around. Among others, a daylight effect, transparency and a weather effect.
-- [DeadCScroll ![GitHub Repo stars](https://img.shields.io/github/stars/BlitterObjectBob/DeadCScroll) ![GitHub last commit](https://img.shields.io/github/last-commit/BlitterObjectBob/DeadCScroll)](https://github.com/BlitterObjectBob/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
+- [DeadCScroll ![GitHub Repo stars](https://img.shields.io/github/stars/gb-archive/DeadCScroll) ![GitHub last commit](https://img.shields.io/github/last-commit/gb-archive/DeadCScroll)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
 
 #### Timings
 
