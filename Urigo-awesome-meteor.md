@@ -98,6 +98,7 @@ _Tools for handling users and authentication_
 - [accounts-js ![GitHub Repo stars](https://img.shields.io/github/stars/accounts-js/accounts) ![GitHub last commit](https://img.shields.io/github/last-commit/accounts-js/accounts)](https://github.com/accounts-js/accounts) - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
 - [alanning:roles ![GitHub Repo stars](https://img.shields.io/github/stars/Meteor-Community-Packages/meteor-roles) ![GitHub last commit](https://img.shields.io/github/last-commit/Meteor-Community-Packages/meteor-roles)](https://github.com/Meteor-Community-Packages/meteor-roles) - Roles support for the built-in accounts packages.
 - [meteor-user-status ![GitHub Repo stars](https://img.shields.io/github/stars/Meteor-Community-Packages/meteor-user-status) ![GitHub last commit](https://img.shields.io/github/last-commit/Meteor-Community-Packages/meteor-user-status)](https://github.com/Meteor-Community-Packages/meteor-user-status) - Keeps track of users and their meta data.
+- [accounts-ui ![GitHub Repo stars](https://img.shields.io/github/stars/e-Potek/accounts-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/e-Potek/accounts-ui)](https://github.com/e-Potek/accounts-ui/) - Accounts UI for React in Meteor 1.3+.
 
 ## Administration
 
@@ -141,6 +142,7 @@ _Tools for deploying and maintaining Meteor apps_
 - [demeteorizer ![GitHub Repo stars](https://img.shields.io/github/stars/onmodulus/demeteorizer) ![GitHub last commit](https://img.shields.io/github/last-commit/onmodulus/demeteorizer)](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
 - [percolate:migrations ![GitHub Repo stars](https://img.shields.io/github/stars/percolatestudio/meteor-migrations) ![GitHub last commit](https://img.shields.io/github/last-commit/percolatestudio/meteor-migrations)](https://github.com/percolatestudio/meteor-migrations) - Simple migration system for Meteor
 - [yamup ![GitHub Repo stars](https://img.shields.io/github/stars/bordalix/yamup) ![GitHub last commit](https://img.shields.io/github/last-commit/bordalix/yamup)](https://github.com/bordalix/yamup) - Deploy Meteor apps to your own Ubuntu server (EC2, ...) without dockers
+- [waveshosting ![GitHub Repo stars](https://img.shields.io/github/stars/nicolaslopezj/waveshosting) ![GitHub last commit](https://img.shields.io/github/last-commit/nicolaslopezj/waveshosting)](https://github.com/nicolaslopezj/waveshosting) - Web application to manage meteor deployments.
 
 ## Docker Images
 
@@ -205,6 +207,7 @@ _Search, sort and paginate related tools_
 
 _Mobile Development_
 
+- [meteor-react-native ![GitHub Repo stars](https://img.shields.io/github/stars/TheRealNate/meteor-react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/TheRealNate/meteor-react-native)](https://github.com/TheRealNate/meteor-react-native) - Meteor client for React Native matching Meteor Spec.
 - [meteor-push ![GitHub Repo stars](https://img.shields.io/github/stars/activitree/meteor-push) ![GitHub last commit](https://img.shields.io/github/last-commit/activitree/meteor-push)](https://github.com/activitree/meteor-push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
 - [quave:universal-links ![GitHub Repo stars](https://img.shields.io/github/stars/quavedev/universal-links) ![GitHub last commit](https://img.shields.io/github/last-commit/quavedev/universal-links)](https://github.com/quavedev/universal-links) - A Meteor package that allows you to expose your native iOS settings to enable Universal Links. 
 - [meteoric:ionic ![GitHub Repo stars](https://img.shields.io/github/stars/meteoric/meteor-ionic) ![GitHub last commit](https://img.shields.io/github/last-commit/meteoric/meteor-ionic)](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor.
@@ -267,6 +270,7 @@ _Scaffolding_
 
 ## Boilerplate
 
+- [CaptainN - meteor-react-starter ![GitHub Repo stars](https://img.shields.io/github/stars/CaptainN/meteor-react-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/CaptainN/meteor-react-starter)](https://github.com/CaptainN/meteor-react-starter) - A starter project on Meteor with React.
 - [Pup ![GitHub Repo stars](https://img.shields.io/github/stars/cleverbeagle/pup) ![GitHub last commit](https://img.shields.io/github/last-commit/cleverbeagle/pup)](https://github.com/cleverbeagle/pup)
 - [matteodem - meteor-boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/matteodem/meteor-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/matteodem/meteor-boilerplate)](https://github.com/matteodem/meteor-boilerplate)
 - [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
@@ -277,21 +281,23 @@ _Scaffolding_
 - [Wekan ![GitHub Repo stars](https://img.shields.io/github/stars/wekan/wekan) ![GitHub last commit](https://img.shields.io/github/last-commit/wekan/wekan)](https://github.com/wekan/wekan) - Open source Trello-like kanban.
 - [Unchained Shop ![GitHub Repo stars](https://img.shields.io/github/stars/unchainedshop/unchained) ![GitHub last commit](https://img.shields.io/github/last-commit/unchainedshop/unchained)](https://github.com/unchainedshop/unchained) - Open source Commerce platform developed with Meteor.
 - [VulcanJS ![GitHub Repo stars](https://img.shields.io/github/stars/VulcanJS/Vulcan) ![GitHub last commit](https://img.shields.io/github/last-commit/VulcanJS/Vulcan)](https://github.com/VulcanJS/Vulcan) - A toolkit to quickly build apps with React, GraphQL & Meteor.
-- [Crowducate Platform ![GitHub Repo stars](https://img.shields.io/github/stars/Crowducate/crowducate-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/Crowducate/crowducate-platform)](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by Meteor.
 - [Nosqlclient ![GitHub Repo stars](https://img.shields.io/github/stars/nosqlclient/nosqlclient) ![GitHub last commit](https://img.shields.io/github/last-commit/nosqlclient/nosqlclient)](https://github.com/nosqlclient/nosqlclient) - MongoDB management tool.
+- [radgrad2 ![GitHub Repo stars](https://img.shields.io/github/stars/radgrad/radgrad2) ![GitHub last commit](https://img.shields.io/github/last-commit/radgrad/radgrad2)](https://github.com/radgrad/radgrad2) - Meteor based education management system.
+- [coauthor ![GitHub Repo stars](https://img.shields.io/github/stars/edemaine/coauthor) ![GitHub last commit](https://img.shields.io/github/last-commit/edemaine/coauthor)](https://github.com/edemaine/coauthor) - Coauthor supercollaboration/discussion forum.
 
 ## Internationalization
 
 - [Meteor-Internationalization ![GitHub Repo stars](https://img.shields.io/github/stars/veliovgroup/Meteor-Internationalization) ![GitHub last commit](https://img.shields.io/github/last-commit/veliovgroup/Meteor-Internationalization)](https://github.com/veliovgroup/Meteor-Internationalization) - Super-Lightweight and fast i18n isomorphic driver for Meteor with support of placeholders.
 - [meteor-accounts-t9n ![GitHub Repo stars](https://img.shields.io/github/stars/softwarerero/meteor-accounts-t9n) ![GitHub last commit](https://img.shields.io/github/last-commit/softwarerero/meteor-accounts-t9n)](https://github.com/softwarerero/meteor-accounts-t9n/) - Translations for meteor account's error messages.
+- [meteor-universe-i18n ![GitHub Repo stars](https://img.shields.io/github/stars/vazco/meteor-universe-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/vazco/meteor-universe-i18n)](https://github.com/vazco/meteor-universe-i18n) - Internationalization package for React and Meteor.
 
 ## Front End Frameworks
 
 _Alternative Front End Frameworks to Blaze_
 
 - [React](http://react-in-meteor.readthedocs.org/en/latest/) - Working with React and Meteor.
-- [Vue ![GitHub Repo stars](https://img.shields.io/github/stars/Akryum/meteor-vue-component) ![GitHub last commit](https://img.shields.io/github/last-commit/Akryum/meteor-vue-component)](https://github.com/Akryum/meteor-vue-component) - Working with Vue and Meteor (plus single-file components & apollo support).
-- [Svelte ![GitHub Repo stars](https://img.shields.io/github/stars/meteor-svelte/meteor-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/meteor-svelte/meteor-svelte)](https://github.com/meteor-svelte/meteor-svelte) - Build cybernetically enhanced web apps with Meteor and Svelte.
+- [Vue](https://github.com/meteor-vue) - Working with Vue and Meteor (plus single-file components & apollo support).
+- [Svelte ![GitHub Repo stars](https://img.shields.io/github/stars/zodern/melte) ![GitHub last commit](https://img.shields.io/github/last-commit/zodern/melte)](https://github.com/zodern/melte) - Build cybernetically enhanced web apps with Meteor and Svelte.
 - [Angular 2 ![GitHub Repo stars](https://img.shields.io/github/stars/Urigo/angular2-meteor) ![GitHub last commit](https://img.shields.io/github/last-commit/Urigo/angular2-meteor)](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor.
 - [Angular ![GitHub Repo stars](https://img.shields.io/github/stars/Urigo/angular-meteor) ![GitHub last commit](https://img.shields.io/github/last-commit/Urigo/angular-meteor)](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor.
 - [Famo.us ![GitHub Repo stars](https://img.shields.io/github/stars/gadicc/meteor-famous-views) ![GitHub last commit](https://img.shields.io/github/last-commit/gadicc/meteor-famous-views)](https://github.com/gadicc/meteor-famous-views/) - Famo.us and Meteor.
