@@ -75,6 +75,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [rubico ![GitHub Repo stars](https://img.shields.io/github/stars/a-synchronous/rubico) ![GitHub last commit](https://img.shields.io/github/last-commit/a-synchronous/rubico)](https://github.com/a-synchronous/rubico) - 🏞 [a]synchronous functional syntax
 * [rocket-pipes ![GitHub Repo stars](https://img.shields.io/github/stars/darky/rocket-pipes) ![GitHub last commit](https://img.shields.io/github/last-commit/darky/rocket-pipes)](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
 * [omg-curry ![GitHub Repo stars](https://img.shields.io/github/stars/Debdut/omg-curry) ![GitHub last commit](https://img.shields.io/github/last-commit/Debdut/omg-curry)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
+* [lfi ![GitHub Repo stars](https://img.shields.io/github/stars/TomerAberbach/lfi) ![GitHub last commit](https://img.shields.io/github/last-commit/TomerAberbach/lfi)](https://github.com/TomerAberbach/lfi) - A Lazy Functional Iteration Library Supporting Sync, Async, and Concurrent Iteration.
 
 ### Data Structures
 
