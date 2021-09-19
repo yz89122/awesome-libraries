@@ -105,6 +105,9 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 ### Frontend framework
 - [aleph.js ![GitHub Repo stars](https://img.shields.io/github/stars/postui/aleph.js) ![GitHub last commit](https://img.shields.io/github/last-commit/postui/aleph.js)](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
 
+### Image
+- [ImageScript ![GitHub Repo stars](https://img.shields.io/github/stars/matmen/ImageScript) ![GitHub last commit](https://img.shields.io/github/last-commit/matmen/ImageScript)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+
 ### Logging
 - [gardens ![GitHub Repo stars](https://img.shields.io/github/stars/partheseas/gardens) ![GitHub last commit](https://img.shields.io/github/last-commit/partheseas/gardens)](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 
@@ -341,7 +344,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Chinese
 
-- [Deno 并不是���一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
+- [Deno 并不是下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
 - [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
