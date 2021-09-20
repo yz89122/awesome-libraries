@@ -3207,6 +3207,7 @@ _Integrate with services or other frameworks_
 - [Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/sherl0g/prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/sherl0g/prisma)](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
 - [vuetube ![GitHub Repo stars](https://img.shields.io/github/stars/webistomin/vuetube) ![GitHub last commit](https://img.shields.io/github/last-commit/webistomin/vuetube)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
 - [vue-tweet ![GitHub Repo stars](https://img.shields.io/github/stars/DannyFeliz/vue-tweet) ![GitHub last commit](https://img.shields.io/github/last-commit/DannyFeliz/vue-tweet)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
+- [vue-dapp ![GitHub Repo stars](https://img.shields.io/github/stars/chnejohnson/vue-dapp) ![GitHub last commit](https://img.shields.io/github/last-commit/chnejohnson/vue-dapp)](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
 
 #### Vue CLI Plugins
 
@@ -3224,6 +3225,7 @@ _Integrate with services or other frameworks_
 - [vue-cli-plugin-mock ![GitHub Repo stars](https://img.shields.io/github/stars/xuxihai123/vue-cli-plugin-mock) ![GitHub last commit](https://img.shields.io/github/last-commit/xuxihai123/vue-cli-plugin-mock)](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock http request
 - [vue-cli-plugin-ci ![GitHub Repo stars](https://img.shields.io/github/stars/P0ppoff/vue-cli-plugin-ci) ![GitHub last commit](https://img.shields.io/github/last-commit/P0ppoff/vue-cli-plugin-ci)](https://github.com/P0ppoff/vue-cli-plugin-ci) - Vue CLI Plugin to generate CI agent config file to start project with CI
 - [vue-cli-plugin-capacitor ![GitHub Repo stars](https://img.shields.io/github/stars/capacitor-community/vue-cli-plugin-capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/capacitor-community/vue-cli-plugin-capacitor)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
+- [vue-cli-plugin-chrome-extension-cli ![GitHub Repo stars](https://img.shields.io/github/stars/sanyu1225/vue-cli-plugin-chrome-extension-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sanyu1225/vue-cli-plugin-chrome-extension-cli)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generat chrome extension template
 
 ##### Google Analytics
 
