@@ -13,6 +13,7 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [Overview](#overview)
 - [Starter Templates](#starter-templates)
 - [Codelabs](#codelabs)
+- [Tutorials](#tutorials)
 - [Extensions](#extensions)
 - [Components](#components)
   - [Component Libraries](#component-libraries)
@@ -21,10 +22,9 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [TypeScript Plugins](#typescript-plugins)
 - [Tools](#tools)
 - [CDN](#cdn)
-- [Examples](#examples)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
-- [Blogs](#blogs)
+- [Archive](#archive)
 - [Projects](#projects)
 - [Similar libraries](#similar-libraries)
 - [Other awesome resources](#other-awesome-resources)
@@ -35,12 +35,14 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [Tutorial](https://lit.dev/tutorial/)
 - [Playground](https://lit.dev/playground/)
 - [Blog](https://lit.dev/blog/)
-- [GitHub repository ![GitHub Repo stars](https://img.shields.io/github/stars/lit/lit) ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)](https://github.com/lit/lit)
 
 ## Community
 
-- [Twitter](https://twitter.com/lit_html)
-- [Slack Channel](https://lit.dev/slack-invite/)
+- [GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/lit/lit) ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)](https://github.com/lit/lit)
+- [GitHub Discussions ![GitHub Repo stars](https://img.shields.io/github/stars/lit/lit) ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)](https://github.com/lit/lit/discussions)
+- [Twitter](https://twitter.com/buildWithLit)
+- [Slack](https://lit.dev/slack-invite/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element)
 
 ## Overview
 
@@ -63,6 +65,25 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [lit-html & lit-element: basics](https://open-wc.org/codelabs/basics/lit-html.html#0)
 - [lit-html & lit-element: intermediate](https://open-wc.org/codelabs/intermediate/lit-html.html#0)
 - [Lit for React Developers](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs#0)
+
+## Tutorials
+
+- [Building a Rich Text Editor with Lit](https://rodydavis.com/posts/lit-rich-text-editor/)
+- [Draggable DOM with Lit](https://rodydavis.com/posts/lit-draggable-dom/)
+- [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
+- [Here's a minimalist no-frills Redux Toolkit & LitElement example](https://dev.to/jdvivar/here-s-a-minimalist-no-frills-redux-toolkit-litelement-example-1j91)
+- [JSON to HTML Table with Lit](https://rodydavis.com/posts/lit-html-table/)
+- [lit-html Part 1 - A solution for DOM management in web components](https://terodox.tech/handling-web-component-markup-with-lit-html/)
+- [lit-html Part 2 - Working with attributes and properties](https://terodox.tech/lit-html-part-2/)
+- [Lit and Figma](https://rodydavis.com/posts/figma-and-lit/)
+- [Lit and Flutter](https://rodydavis.com/posts/flutter-and-lit/)
+- [Lit and Monaco Editor](https://rodydavis.com/posts/lit-monaco-editor/)
+- [Lit and VSCode Extensions](https://rodydavis.com/posts/lit-vscode-extension/)
+- [Lit Sheet Music](https://rodydavis.com/posts/lit-sheet-music/)
+- [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
+- [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element)
+- [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
+- [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
 
 ### Extensions
 
@@ -121,7 +142,6 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [vscode-lit-plugin ![GitHub Repo stars](https://img.shields.io/github/stars/runem/lit-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/runem/lit-analyzer)](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
 - [es6-string-html ![GitHub Repo stars](https://img.shields.io/github/stars/mydesireiscoma/es6-string-html) ![GitHub last commit](https://img.shields.io/github/last-commit/mydesireiscoma/es6-string-html)](https://github.com/mydesireiscoma/es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
 - [vim-html-template-literals ![GitHub Repo stars](https://img.shields.io/github/stars/jonsmithers/vim-html-template-literals) ![GitHub last commit](https://img.shields.io/github/last-commit/jonsmithers/vim-html-template-literals)](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for lit-html.
-- [lit-web-components-vscode-extension-pack ![GitHub Repo stars](https://img.shields.io/github/stars/justinribeiro/lit-web-components-vscode-extension-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/justinribeiro/lit-web-components-vscode-extension-pack)](https://github.com/justinribeiro/lit-web-components-vscode-extension-pack) - A set of VS Code extensions useful for developing LitElement Web Components.
 
 ## TypeScript Plugins
 
@@ -130,6 +150,7 @@ At its core is a boilerplate-killing component base class that provides reactive
 
 ## Tools
 
+- [babel-plugin-lit-property-types-from-ts ![GitHub Repo stars](https://img.shields.io/github/stars/bschlenk/babel-plugin-lit-property-types-from-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/bschlenk/babel-plugin-lit-property-types-from-ts)](https://github.com/bschlenk/babel-plugin-lit-property-types-from-ts) - Babel plugin for automatically setting a property's `type` based on its TypeScript type.
 - [babel-plugin-template-html-minifier ![GitHub Repo stars](https://img.shields.io/github/stars/cfware/babel-plugin-template-html-minifier) ![GitHub last commit](https://img.shields.io/github/last-commit/cfware/babel-plugin-template-html-minifier)](https://github.com/cfware/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
 - [eslint-plugin-lit ![GitHub Repo stars](https://img.shields.io/github/stars/43081j/eslint-plugin-lit) ![GitHub last commit](https://img.shields.io/github/last-commit/43081j/eslint-plugin-lit)](https://github.com/43081j/eslint-plugin-lit) - ESLint plugin for lit-html template strings.
 - [eslint-plugin-lit-a11y](https://www.npmjs.com/package/eslint-plugin-lit-a11y) - Accessibility linting plugin for lit-html
@@ -151,11 +172,6 @@ The following content delivery networks provide ES module versions of Lit:
 
 See [this issue ![GitHub Repo stars](https://img.shields.io/github/stars/lit/lit-element) ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit-element)](https://github.com/lit/lit-element/issues/603) where the static build for CDN distribution is discussed.
 
-## Examples
-
-- [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
-- [lit-html workshop ![GitHub Repo stars](https://img.shields.io/github/stars/LarsDenBakker/lit-html-workshop) ![GitHub last commit](https://img.shields.io/github/last-commit/LarsDenBakker/lit-html-workshop)](https://github.com/LarsDenBakker/lit-html-workshop)
-
 ## Videos
 
 - [Efficient, Expressive, and Extensible HTML Templates (Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
@@ -170,27 +186,22 @@ See [this issue ![GitHub Repo stars](https://img.shields.io/github/stars/lit/lit
 An episode with the lit-html creator Justin Fagnani.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) - Another episode with Justin Fagnani as a guest.
 
-## Blogs
+## Archive
 
+The following articles refer to older versions of lit-html and LitElement.
+
+- [Render HTML with Vanilla JavaScript and lit-html](https://dev.to/azure/too-hard-too-soft-just-right-rendering-html-with-lit-html-1km8)
 - [A gentle introduction to lit-html](https://dev.to/julcasans/a-gentle-introduction-to-lit-html-3d74)
 - [lit-html templates from zero to hero](https://dev.to/julcasans/lit-html-templates-from-zero-to-hero-2afm)
-- [lit-html Part 1 - A solution for DOM management in web components](https://terodox.tech/handling-web-component-markup-with-lit-html/)
-- [lit-html Part 2 - Working with attributes and properties](https://terodox.tech/lit-html-part-2/)
-- [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
-- [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
-- [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
-- [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
-- [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://dev.to/dkundel/building-a-chat-with-twilio-lit-html-parcel-and-typescript-1jo1)
-- [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
+- [Updating blog-pwa from Polymer to LitElement, Workbox, and Rollup](https://justinribeiro.com/chronicle/2019/04/11/updating-blog-pwa-from-polymer-to-litelement-workbox-and-rollup/)
+- [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
+- [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
+- [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
+- [A new, lean way of creating web apps](https://medium.com/@kennethrohde/a-new-lean-way-of-creating-web-apps-88a49c5b87ec)
 - [The future of Polymer & lit-html](https://43081j.com/2018/08/future-of-polymer)
 - [A night experimenting with Lit-HTML](https://lucamezzalira.com/2018/08/14/a-night-experimenting-with-lit-html/)
-- [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
-- [A new, lean way of creating web apps](https://medium.com/@kennethrohde/a-new-lean-way-of-creating-web-apps-88a49c5b87ec)
-- [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
-- [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
-- [Render HTML with Vanilla JavaScript and lit-html](https://dev.to/azure/too-hard-too-soft-just-right-rendering-html-with-lit-html-1km8)
-- [Updating blog-pwa from Polymer to LitElement, Workbox, and Rollup](https://justinribeiro.com/chronicle/2019/04/11/updating-blog-pwa-from-polymer-to-litelement-workbox-and-rollup/)
-- [Here's a minimalist no-frills Redux Toolkit & LitElement example](https://dev.to/jdvivar/here-s-a-minimalist-no-frills-redux-toolkit-litelement-example-1j91)
+- [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
+- [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://dev.to/dkundel/building-a-chat-with-twilio-lit-html-parcel-and-typescript-1jo1)
 
 ## Projects
 
