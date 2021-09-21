@@ -232,6 +232,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   with daily price data.
 - [`polkadot-launch` ![GitHub Repo stars](https://img.shields.io/github/stars/shawntabrizi/polkadot-launch) ![GitHub last commit](https://img.shields.io/github/last-commit/shawntabrizi/polkadot-launch)](https://github.com/shawntabrizi/polkadot-launch) - Simple CLI tool to launch a
   local Polkadot test network.
+- [`polkadot-starship` ![GitHub Repo stars](https://img.shields.io/github/stars/koute/polkadot-starship) ![GitHub last commit](https://img.shields.io/github/last-commit/koute/polkadot-starship)](https://github.com/koute/polkadot-starship) - Another tool to launch a local
+  Polkadot test network, with emphasis on the ability to run big testnets.
 - [`substrate-js-utils` ![GitHub Repo stars](https://img.shields.io/github/stars/shawntabrizi/substrate-js-utilities) ![GitHub last commit](https://img.shields.io/github/last-commit/shawntabrizi/substrate-js-utilities)](https://github.com/shawntabrizi/substrate-js-utilities) - A set of useful
   JavaScript utilities for Substrate that uses the Polkadot{JS} API. Also
   [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
