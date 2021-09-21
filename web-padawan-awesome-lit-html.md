@@ -15,9 +15,9 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [Codelabs](#codelabs)
 - [Tutorials](#tutorials)
 - [Extensions](#extensions)
-- [Components](#components)
-  - [Component Libraries](#component-libraries)
-  - [Individual Components](#individual-components)
+- [Design Systems](#design-systems)
+- [Component Libraries](#component-libraries)
+- [Standalone Components](#standalone-components)
 - [IDE Plugins](#ide-plugins)
 - [TypeScript Plugins](#typescript-plugins)
 - [Tools](#tools)
@@ -25,7 +25,6 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Archive](#archive)
-- [Projects](#projects)
 - [Similar libraries](#similar-libraries)
 - [Other awesome resources](#other-awesome-resources)
 
@@ -85,42 +84,48 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
 
-### Extensions
+## Extensions
 
 - [@adobe/lit-mobx](https://www.npmjs.com/package/@adobe/lit-mobx) - Mixin and base class for using mobx with Lit.
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
+- [@vaadin/form](https://www.npmjs.com/package/@vaadin/form) - Set of utilities for building forms with TypeScript and Lit.
 - [pure-lit ![GitHub Repo stars](https://img.shields.io/github/stars/MatthiasKainer/pure-lit) ![GitHub last commit](https://img.shields.io/github/last-commit/MatthiasKainer/pure-lit)](https://github.com/MatthiasKainer/pure-lit) - Register your Lit elements as pure functions.
 - [lit-element-effect](https://www.npmjs.com/package/lit-element-effect) - Effect hooks for LitElement.
 - [lit-element-state-decoupler](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
+- [lit-vaadin-helpers](https://www.npmjs.com/package/lit-vaadin-helpers) - Helpers for using Vaadin web components with Lit 2.
 - [ullr ![GitHub Repo stars](https://img.shields.io/github/stars/aggre/ullr) ![GitHub last commit](https://img.shields.io/github/last-commit/aggre/ullr)](https://github.com/aggre/ullr) - Build Web Components with functional programming using Lit.
 
-## Components
-
-### Component Libraries
+## Design Systems
 
 - [AXA Pattern Library ![GitHub Repo stars](https://img.shields.io/github/stars/axa-ch/patterns-library) ![GitHub last commit](https://img.shields.io/github/last-commit/axa-ch/patterns-library)](https://github.com/axa-ch/patterns-library) - AXA CH UI components library built with LitElement.
-- [Belle UI ![GitHub Repo stars](https://img.shields.io/github/stars/belleui/belleui) ![GitHub last commit](https://img.shields.io/github/last-commit/belleui/belleui)](https://github.com/belleui/belleui) - High quality UI library based on LitElement.
-- [Blackstone UI ![GitHub Repo stars](https://img.shields.io/github/stars/kjantzer/bui) ![GitHub last commit](https://img.shields.io/github/last-commit/kjantzer/bui)](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
 - [Brightspace UI core ![GitHub Repo stars](https://img.shields.io/github/stars/BrightspaceUI/core) ![GitHub last commit](https://img.shields.io/github/last-commit/BrightspaceUI/core)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
-- [Carbon Custom Elements ![GitHub Repo stars](https://img.shields.io/github/stars/carbon-design-system/carbon-custom-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-custom-elements)](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components.
-- [Chameleon Web Components ![GitHub Repo stars](https://img.shields.io/github/stars/MaritzSTL/chameleon) ![GitHub last commit](https://img.shields.io/github/last-commit/MaritzSTL/chameleon)](https://github.com/MaritzSTL/chameleon) - Collection of framework-agnostic elements based on the Chameleon Design System.
+- [Carbon Custom Elements ![GitHub Repo stars](https://img.shields.io/github/stars/carbon-design-system/carbon-custom-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-custom-elements)](https://github.com/carbon-design-system/carbon-custom-elements) - Carbon Design System variant on top of Web Components.
+- [Clarity Core Web Components ![GitHub Repo stars](https://img.shields.io/github/stars/vmware/clarity) ![GitHub last commit](https://img.shields.io/github/last-commit/vmware/clarity)](https://github.com/vmware/clarity/tree/next/packages/core) - Suite of web components for Clarity Design System.
+- [Kor ![GitHub Repo stars](https://img.shields.io/github/stars/eduferfer/kor) ![GitHub last commit](https://img.shields.io/github/last-commit/eduferfer/kor)](https://github.com/eduferfer/kor) - An open source Design System and lightweight UI Component Library.
+- [Lion ![GitHub Repo stars](https://img.shields.io/github/stars/ing-bank/lion) ![GitHub last commit](https://img.shields.io/github/last-commit/ing-bank/lion)](https://github.com/ing-bank/lion) - Highly performant, accessible and flexible Web Components.
+- [Material Web Components ![GitHub Repo stars](https://img.shields.io/github/stars/material-components/material-web) ![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-web)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
+- [Momentum UI Web Components ![GitHub Repo stars](https://img.shields.io/github/stars/momentum-design/momentum-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/momentum-design/momentum-ui)](https://github.com/momentum-design/momentum-ui/tree/master/web-components=) - Set of UI components based on Momentum Design.
+- [Pharos Design System ![GitHub Repo stars](https://img.shields.io/github/stars/ithaka/pharos) ![GitHub last commit](https://img.shields.io/github/last-commit/ithaka/pharos)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+- [Shoelace ![GitHub Repo stars](https://img.shields.io/github/stars/shoelace-style/shoelace) ![GitHub last commit](https://img.shields.io/github/last-commit/shoelace-style/shoelace)](https://github.com/shoelace-style/shoelace) - Collection of professionally designed UI components built on a framework-agnostic technology.
+- [Spectrum Web Components ![GitHub Repo stars](https://img.shields.io/github/stars/adobe/spectrum-web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/adobe/spectrum-web-components)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with LitElement.
+- [UI5 Web Components ![GitHub Repo stars](https://img.shields.io/github/stars/SAP/ui5-webcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/ui5-webcomponents)](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
+
+## Component Libraries
+
+- [Blackstone UI ![GitHub Repo stars](https://img.shields.io/github/stars/kjantzer/bui) ![GitHub last commit](https://img.shields.io/github/last-commit/kjantzer/bui)](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
 - [Chartjs Web Components ![GitHub Repo stars](https://img.shields.io/github/stars/fsx950223/chartjs-web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/fsx950223/chartjs-web-components)](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
 - [Clever components ![GitHub Repo stars](https://img.shields.io/github/stars/CleverCloud/clever-components) ![GitHub last commit](https://img.shields.io/github/last-commit/CleverCloud/clever-components)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
-- [Curvenote ![GitHub Repo stars](https://img.shields.io/github/stars/curvenote/article) ![GitHub last commit](https://img.shields.io/github/last-commit/curvenote/article)](https://github.com/curvenote/article) - Web components for interactive scientific writing, reactive documents and explorable explanations.
-- [Kor ![GitHub Repo stars](https://img.shields.io/github/stars/eduferfer/kor) ![GitHub last commit](https://img.shields.io/github/last-commit/eduferfer/kor)](https://github.com/eduferfer/kor) - User Interface Component Library based on LitElement.
-- [Lion ![GitHub Repo stars](https://img.shields.io/github/stars/ing-bank/lion) ![GitHub last commit](https://img.shields.io/github/last-commit/ing-bank/lion)](https://github.com/ing-bank/lion) - Highly performant, accessible and flexible Web Components.
+- [Curvenote ![GitHub Repo stars](https://img.shields.io/github/stars/curvenote/article) ![GitHub last commit](https://img.shields.io/github/last-commit/curvenote/article)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
 - [LRNWebComponents ![GitHub Repo stars](https://img.shields.io/github/stars/elmsln/lrnwebcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/elmsln/lrnwebcomponents)](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
-- [Material Web Components ![GitHub Repo stars](https://img.shields.io/github/stars/material-components/material-web) ![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-web)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
 - [Microsoft Graph Toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/microsoftgraph/microsoft-graph-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoftgraph/microsoft-graph-toolkit)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 - [Mutation testing elements ![GitHub Repo stars](https://img.shields.io/github/stars/stryker-mutator/mutation-testing-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/stryker-mutator/mutation-testing-elements)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
-- [Spectrum Web Components ![GitHub Repo stars](https://img.shields.io/github/stars/adobe/spectrum-web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/adobe/spectrum-web-components)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with LitElement.
-- [Web Components for TEI Publisher ![GitHub Repo stars](https://img.shields.io/github/stars/eeditiones/tei-publisher-components) ![GitHub last commit](https://img.shields.io/github/last-commit/eeditiones/tei-publisher-components)](https://github.com/eeditiones/tei-publisher-components) - Web components used by TEI Publisher and apps generated by it.
-- [UI5 Web Components ![GitHub Repo stars](https://img.shields.io/github/stars/SAP/ui5-webcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/ui5-webcomponents)](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
+- [One Platform Components ![GitHub Repo stars](https://img.shields.io/github/stars/1-Platform/op-components) ![GitHub last commit](https://img.shields.io/github/last-commit/1-Platform/op-components)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
 - [VSCode-Webview-Elements ![GitHub Repo stars](https://img.shields.io/github/stars/bendera/vscode-webview-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/bendera/vscode-webview-elements)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
+- [Web Components for TEI Publisher ![GitHub Repo stars](https://img.shields.io/github/stars/eeditiones/tei-publisher-components) ![GitHub last commit](https://img.shields.io/github/last-commit/eeditiones/tei-publisher-components)](https://github.com/eeditiones/tei-publisher-components) - Web components used by TEI Publisher and apps generated by it.
 - [Wired Elements ![GitHub Repo stars](https://img.shields.io/github/stars/rough-stuff/wired-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/rough-stuff/wired-elements)](https://github.com/rough-stuff/wired-elements) - Collection of elements that appear hand drawn.
 - [Wokwi Elements ![GitHub Repo stars](https://img.shields.io/github/stars/wokwi/wokwi-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/wokwi/wokwi-elements)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
-### Individual Components
+## Standalone Components
 
 - [`<api-viewer>` ![GitHub Repo stars](https://img.shields.io/github/stars/web-padawan/api-viewer-element) ![GitHub last commit](https://img.shields.io/github/last-commit/web-padawan/api-viewer-element)](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
 - [`<app-datepicker>` ![GitHub Repo stars](https://img.shields.io/github/stars/motss/app-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/motss/app-datepicker)](https://github.com/motss/app-datepicker) - Datepicker element built with LitElement and Material Design 2.
@@ -202,41 +207,6 @@ The following articles refer to older versions of lit-html and LitElement.
 - [A night experimenting with Lit-HTML](https://lucamezzalira.com/2018/08/14/a-night-experimenting-with-lit-html/)
 - [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
 - [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://dev.to/dkundel/building-a-chat-with-twilio-lit-html-parcel-and-typescript-1jo1)
-
-## Projects
-
-<table>
-  <tr>
-    <td>Name</td>
-    <td>URL</td>
-    <td>Source</td>
-  </tr>
-  <tr>
-    <td>Create Social Images</td>
-    <td>https://createsocialimages.com</td>
-    <td><a href="https://github.com/pshihn/csi">Source</a></td>
-  </tr>
-  <tr>
-    <td>DevWeb Content Firehose</td>
-    <td>https://devwebfeed.appspot.com</td>
-    <td><a href="https://github.com/GoogleChromeLabs/devwebfeed">Source</a></td>
-  </tr>
-  <tr>
-    <td>rx-metronome</td>
-    <td>https://rx-metronome.web.app</td>
-    <td><a href="https://github.com/ydubinskyi/rx-metronome">Source</a></td>
-  </tr>
-  <tr>
-    <td>Scandisk</td>
-    <td>https://manzdev.github.io/scandisk-2.0/</td>
-    <td><a href="https://github.com/ManzDev/scandisk-2.0">Source</a></td>
-  </tr>
-  <tr>
-    <td>Web Skills</td>
-    <td>https://andreasbm.github.io/web-skills/</td>
-    <td><a href="https://github.com/andreasbm/web-skills">Source</a></td>
-  </tr>
-</table>
 
 ## Similar libraries
 
