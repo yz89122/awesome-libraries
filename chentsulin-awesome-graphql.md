@@ -540,7 +540,7 @@ for the Angel framework.
 * [Insomnia](https://insomnia.rest/) - A full-featured API client with first-party GraphQL query editor
 * [Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/prisma/prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/prisma/prisma)](https://github.com/prisma/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
 * [tuql ![GitHub Repo stars](https://img.shields.io/github/stars/bradleyboy/tuql) ![GitHub last commit](https://img.shields.io/github/last-commit/bradleyboy/tuql)](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
-* [Bit ![GitHub Repo stars](https://img.shields.io/github/stars/teambit/bit) ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit)](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project ([example](https://bit.dev/giladshoham/github-graphql)).
+* [Bit ![GitHub Repo stars](https://img.shields.io/github/stars/teambit/bit) ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit)](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project ([example](https://bitsrc.io/giladshoham/github-graphql)), [example-explanation](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)).
 * [RAN Toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/sly777/ran) ![GitHub last commit](https://img.shields.io/github/last-commit/sly777/ran)](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 * [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
 * [GRAPHQL DESIGNER](http://graphqldesigner.com/) - A developer's web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
@@ -593,6 +593,7 @@ for the Angel framework.
 * [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - A GraphQL analaytics and monitoring service to find functional and performance issues.
 * [Booster framework](https://booster.cloud/) - An open-source framework that makes you _completely_ forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
 * [Hypi](https://hypi.io/) - Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.
+* [Saleor ![GitHub Repo stars](https://img.shields.io/github/stars/mirumee/saleor) ![GitHub last commit](https://img.shields.io/github/last-commit/mirumee/saleor)](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
 
 <a name="example" />
 
@@ -639,6 +640,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [GraphQL Tutorial ![GitHub Repo stars](https://img.shields.io/github/stars/rse/graphql-tutorial) ![GitHub last commit](https://img.shields.io/github/last-commit/rse/graphql-tutorial)](https://github.com/rse/graphql-tutorial) - A didactic 12-step introduction to GraphQL, starting from a simple Hello World to a network-based GraphQL server with a built-in GraphQL UI
 * [Serverless Apollo Graphql ![GitHub Repo stars](https://img.shields.io/github/stars/RishikeshDarandale/serverless-graphql-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/RishikeshDarandale/serverless-graphql-boilerplate)](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) - Boilerplate to start you Apollo graphql server in AWS using serverless framework
 * [Next.js TypeScript and GraphQL Example ![GitHub Repo stars](https://img.shields.io/github/stars/zeit/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/zeit/next.js)](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - A type-protected GraphQL example on Next.js running [graphql-codegen](https://graphql-code-generator.com/) under the hood
+* [NAPERG: Node Apollo Prisma Express React GraphQL ![GitHub Repo stars](https://img.shields.io/github/stars/alan345/naperg) ![GitHub last commit](https://img.shields.io/github/last-commit/alan345/naperg)](https://github.com/alan345/naperg) - Boilerplate for a Fullstack GraphQL App with React & Prisma (Upload image - chat).
 
 <a name="example-ts" />
 
@@ -774,6 +776,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Official GraphQL blog](https://graphql.org/blog/)
 * [Building Apollo](https://blog.apollographql.com/)
 * [The Guild blog](https://medium.com/the-guild)
+* [Production Ready GraphQL blog](https://productionreadygraphql.com)
 
 <a name="security-blog" />
 
@@ -820,6 +823,8 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Fluent GraphQL clients: how to write queries like a boss](https://hasura.io/blog/fluent-graphql-clients-how-to-write-queries-like-a-boss/)
 * [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 * [A deep-dive into Relay, the friendly & opinionated GraphQL client](https://hasura.io/blog/deep-dive-into-relay-graphql-client/)
+* ["Why use GraphQL, good and bad reasons"](https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons)
+* [make your graphql api easier to adopt through components](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)
 
 <a name="workshopper" />
 
