@@ -89,6 +89,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem Geomandel ![GitHub Repo stars](https://img.shields.io/github/stars/Edhendil/golem-geomandel) ![GitHub last commit](https://img.shields.io/github/last-commit/Edhendil/golem-geomandel)](https://github.com/Edhendil/golem-geomandel) - Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.
 - [Golem COVID ![GitHub Repo stars](https://img.shields.io/github/stars/iRhonin/golem-covid) ![GitHub last commit](https://img.shields.io/github/last-commit/iRhonin/golem-covid)](https://github.com/iRhonin/golem-covid) - Creates images of new deaths per million related to COVID. After all images generated, it will gather them and create a gif.
 - [Golem Parallel Matplotlib ![GitHub Repo stars](https://img.shields.io/github/stars/CoeJoder/golem-parallel-matplotlib) ![GitHub last commit](https://img.shields.io/github/last-commit/CoeJoder/golem-parallel-matplotlib)](https://github.com/CoeJoder/golem-parallel-matplotlib) - Various statistical analyses are performed on circadian rhythm measurements in human test subjects.
+- [Full-Text Search Engine ![GitHub Repo stars](https://img.shields.io/github/stars/niklr/golem-fulltext-search) ![GitHub last commit](https://img.shields.io/github/last-commit/niklr/golem-fulltext-search)](https://github.com/niklr/golem-fulltext-search) - A search engine service that goes through text files.
 
 ### Data Simulation
 
