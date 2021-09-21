@@ -327,7 +327,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 - Hands-on ROS 2: A Walkthrough
 - ROS 2 on Autonomous Driving Vehicles
-- RViz – The tale of a migration to ROS 2.0
+- RViz �� The tale of a migration to ROS 2.0
 - Launch for ROS 2
 - Getting involved in ROS 2 development
 - Planning to Plan: Plugins All The Way Down
