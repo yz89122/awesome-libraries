@@ -329,6 +329,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### C/C++ Libraries
 
+* [Agoo-C ![GitHub Repo stars](https://img.shields.io/github/stars/ohler55/agoo-c) ![GitHub last commit](https://img.shields.io/github/last-commit/ohler55/agoo-c)](https://github.com/ohler55/agoo-c) - A high performance GraphQL server written in C. [benchmarks ![GitHub Repo stars](https://img.shields.io/github/stars/the-benchmarker/graphql-benchmarks) ![GitHub last commit](https://img.shields.io/github/last-commit/the-benchmarker/graphql-benchmarks)](https://github.com/the-benchmarker/graphql-benchmarks)
 * [libgraphqlparser ![GitHub Repo stars](https://img.shields.io/github/stars/graphql/libgraphqlparser) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql/libgraphqlparser)](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
 * [cppgraphqlgen ![GitHub Repo stars](https://img.shields.io/github/stars/Microsoft/cppgraphqlgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/cppgraphqlgen)](https://github.com/Microsoft/cppgraphqlgen) - C++ GraphQL schema service generator.
 * [CaffQL ![GitHub Repo stars](https://img.shields.io/github/stars/caffeinetv/CaffQL) ![GitHub last commit](https://img.shields.io/github/last-commit/caffeinetv/CaffQL)](https://github.com/caffeinetv/CaffQL) - Generates C++ client types and request/response serialization from a GraphQL introspection query.
@@ -534,6 +535,7 @@ for the Angel framework.
 * [Apollo Storybook Decorator ![GitHub Repo stars](https://img.shields.io/github/stars/abhiaiyer91/apollo-storybook-decorator) ![GitHub last commit](https://img.shields.io/github/last-commit/abhiaiyer91/apollo-storybook-decorator)](https://github.com/abhiaiyer91/apollo-storybook-decorator) - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
 * [GraphQL Metrics ![GitHub Repo stars](https://img.shields.io/github/stars/Workpop/graphql-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/Workpop/graphql-utils)](https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
 * [GraphQL Rover ![GitHub Repo stars](https://img.shields.io/github/stars/Brbb/graphql-rover) ![GitHub last commit](https://img.shields.io/github/last-commit/Brbb/graphql-rover)](https://github.com/Brbb/graphql-rover) - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
+* [GraphQL Test Tool ![GitHub Repo stars](https://img.shields.io/github/stars/ohler55/graphql-test-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/ohler55/graphql-test-tool)](https://github.com/ohler55/graphql-test-tool) - Run test cases against a GraphQL server. Ideal for scripting CI tests.
 * [json-graphql-server ![GitHub Repo stars](https://img.shields.io/github/stars/marmelab/json-graphql-server) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/json-graphql-server)](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 * [Insomnia](https://insomnia.rest/) - A full-featured API client with first-party GraphQL query editor
 * [Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/prisma/prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/prisma/prisma)](https://github.com/prisma/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
@@ -549,6 +551,8 @@ for the Angel framework.
 * [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
 * [Apollo Client Developer Tools ![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-client-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client-devtools)](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 * [GraphQL Birdseye](https://birdseye.novvum.io) – View any GraphQL schema as a dynamic and interactive graph.
+* [Retool](https://retool.com/) – Internal tools builder on top of your GraphQL APIs + GraphQL IDE with a schema explorer.
+* [dataloader-codegen ![GitHub Repo stars](https://img.shields.io/github/stars/Yelp/dataloader-codegen) ![GitHub last commit](https://img.shields.io/github/last-commit/Yelp/dataloader-codegen)](https://github.com/Yelp/dataloader-codegen) - An opinionated JavaScript library for automatically generating predictable, type safe DataLoaders over a set of resources (e.g. HTTP endpoints).
 * [GraphQL Inspector ![GitHub Repo stars](https://img.shields.io/github/stars/kamilkisiela/graphql-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilkisiela/graphql-inspector)](https://github.com/kamilkisiela/graphql-inspector): Compare schemas, validate documents, find breaking changes, find similar types, schema coverage, and more.
 * [gqldoc ![GitHub Repo stars](https://img.shields.io/github/stars/Code-Hex/gqldoc) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-Hex/gqldoc)](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL. 
 * [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
@@ -561,8 +565,8 @@ for the Angel framework.
 
 * [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
 * [Tinfoil Security - GraphQL Security Scanner ](https://www.tinfoilsecurity.com/blog/graphql-security-scanning) - [Tinfoil Security](https://www.tinfoilsecurity.com/solutions/api-scanner)
-* [InQL Scanner](https://blog.graphqleditor.com/inql-graphql-security-scanner/) [inql ![GitHub Repo stars](https://img.shields.io/github/stars/doyensec/inql) ![GitHub last commit](https://img.shields.io/github/last-commit/doyensec/inql)](https://github.com/doyensec/inql)
-* [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6) [BurpSuite](https://portswigger.net/burp
+* [InQL Scanner ![GitHub Repo stars](https://img.shields.io/github/stars/doyensec/inql) ![GitHub last commit](https://img.shields.io/github/last-commit/doyensec/inql)](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing
+* [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6) [BurpSuite](https://portswigger.net/burp)
 * [WAF for graphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for graphQL APIs
 * [GraphQL Intruder ![GitHub Repo stars](https://img.shields.io/github/stars/davinerd/gql_intruder) ![GitHub last commit](https://img.shields.io/github/last-commit/davinerd/gql_intruder)](https://github.com/davinerd/gql_intruder) - Plugin based python script to perform GraphQL vulnerability assessment.
 
@@ -808,11 +812,13 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Github GraphQL API React Example](https://medium.com/@katopz/github-graphql-api-react-example-eace824d7b61)
 * [Testing a GraphQL Server using Jest](https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e)
 * [How to implement viewerCanSee in  GraphQL](https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464)
+* [Mock your GraphQL server realistically with faker.js](https://dev.to/yvonnickfrin/mock-your-graphql-server-realistically-with-faker-js-25oo)
 * [Create an infinite loading list with React and GraphQL](https://dev.to/yvonnickfrin/create-an-infinite-loading-list-with-react-and-graphql-19hh)
 * [REST vs GraphQL](https://www.moesif.com/blog/technical/graphql/REST-vs-GraphQL-APIs-the-good-the-bad-the-ugly/)
 * [Authentication and Authorization for GraphQL APIs](https://www.moesif.com/blog/technical/api-design/Steps-to-Building-Authentication-and-Authorization-For-GraphQL-APIs/)
 * [Build a GraphQL API with Siler on top of Swoole](https://www.swoole.co.uk/article/Build-a-GraphQL-API-on-top-of-Swoole)
 * [Fluent GraphQL clients: how to write queries like a boss](https://hasura.io/blog/fluent-graphql-clients-how-to-write-queries-like-a-boss/)
+* [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 * [A deep-dive into Relay, the friendly & opinionated GraphQL client](https://hasura.io/blog/deep-dive-into-relay-graphql-client/)
 
 <a name="workshopper" />
