@@ -54,6 +54,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Python](#example-python)
 	- [Elixir](#example-elixir)
 	- [Java](#example-java)
+	- [Kotlin](#example-kotlin)
 	- [Android](#example-android)
 	- [iOS](#example-ios)
 	- [Clojure](#example-clojure)
@@ -299,6 +300,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Java Libraries
 
 * [graphql-java ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java/graphql-java) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java/graphql-java)](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
+* [graphql-java-generator](https://github.com/graphql-java-generator) - A [Maven plugin ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java-generator/graphql-maven-plugin-project) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java-generator/graphql-maven-plugin-project)](https://github.com/graphql-java-generator/graphql-maven-plugin-project) and a [Gradle plugin ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java-generator/graphql-gradle-plugin-project) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java-generator/graphql-gradle-plugin-project)](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) that can generate both the __Client__ and the __Server__ (POJOs and utility classes). The server part is based on graphql-java, and hides all its boilerplate codes. 
 * [gaphql-java-type-generator ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java/graphql-java-type-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java/graphql-java-type-generator)](https://github.com/graphql-java/graphql-java-type-generator) - Auto-generates types for use with GraphQL Java
 * [schemagen-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/bpatters/schemagen-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/bpatters/schemagen-graphql)](https://github.com/bpatters/schemagen-graphql) - Schema generation and execution package that turns POJO's into a GraphQL Java queryable set of objects. Enables exposing any service as a GraphQL service using Annotations.
 * [graphql-java-annotations ![GitHub Repo stars](https://img.shields.io/github/stars/Enigmatis/graphql-java-annotations) ![GitHub last commit](https://img.shields.io/github/last-commit/Enigmatis/graphql-java-annotations)](https://github.com/Enigmatis/graphql-java-annotations) - Provides annotations-based syntax for schema definition with GraphQL Java.
@@ -306,7 +308,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-java-codegen-maven-plugin ![GitHub Repo stars](https://img.shields.io/github/stars/kobylynskyi/graphql-java-codegen-maven-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/kobylynskyi/graphql-java-codegen-maven-plugin)](https://github.com/kobylynskyi/graphql-java-codegen-maven-plugin) - Schema-first maven plugin for generating Java types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools. Inspired by [swagger-codegen-maven-plugin ![GitHub Repo stars](https://img.shields.io/github/stars/swagger-api/swagger-codegen) ![GitHub last commit](https://img.shields.io/github/last-commit/swagger-api/swagger-codegen)](https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen-maven-plugin).
 * [graphql-java-codegen-gradle-plugin ![GitHub Repo stars](https://img.shields.io/github/stars/kobylynskyi/graphql-java-codegen-gradle-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/kobylynskyi/graphql-java-codegen-gradle-plugin)](https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin) - Schema-first gradle plugin for generating Java types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools. Inspired by [gradle-swagger-generator-plugin ![GitHub Repo stars](https://img.shields.io/github/stars/int128/gradle-swagger-generator-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/int128/gradle-swagger-generator-plugin)](https://github.com/int128/gradle-swagger-generator-plugin).
 * [graphql-java-servlet ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java-kickstart/graphql-java-servlet) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java-kickstart/graphql-java-servlet)](https://github.com/graphql-java-kickstart/graphql-java-servlet) - A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.
-* [manifold-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/manifold-systems/manifold) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold)](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA. See the [Java example](#example-java) below.
+* [manifold-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/manifold-systems/manifold) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold)](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Java example](#example-java) below.
 * [spring-graphql-common ![GitHub Repo stars](https://img.shields.io/github/stars/oembedler/spring-graphql-common) ![GitHub last commit](https://img.shields.io/github/last-commit/oembedler/spring-graphql-common)](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 * [graphql-spring-boot ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java-kickstart/graphql-spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java-kickstart/graphql-spring-boot)](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 * [vertx-graphql-service-discovery ![GitHub Repo stars](https://img.shields.io/github/stars/engagingspaces/vertx-graphql-service-discovery) ![GitHub last commit](https://img.shields.io/github/last-commit/engagingspaces/vertx-graphql-service-discovery)](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
@@ -324,6 +326,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Kotlin Libraries
 
 * [graphql-kotlin ![GitHub Repo stars](https://img.shields.io/github/stars/ExpediaGroup/graphql-kotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/ExpediaGroup/graphql-kotlin)](https://github.com/ExpediaGroup/graphql-kotlin) - GraphQL Kotlin implementation.
+* [manifold-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/manifold-systems/manifold) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold)](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Kotlin example](#example-kotlin) below.
 * [KGraphQL ![GitHub Repo stars](https://img.shields.io/github/stars/aPureBase/KGraphQL) ![GitHub last commit](https://img.shields.io/github/last-commit/aPureBase/KGraphQL)](https://github.com/aPureBase/KGraphQL): Pure Kotlin implementation to setup a GraphQL server.
 
 <a name="lib-c" />
@@ -433,6 +436,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Android Libraries
 
 * [apollo-android ![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-android) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-android)](https://github.com/apollographql/apollo-android) - 📟 A strongly-typed, caching GraphQL client for Android, written in Java
+* [manifold-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/manifold-systems/manifold) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold)](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Java example](#example-java) below.
 
 <a name="lib-ios" />
 
@@ -576,6 +580,7 @@ for the Angel framework.
 
 ## Databases
 
+* [Back4App](https://www.back4app.com/graphql-database) - Build a Scalable Database with GraphQL API in minutes.
 * [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
 * [EdgeDB](https://edgedb.com/) - The next generation object-relational database with native GraphQL support.
 * [FaunaDB](https://fauna.com) - Relational NoSQL database with [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) Supports joins, indexes, and multi-region ACID transactions with serverless pay-per-use pricing.
@@ -586,7 +591,6 @@ for the Angel framework.
 
 ## Services
 
-* [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
 * [AWS AppSync](https://aws.amazon.com/appsync/) - Scalable managed GraphQL service with subscriptions for building real-time and offline-first apps
 * [DatoCMS](https://www.datocms.com/) - CDN-based GraphQL based Headless Content Management System.
 * [FastQL](https://fastql.io/) - CDN specifically for GraphQL applications
@@ -599,6 +603,7 @@ for the Angel framework.
 * [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
 * [Saleor ![GitHub Repo stars](https://img.shields.io/github/stars/mirumee/saleor) ![GitHub last commit](https://img.shields.io/github/last-commit/mirumee/saleor)](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
 * [Stargate](https://stargate.io/docs/stargate/1.0/quickstart/quick_start-graphql.html) - Open source data gateway currently supporting Apache Cassandra&reg; and DataStax Enterprise.
+* [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
 
 <a name="example" />
 
@@ -645,6 +650,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [GraphQL Tutorial ![GitHub Repo stars](https://img.shields.io/github/stars/rse/graphql-tutorial) ![GitHub last commit](https://img.shields.io/github/last-commit/rse/graphql-tutorial)](https://github.com/rse/graphql-tutorial) - A didactic 12-step introduction to GraphQL, starting from a simple Hello World to a network-based GraphQL server with a built-in GraphQL UI
 * [Serverless Apollo Graphql ![GitHub Repo stars](https://img.shields.io/github/stars/RishikeshDarandale/serverless-graphql-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/RishikeshDarandale/serverless-graphql-boilerplate)](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) - Boilerplate to start you Apollo graphql server in AWS using serverless framework
 * [Next.js TypeScript and GraphQL Example ![GitHub Repo stars](https://img.shields.io/github/stars/zeit/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/zeit/next.js)](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - A type-protected GraphQL example on Next.js running [graphql-codegen](https://graphql-code-generator.com/) under the hood
+* [GraphQL StackBlitz Starter](https://stackblitz.com/fork/graphql) – A live, editable demo spinning up in about 2 seconds and running in a browser
 * [NAPERG: Node Apollo Prisma Express React GraphQL ![GitHub Repo stars](https://img.shields.io/github/stars/alan345/naperg) ![GitHub last commit](https://img.shields.io/github/last-commit/alan345/naperg)](https://github.com/alan345/naperg) - Boilerplate for a Fullstack GraphQL App with React & Prisma (Upload image - chat).
 
 <a name="example-ts" />
@@ -705,6 +711,12 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [manifold-graphql sample ![GitHub Repo stars](https://img.shields.io/github/stars/manifold-systems/manifold-sample-graphql-app) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold-sample-graphql-app)](https://github.com/manifold-systems/manifold-sample-graphql-app) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
 * [graphql-java-kickstart_samples ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java-kickstart/samples) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java-kickstart/samples)](https://github.com/graphql-java-kickstart/samples) - Samples for using the GraphQL Java Kickstart projects
 * [spring-boot-federation-example ![GitHub Repo stars](https://img.shields.io/github/stars/setchy/spring-boot-federation-example) ![GitHub last commit](https://img.shields.io/github/last-commit/setchy/spring-boot-federation-example)](https://github.com/setchy/spring-boot-federation-example) - A GraphQL Java Kickstart federation example
+
+<a name="example-kotlin" />
+
+### Kotlin Examples
+
+* [manifold-graphql sample ![GitHub Repo stars](https://img.shields.io/github/stars/manifold-systems/manifold-sample-kotlin-app) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold-sample-kotlin-app)](https://github.com/manifold-systems/manifold-sample-kotlin-app) - A simple GraphQL application, both client and server, demonstrating the Manifold GraphQL library with Kotlin.
 
 <a name="example-android" />
 
