@@ -212,6 +212,7 @@
 - [Deno ![GitHub Repo stars](https://img.shields.io/github/stars/denolib/awesome-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denolib/awesome-deno)](./denolib-awesome-deno.md) [*Origin*](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 - [DOS ![GitHub Repo stars](https://img.shields.io/github/stars/balintkissdev/awesome-dos) ![GitHub last commit](https://img.shields.io/github/last-commit/balintkissdev/awesome-dos)](./balintkissdev-awesome-dos.md) [*Origin*](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 - [Nix ![GitHub Repo stars](https://img.shields.io/github/stars/nix-community/awesome-nix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/awesome-nix)](./nix-community-awesome-nix.md) [*Origin*](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+- [Integration ![GitHub Repo stars](https://img.shields.io/github/stars/stn1slv/awesome-integration) ![GitHub last commit](https://img.shields.io/github/last-commit/stn1slv/awesome-integration)](./stn1slv-awesome-integration.md) [*Origin*](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## Programming Languages
 
