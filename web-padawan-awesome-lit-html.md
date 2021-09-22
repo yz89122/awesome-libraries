@@ -19,9 +19,12 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Design Systems](#design-systems)
 - [Component Libraries](#component-libraries)
 - [Standalone Components](#standalone-components)
-- [IDE Plugins](#ide-plugins)
-- [TypeScript Plugins](#typescript-plugins)
 - [Tools](#tools)
+  - [Building](#building)
+  - [Linting](#linting)
+  - [IDE Plugins](#ide-plugins)
+  - [TypeScript Plugins](#typescript-plugins)
+  - [Other Tools](#other-tools)
 - [CDN](#cdn)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
@@ -49,6 +52,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 - [Lightning-fast templates & Web Components: lit-html & LitElement](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 - [Lit 2.0: Meet Lit, all over again!](https://lit.dev/blog/2021-04-21-lit-2.0-meet-lit-all-over-again/)
+- [Announcing Lit 2 stable release](https://lit.dev/blog/2021-09-21-announcing-lit-2/)
 
 ## Starter Templates
 
@@ -162,31 +166,43 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<rapi-doc>` ![GitHub Repo stars](https://img.shields.io/github/stars/mrin9/RapiDoc) ![GitHub last commit](https://img.shields.io/github/last-commit/mrin9/RapiDoc)](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 - [`<stl-part-viewer>` ![GitHub Repo stars](https://img.shields.io/github/stars/justinribeiro/stl-part-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/justinribeiro/stl-part-viewer)](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
 
-## IDE Plugins
-
-- [vscode-lit-html ![GitHub Repo stars](https://img.shields.io/github/stars/mjbvz/vscode-lit-html) ![GitHub last commit](https://img.shields.io/github/last-commit/mjbvz/vscode-lit-html)](https://github.com/mjbvz/vscode-lit-html) - Syntax highlighting and IntelliSense for lit-html template strings.
-- [vscode-lit-plugin ![GitHub Repo stars](https://img.shields.io/github/stars/runem/lit-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/runem/lit-analyzer)](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
-- [es6-string-html ![GitHub Repo stars](https://img.shields.io/github/stars/mydesireiscoma/es6-string-html) ![GitHub last commit](https://img.shields.io/github/last-commit/mydesireiscoma/es6-string-html)](https://github.com/mydesireiscoma/es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
-- [vim-html-template-literals ![GitHub Repo stars](https://img.shields.io/github/stars/jonsmithers/vim-html-template-literals) ![GitHub last commit](https://img.shields.io/github/last-commit/jonsmithers/vim-html-template-literals)](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for lit-html.
-
-## TypeScript Plugins
-
-- [ts-lit-plugin ![GitHub Repo stars](https://img.shields.io/github/stars/runem/lit-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/runem/lit-analyzer)](https://github.com/runem/lit-analyzer/tree/master/packages/ts-lit-plugin) - Plugin that adds type checking and code completion for lit-html. Used by `vscode-lit-plugin`.
-- [typescript-lit-html-plugin ![GitHub Repo stars](https://img.shields.io/github/stars/Microsoft/typescript-lit-html-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/typescript-lit-html-plugin)](https://github.com/Microsoft/typescript-lit-html-plugin) - TypeScript server plugin that adds IntelliSense for lit-html. Used by `vscode-lit-html`.
-
 ## Tools
 
-- [babel-plugin-lit-property-types-from-ts ![GitHub Repo stars](https://img.shields.io/github/stars/bschlenk/babel-plugin-lit-property-types-from-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/bschlenk/babel-plugin-lit-property-types-from-ts)](https://github.com/bschlenk/babel-plugin-lit-property-types-from-ts) - Babel plugin for automatically setting a property's `type` based on its TypeScript type.
-- [babel-plugin-template-html-minifier ![GitHub Repo stars](https://img.shields.io/github/stars/cfware/babel-plugin-template-html-minifier) ![GitHub last commit](https://img.shields.io/github/last-commit/cfware/babel-plugin-template-html-minifier)](https://github.com/cfware/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
-- [eslint-plugin-lit ![GitHub Repo stars](https://img.shields.io/github/stars/43081j/eslint-plugin-lit) ![GitHub last commit](https://img.shields.io/github/last-commit/43081j/eslint-plugin-lit)](https://github.com/43081j/eslint-plugin-lit) - ESLint plugin for lit-html template strings.
-- [eslint-plugin-lit-a11y](https://www.npmjs.com/package/eslint-plugin-lit-a11y) - Accessibility linting plugin for lit-html
-- [lit-analyzer ![GitHub Repo stars](https://img.shields.io/github/stars/runem/lit-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/runem/lit-analyzer)](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) - CLI that type checks bindings in lit-html templates.
-- [rollup-plugin-minify-html-literals ![GitHub Repo stars](https://img.shields.io/github/stars/asyncLiz/rollup-plugin-minify-html-literals) ![GitHub last commit](https://img.shields.io/github/last-commit/asyncLiz/rollup-plugin-minify-html-literals)](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
-- [rollup-plugin-inline-lit-element ![GitHub Repo stars](https://img.shields.io/github/stars/aelbore/rollup-plugin-inline-lit-element) ![GitHub last commit](https://img.shields.io/github/last-commit/aelbore/rollup-plugin-inline-lit-element)](https://github.com/aelbore/rollup-plugin-inline-lit-element) - Rollup plugin to inline external styles in LitElement and transpile decorators.
-- [rollup-plugin-lit-css ![GitHub Repo stars](https://img.shields.io/github/stars/bennypowers/rollup-plugin-lit-css) ![GitHub last commit](https://img.shields.io/github/last-commit/bennypowers/rollup-plugin-lit-css)](https://github.com/bennypowers/rollup-plugin-lit-css) - Rollup plugin to import CSS files as LitElement tagged `css` template strings.
-- [rollup-plugin-postcss-lit ![GitHub Repo stars](https://img.shields.io/github/stars/umbopepato/rollup-plugin-postcss-lit) ![GitHub last commit](https://img.shields.io/github/last-commit/umbopepato/rollup-plugin-postcss-lit)](https://github.com/umbopepato/rollup-plugin-postcss-lit) - Rollup plugin to load PostCSS-processed stylesheets in LitElement components.
-- [web-components-codemods ![GitHub Repo stars](https://img.shields.io/github/stars/kcmr/web-components-codemods) ![GitHub last commit](https://img.shields.io/github/last-commit/kcmr/web-components-codemods)](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
+### Building
+
+- [babel-plugin-lit-property-types-from-ts](https://www.npmjs.com/package/babel-plugin-lit-property-types-from-ts) - Babel plugin for setting `type` for reactive properties declared in Lit components based on TypeScript type annotations.
+- [babel-plugin-template-html-minifier](https://www.npmjs.com/package/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
+- [esbuild-plugin-lit-css](https://www.npmjs.com/package/esbuild-plugin-lit-css) - ESBuild plugin to import css files as JavaScript tagged-template literal objects.
+- [lit-css-loader](https://www.npmjs.com/package/lit-css-loader) - Webpack loader to import css files as JavaScript tagged-template literal objects.
+- [lit-scss-loader](https://www.npmjs.com/package/lit-scss-loader) - Webpack loader to import the CSS/SCSS into Lit components.
+- [rollup-plugin-lit-css](https://www.npmjs.com/package/rollup-plugin-lit-css) - Rollup plugin to import css files as JavaScript tagged-template literal objects.
+- [rollup-plugin-minify-html-literals](https://www.npmjs.com/package/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
+- [rollup-plugin-postcss-lit](https://www.npmjs.com/package/rollup-plugin-postcss-lit) - Rollup plugin to load PostCSS-processed stylesheets in Lit components.
+
+### Linting
+
+- [eslint-plugin-lit](https://www.npmjs.com/package/eslint-plugin-lit) - ESLint plugin for Lit template strings.
+- [eslint-plugin-lit-a11y](https://www.npmjs.com/package/eslint-plugin-lit-a11y) - Accessibility linting plugin for Lit templates.
+- [lit-analyzer](https://www.npmjs.com/package/lit-analyzer) - CLI that type checks bindings in Lit templates.
+
+### IDE Plugins
+
+- [vscode-lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - Syntax highlighting and IntelliSense for lit-html template strings.
+- [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
+- [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
+- [vim-html-template-literals ![GitHub Repo stars](https://img.shields.io/github/stars/jonsmithers/vim-html-template-literals) ![GitHub last commit](https://img.shields.io/github/last-commit/jonsmithers/vim-html-template-literals)](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
+
+### TypeScript Plugins
+
+- [ts-lit-plugin](https://www.npmjs.com/package/ts-lit-plugin) - Plugin that adds type checking and code completion for Lit templates.
+- [typescript-lit-html-plugin](https://www.npmjs.com/package/typescript-lit-html-plugin) - TypeScript server plugin that adds IntelliSense for Lit templates.
+
+### Other Tools
+
+- [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - CLI tool to generate API documentation for web components.
+- [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
 - [Web Component DevTools ![GitHub Repo stars](https://img.shields.io/github/stars/Matsuuu/web-component-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/Matsuuu/web-component-devtools)](https://github.com/Matsuuu/web-component-devtools) - Browser extension for developers working with Web Components.
+- [Web Component Factory](https://www.npmjs.com/package/@wcfactory/cli) - CLI tool for generating, building, testing and publishing web components.
 
 ## CDN
 
@@ -204,6 +220,7 @@ See [this issue ![GitHub Repo stars](https://img.shields.io/github/stars/lit/lit
 - [Efficient, Expressive, and Extensible HTML Templates (Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
 - [lit-HTML (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [Lit Beta Launch Event (2021)](https://www.youtube.com/watch?v=f1j7b696L-E)
+- [Lit 2.0 Release Livestream](https://www.youtube.com/watch?v=nfb779XIhsU)
 - [VDOM vs lit-html - HTTP203](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
 - [Declarative Reactive Web Components with Justin Fagnani](https://www.youtube.com/watch?v=9FB0GSOAESo)
 - [Building a Complex Application with Web Components and LitElement](https://www.youtube.com/watch?v=x9YDQUJx2uw)

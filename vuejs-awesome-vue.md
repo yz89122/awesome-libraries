@@ -1335,6 +1335,7 @@ _A slim progress bar at the top of the page_
 - [vue-twitter-counter ![GitHub Repo stars](https://img.shields.io/github/stars/LucasLeandro1204/vue-twitter-counter) ![GitHub last commit](https://img.shields.io/github/last-commit/LucasLeandro1204/vue-twitter-counter)](https://github.com/LucasLeandro1204/vue-twitter-counter) - Counter component inspired in Twitter with Vue
 - [vue-ins-progress-bar ![GitHub Repo stars](https://img.shields.io/github/stars/meloalright/vue-ins-progress-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/meloalright/vue-ins-progress-bar)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
 - [vue-next-progressbar ![GitHub Repo stars](https://img.shields.io/github/stars/jambonn/vue-next-progressbar) ![GitHub last commit](https://img.shields.io/github/last-commit/jambonn/vue-next-progressbar)](https://github.com/jambonn/vue-next-progressbar) - Slim progress bars(1KB gzipped) for Vue 3.
+- [vue3-progress ![GitHub Repo stars](https://img.shields.io/github/stars/marcoschulte/vue3-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/marcoschulte/vue3-progress)](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
 
 #### Tooltip
 
