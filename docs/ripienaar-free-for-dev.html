@@ -192,13 +192,14 @@
   <li>
 <a href="https://www.oracle.com/cloud/">Oracle Cloud</a>
     <ul>
-      <li>Compute - 2 VM.Standard.E2.1.Micro 1GB RAM, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs</li>
-      <li>Block Volume - 2 volumes, 200 GB total (used for compute)</li>
+      <li>Compute - 2 x64-based with 1 GB RAM each, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs</li>
+      <li>Block Volume - 4 volumes, 200 GB total (used for compute)</li>
       <li>Object Storage - 10 GB</li>
       <li>Load balancer - 1 instance with 10 Mbps</li>
       <li>Databases - 2 DBs, 20 GB each</li>
       <li>Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints</li>
-      <li>Bandwidth - 10TB egress per month, speed limited to 5Mbps</li>
+      <li>Bandwidth - 10 TB egress per month, speed limited to 50 Mbps on x64 based VM, 500 Mbps * core count on ARM based VM</li>
+      <li>Public IP - 2 IPv4 for VMs, 1 IPv4 for load balancer</li>
       <li>Notifications - 1 million delivery options per month, 1000 emails sent per month</li>
       <li>Full, detailed list - https://www.oracle.com/cloud/free/</li>
     </ul>
