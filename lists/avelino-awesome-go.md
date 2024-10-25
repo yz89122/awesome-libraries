@@ -1441,6 +1441,7 @@ _Libraries for manipulating images._
 - [go-cairo ![GitHub Repo Stars](https://img.shields.io/github/stars/ungerik/go-cairo) ![GitHub last commit](https://img.shields.io/github/last-commit/ungerik/go-cairo)](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library.
 - [go-gd ![GitHub Repo Stars](https://img.shields.io/github/stars/bolknote/go-gd) ![GitHub last commit](https://img.shields.io/github/last-commit/bolknote/go-gd)](https://github.com/bolknote/go-gd) - Go binding for GD library.
 - [go-nude ![GitHub Repo Stars](https://img.shields.io/github/stars/koyachi/go-nude) ![GitHub last commit](https://img.shields.io/github/last-commit/koyachi/go-nude)](https://github.com/koyachi/go-nude) - Nudity detection with Go.
+- [go-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/yeqown/go-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/yeqown/go-qrcode)](https://github.com/yeqown/go-qrcode) - Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons.
 - [go-webcolors ![GitHub Repo Stars](https://img.shields.io/github/stars/jyotiska/go-webcolors) ![GitHub last commit](https://img.shields.io/github/last-commit/jyotiska/go-webcolors)](https://github.com/jyotiska/go-webcolors) - Port of webcolors library from Python to Go.
 - [go-webp ![GitHub Repo Stars](https://img.shields.io/github/stars/kolesa-team/go-webp) ![GitHub last commit](https://img.shields.io/github/last-commit/kolesa-team/go-webp)](https://github.com/kolesa-team/go-webp) - Library for encode and decode webp pictures, using libwebp.
 - [gocv ![GitHub Repo Stars](https://img.shields.io/github/stars/hybridgroup/gocv) ![GitHub last commit](https://img.shields.io/github/last-commit/hybridgroup/gocv)](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 3.3+.
@@ -3702,6 +3703,7 @@ _Add the group of your city/country here (send **PR**)_
 - [gocryforhelp ![GitHub Repo Stars](https://img.shields.io/github/stars/ninedraft/gocryforhelp) ![GitHub last commit](https://img.shields.io/github/last-commit/ninedraft/gocryforhelp)](https://github.com/ninedraft/gocryforhelp) - Collection of Go projects that needs help. Good place to start your open-source way in Go.
 - [Golang Developer Jobs](https://golangjob.xyz) - Developer Jobs exclusively for Golang related Roles.
 - [Golang News](https://golangnews.com) - Links and news about Go programming.
+- [Golang Nugget](https://mondaynugget.com/golang/) - A weekly roundup of the best Go content, delivered to your inbox every Monday.
 - [Golang Resources](https://golangresources.com) - A curation of the best articles, exercises, talks and videos to learn Go.
 - [Golang Weekly](https://discu.eu/weekly/golang/) - Each monday projects, tutorials and articles about Go.
 - [golang-graphics ![GitHub Repo Stars](https://img.shields.io/github/stars/mholt/golang-graphics) ![GitHub last commit](https://img.shields.io/github/last-commit/mholt/golang-graphics)](https://github.com/mholt/golang-graphics) - Collection of Go images, graphics, and art.

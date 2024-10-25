@@ -488,6 +488,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [lf ![GitHub Repo Stars](https://img.shields.io/github/stars/gokcehan/lf) ![GitHub last commit](https://img.shields.io/github/last-commit/gokcehan/lf)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 - [clifm ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-arch/clifm) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-arch/clifm)](https://github.com/leo-arch/clifm) - The command line file manager.
 - [far2l ![GitHub Repo Stars](https://img.shields.io/github/stars/elfmz/far2l) ![GitHub last commit](https://img.shields.io/github/last-commit/elfmz/far2l)](https://github.com/elfmz/far2l) - Orthodox file manager.
+- [yazi ![GitHub Repo Stars](https://img.shields.io/github/stars/sxyazi/yazi) ![GitHub last commit](https://img.shields.io/github/last-commit/sxyazi/yazi)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
 
 ### Deleting, Copying, and Renaming
 
