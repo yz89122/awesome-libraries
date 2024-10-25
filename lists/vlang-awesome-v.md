@@ -82,6 +82,7 @@
 - [vqrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosqsilva/vqrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosqsilva/vqrcode)](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
 - [vspect ![GitHub Repo Stars](https://img.shields.io/github/stars/zakuro9715/vspect) ![GitHub last commit](https://img.shields.io/github/last-commit/zakuro9715/vspect)](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vzcc ![GitHub Repo Stars](https://img.shields.io/github/stars/malisipi/vzcc) ![GitHub last commit](https://img.shields.io/github/last-commit/malisipi/vzcc)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+- [vin ![GitHub Repo Stars](https://img.shields.io/github/stars/DeoDorqnt387/vin) ![GitHub last commit](https://img.shields.io/github/last-commit/DeoDorqnt387/vin)](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 
 ### Editors
 
