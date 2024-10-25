@@ -359,7 +359,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month.
   * [ZenRows](https://www.zenrows.com/) — Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. The free tier of 1000 API calls.
-  * [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
+  * [Zenscrape](https://zenscrape.com/web-scraping-api) �� Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
   * [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
   * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.
   * [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. Ten thousand free requests/month.
@@ -1924,7 +1924,7 @@ Update Time, five active automations, webhooks.
 
 ## Remote Desktop Tools
 
-  * [Getscreen.me](https://getscreen.me) ���  Free for 2 devices, no limits on the number and duration of sessions
+  * [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
   * [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
   * [RemSupp](https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free)
   * [RustDesk](https://rustdesk.com/) - Open source virtual/remote desktop infrastructure for everyone!

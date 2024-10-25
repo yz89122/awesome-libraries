@@ -548,7 +548,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 
 - [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) — Checks missing or unreferenced package imports.
 
-- [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) �� Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
+- [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 
 - [GolangCI-Lint](https://golangci-lint.run) — Alternative to `Go Meta Linter`: GolangCI-Lint is a linters aggregator.
 
@@ -569,7 +569,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [interfacer ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/interfacer) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/interfacer)](https://github.com/mvdan/interfacer) :warning: — Suggest narrower interfaces that can be used.
 
-- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) :warning: — Report long lines.
+- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) :warning: ��� Report long lines.
 
 - [maligned ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/maligned) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/maligned)](https://github.com/mdempsky/maligned) :warning: — Detect structs that would take less memory if their fields were sorted.
 
@@ -1260,7 +1260,7 @@ Kani verifies:
 
 - [Scalastyle](http://www.scalastyle.org) — Scalastyle examines your Scala code and indicates potential problems with it.
 
-- [scapegoat ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scapegoat) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scapegoat)](https://github.com/sksamuel/scapegoat) — Scala compiler plugin for static code analysis.
+- [scapegoat ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scapegoat) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scapegoat)](https://github.com/sksamuel/scapegoat) ��� Scala compiler plugin for static code analysis.
 
 - [WartRemover](https://www.wartremover.org) — A flexible Scala code linting tool.
 
