@@ -243,6 +243,7 @@
 - [crusj/hierarchy-tree-go.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/crusj/hierarchy-tree-go.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/crusj/hierarchy-tree-go.nvim)](https://github.com/crusj/hierarchy-tree-go.nvim) - Neovim plugin for Golang, callHierarchy UI tree.
 - [yanskun/gotests.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yanskun/gotests.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yanskun/gotests.nvim)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests ![GitHub Repo Stars](https://img.shields.io/github/stars/cweill/gotests) ![GitHub last commit](https://img.shields.io/github/last-commit/cweill/gotests)](https://github.com/cweill/gotests).
 - [maxandron/goplements.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/maxandron/goplements.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/maxandron/goplements.nvim)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
+- [Snikimonkd/cmp-go-pkgs ![GitHub Repo Stars](https://img.shields.io/github/stars/Snikimonkd/cmp-go-pkgs) ![GitHub last commit](https://img.shields.io/github/last-commit/Snikimonkd/cmp-go-pkgs)](https://github.com/Snikimonkd/cmp-go-pkgs) - Cmp source for Go packages names.
 
 ### YAML
 
