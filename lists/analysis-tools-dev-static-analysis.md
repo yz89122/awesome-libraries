@@ -569,7 +569,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [interfacer ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/interfacer) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/interfacer)](https://github.com/mvdan/interfacer) :warning: — Suggest narrower interfaces that can be used.
 
-- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) :warning: — Report long lines.
+- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) :warning: ��� Report long lines.
 
 - [maligned ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/maligned) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/maligned)](https://github.com/mdempsky/maligned) :warning: — Detect structs that would take less memory if their fields were sorted.
 
@@ -1260,7 +1260,7 @@ Kani verifies:
 
 - [Scalastyle](http://www.scalastyle.org) — Scalastyle examines your Scala code and indicates potential problems with it.
 
-- [scapegoat ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scapegoat) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scapegoat)](https://github.com/sksamuel/scapegoat) — Scala compiler plugin for static code analysis.
+- [scapegoat ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scapegoat) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scapegoat)](https://github.com/sksamuel/scapegoat) �� Scala compiler plugin for static code analysis.
 
 - [WartRemover](https://www.wartremover.org) — A flexible Scala code linting tool.
 

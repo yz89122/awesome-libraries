@@ -181,6 +181,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-icomoon ![GitHub Repo Stars](https://img.shields.io/github/stars/aykutkardas/svelte-icomoon) ![GitHub last commit](https://img.shields.io/github/last-commit/aykutkardas/svelte-icomoon)](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
 - [svelte-unicons ![GitHub Repo Stars](https://img.shields.io/github/stars/devShamim/svelte-unicons) ![GitHub last commit](https://img.shields.io/github/last-commit/devShamim/svelte-unicons)](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
 - [lucide-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/lucide-icons/lucide) ![GitHub last commit](https://img.shields.io/github/last-commit/lucide-icons/lucide)](https://github.com/lucide-icons/lucide) - Implementation of the lucide icon library for svelte applications.
+- [svelte-icons-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/leshak/svelte-icons-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/leshak/svelte-icons-pack)](https://github.com/leshak/svelte-icons-pack) - Based on https://github.com/react-icons/react-icons.
 
 ### Calendar
 
@@ -189,6 +190,7 @@ _Display non-editable events in a calendar._
 - [svelte-fullcalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/YogliB/svelte-fullcalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/YogliB/svelte-fullcalendar)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 - [svelte-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/6eDesign/svelte-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/6eDesign/svelte-calendar)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 - [date-picker-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/probablykasper/date-picker-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/probablykasper/date-picker-svelte)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
+- [@schedule-x/svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/schedule-x/schedule-x) ![GitHub last commit](https://img.shields.io/github/last-commit/schedule-x/schedule-x)](https://github.com/schedule-x/schedule-x) - A material design event calendar library.
 
 ### Maps
 
@@ -217,12 +219,14 @@ _Switch / on/off toggle / checkbox._
 
 ### Miscellaneous
 
+- [Svelte Tweakpane UI](https://kitschpatrol.com/svelte-tweakpane-ui) - UI elements from [Tweakpane](https://tweakpane.github.io/docs/) wrapped in a collection of idiomatic Svelte components.
 - [svelte-tree-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/kpulkit29/svelte-tree-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/kpulkit29/svelte-tree-viewer)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 - [svelte-copyright ![GitHub Repo Stars](https://img.shields.io/github/stars/himynameisdave/svelte-copyright) ![GitHub last commit](https://img.shields.io/github/last-commit/himynameisdave/svelte-copyright)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 - [svelte-splitpanes ![GitHub Repo Stars](https://img.shields.io/github/stars/orefalo/svelte-splitpanes) ![GitHub last commit](https://img.shields.io/github/last-commit/orefalo/svelte-splitpanes)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
 - [mathjax-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/WoolDoughnut310/mathjax-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/WoolDoughnut310/mathjax-svelte)](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 - [svelte-stepper ![GitHub Repo Stars](https://img.shields.io/github/stars/efstajas/svelte-stepper) ![GitHub last commit](https://img.shields.io/github/last-commit/efstajas/svelte-stepper)](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
 - [css-3d-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/rofixro/css-3d-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/rofixro/css-3d-progress)](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
+- [svelte-speedometer ![GitHub Repo Stars](https://img.shields.io/github/stars/palerdot/svelte-speedometer) ![GitHub last commit](https://img.shields.io/github/last-commit/palerdot/svelte-speedometer)](https://github.com/palerdot/svelte-speedometer) - Svelte component for showing speedometer like gauge using d3.
 
 ## Scaffold
 
@@ -232,6 +236,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [create-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/sveltejs/kit) ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/kit)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 - [saasstarter ![GitHub Repo Stars](https://img.shields.io/github/stars/CriticalMoments/CMSaasStarter) ![GitHub last commit](https://img.shields.io/github/last-commit/CriticalMoments/CMSaasStarter)](https://github.com/CriticalMoments/CMSaasStarter) - A open source, fast, and free to host Svelte SaaS template.
 - [svelte-pwa-template ![GitHub Repo Stars](https://img.shields.io/github/stars/tretapey/svelte-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/tretapey/svelte-pwa)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. *(pre-v5)*
+- [vite-svelte-docker-template ![GitHub Repo Stars](https://img.shields.io/github/stars/bavragor/vite-svelte-docker-template) ![GitHub last commit](https://img.shields.io/github/last-commit/bavragor/vite-svelte-docker-template)](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 
 ## Utilities
 
@@ -252,7 +257,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 ### WebGL
 
 - [svelthree ![GitHub Repo Stars](https://img.shields.io/github/stars/vatro/svelthree) ![GitHub last commit](https://img.shields.io/github/last-commit/vatro/svelthree)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
-- [threlte](https://threlte.xyz) - Svelte wrapper for three.js
+- [threlte](https://threlte.xyz) - Threlte is a renderer and component library for using Three.js in a declarative and state-driven way in Svelte apps.
 
 ### PWA
 
@@ -274,6 +279,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
 - [sveltekit-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/jarda-svoboda/sveltekit-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/jarda-svoboda/sveltekit-i18n)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 - [@tolgee/svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
+- [@i18n-pro/svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/i18n-pro/svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/i18n-pro/svelte)](https://github.com/i18n-pro/svelte) - Lightweight, simple, flexible, automatic translation internationalization tool for Svelte.
 
 ## Routers
 
