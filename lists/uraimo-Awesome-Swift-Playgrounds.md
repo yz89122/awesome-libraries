@@ -124,7 +124,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [The Principles of OOD in Swift 4 ![GitHub Repo Stars](https://img.shields.io/github/stars/ochococo/OOD-Principles-In-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/ochococo/OOD-Principles-In-Swift)](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.���
+* [The Principles of OOD in Swift 4 ![GitHub Repo Stars](https://img.shields.io/github/stars/ochococo/OOD-Principles-In-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/ochococo/OOD-Principles-In-Swift)](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁
 * [Design Patterns Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/edopelawi/DesignPatternsPlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/edopelawi/DesignPatternsPlayground)](https://github.com/edopelawi/DesignPatternsPlayground) - Learning GoF's Design Patterns in Swift 3.
 * [iOS Design Patterns ![GitHub Repo Stars](https://img.shields.io/github/stars/haxpor/ios-design-patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/haxpor/ios-design-patterns)](https://github.com/haxpor/ios-design-patterns) - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [Design Patterns in Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/ochococo/Design-Patterns-In-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/ochococo/Design-Patterns-In-Swift)](https://github.com/ochococo/Design-Patterns-In-Swift) - Design patterns in Swift 3.

@@ -1550,7 +1550,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Roslyn Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/roslyn-analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/roslyn-analyzers)](https://github.com/dotnet/roslyn-analyzers) — Roslyn-based implementation of FxCop analyzers.
 
-- [Roslyn Security Guard](https://security-code-scan.github.io) ��� Project that focuses on the identification of potential vulnerabilities such as SQL injection, cross-site scripting (XSS), CSRF, cryptography weaknesses, hardcoded passwords and many more.
+- [Roslyn Security Guard](https://security-code-scan.github.io) — Project that focuses on the identification of potential vulnerabilities such as SQL injection, cross-site scripting (XSS), CSRF, cryptography weaknesses, hardcoded passwords and many more.
 
 - [SafeQL](https://safeql.dev) — Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL. SafeQL is an ESLint plugin for writing SQL queries in a type-safe way.
 
