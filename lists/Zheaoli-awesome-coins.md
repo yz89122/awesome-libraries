@@ -116,7 +116,7 @@ Actual Hosted Coin Wallets:
 
 - [**Sia** Paper Wallet](https://siapaperwallet.co)
 - [WalletGenerator.net](https://walletgenerator.net)
-- [Cryptosteel](https://cryptosteel.com) — Made of steel!
+- [Cryptosteel](https://cryptosteel.com) �� Made of steel!
 
 ## ☤ Coin Exchanges
 
