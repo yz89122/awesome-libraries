@@ -1037,7 +1037,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [pyupgrade](https://pypi.org/project/pyupgrade-docs/) — A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 
-- [QuantifiedCode ![GitHub Repo Stars](https://img.shields.io/github/stars/quantifiedcode/quantifiedcode) ![GitHub last commit](https://img.shields.io/github/last-commit/quantifiedcode/quantifiedcode)](https://github.com/quantifiedcode/quantifiedcode) :warning: �� Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
+- [QuantifiedCode ![GitHub Repo Stars](https://img.shields.io/github/stars/quantifiedcode/quantifiedcode) ![GitHub last commit](https://img.shields.io/github/last-commit/quantifiedcode/quantifiedcode)](https://github.com/quantifiedcode/quantifiedcode) :warning: — Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
 
 - [radon](https://radon.readthedocs.io/en/latest) — A Python tool that computes various metrics from the source code.
 
