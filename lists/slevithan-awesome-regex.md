@@ -8,9 +8,9 @@
 
 Awesome Regex curates the best regular expression tools, tutorials, libraries, and other resources, covering all major regex flavors.
 
-> Regular expressions (regex or regexp) are a powerful and concise way to search, parse, and process text. They're built into many programming languages, text editors, IDEs, database engines, word processors, and other tools.
+> [Regular expressions](https://en.wikipedia.org/wiki/Regular_expression) (regex or regexp) are a powerful and concise way to search, parse, and process text. They're built into many programming languages, text editors, IDEs, database engines, word processors, and other tools.
 
-Contributions are welcome. Add links through pull requests ([guidelines](CONTRIBUTING.md)) or create an issue to start a discussion.
+Contributions are welcome. Add links through pull requests ([guidelines](CONTRIBUTING.md)).
 
 <details>
   <summary>📖 <b>Glossary</b></summary>
@@ -25,6 +25,17 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
   - Ex: Ruby swapped its regex implementation twice from version 1.8 ➜ 1.9 ➜ 2.0, so each used a distinct flavor. The Ruby 2.0+ flavor is referred to here as either “Ruby” or “Onigmo” (the underlying regex library).
 - **Non-backtracking engine:** A regex implementation that uses a non-backtracking algorithm and runs in linear time. This rules out worst case performance from superlinear backtracking, but it's slower with some patterns and precludes some useful features like backreferences.
 </details>
+
+### Featured resource
+
+[`regex` ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/regex)](https://github.com/slevithan/regex) is a lightweight JavaScript library for more readable, high-performance, native JavaScript regexes with powerful features including free spacing, atomic groups, possessive quantifiers, subroutines, subroutine definition groups, and context-aware interpolation.
+
+<a href="https://github.com/slevithan/regex">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/slevithan/regex@4.1.0/media/regex-logo-dark.svg">
+    <img alt="regex logo" height="100" src="https://cdn.jsdelivr.net/gh/slevithan/regex@4.1.0/media/regex-logo.svg">
+  </picture>
+</a>
 
 ## Contents
 
@@ -288,23 +299,18 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 *Open source JavaScript libraries for advanced regex use and processing.*
 
-### Regex builders
+### Alternative regex builders and engines
 
 - [regex ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/regex)](https://github.com/slevithan/regex) - A template tag for extended, readable, high-performance JavaScript regexes.
 - [XRegExp ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/xregexp) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/xregexp)](https://github.com/slevithan/xregexp) \[[*home*](https://xregexp.com/)] - Extended regex syntax, flags, and utils; useful for backcompat.
+- [incr-regex-package ![GitHub Repo Stars](https://img.shields.io/github/stars/nurulc/incr-regex-package) ![GitHub last commit](https://img.shields.io/github/last-commit/nurulc/incr-regex-package)](https://github.com/nurulc/incr-regex-package) - Partial/incremental matching, used by [react-rxinput ![GitHub Repo Stars](https://img.shields.io/github/stars/nurulc/react-rxinput) ![GitHub last commit](https://img.shields.io/github/last-commit/nurulc/react-rxinput)](https://github.com/nurulc/react-rxinput) for input validation with a regex mask.
+- Use other engines via WASM bindings: [node-re2 ![GitHub Repo Stars](https://img.shields.io/github/stars/uhop/node-re2) ![GitHub last commit](https://img.shields.io/github/last-commit/uhop/node-re2)](https://github.com/uhop/node-re2) (RE2), [rregex ![GitHub Repo Stars](https://img.shields.io/github/stars/2fd/rregex) ![GitHub last commit](https://img.shields.io/github/last-commit/2fd/rregex)](https://github.com/2fd/rregex) (Rust's `regex`), [vscode-oniguruma ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/vscode-oniguruma) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/vscode-oniguruma)](https://github.com/microsoft/vscode-oniguruma) (Oniguruma).
 
 ### Abstracted regex syntax
 
 - [Rexx ![GitHub Repo Stars](https://img.shields.io/github/stars/yyytcool/rexx) ![GitHub last commit](https://img.shields.io/github/last-commit/yyytcool/rexx)](https://github.com/yyytcool/rexx) - A template tag that uses structured syntax with variables and comments.
 - [Melody ![GitHub Repo Stars](https://img.shields.io/github/stars/yoav-lavi/melody) ![GitHub last commit](https://img.shields.io/github/last-commit/yoav-lavi/melody)](https://github.com/yoav-lavi/melody) \[[*docs*](https://yoav-lavi.github.io/melody/book/)] - A language that compiles to regexes.
 - Compose with functions: [compose-regexp.js ![GitHub Repo Stars](https://img.shields.io/github/stars/compose-regexp/compose-regexp.js) ![GitHub last commit](https://img.shields.io/github/last-commit/compose-regexp/compose-regexp.js)](https://github.com/compose-regexp/compose-regexp.js), [VerbalExpressions ![GitHub Repo Stars](https://img.shields.io/github/stars/VerbalExpressions/JSVerbalExpressions) ![GitHub last commit](https://img.shields.io/github/last-commit/VerbalExpressions/JSVerbalExpressions)](https://github.com/VerbalExpressions/JSVerbalExpressions) (implementations for [many languages](https://verbalexpressions.github.io/)), [magic-regexp ![GitHub Repo Stars](https://img.shields.io/github/stars/unjs/magic-regexp) ![GitHub last commit](https://img.shields.io/github/last-commit/unjs/magic-regexp)](https://github.com/unjs/magic-regexp) \[[*home*](https://regexp.dev/)], [Super Expressive ![GitHub Repo Stars](https://img.shields.io/github/stars/francisrstokes/super-expressive) ![GitHub last commit](https://img.shields.io/github/last-commit/francisrstokes/super-expressive)](https://github.com/francisrstokes/super-expressive) \[[*playground*](https://nartc.github.io/ng-super-expressive/)].
-
-### Alternative regex engines
-
-- [incr-regex-package ![GitHub Repo Stars](https://img.shields.io/github/stars/nurulc/incr-regex-package) ![GitHub last commit](https://img.shields.io/github/last-commit/nurulc/incr-regex-package)](https://github.com/nurulc/incr-regex-package) - Partial/incremental matching, used by [react-rxinput ![GitHub Repo Stars](https://img.shields.io/github/stars/nurulc/react-rxinput) ![GitHub last commit](https://img.shields.io/github/last-commit/nurulc/react-rxinput)](https://github.com/nurulc/react-rxinput) for input validation with a regex mask.
-- [node-re2 ![GitHub Repo Stars](https://img.shields.io/github/stars/uhop/node-re2) ![GitHub last commit](https://img.shields.io/github/last-commit/uhop/node-re2)](https://github.com/uhop/node-re2) - Bindings for RE2.
-- [rregex ![GitHub Repo Stars](https://img.shields.io/github/stars/2fd/rregex) ![GitHub last commit](https://img.shields.io/github/last-commit/2fd/rregex)](https://github.com/2fd/rregex) - Bindings for Rust's `regex`.
-- [vscode-oniguruma ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/vscode-oniguruma) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/vscode-oniguruma)](https://github.com/microsoft/vscode-oniguruma) - Bindings for Oniguruma.
 
 ### Regex processors
 
