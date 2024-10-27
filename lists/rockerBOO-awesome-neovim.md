@@ -812,6 +812,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [rlychrisg/truncateline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rlychrisg/truncateline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rlychrisg/truncateline.nvim)](https://github.com/rlychrisg/truncateline.nvim) - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
 - [EL-MASTOR/bufferlist.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/EL-MASTOR/bufferlist.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/EL-MASTOR/bufferlist.nvim)](https://github.com/EL-MASTOR/bufferlist.nvim) - A super fast, lightweight, minimal and super easy buffer manager.
 - [ellisonleao/dotenv.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ellisonleao/dotenv.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ellisonleao/dotenv.nvim)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
+- [dzfrias/arena.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dzfrias/arena.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dzfrias/arena.nvim)](https://github.com/dzfrias/arena.nvim) - A smart (frecency-based) buffer switcher.
 
 ### CSV Files
 
