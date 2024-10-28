@@ -125,6 +125,7 @@
 - 🎨🌍🔧 [Tailwind CSS Colors](http://tailwindcsscolors.com) - Cheat sheet for Tailwind CSS colors.
 - 🎨🌍🔧 [Tailwind Gradients](http://tailwindgradients.com) - Collection of gradients using Tailwind CSS classes.
 - 🎨🌍🔧 [Fullwind CSS](https://fullwindcss.com/) - Extend Tailwind CSS color palettes with additional shades.
+- 🎨🌍🔧 [InclusiveColors](https://www.inclusivecolors.com/) - Create fine-tuned WCAG accessible Tailwind CSS color palettes.
 - 🌍🔧💼 [Twind ![GitHub Repo Stars](https://img.shields.io/github/stars/tw-in-js/twind) ![GitHub last commit](https://img.shields.io/github/last-commit/tw-in-js/twind)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 - 🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Configurable custom animation utilities generator for Tailwind CSS.
 - 🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
@@ -161,7 +162,7 @@
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
-- 🎨🔧 [Design GUI](https://designgui.io) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
+- ���🔧 [Design GUI](https://designgui.io) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 
 ## UI Libraries, Components & Templates
 
@@ -312,7 +313,7 @@
 - 🔧 [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - How to use Tailwind CSS with Gatsby.
 - 🔧 [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - How to setup Tailwind CSS in Phoenix 1.4.
 - 🔧 [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) - How to Extend Tailwind CSS.
-- ��� [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
+- 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
 - 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Rebuilding Coinbase with Tailwind CSS (see the [CodePen](https://codepen.io/adamwathan/pen/RxWrZr)).
 - 🎬 [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Rebuilding Twitter with Tailwind CSS (see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)).
 - 🎬 [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Rebuilding YouTube with Tailwind CSS.
