@@ -604,6 +604,7 @@ become an Angular expert.
 * [ngx-signalify ![GitHub Repo Stars](https://img.shields.io/github/stars/alcfeoh/ngx-signalify) ![GitHub last commit](https://img.shields.io/github/last-commit/alcfeoh/ngx-signalify)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
 * [angular-odata ![GitHub Repo Stars](https://img.shields.io/github/stars/diegomvh/angular-odata) ![GitHub last commit](https://img.shields.io/github/last-commit/diegomvh/angular-odata)](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
 * [ngx-http-retry ![GitHub Repo Stars](https://img.shields.io/github/stars/itpixelz/ngx-http-retry) ![GitHub last commit](https://img.shields.io/github/last-commit/itpixelz/ngx-http-retry)](https://github.com/itpixelz/ngx-http-retry) - An Angular service that provides HTTP methods (GET, POST, PUT, DELETE) with built-in retry logic using RxJS's `retry` operator.
+* [ng-memento ![GitHub Repo Stars](https://img.shields.io/github/stars/terzurumluoglu/ng-memento) ![GitHub last commit](https://img.shields.io/github/last-commit/terzurumluoglu/ng-memento)](https://github.com/terzurumluoglu/ng-memento) - Makes your application faster by preventing the same HTTP requests from being called again in your Angular project.
 
 #### Integrations
 
@@ -674,6 +675,8 @@ become an Angular expert.
 * [intl-tel-input-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/mpalourdio/intl-tel-input-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/mpalourdio/intl-tel-input-ng)](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input ![GitHub Repo Stars](https://img.shields.io/github/stars/jackocnr/intl-tel-input) ![GitHub last commit](https://img.shields.io/github/last-commit/jackocnr/intl-tel-input)](https://github.com/jackocnr/intl-tel-input).
 * [ng-intl ![GitHub Repo Stars](https://img.shields.io/github/stars/antimprisacaru/ng-intl) ![GitHub last commit](https://img.shields.io/github/last-commit/antimprisacaru/ng-intl)](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
 * [ngx-easy-i18n-js ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrie-allaigre/ngx-easy-i18n-js) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrie-allaigre/ngx-easy-i18n-js)](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
+* [ngx-translate-routes ![GitHub Repo Stars](https://img.shields.io/github/stars/darioegb/ngx-translate-routes) ![GitHub last commit](https://img.shields.io/github/last-commit/darioegb/ngx-translate-routes)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
+* [ngx-translate-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/romanrostislavovich/ngx-translate-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/romanrostislavovich/ngx-translate-lint)](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
 
 #### Monorepos
 
@@ -1320,6 +1323,7 @@ to simplify usage and allow quick customization.
 * [ngx-scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/zxing-js/ngx-scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/zxing-js/ngx-scanner)](https://github.com/zxing-js/ngx-scanner) - Angular QR code, Barcode, DataMatrix, scanner component using ZXing.
 * [qrcode.angular ![GitHub Repo Stars](https://img.shields.io/github/stars/OriginRing/qrcode.angular) ![GitHub last commit](https://img.shields.io/github/last-commit/OriginRing/qrcode.angular)](https://github.com/OriginRing/qrcode.angular) - QR Code implementation based on Angular.
 * [ng-qrcode-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ng-qrcode-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ng-qrcode-svg)](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
+* [ngx-qrcode-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/ngx-qrcode-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/ngx-qrcode-generator)](https://github.com/mustafaer/ngx-qrcode-generator) - An Angular component that generates QR codes using the [QRious ![GitHub Repo Stars](https://img.shields.io/github/stars/neocotic/qrious) ![GitHub last commit](https://img.shields.io/github/last-commit/neocotic/qrious)](https://github.com/neocotic/qrious) library.
 
 #### Scroll
 
