@@ -458,7 +458,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
   - [Diskuv OCaml ![GitHub Repo Stars](https://img.shields.io/github/stars/diskuv/dkml-installer-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/diskuv/dkml-installer-ocaml)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
-  - [makorel ![GitHub Repo Stars](https://img.shields.io/github/stars/sagotch/makorel) ![GitHub last commit](https://img.shields.io/github/last-commit/sagotch/makorel)](https://github.com/sagotch/makorel) �� Release OPAM packages easily.
+  - [makorel ![GitHub Repo Stars](https://img.shields.io/github/stars/sagotch/makorel) ![GitHub last commit](https://img.shields.io/github/last-commit/sagotch/makorel)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
   - [esy ![GitHub Repo Stars](https://img.shields.io/github/stars/esy/esy) ![GitHub last commit](https://img.shields.io/github/last-commit/esy/esy)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 - **Build Tools**:
@@ -476,7 +476,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - **Libraries**:
   - [Parmap](http://rdicosmo.github.io/parmap/) — Provides easy-to-use parallel map and fold functions.
-  - [ForkWork ![GitHub Repo Stars](https://img.shields.io/github/stars/mlin/forkwork) ![GitHub last commit](https://img.shields.io/github/last-commit/mlin/forkwork)](https://github.com/mlin/forkwork) — A simple library for forking child processes to perform work on multiple cores.
+  - [ForkWork ![GitHub Repo Stars](https://img.shields.io/github/stars/mlin/forkwork) ![GitHub last commit](https://img.shields.io/github/last-commit/mlin/forkwork)](https://github.com/mlin/forkwork) �� A simple library for forking child processes to perform work on multiple cores.
   - [Functory](http://functory.lri.fr/About.html) — A distributed computing library which facilitates distributed execution of parallelizable computations in a seamless fashion.
   - [Rpc.Parallel ![GitHub Repo Stars](https://img.shields.io/github/stars/janestreet/rpc_parallel) ![GitHub last commit](https://img.shields.io/github/last-commit/janestreet/rpc_parallel)](https://github.com/janestreet/rpc_parallel) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
