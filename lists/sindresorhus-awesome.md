@@ -525,6 +525,7 @@
 - [Game Engine Development ![GitHub Repo Stars](https://img.shields.io/github/stars/stevinz/awesome-game-engine-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/stevinz/awesome-game-engine-dev)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
 - [GameMaker ![GitHub Repo Stars](https://img.shields.io/github/stars/bytecauldron/awesome-gamemaker) ![GitHub last commit](https://img.shields.io/github/last-commit/bytecauldron/awesome-gamemaker)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 - [Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+- [Babylon.js ![GitHub Repo Stars](https://img.shields.io/github/stars/Symbitic/awesome-babylonjs) ![GitHub last commit](https://img.shields.io/github/last-commit/Symbitic/awesome-babylonjs)](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
 
 ## Development Environment
 
