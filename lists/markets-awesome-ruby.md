@@ -321,6 +321,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Camaleon CMS](http://camaleon.tuzitio.com/) - A dynamic and advanced content management system based on Ruby on Rails 4.
 * [ComfortableMexicanSofa ![GitHub Repo Stars](https://img.shields.io/github/stars/comfy/comfortable-mexican-sofa) ![GitHub last commit](https://img.shields.io/github/last-commit/comfy/comfortable-mexican-sofa)](https://github.com/comfy/comfortable-mexican-sofa) - Powerful Rails 5.2+ CMS Engine.
 * [Fae ![GitHub Repo Stars](https://img.shields.io/github/stars/wearefine/fae) ![GitHub last commit](https://img.shields.io/github/last-commit/wearefine/fae)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+* [MaglevCMS](https://www.maglev.dev) - An open source page builder with an sleek UI.
 * [LocomotiveCMS](https://www.locomotivecms.com) - A simple but powerful CMS based on Liquid templates and Mongodb database.
 * [Publify ![GitHub Repo Stars](https://img.shields.io/github/stars/publify/publify) ![GitHub last commit](https://img.shields.io/github/last-commit/publify/publify)](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 * [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
@@ -995,6 +996,7 @@ Where to discover new Ruby libraries, projects and trends.
   * [Unread ![GitHub Repo Stars](https://img.shields.io/github/stars/ledermann/unread) ![GitHub last commit](https://img.shields.io/github/last-commit/ledermann/unread)](https://github.com/ledermann/unread) - Manage read/unread status of ActiveRecord objects - and it's fast.
 * Sorting
   * [ActsAsList ![GitHub Repo Stars](https://img.shields.io/github/stars/swanandp/acts_as_list) ![GitHub last commit](https://img.shields.io/github/last-commit/swanandp/acts_as_list)](https://github.com/swanandp/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
+  * [positioning ![GitHub Repo Stars](https://img.shields.io/github/stars/brendon/positioning) ![GitHub last commit](https://img.shields.io/github/last-commit/brendon/positioning)](https://github.com/brendon/positioning) - Simple positioning for Active Record models. Supports multiple lists per model and relative positioning.
   * [ranked-model ![GitHub Repo Stars](https://img.shields.io/github/stars/mixonic/ranked-model) ![GitHub last commit](https://img.shields.io/github/last-commit/mixonic/ranked-model)](https://github.com/mixonic/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
 * Tree
   * [ActsAsTree ![GitHub Repo Stars](https://img.shields.io/github/stars/amerine/acts_as_tree) ![GitHub last commit](https://img.shields.io/github/last-commit/amerine/acts_as_tree)](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.
