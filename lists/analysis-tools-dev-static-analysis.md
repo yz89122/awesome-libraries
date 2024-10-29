@@ -1260,7 +1260,7 @@ Kani verifies:
 
 - [Scalastyle](http://www.scalastyle.org) — Scalastyle examines your Scala code and indicates potential problems with it.
 
-- [scapegoat ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scapegoat) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scapegoat)](https://github.com/sksamuel/scapegoat) — Scala compiler plugin for static code analysis.
+- [scapegoat ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scapegoat) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scapegoat)](https://github.com/sksamuel/scapegoat) ��� Scala compiler plugin for static code analysis.
 
 - [WartRemover](https://www.wartremover.org) — A flexible Scala code linting tool.
 
@@ -1450,6 +1450,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [DeepSource](https://deepsource.com) :copyright: — In-depth static analysis to find issues in verticals of bug risks, security, anti-patterns, performance, documentation and style. Native integrations with GitHub, GitLab and Bitbucket. Less than 5% false positives.
 
 - [Depends ![GitHub Repo Stars](https://img.shields.io/github/stars/multilang-depends/depends) ![GitHub last commit](https://img.shields.io/github/last-commit/multilang-depends/depends)](https://github.com/multilang-depends/depends) — Analyses the comprehensive dependencies of code elements for Java, C/C++, Ruby.
+
+- [DerScanner](https://derscanner.com/) :copyright: — Multi-language Static Application Security Testing (SAST) platform that detects critical vulnerabilities, including hardcoded secrets, weak cryptography, backdoors, SQL injections, insecure configurations, etc.
 
 - [DevSkim ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/devskim) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/devskim)](https://github.com/microsoft/devskim) — Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 
