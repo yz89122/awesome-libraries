@@ -128,7 +128,7 @@ System integration is the process of linking together different IT systems (com
 - MQ clients
   - [JMSToolBox (⭐204) ![GitHub Repo Stars](https://img.shields.io/github/stars/jmstoolbox/jmstoolbox) ![GitHub last commit](https://img.shields.io/github/last-commit/jmstoolbox/jmstoolbox)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
   - [kcat (⭐5.4k) ![GitHub Repo Stars](https://img.shields.io/github/stars/edenhill/kcat) ![GitHub last commit](https://img.shields.io/github/last-commit/edenhill/kcat)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-  - [MQTT Explorer (⭐3k) ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasnordquist/MQTT-Explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasnordquist/MQTT-Explorer)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
+  - [MQTT Explorer (���3k) ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasnordquist/MQTT-Explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasnordquist/MQTT-Explorer)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
   - [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
   - [Service Bus Explorer (⭐2k) ![GitHub Repo Stars](https://img.shields.io/github/stars/paolosalvatori/ServiceBusExplorer) ![GitHub last commit](https://img.shields.io/github/last-commit/paolosalvatori/ServiceBusExplorer)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
 - Mocking tools
@@ -716,7 +716,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 <summary>IBM</summary>
   
 - [IBM Certified Solution Developer – App Connect Enterprise V11](https://www.ibm.com/training/certification/C0003107#exam) - Validate your intermediate-level knowledge and experience to develop, deploy, tune, and support platform-independent message flow applications using IBM App Connect V11.0.
-- [IBM Certified Solution Implementer – API Connect v10.0.3](https://www.ibm.com/training/certification/C0002604#exam) - Demonstrate your intermediate-level knowledge and skills to develop, publish, configure, and manage APIs using IBM API Connect v10.0.3.
+- [IBM Certified Solution Implementer ��� API Connect v10.0.3](https://www.ibm.com/training/certification/C0002604#exam) - Demonstrate your intermediate-level knowledge and skills to develop, publish, configure, and manage APIs using IBM API Connect v10.0.3.
 
 </details>
 <details>

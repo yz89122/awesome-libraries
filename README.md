@@ -740,6 +740,7 @@
 - [Mental Health ![GitHub Repo Stars](https://img.shields.io/github/stars/dreamingechoes/awesome-mental-health) ![GitHub last commit](https://img.shields.io/github/last-commit/dreamingechoes/awesome-mental-health)](./lists/dreamingechoes-awesome-mental-health.md) [*Origin*](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Neuroscience ![GitHub Repo Stars](https://img.shields.io/github/stars/analyticalmonk/awesome-neuroscience) ![GitHub last commit](https://img.shields.io/github/last-commit/analyticalmonk/awesome-neuroscience)](./lists/analyticalmonk-awesome-neuroscience.md) [*Origin*](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 - [Digital Humanities ![GitHub Repo Stars](https://img.shields.io/github/stars/dh-tech/awesome-digital-humanities) ![GitHub last commit](https://img.shields.io/github/last-commit/dh-tech/awesome-digital-humanities)](./lists/dh-tech-awesome-digital-humanities.md) [*Origin*](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+- [Lucid Dreams ![GitHub Repo Stars](https://img.shields.io/github/stars/IAmCoder/awesome-lucid-dreams) ![GitHub last commit](https://img.shields.io/github/last-commit/IAmCoder/awesome-lucid-dreams)](./lists/IAmCoder-awesome-lucid-dreams.md) [*Origin*](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 
 ## Events
 
