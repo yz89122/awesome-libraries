@@ -322,7 +322,7 @@
 - [Vue.js Introduction Turkish Language](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) on oguzhan.in
 - [Vue.js VideoTutoral Series in Spanish (3-8-2016)](https://www.youtube.com/watch?v=IlFk3cyRB0Y&list=PLM-Y_YQmMEqD2EWfWpSbiV3WgShRRW3FE&index=7) on YouTube by Juan Andrés Núñez
 - [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
-- [**讲解 Vue.js 官网 中文-含代码、百度���、youtube** ![GitHub Repo Stars](https://img.shields.io/github/stars/bhnddowinf/vuejs-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/bhnddowinf/vuejs-learn)](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
+- [**讲解 Vue.js 官网 中文-含代码、百度云、youtube** ![GitHub Repo Stars](https://img.shields.io/github/stars/bhnddowinf/vuejs-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/bhnddowinf/vuejs-learn)](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 - [Vue.js in Bahasa Indonesia](https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 - [Vue.js from Scratch Series in Russian](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7) on YouTube by .dev
@@ -435,7 +435,7 @@
 - [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 4)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-4/) (November 2018)
 - [Adding Internationalization to a Vue Application](https://www.jenniferbland.com/adding-internationalization-to-a-vue-application/) (November 2018)
 - [Practical Projects with Vue JS 2](https://www.packtpub.com/web-development/practical-projects-vue-js-2-video) by Jack Herrington, Packt. (December 2018)
-- [Vue.js 기초 다지기 (Video)](https://lessipe.com/course/15) by [Lessipe](https://lessipe.com/)
+- [Vue.js ���초 다지기 (Video)](https://lessipe.com/course/15) by [Lessipe](https://lessipe.com/)
 - [Full Stack Web Development with Vue.js and Node.js](https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-nodejs-video) by Haider Rehman, Packt. (January 2019)
 - [Vue for Designers](https://designcode.io/vue) by Design+Code (February 2019)
 - [Vue Introduction in Turkish](https://www.onbirkod.com/vue-js-giris-1/)
@@ -495,7 +495,7 @@
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
-- [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
+- [宁皓网独立开发者训练营：Vue 前端应用���发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
 
