@@ -41,12 +41,15 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ## Discord Servers
 
 - [OmniLucid](https://discord.gg/rFMTYxMcjZ) - A knowledgeable space with active events that consistently provide new videos, guides, and stories pertaining to lucid dreaming.
+- [Lucid-Dash](https://discord.gg/fKfmcFe2D5) - A welcoming community of lucid dreamers of all skill levels, active chat with experienced lucid dreamers, tons of resources, videos and tutorials to help you lucid dream.
 - [Dream Café](https://discord.gg/dreamcafe) - A place to share your dream stories, get help and hang out with experienced lucid dreamers from around the world.
 - [Tech for Dreaming](https://discord.gg/UndEguFjSs) - A community focused on the application of technology to make lucid dreaming more accessible.
+- [Klarträumen](https://discord.gg/dZa9Fy6yCk) - The German server for lucid dreaming, with a scientific background, dream reports and discussions, livestreams, and gaming.
 
 ## YouTube Channels
 
 - [Lucid Dream Portal](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA) - Easy to follow tutorials and expert advice from one of the world's leading lucid dreaming teachers. 
+- [TIGER123](https://www.youtube.com/@TIGERTIGER123TIGER) - Dives into techniques for inducing lucid dreams, exploring dream symbolism, and enhancing dream control, with a mix of tutorials, personal experiences, and insights from the latest dream research.
 - [Tipharot](https://www.youtube.com/channel/UCcwEgS97oUAcBR1rgKj4E0A) - All about lucid dreaming and similar subjects.
 - [Skyfall Blind Dreamer](https://www.youtube.com/channel/UCjPuiCWSbszlo_men2bPMpA) - Interacts with creators in the field of lucid dreaming and provides quality information to get people on the right path to a solid and sustainable lucidity practice.
 
