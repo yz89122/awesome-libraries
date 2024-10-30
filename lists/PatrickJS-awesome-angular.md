@@ -822,6 +822,7 @@ become an Angular expert.
 * [angular-testing-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/lazycuh/angular-testing-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/lazycuh/angular-testing-kit)](https://github.com/lazycuh/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
 * [playwright-ng-schematics ![GitHub Repo Stars](https://img.shields.io/github/stars/playwright-community/playwright-ng-schematics) ![GitHub last commit](https://img.shields.io/github/last-commit/playwright-community/playwright-ng-schematics)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 * [docker-ng-cli-karma ![GitHub Repo Stars](https://img.shields.io/github/stars/trion-development/docker-ng-cli-karma) ![GitHub last commit](https://img.shields.io/github/last-commit/trion-development/docker-ng-cli-karma)](https://github.com/trion-development/docker-ng-cli-karma) - Angular docker image capable of running Karma with Chrome.
+* [ngx-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/bgotink/ngx-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/bgotink/ngx-playwright)](https://github.com/bgotink/ngx-playwright) - Tools to run Playwright e2e tests in an Angular workspace.
 
 #### Updating
 
@@ -973,6 +974,7 @@ become an Angular expert.
 * [revogrid ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/revogrid) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/revogrid)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
 * [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/ZingGrid/zinggrid) ![GitHub last commit](https://img.shields.io/github/last-commit/ZingGrid/zinggrid)](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
 * [ngx-panemu-table ![GitHub Repo Stars](https://img.shields.io/github/stars/panemu/ngx-panemu-table) ![GitHub last commit](https://img.shields.io/github/last-commit/panemu/ngx-panemu-table)](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
+* [ngx-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/blueshiftone/ngx-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/blueshiftone/ngx-grid)](https://github.com/blueshiftone/ngx-grid) - A professional Angular data grid.
 
 #### Dates
 
@@ -1341,6 +1343,7 @@ to simplify usage and allow quick customization.
 * [ngx-tracing-beam ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-tracing-beam) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-tracing-beam)](https://github.com/omnedia/ngx-tracing-beam) - A simple component library to add an animated tracing beam to your vertical scrolling.
 * [ngx-marquee ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-marquee) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-marquee)](https://github.com/omnedia/ngx-marquee) - A simple component library to create an infinite scrolling marquee with your content.
 * [@omnedia/ngx-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-scrollbar)](https://github.com/omnedia/ngx-scrollbar) - This component offers a custom scrollbar with smooth scrolling functionality and allows for full control over its appearance through styling.
+* [ngx-perfect-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/Harvest-Dev/ngx-perfect-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/Harvest-Dev/ngx-perfect-scrollbar)](https://github.com/Harvest-Dev/ngx-perfect-scrollbar) - This fork of [ngx-perfect-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-perfect-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-perfect-scrollbar)](https://github.com/zefoy/ngx-perfect-scrollbar) is an Angular wrapper library for [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/).
 
 #### State Management
 
