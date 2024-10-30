@@ -1008,7 +1008,8 @@ _Packages that help with building Distributed Systems._
 - [lura ![GitHub Repo Stars](https://img.shields.io/github/stars/luraproject/lura) ![GitHub last commit](https://img.shields.io/github/last-commit/luraproject/lura)](https://github.com/luraproject/lura) - Ultra performant API Gateway framework with middlewares.
 - [micro ![GitHub Repo Stars](https://img.shields.io/github/stars/micro/micro) ![GitHub last commit](https://img.shields.io/github/last-commit/micro/micro)](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
 - [mochi mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/mochi-co/mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/mochi-co/mqtt)](https://github.com/mochi-co/mqtt) - Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub.
-- [NATS ![GitHub Repo Stars](https://img.shields.io/github/stars/nats-io/gnatsd) ![GitHub last commit](https://img.shields.io/github/last-commit/nats-io/gnatsd)](https://github.com/nats-io/gnatsd) - Lightweight, high performance messaging system for microservices, IoT, and cloud native systems.
+- [NATS ![GitHub Repo Stars](https://img.shields.io/github/stars/nats-io/nats-server) ![GitHub last commit](https://img.shields.io/github/last-commit/nats-io/nats-server)](https://github.com/nats-io/nats-server) - NATS is a simple, secure, and
+  performant communications system for digital systems, services, and devices.
 - [outboxer ![GitHub Repo Stars](https://img.shields.io/github/stars/italolelis/outboxer) ![GitHub last commit](https://img.shields.io/github/last-commit/italolelis/outboxer)](https://github.com/italolelis/outboxer) - Outboxer is a go library that implements the outbox pattern.
 - [pglock](https://cirello.io/pglock) - PostgreSQL-backed distributed locking implementation.
 - [pjrpc](https://gitlab.com/pjrpc/pjrpc) - Golang JSON-RPC Server-Client with Protobuf spec.
