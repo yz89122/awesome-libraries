@@ -653,6 +653,7 @@ become an Angular expert.
 * [ngx-tagify ![GitHub Repo Stars](https://img.shields.io/github/stars/Brakebein/ngx-tagify) ![GitHub last commit](https://img.shields.io/github/last-commit/Brakebein/ngx-tagify)](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify ![GitHub Repo Stars](https://img.shields.io/github/stars/yaireo/tagify) ![GitHub last commit](https://img.shields.io/github/last-commit/yaireo/tagify)](https://github.com/yaireo/tagify/).
 * [ngx-xapi ![GitHub Repo Stars](https://img.shields.io/github/stars/BerryCloud/ngx-xapi) ![GitHub last commit](https://img.shields.io/github/last-commit/BerryCloud/ngx-xapi)](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
 * [ngx-notion-cms ![GitHub Repo Stars](https://img.shields.io/github/stars/borjamrd/ngx-notion-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/borjamrd/ngx-notion-cms)](https://github.com/borjamrd/ngx-notion-cms) - Render your Notion content through your Angular application as a CMS.
+* [angular-rsocket ![GitHub Repo Stars](https://img.shields.io/github/stars/saleweaver/angular-rsocket) ![GitHub last commit](https://img.shields.io/github/last-commit/saleweaver/angular-rsocket)](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
 
 #### Internationalization
 
@@ -1599,6 +1600,7 @@ for the creation of web applications developed with Angular.
 * [audit-debounce ![GitHub Repo Stars](https://img.shields.io/github/stars/loreanvictor/audit-debounce) ![GitHub last commit](https://img.shields.io/github/last-commit/loreanvictor/audit-debounce)](https://github.com/loreanvictor/audit-debounce) - RxJS operator to debounce and audit simultaenously.
 * [rxjs-typewriter ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/rxjs-typewriter) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/rxjs-typewriter)](https://github.com/omnedia/rxjs-typewriter) - A lightweight and easy-to-use NPM library for creating typewriter effects in your web applications. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
 * [ngx-safe-subscribe ![GitHub Repo Stars](https://img.shields.io/github/stars/Badisi/ngx-safe-subscribe) ![GitHub last commit](https://img.shields.io/github/last-commit/Badisi/ngx-safe-subscribe)](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
+* [rxjs-collection ![GitHub Repo Stars](https://img.shields.io/github/stars/henryruhs/rxjs-collection) ![GitHub last commit](https://img.shields.io/github/last-commit/henryruhs/rxjs-collection)](https://github.com/henryruhs/rxjs-collection) - RxJS enhanced Array, Map, WeakMap, Set and WeakSet.
 
 #### TypeScript
 
