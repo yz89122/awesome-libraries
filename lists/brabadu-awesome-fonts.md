@@ -52,6 +52,8 @@ A curated list of fonts and typography resources.
 * [Inter ![GitHub Repo Stars](https://img.shields.io/github/stars/rsms/inter) ![GitHub last commit](https://img.shields.io/github/last-commit/rsms/inter)](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
 * [Libre Franklin ![GitHub Repo Stars](https://img.shields.io/github/stars/impallari/Libre-Franklin) ![GitHub last commit](https://img.shields.io/github/last-commit/impallari/Libre-Franklin)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
 * [Manrope ![GitHub Repo Stars](https://img.shields.io/github/stars/sharanda/manrope) ![GitHub last commit](https://img.shields.io/github/last-commit/sharanda/manrope)](https://github.com/sharanda/manrope) - Modern geometric sans-serif
+* [Martian Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/evilmartians/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/evilmartians/mono)](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
+* [Monaspace ![GitHub Repo Stars](https://img.shields.io/github/stars/githubnext/monaspace) ![GitHub last commit](https://img.shields.io/github/last-commit/githubnext/monaspace)](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted ![GitHub Repo Stars](https://img.shields.io/github/stars/christiannaths/Redacted-Font) ![GitHub last commit](https://img.shields.io/github/last-commit/christiannaths/Redacted-Font)](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans ![GitHub Repo Stars](https://img.shields.io/github/stars/RoelN/SansBullshitSans) ![GitHub last commit](https://img.shields.io/github/last-commit/RoelN/SansBullshitSans)](https://github.com/RoelN/SansBullshitSans)
@@ -146,7 +148,7 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
 * [Nerd Fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanoasis/nerd-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanoasis/nerd-fonts)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 * [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting
 * [Recursive Sans & Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/arrowtype/recursive) ![GitHub last commit](https://img.shields.io/github/last-commit/arrowtype/recursive)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
-
+* [Iconic Fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/iconicFonts/if) ![GitHub last commit](https://img.shields.io/github/last-commit/iconicFonts/if)](https://github.com/iconicFonts/if) - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
 
 #### Programming fonts with ligatures
 * [Cascadia Code ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/cascadia-code) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/cascadia-code)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
