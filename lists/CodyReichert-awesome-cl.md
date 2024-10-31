@@ -1202,6 +1202,8 @@ Javascript
 
 * ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD][15]. See [Trident-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/johnmastro/trident-mode.el) ![GitHub last commit](https://img.shields.io/github/last-commit/johnmastro/trident-mode.el)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence][5].
   * [paren6 ![GitHub Repo Stars](https://img.shields.io/github/stars/BnMcGn/paren6) ![GitHub last commit](https://img.shields.io/github/last-commit/BnMcGn/paren6)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
+  * [paren-async ![GitHub Repo Stars](https://img.shields.io/github/stars/Junker/paren-async) ![GitHub last commit](https://img.shields.io/github/last-commit/Junker/paren-async)](https://github.com/Junker/paren-async) async/await for Parenscript.
+  * [paren-jquery ![GitHub Repo Stars](https://img.shields.io/github/stars/Junker/paren-jquery) ![GitHub last commit](https://img.shields.io/github/last-commit/Junker/paren-jquery)](https://github.com/Junker/paren-jquery) - Jquery-style macros for Parenscript. MIT.
 * [JSCL ![GitHub Repo Stars](https://img.shields.io/github/stars/jscl-project/jscl) ![GitHub last commit](https://img.shields.io/github/last-commit/jscl-project/jscl)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - A package for parsing ECMAScript 3. [zlib][33].
@@ -1316,6 +1318,8 @@ Others
 * [trivial-download ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/trivial-download) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/trivial-download)](https://github.com/eudoxia0/trivial-download) - Download files. [MIT][200].
 * [cl-cookie ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/cl-cookie) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/cl-cookie)](https://github.com/fukamachi/cl-cookie) HTTP Cookie (jar) manager: parse and write (set-)cookie headers, compare cookies, optional cookie attribute sanity check. [MIT][200]
 * [dns-client ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/dns-client) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/dns-client)](https://github.com/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib][33].
+* [mobiledetect ![GitHub Repo Stars](https://img.shields.io/github/stars/Junker/mobiledetect) ![GitHub last commit](https://img.shields.io/github/last-commit/Junker/mobiledetect)](https://github.com/Junker/mobiledetect) - System for detecting mobile devices (including tablets) in User-Agent strings. MIT.
+* [random-ua ![GitHub Repo Stars](https://img.shields.io/github/stars/Junker/random-ua) ![GitHub last commit](https://img.shields.io/github/last-commit/Junker/random-ua)](https://github.com/Junker/random-ua) - Random User-Agent generator for Common Lisp. BSD_2Clause.
 
 
 ### Email
