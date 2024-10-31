@@ -206,6 +206,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphitejs ![GitHub Repo Stars](https://img.shields.io/github/stars/graphitejs/server) ![GitHub last commit](https://img.shields.io/github/last-commit/graphitejs/server)](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
 - [graphql-helix ![GitHub Repo Stars](https://img.shields.io/github/stars/contrawork/graphql-helix) ![GitHub last commit](https://img.shields.io/github/last-commit/contrawork/graphql-helix)](https://github.com/contrawork/graphql-helix) - A highly evolved GraphQL HTTP Server.
 - [pylon ![GitHub Repo Stars](https://img.shields.io/github/stars/getcronit/pylon) ![GitHub last commit](https://img.shields.io/github/last-commit/getcronit/pylon)](https://github.com/getcronit/pylon) - Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy.
+- [modus ![GitHub Repo Stars](https://img.shields.io/github/stars/hypermodeinc/modus) ![GitHub last commit](https://img.shields.io/github/last-commit/hypermodeinc/modus)](https://github.com/hypermodeinc/modus) - Serverless runtime based on WebAssembly that delivers auto-generated GraphQL APIs.
 
 ##### Databases & ORMs
 

@@ -654,6 +654,7 @@ become an Angular expert.
 * [ngx-xapi ![GitHub Repo Stars](https://img.shields.io/github/stars/BerryCloud/ngx-xapi) ![GitHub last commit](https://img.shields.io/github/last-commit/BerryCloud/ngx-xapi)](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
 * [ngx-notion-cms ![GitHub Repo Stars](https://img.shields.io/github/stars/borjamrd/ngx-notion-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/borjamrd/ngx-notion-cms)](https://github.com/borjamrd/ngx-notion-cms) - Render your Notion content through your Angular application as a CMS.
 * [angular-rsocket ![GitHub Repo Stars](https://img.shields.io/github/stars/saleweaver/angular-rsocket) ![GitHub last commit](https://img.shields.io/github/last-commit/saleweaver/angular-rsocket)](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
+* [ngx-pendo ![GitHub Repo Stars](https://img.shields.io/github/stars/yociduo/ngx-pendo) ![GitHub last commit](https://img.shields.io/github/last-commit/yociduo/ngx-pendo)](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
 
 #### Internationalization
 
