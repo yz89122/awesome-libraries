@@ -150,7 +150,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
 * [Fable](http://fable.io/) - Compiles [F#](http://fsharp.org) to readable JavaScript.
 * [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
-* [Idris](http://www.idris-lang.org/) ��� A general purpose pure functional programming language with dependent types.
+* [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
 * [GHCJS ![GitHub Repo Stars](https://img.shields.io/github/stars/ghcjs/ghcjs) ![GitHub last commit](https://img.shields.io/github/last-commit/ghcjs/ghcjs)](https://github.com/ghcjs/ghcjs) – [Haskell](https://www.haskell.org/) to JavaScript compiler, based on GHC.
 * [ElixirScript ![GitHub Repo Stars](https://img.shields.io/github/stars/bryanjos/elixirscript) ![GitHub last commit](https://img.shields.io/github/last-commit/bryanjos/elixirscript)](https://github.com/bryanjos/elixirscript) – Compiles a subset of [Elixir](http://elixir-lang.org/), a dynamic, functional language designed for building scalable and maintainable applications, to JavaScript.
 * [Js\_of\_ocaml](http://ocsigen.org/js_of_ocaml/) – Compiles [OCaml](http://ocaml.org/) bytecode to JavaScript, making it possible to run OCaml programs in the browser.

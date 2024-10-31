@@ -575,6 +575,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython_fastled ![GitHub Repo Stars](https://img.shields.io/github/stars/kdschlosser/micropython_fastled) ![GitHub last commit](https://img.shields.io/github/last-commit/kdschlosser/micropython_fastled)](https://github.com/kdschlosser/micropython_fastled) - Port of FastLED to MicroPython.
 * [micropython-rgb-led-driver](https://gitlab.com/Athanaze/micropython-rgb-led-driver) - Tiny driver to control an RGB LED with PWM.
 * [micropython-dotstar ![GitHub Repo Stars](https://img.shields.io/github/stars/mattytrentini/micropython-dotstar) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/micropython-dotstar)](https://github.com/mattytrentini/micropython-dotstar) - A MicroPython port of the Adafruit CircuitPython APA102/DotStar library.
+* [micropython-aw210xx ![GitHub Repo Stars](https://img.shields.io/github/stars/eosti/micropython-aw210xx) ![GitHub last commit](https://img.shields.io/github/last-commit/eosti/micropython-aw210xx)](https://github.com/eosti/micropython-aw210xx) - Driver for Awinic's AW210xx line of 8-bit LED drivers.
 
 #### OLED
 
