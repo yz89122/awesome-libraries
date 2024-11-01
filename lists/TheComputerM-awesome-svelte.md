@@ -46,7 +46,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [PWA](#pwa)
   - [Portal](#portal)
   - [Fonts](#fonts)
-  - [Internationalisation](#internationalisation)
+  - [Internationalization](#Internationalization)
 - [Routers](#routers)
 - [Frameworks](#frameworks)
 - [Dev Tools](#dev-tools)
@@ -182,6 +182,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-unicons ![GitHub Repo Stars](https://img.shields.io/github/stars/devShamim/svelte-unicons) ![GitHub last commit](https://img.shields.io/github/last-commit/devShamim/svelte-unicons)](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
 - [lucide-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/lucide-icons/lucide) ![GitHub last commit](https://img.shields.io/github/last-commit/lucide-icons/lucide)](https://github.com/lucide-icons/lucide) - Implementation of the lucide icon library for svelte applications.
 - [svelte-icons-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/leshak/svelte-icons-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/leshak/svelte-icons-pack)](https://github.com/leshak/svelte-icons-pack) - Based on https://github.com/react-icons/react-icons.
+- [svesome ![GitHub Repo Stars](https://img.shields.io/github/stars/pouchlabs/svesome) ![GitHub last commit](https://img.shields.io/github/last-commit/pouchlabs/svesome)](https://github.com/pouchlabs/svesome) - A fontawesome v6 icons wrapper for svelte its awesome.
 
 ### Calendar
 
@@ -272,7 +273,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
 - [svelte-web-fonts/google ![GitHub Repo Stars](https://img.shields.io/github/stars/svelte-web-fonts/google) ![GitHub last commit](https://img.shields.io/github/last-commit/svelte-web-fonts/google)](https://github.com/svelte-web-fonts/google) - Tiny component for easily loading Fonts via the Google Fonts API including autocompletion.
 
-### Internationalisation
+### Internationalization
 
 - [svelte-fluent ![GitHub Repo Stars](https://img.shields.io/github/stars/nubolab-ffwd/svelte-fluent) ![GitHub last commit](https://img.shields.io/github/last-commit/nubolab-ffwd/svelte-fluent)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
 - [svelte-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/kaisermann/svelte-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/kaisermann/svelte-i18n)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
