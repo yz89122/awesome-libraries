@@ -15,44 +15,53 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Contents
 
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [Community](#community)
-  - [Conferences](#conferences)
-  - [Podcasts](#podcasts)
-  - [YouTube Channels](#youtube-channels)
-  - [Tutorials](#tutorials)
-  - [Studies](#studies)
-- [Integrations](#integrations)
-  - [Preprocessing](#preprocessing)
-  - [Mobile](#mobile)
-- [State Libraries](#state-libraries)
-- [UI Libraries](#ui-libraries)
-- [UI Components](#ui-components)
-  - [Table](#table)
-  - [Notification](#notification)
-  - [Grid](#grid)
-  - [Icons](#icons)
-  - [Calendar](#calendar)
-  - [Maps](#maps)
-  - [Form](#form)
-  - [Charts](#charts)
-  - [Miscellaneous](#miscellaneous)
-- [Scaffold](#scaffold)
-- [Utilities](#utilities)
-  - [Animations](#animations)
-  - [Form](#form-1)
-  - [WebGL](#webgl)
-  - [PWA](#pwa)
-  - [Portal](#portal)
-  - [Fonts](#fonts)
-  - [Internationalization](#Internationalization)
-- [Routers](#routers)
-- [Frameworks](#frameworks)
-- [Dev Tools](#dev-tools)
-  - [Lint](#lint)
-  - [Test](#test)
-  - [Editors](#editors)
+- [Awesome Svelte](#awesome-svelte-)
+  - [Contents](#contents)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [Community](#community)
+    - [Conferences](#conferences)
+    - [Podcasts](#podcasts)
+    - [YouTube Channels](#youtube-channels)
+    - [Tutorials](#tutorials)
+    - [Studies](#studies)
+  - [Integrations](#integrations)
+    - [Preprocessing](#preprocessing)
+    - [Mobile](#mobile)
+  - [State Libraries](#state-libraries)
+  - [UI Libraries](#ui-libraries)
+  - [UI Components](#ui-components)
+    - [Table](#table)
+    - [Notification](#notification)
+    - [Grid](#grid)
+    - [Icons](#icons)
+    - [Calendar](#calendar)
+    - [Maps](#maps)
+    - [Charts](#charts)
+    - [Miscellaneous](#miscellaneous)
+  - [Scaffold](#scaffold)
+  - [Utilities](#utilities)
+    - [Animations](#animations)
+    - [Drag \& Drop](#drag--drop)
+    - [Forms](#forms)
+      - [Form Components](#form-components)
+    - [HTTP Requests](#http-requests)
+    - [Sound \& Video](#sound--video)
+    - [WebGL](#webgl)
+    - [PWA](#pwa)
+    - [Portal](#portal)
+    - [Fonts](#fonts)
+    - [Internationalization](#internationalization)
+  - [Routers](#routers)
+  - [Frameworks](#frameworks)
+  - [Dev Tools](#dev-tools)
+    - [Lint](#lint)
+    - [Test](#test)
+    - [Editors](#editors)
+      - [Visual Studio Code](#visual-studio-code)
+      - [Sublime Text](#sublime-text)
+      - [Vim](#vim)
+      - [JetBrains](#jetbrains)
 
 ## Resources
 
@@ -88,13 +97,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Getting Started with Svelte 5: A Guide for React Developers](https://www.edistys.dev/blog/getting-started-with-svelte-5-a-guide-for-react-developers) - Edistys
 - [Svelte 5 Basics - Complete Svelte 5 Course for Beginners](https://www.youtube.com/watch?v=8DQailPy3q8) - Syntax (YouTube)
 
-
 ### Studies
 
 _Studies and research on the Svelte framework._
 
-- [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale? *(pre-v5)*
-- [Will it Scale? ![GitHub Repo Stars](https://img.shields.io/github/stars/halfnelson/svelte-it-will-scale) ![GitHub last commit](https://img.shields.io/github/last-commit/halfnelson/svelte-it-will-scale)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point. *(pre-v5)*
+- [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale? _(pre-v5)_
+- [Will it Scale? ![GitHub Repo Stars](https://img.shields.io/github/stars/halfnelson/svelte-it-will-scale) ![GitHub last commit](https://img.shields.io/github/last-commit/halfnelson/svelte-it-will-scale)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point. _(pre-v5)_
 
 ## Integrations
 
@@ -132,7 +140,7 @@ _UI frameworks for mobile._
 - [carbon-components-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/IBM/carbon-components-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/IBM/carbon-components-svelte)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 - [Svelte Material UI ![GitHub Repo Stars](https://img.shields.io/github/stars/hperrin/svelte-material-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/hperrin/svelte-material-ui)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 - [Melt UI ![GitHub Repo Stars](https://img.shields.io/github/stars/melt-ui/melt-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/melt-ui/melt-ui)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
-- [attractions ![GitHub Repo Stars](https://img.shields.io/github/stars/illright/attractions) ![GitHub last commit](https://img.shields.io/github/last-commit/illright/attractions)](https://github.com/illright/attractions) - A pretty cool and modern UI kit. *(pre-v5)*
+- [attractions ![GitHub Repo Stars](https://img.shields.io/github/stars/illright/attractions) ![GitHub last commit](https://img.shields.io/github/last-commit/illright/attractions)](https://github.com/illright/attractions) - A pretty cool and modern UI kit. _(pre-v5)_
 - [ionic-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/Tommertom/svelte-ionic-app) ![GitHub last commit](https://img.shields.io/github/last-commit/Tommertom/svelte-ionic-app)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 - [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
 - [Svelte UX ![GitHub Repo Stars](https://img.shields.io/github/stars/techniq/svelte-ux) ![GitHub last commit](https://img.shields.io/github/last-commit/techniq/svelte-ux)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
@@ -140,7 +148,7 @@ _UI frameworks for mobile._
 - [M3 Svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/KTibow/m3-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/KTibow/m3-svelte)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 - [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 - [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
-- [Smelte ![GitHub Repo Stars](https://img.shields.io/github/stars/matyunya/smelte) ![GitHub last commit](https://img.shields.io/github/last-commit/matyunya/smelte)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. *(pre-v5)*
+- [Smelte ![GitHub Repo Stars](https://img.shields.io/github/stars/matyunya/smelte) ![GitHub last commit](https://img.shields.io/github/last-commit/matyunya/smelte)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. _(pre-v5)_
 - [SVAR Core for Svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/svar-widgets/core) ![GitHub last commit](https://img.shields.io/github/last-commit/svar-widgets/core)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 - [AgnosticUI ![GitHub Repo Stars](https://img.shields.io/github/stars/agnosticui/agnosticui) ![GitHub last commit](https://img.shields.io/github/last-commit/agnosticui/agnosticui)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
@@ -154,6 +162,8 @@ _Tables and data grids._
 - [svelte-table ![GitHub Repo Stars](https://img.shields.io/github/stars/dasDaniel/svelte-table) ![GitHub last commit](https://img.shields.io/github/last-commit/dasDaniel/svelte-table)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
 - [svelte-generic-crud-table ![GitHub Repo Stars](https://img.shields.io/github/stars/ivosdc/svelte-generic-crud-table) ![GitHub last commit](https://img.shields.io/github/last-commit/ivosdc/svelte-generic-crud-table)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
 - [svelte-generic-table-pager ![GitHub Repo Stars](https://img.shields.io/github/stars/ivosdc/svelte-generic-table-pager) ![GitHub last commit](https://img.shields.io/github/last-commit/ivosdc/svelte-generic-table-pager)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
+- [powertable ![GitHub Repo Stars](https://img.shields.io/github/stars/muonw/powertable) ![GitHub last commit](https://img.shields.io/github/last-commit/muonw/powertable)](https://github.com/muonw/powertable) - PowerTable is a JavaScript component that turns JSON data into an interactive HTML table. This facilitates manual inspection, sorting, filtering, searching, and editing of the data.
+- [svelte-pivottable ![GitHub Repo Stars](https://img.shields.io/github/stars/jjagielka/svelte-pivottable) ![GitHub last commit](https://img.shields.io/github/last-commit/jjagielka/svelte-pivottable)](https://github.com/jjagielka/svelte-pivottable) - Svelte-based pivot table library with drag'n'drop functionality.
 
 ### Notification
 
@@ -181,7 +191,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-icomoon ![GitHub Repo Stars](https://img.shields.io/github/stars/aykutkardas/svelte-icomoon) ![GitHub last commit](https://img.shields.io/github/last-commit/aykutkardas/svelte-icomoon)](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
 - [svelte-unicons ![GitHub Repo Stars](https://img.shields.io/github/stars/devShamim/svelte-unicons) ![GitHub last commit](https://img.shields.io/github/last-commit/devShamim/svelte-unicons)](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
 - [lucide-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/lucide-icons/lucide) ![GitHub last commit](https://img.shields.io/github/last-commit/lucide-icons/lucide)](https://github.com/lucide-icons/lucide) - Implementation of the lucide icon library for svelte applications.
-- [svelte-icons-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/leshak/svelte-icons-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/leshak/svelte-icons-pack)](https://github.com/leshak/svelte-icons-pack) - Based on https://github.com/react-icons/react-icons.
+- [svelte-icons-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/leshak/svelte-icons-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/leshak/svelte-icons-pack)](https://github.com/leshak/svelte-icons-pack) - Based on <https://github.com/react-icons/react-icons>.
 - [svesome ![GitHub Repo Stars](https://img.shields.io/github/stars/pouchlabs/svesome) ![GitHub last commit](https://img.shields.io/github/last-commit/pouchlabs/svesome)](https://github.com/pouchlabs/svesome) - A fontawesome v6 icons wrapper for svelte its awesome.
 
 ### Calendar
@@ -200,17 +210,6 @@ _Display non-editable events in a calendar._
 - [leaflet-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/anoram/leaflet-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/anoram/leaflet-svelte)](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 - [esri-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/gavinr-maps/esri-svelte-example) ![GitHub last commit](https://img.shields.io/github/last-commit/gavinr-maps/esri-svelte-example)](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte.
 - [svelte-maplibre ![GitHub Repo Stars](https://img.shields.io/github/stars/dimfeld/svelte-maplibre) ![GitHub last commit](https://img.shields.io/github/last-commit/dimfeld/svelte-maplibre)](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library.
-
-### Form
-
-_Lets the user create and edit data._
-
-#### Checkbox
-
-_Switch / on/off toggle / checkbox._
-
-- [svelte-checkbox ![GitHub Repo Stars](https://img.shields.io/github/stars/HosseinShabani/svelte-checkbox) ![GitHub last commit](https://img.shields.io/github/last-commit/HosseinShabani/svelte-checkbox)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable). *(pre-v5)*
-- [svelte-toggle ![GitHub Repo Stars](https://img.shields.io/github/stars/beyonk-adventures/svelte-toggle) ![GitHub last commit](https://img.shields.io/github/last-commit/beyonk-adventures/svelte-toggle)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling. *(pre-v5)*
 
 ### Charts
 
@@ -236,7 +235,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [create-vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
 - [create-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/sveltejs/kit) ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/kit)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 - [saasstarter ![GitHub Repo Stars](https://img.shields.io/github/stars/CriticalMoments/CMSaasStarter) ![GitHub last commit](https://img.shields.io/github/last-commit/CriticalMoments/CMSaasStarter)](https://github.com/CriticalMoments/CMSaasStarter) - A open source, fast, and free to host Svelte SaaS template.
-- [svelte-pwa-template ![GitHub Repo Stars](https://img.shields.io/github/stars/tretapey/svelte-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/tretapey/svelte-pwa)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. *(pre-v5)*
+- [svelte-pwa-template ![GitHub Repo Stars](https://img.shields.io/github/stars/tretapey/svelte-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/tretapey/svelte-pwa)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. _(pre-v5)_
 - [vite-svelte-docker-template ![GitHub Repo Stars](https://img.shields.io/github/stars/bavragor/vite-svelte-docker-template) ![GitHub last commit](https://img.shields.io/github/last-commit/bavragor/vite-svelte-docker-template)](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 
 ## Utilities
@@ -246,14 +245,34 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
 - [svelte-typewriter ![GitHub Repo Stars](https://img.shields.io/github/stars/henriquehbr/svelte-typewriter) ![GitHub last commit](https://img.shields.io/github/last-commit/henriquehbr/svelte-typewriter)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
-### Form
+### Drag & Drop
+
+- [neodrag ![GitHub Repo Stars](https://img.shields.io/github/stars/PuruVJ/neodrag) ![GitHub last commit](https://img.shields.io/github/last-commit/PuruVJ/neodrag)](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍.
+
+### Forms
 
 - [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
 - [Formsnap](https://www.formsnap.dev/) - High level Svelte components for forms, built on top of Superforms and Zod.
 - [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
-- [svelte-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/arabdevelop/svelte-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/arabdevelop/svelte-formly)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. *(pre-v5)*
+- [svelte-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/arabdevelop/svelte-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/arabdevelop/svelte-formly)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. _(pre-v5)_
 - [svelte-form-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/pragmatic-engineering/svelte-form-builder-community) ![GitHub last commit](https://img.shields.io/github/last-commit/pragmatic-engineering/svelte-form-builder-community)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+
+#### Form Components
+
+_Individual form components._
+
+- [svelte-checkbox ![GitHub Repo Stars](https://img.shields.io/github/stars/HosseinShabani/svelte-checkbox) ![GitHub last commit](https://img.shields.io/github/last-commit/HosseinShabani/svelte-checkbox)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable). _(pre-v5)_
+- [svelte-toggle ![GitHub Repo Stars](https://img.shields.io/github/stars/beyonk-adventures/svelte-toggle) ![GitHub last commit](https://img.shields.io/github/last-commit/beyonk-adventures/svelte-toggle)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling. _(pre-v5)_
+
+### HTTP Requests
+
+- [sswr ![GitHub Repo Stars](https://img.shields.io/github/stars/ConsoleTVs/sswr) ![GitHub last commit](https://img.shields.io/github/last-commit/ConsoleTVs/sswr)](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
+- [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
+
+### Sound & Video
+
+- [svelte-sound ![GitHub Repo Stars](https://img.shields.io/github/stars/Rajaniraiyn/svelte-sound) ![GitHub last commit](https://img.shields.io/github/last-commit/Rajaniraiyn/svelte-sound)](https://github.com/Rajaniraiyn/svelte-sound) - Svelte Actions to play interaction sounds on target DOM events.
 
 ### WebGL
 
@@ -281,6 +300,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [sveltekit-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/jarda-svoboda/sveltekit-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/jarda-svoboda/sveltekit-i18n)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 - [@tolgee/svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 - [@i18n-pro/svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/i18n-pro/svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/i18n-pro/svelte)](https://github.com/i18n-pro/svelte) - Lightweight, simple, flexible, automatic translation internationalization tool for Svelte.
+- [ParaglideJS](https://inlang.com/m/dxnzrydw/library-inlang-paraglideJsAdapterSvelteKit) - Tiny, typesafe i18n library with translated links out of the box.
 
 ## Routers
 
@@ -300,8 +320,8 @@ _For Single Page Applications (SPAs) and more._
 
 - [SvelteKit](https://svelte.dev/docs/kit/introduction) - The fastest way to build Svelte apps.
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
-- [Elder.js ![GitHub Repo Stars](https://img.shields.io/github/stars/elderjs/elderjs) ![GitHub last commit](https://img.shields.io/github/last-commit/elderjs/elderjs)](https://github.com/elderjs/elderjs) - Opinionated static site generator and web framework for Svelte built with SEO in mind. *(pre-v5)*
-- [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL. *(pre-v5)*
+- [Elder.js ![GitHub Repo Stars](https://img.shields.io/github/stars/elderjs/elderjs) ![GitHub last commit](https://img.shields.io/github/last-commit/elderjs/elderjs)](https://github.com/elderjs/elderjs) - Opinionated static site generator and web framework for Svelte built with SEO in mind. _(pre-v5)_
+- [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL. _(pre-v5)_
 - [svelte-document ![GitHub Repo Stars](https://img.shields.io/github/stars/mblouka/svelte-document) ![GitHub last commit](https://img.shields.io/github/last-commit/mblouka/svelte-document)](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## Dev Tools
