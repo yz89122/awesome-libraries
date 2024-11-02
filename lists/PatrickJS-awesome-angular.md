@@ -1181,6 +1181,7 @@ to simplify usage and allow quick customization.
 * [@unpic/angular](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images. Generates a responsive `<img>` tag that follows best practices, with the correct srcset, sizes and styles. Detects image URLs from most image CDNs and CMSs and can resize images with no build step.
 * [ngx-advanced-img ![GitHub Repo Stars](https://img.shields.io/github/stars/bmartinson/ngx-advanced-img) ![GitHub last commit](https://img.shields.io/github/last-commit/bmartinson/ngx-advanced-img)](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
 * [ngx-unsplash ![GitHub Repo Stars](https://img.shields.io/github/stars/BerryCloud/ngx-unsplash) ![GitHub last commit](https://img.shields.io/github/last-commit/BerryCloud/ngx-unsplash)](https://github.com/BerryCloud/ngx-unsplash) - Angular service for proxied [Unsplash API](https://unsplash.com/developers).
+* [ngx-img-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/web-dave/ngx-img-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/web-dave/ngx-img-cropper)](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
 
 #### Keyboard Mouse
 
