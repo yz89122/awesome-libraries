@@ -604,7 +604,7 @@ var price_9̶9̶_89 = 'cheap';
 
 // Fun with Roman numerals
 var Ⅳ = 4;
-var ��� = 5;
+var Ⅴ = 5;
 Ⅳ + Ⅴ; // 9
 
 // Cthulhu was here
