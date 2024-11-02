@@ -643,6 +643,9 @@ Mobile
 
 * [LispWork's mobile runtime](http://www.lispworks.com/products/lw4mr.html) - Android and iOs.  Proprietary.
 * [LQML](https://gitlab.com/eql/lqml) - a lightweight ECL binding to QML (both Qt5 and Qt6) derived from EQL5. LGPL and public domain.
+* [sbcl-termux-build ![GitHub Repo Stars](https://img.shields.io/github/stars/bohonghuang/sbcl-termux-build) ![GitHub last commit](https://img.shields.io/github/last-commit/bohonghuang/sbcl-termux-build)](https://github.com/bohonghuang/sbcl-termux-build/) - Prebuilt SBCL binary for Android (Termux).
+
+Also:
 
 [hello-allien ![GitHub Repo Stars](https://img.shields.io/github/stars/Gleefre/hello-alien) ![GitHub last commit](https://img.shields.io/github/last-commit/Gleefre/hello-alien)](https://github.com/Gleefre/hello-alien/), SBCL built for an Android application (very new, 2023).
 
