@@ -1124,6 +1124,8 @@ become an Angular expert.
 * [auto-complete ![GitHub Repo Stars](https://img.shields.io/github/stars/ng2-ui/auto-complete) ![GitHub last commit](https://img.shields.io/github/last-commit/ng2-ui/auto-complete)](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
 * [ngx-otp-input ![GitHub Repo Stars](https://img.shields.io/github/stars/pkovzz/ngx-otp-input) ![GitHub last commit](https://img.shields.io/github/last-commit/pkovzz/ngx-otp-input)](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
 * [ngx-show-hide-password ![GitHub Repo Stars](https://img.shields.io/github/stars/osahner/ngx-show-hide-password) ![GitHub last commit](https://img.shields.io/github/last-commit/osahner/ngx-show-hide-password)](https://github.com/osahner/ngx-show-hide-password) - Add split input button to password or text input. Toggles input type between "text" and "password".
+* [ngx-phone-field ![GitHub Repo Stars](https://img.shields.io/github/stars/alex-mirankov/ngx-phone-field) ![GitHub last commit](https://img.shields.io/github/last-commit/alex-mirankov/ngx-phone-field)](https://github.com/alex-mirankov/ngx-phone-field) - An Angular directive that provides international phone input with country flag dropdowns. It integrates with Angular forms, supporting both Reactive Forms and Template-Driven Forms.
+* [ngx-rabe-star ![GitHub Repo Stars](https://img.shields.io/github/stars/Avotraina/ngx-rabe-star) ![GitHub last commit](https://img.shields.io/github/last-commit/Avotraina/ngx-rabe-star)](https://github.com/Avotraina/ngx-rabe-star) - An Angular library that provides a customizable star rating component for your Angular application.
 
 ##### Validation
 
