@@ -825,6 +825,7 @@ become an Angular expert.
 * [playwright-ng-schematics ![GitHub Repo Stars](https://img.shields.io/github/stars/playwright-community/playwright-ng-schematics) ![GitHub last commit](https://img.shields.io/github/last-commit/playwright-community/playwright-ng-schematics)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 * [docker-ng-cli-karma ![GitHub Repo Stars](https://img.shields.io/github/stars/trion-development/docker-ng-cli-karma) ![GitHub last commit](https://img.shields.io/github/last-commit/trion-development/docker-ng-cli-karma)](https://github.com/trion-development/docker-ng-cli-karma) - Angular docker image capable of running Karma with Chrome.
 * [ngx-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/bgotink/ngx-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/bgotink/ngx-playwright)](https://github.com/bgotink/ngx-playwright) - Tools to run Playwright e2e tests in an Angular workspace.
+* [Meticulous AI](https://www.meticulous.ai/) - Cover the 1000s of edge cases of your application - without writing or maintaining a single test.
 
 #### Updating
 
