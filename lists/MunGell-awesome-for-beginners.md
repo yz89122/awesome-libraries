@@ -22,6 +22,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [JSON](#json)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
 - [LaTeX](#latex)
@@ -29,6 +30,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [MLOps](#mlops)
 - [Perl](#perl)
 - [PHP](#php)
+- [Pug](#pug)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -188,6 +190,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [PouchDB ![GitHub Repo Stars](https://img.shields.io/github/stars/pouchdb/pouchdb) ![GitHub last commit](https://img.shields.io/github/last-commit/pouchdb/pouchdb)](https://github.com/pouchdb/pouchdb) _(label: help-wanted)_ <br> PouchDB is a pocket-sized database.
 - [Predator ![GitHub Repo Stars](https://img.shields.io/github/stars/Zooz/predator) ![GitHub last commit](https://img.shields.io/github/last-commit/Zooz/predator)](https://github.com/Zooz/predator) _(label: good first issue)_ <br> A powerful open-source platform for load testing APIs.
 - [ramda-adjunct ![GitHub Repo Stars](https://img.shields.io/github/stars/char0n/ramda-adjunct) ![GitHub last commit](https://img.shields.io/github/last-commit/char0n/ramda-adjunct)](https://github.com/char0n/ramda-adjunct) _(label: help-wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
+- [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 - [React ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) _(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [React Native ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native) _(label: Good-first-issue)_ <br> A framework for building native apps with React.
 - [React server ![GitHub Repo Stars](https://img.shields.io/github/stars/redfin/react-server) ![GitHub last commit](https://img.shields.io/github/last-commit/redfin/react-server)](https://github.com/redfin/react-server) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
@@ -215,6 +218,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [VuePress ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vuepress) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vuepress)](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io ![GitHub Repo Stars](https://img.shields.io/github/stars/webdriverio/webdriverio) ![GitHub last commit](https://img.shields.io/github/last-commit/webdriverio/webdriverio)](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
 - [Yarn ![GitHub Repo Stars](https://img.shields.io/github/stars/yarnpkg/yarn) ![GitHub last commit](https://img.shields.io/github/last-commit/yarnpkg/yarn)](https://github.com/yarnpkg/yarn) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
+
+## JSON
+
+- [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 
 ## Julia
 
@@ -261,6 +268,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [phpMyAdmin ![GitHub Repo Stars](https://img.shields.io/github/stars/phpmyadmin/phpmyadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/phpmyadmin/phpmyadmin)](https://github.com/phpmyadmin/phpmyadmin) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
 - [PrestaShop ![GitHub Repo Stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop) ![GitHub last commit](https://img.shields.io/github/last-commit/PrestaShop/PrestaShop)](https://github.com/PrestaShop/PrestaShop) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 - [Symfony ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/symfony) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/symfony)](https://github.com/symfony/symfony) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
+
+## Pug
+
+- [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 
 ## Python
 
