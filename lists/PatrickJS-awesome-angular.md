@@ -1144,6 +1144,7 @@ become an Angular expert.
 * [ngx-validator-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/dynimorius/ngx-validator-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/dynimorius/ngx-validator-pack)](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
 to simplify usage and allow quick customization.
 * [ngx-error-msg ![GitHub Repo Stars](https://img.shields.io/github/stars/fakeJan499/ngx-error-msg) ![GitHub last commit](https://img.shields.io/github/last-commit/fakeJan499/ngx-error-msg)](https://github.com/fakeJan499/ngx-error-msg) - The error message mapping library for Angular.
+* [ngx-form-errors ![GitHub Repo Stars](https://img.shields.io/github/stars/NationalBankBelgium/ngx-form-errors) ![GitHub last commit](https://img.shields.io/github/last-commit/NationalBankBelgium/ngx-form-errors)](https://github.com/NationalBankBelgium/ngx-form-errors) - Display form validation errors for Angular Reactive forms.
 
 #### Icons
 
@@ -1305,6 +1306,7 @@ to simplify usage and allow quick customization.
 * [ngx-lift ![GitHub Repo Stars](https://img.shields.io/github/stars/wghglory/ngx-lift) ![GitHub last commit](https://img.shields.io/github/last-commit/wghglory/ngx-lift)](https://github.com/wghglory/ngx-lift) - This project has been crafted to enhance and simplify your Angular development experience. In the dynamic web development landscape, Angular stands out as a robust framework, and `ngx-lift` and `clr-lift` complement it by offering a collection of utilities, operators, and components.
 * [firestitch ![GitHub Repo Stars](https://img.shields.io/github/stars/orgs/Firestitch) ![GitHub last commit](https://img.shields.io/github/last-commit/orgs/Firestitch)](https://github.com/orgs/Firestitch/repositories) - [Firestitch](https://firestitch.com/) has a ton of open source Angular solutions.
 * [ngx-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/studiohyperdrive/ngx-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/studiohyperdrive/ngx-tools)](https://github.com/studiohyperdrive/ngx-tools) - A mono-repo providing several of the Angular based packages created and maintained by the [Studio Hyperdrive](https://studiohyperdrive.be/) team.
+* [ngx-utility ![GitHub Repo Stars](https://img.shields.io/github/stars/OPI-PIB/ngx-utility) ![GitHub last commit](https://img.shields.io/github/last-commit/OPI-PIB/ngx-utility)](https://github.com/OPI-PIB/ngx-utility) - Various helpers for forms, zones, DOM manipulation, HTTP requests, and more.  
 
 #### Modals
 
