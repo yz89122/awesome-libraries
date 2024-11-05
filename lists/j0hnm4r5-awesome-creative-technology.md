@@ -100,14 +100,14 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [🌐](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
 | [**fuse**](https:&#x2F;&#x2F;www.fuseworks.it&#x2F;en&#x2F;) | [Modena, Italy] | live-media performances, experimentation, electronic music, digital arts | 
 | [**Future Colossal**](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;) | [NYC] | experiential technologies in advertising and entertainment and art | [🌐](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
-| [**Gallagher &amp; Associates**](https:&#x2F;&#x2F;www.gallagherdesign.com&#x2F;) | [DC] [NYC] [Portland] [Singapore] | harmony between technology, narrative, and physical design | [🌐](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
+| [**Gallagher &amp; Associates**](https:&#x2F;&#x2F;www.gallagherdesign.com&#x2F;) | [DC] [NYC] [Portland] [Singapore] | harmony between technology, narrative, and physical design | [��](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
 | [**Game Seven**](https:&#x2F;&#x2F;www.gamesevenmktg.com&#x2F;) | [NYC] [LA] | intersection of sport and culture, brand stories | [🌐](https:&#x2F;&#x2F;www.gameseven.agency&#x2F;careers)
 | [**Geeksart**](http:&#x2F;&#x2F;geeks-art.com&#x2F;) | [Guangzhou] [Shanghai] | media sculptures, new media exhibition | [🌐](http:&#x2F;&#x2F;geeks-art.com&#x2F;join-us&#x2F;)
 | [**Giant Spoon**](https:&#x2F;&#x2F;giantspoon.com&#x2F;) | [NYC] [LA] | translate cultural trends into big ideas, experiential, gaming | [🌐](https:&#x2F;&#x2F;giantspoon.com&#x2F;#careers)
 | [**Groove Jones**](https:&#x2F;&#x2F;groovejones.com&#x2F;) | [Dallas] | XR, AR, VR, volumetric scanning, popups | [🌐](https:&#x2F;&#x2F;groovejones.com&#x2F;workwithus&#x2F;)
 | [**Hotel Creative**](https:&#x2F;&#x2F;hotelcreative.com&#x2F;) | [London] | retail, branding, exhibitions, events | [📧](mailto:jobs@hotelcreative.com)
 | [**Hovercraft**](https:&#x2F;&#x2F;www.hovercraftstudio.com&#x2F;) | [Denver] [Portland] | interactive installations, site-specific content, retail, sports | [🌐](https:&#x2F;&#x2F;hovercraftstudio.com&#x2F;careers?job&#x3D;freelance-creative-partners)
-| [**HUSH**](https:&#x2F;&#x2F;heyhush.com&#x2F;) | [NYC] | marketing and advertising, retail and DTC, architecture | [🌐](https:&#x2F;&#x2F;www.heyhush.com&#x2F;people)
+| [**HUSH**](https:&#x2F;&#x2F;heyhush.com&#x2F;) | [NYC] | marketing and advertising, retail and DTC, architecture | [��](https:&#x2F;&#x2F;www.heyhush.com&#x2F;people)
 | [**iart**](https:&#x2F;&#x2F;iart.ch&#x2F;en&#x2F;) | [Basel] | studio for media architectures, enhancing physical spaces with digital technology | [🌐](https:&#x2F;&#x2F;iart.ch&#x2F;en&#x2F;jobs)
 | [**IMG SRC**](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;) | [Tokyo] | full-service communication agency focusing on websites, installations, and R&amp;D | [🌐](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;en&#x2F;careers&#x2F;)
 | [**Immersive International**](https:&#x2F;&#x2F;www.immersive.international&#x2F;) | [London] [Shanghai] [Ottawa] [Hong Kong] [Cape Town] | live experiences and art installations in public, private and commercial spaces | 
