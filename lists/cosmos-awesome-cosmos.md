@@ -251,7 +251,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 * [REStake](https://restake.app) - Auto-compounder app for Cosmos blockchains using Authz ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/eco-stake/restake) ![GitHub last commit](https://img.shields.io/github/last-commit/eco-stake/restake)](https://github.com/eco-stake/restake)).
 * [Cosmfaucet ![GitHub Repo Stars](https://img.shields.io/github/stars/scalalang2/cosmfaucet) ![GitHub last commit](https://img.shields.io/github/last-commit/scalalang2/cosmfaucet)](https://github.com/scalalang2/cosmfaucet) - Self-hosted faucet service for Cosmos based blockchain.
 * [Cosmos Notifier](https://cosmos-notifier.decrypto.online) - Governance notification tool for Telegram and Discord ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/shifty11/cosmos-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/shifty11/cosmos-notifier)](https://github.com/shifty11/cosmos-notifier)).
-* [IBC Anywhere](https://ibc.reece.sh/) - IBC token transfers including multi-chain hops.
+* [Skip:Go](https://go.skip.build) - IBC token transfers, automated swapping and multi-hop routing ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/skip-mev/skip-go-app) ![GitHub last commit](https://img.shields.io/github/last-commit/skip-mev/skip-go-app)](https://github.com/skip-mev/skip-go-app)).
 
 ### Bots
 
@@ -282,9 +282,9 @@ A list of wallets supporting Cosmos chains is <https://cosmos.network/ecosystem/
 
 ## Blogs
 
-**Disclaimer: This community-maintained repo does not reflect the views of any official entity.**
-
 As the ecosystem grows, so does the content. DYOR and follow the projects you find interesting.
+
+**Disclaimer: This community-maintained repo does not reflect the views of any official entity.**
 
 * [What is Cosmos?](https://cosmos.network/intro/)
 * [Cosmos Blog](https://blog.cosmos.network/)
