@@ -324,7 +324,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Internationalization
 
-- [Camomile ![GitHub Repo Stars](https://img.shields.io/github/stars/yoriyuki/Camomile) ![GitHub last commit](https://img.shields.io/github/last-commit/yoriyuki/Camomile)](https://github.com/yoriyuki/Camomile/) �� A Unicode library for OCaml.
+- [Camomile ![GitHub Repo Stars](https://img.shields.io/github/stars/yoriyuki/Camomile) ![GitHub last commit](https://img.shields.io/github/last-commit/yoriyuki/Camomile)](https://github.com/yoriyuki/Camomile/) — A Unicode library for OCaml.
 - [ocaml-m17n ![GitHub Repo Stars](https://img.shields.io/github/stars/whitequark/ocaml-m17n) ![GitHub last commit](https://img.shields.io/github/last-commit/whitequark/ocaml-m17n)](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
 - [Uucd ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uucd) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uucd)](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
 - [Uucp ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uucp) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uucp)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
