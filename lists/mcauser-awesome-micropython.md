@@ -78,6 +78,7 @@ Other places you can look for MicroPython Libraries:
 * [umidiparser ![GitHub Repo Stars](https://img.shields.io/github/stars/bixb922/umidiparser) ![GitHub last commit](https://img.shields.io/github/last-commit/bixb922/umidiparser)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
 * [micropython-tas2505 ![GitHub Repo Stars](https://img.shields.io/github/stars/miketeachman/micropython-tas2505) ![GitHub last commit](https://img.shields.io/github/last-commit/miketeachman/micropython-tas2505)](https://github.com/miketeachman/micropython-tas2505) - MicroPython driver for the Texas Instruments TAS2505 Digital Input Class-D Speaker Amplifier.
 * [yx5300 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/yx5300.py) - MP3 player that can be controlled via a serial interface.
+* [micropython_nonblocking_buzzer ![GitHub Repo Stars](https://img.shields.io/github/stars/jornamon/micropython_nonblocking_buzzer) ![GitHub last commit](https://img.shields.io/github/last-commit/jornamon/micropython_nonblocking_buzzer)](https://github.com/jornamon/micropython_nonblocking_buzzer) - A nonblocking implementation of a buzzer class that allows you to play basic melodies or sound patterns without blocking the main loop while the sound is being played.
 
 ### Communications
 
@@ -97,6 +98,8 @@ Other places you can look for MicroPython Libraries:
 * [micropython-dweeter ![GitHub Repo Stars](https://img.shields.io/github/stars/jacklinquan/micropython-dweeter) ![GitHub last commit](https://img.shields.io/github/last-commit/jacklinquan/micropython-dweeter)](https://github.com/jacklinquan/micropython-dweeter) - A python module for messaging through the free dweet service.
 * [micropython-cryptodweet ![GitHub Repo Stars](https://img.shields.io/github/stars/jacklinquan/micropython-cryptodweet) ![GitHub last commit](https://img.shields.io/github/last-commit/jacklinquan/micropython-cryptodweet)](https://github.com/jacklinquan/micropython-cryptodweet) - A python module for very basic APIs of the free dweet service with encryption.
 * [micropython-linenotify ![GitHub Repo Stars](https://img.shields.io/github/stars/PerfecXX/micropython-linenotify) ![GitHub last commit](https://img.shields.io/github/last-commit/PerfecXX/micropython-linenotify)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
+* [micropython-telegram-bot ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/micropython-telegram-bot) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/micropython-telegram-bot)](https://github.com/antirez/micropython-telegram-bot) - MicroPython telegram bot library: simple way to put your IoT projects on the cloud.
+* [MicroPython-GoogleSheet ![GitHub Repo Stars](https://img.shields.io/github/stars/PerfecXX/MicroPython-GoogleSheet) ![GitHub last commit](https://img.shields.io/github/last-commit/PerfecXX/MicroPython-GoogleSheet)](https://github.com/PerfecXX/MicroPython-GoogleSheet) - Fetch, update or append data in Google Sheets using Google Apps Script API.
 
 #### Authentication
 
@@ -111,6 +114,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-xiaomi-ble-adv-parse](https://codeberg.org/scy/micropython-xiaomi-ble-adv-parse) - Passively retrieve sensor data from some Xiaomi Bluetooth Low Energy (BLE) sensors.
 * [mijia-temphum-upy](https://codeberg.org/scy/mijia-temphum-upy) - MicroPython library to read certain Xiaomi Mijia BLE temperature & humidity sensors.
 * [micropython-aioble-itag ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauser/micropython-aioble-itag) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-aioble-itag)](https://github.com/mcauser/micropython-aioble-itag) - Examples using aioble to interact with iTag BLE keychain tags.
+* [micropython_aioble_examples ![GitHub Repo Stars](https://img.shields.io/github/stars/ekspla/micropython_aioble_examples) ![GitHub last commit](https://img.shields.io/github/last-commit/ekspla/micropython_aioble_examples)](https://github.com/ekspla/micropython_aioble_examples) - A few aioble (asyncio BLE) examples of MicroPython using ESP32.
 
 #### CAN
 
@@ -182,6 +186,9 @@ Other places you can look for MicroPython Libraries:
 * [micropython-sim800 ![GitHub Repo Stars](https://img.shields.io/github/stars/olablt/micropython-sim800) ![GitHub last commit](https://img.shields.io/github/last-commit/olablt/micropython-sim800)](https://github.com/olablt/micropython-sim800) - MicroPython driver for SIM800.
 * [sim800 ![GitHub Repo Stars](https://img.shields.io/github/stars/basanovase/sim800) ![GitHub last commit](https://img.shields.io/github/last-commit/basanovase/sim800)](https://github.com/basanovase/sim800) - Library for interfacing with SIM800 module in MicroPython.
 * [MicroPython-AM7020 ![GitHub Repo Stars](https://img.shields.io/github/stars/JiekangHuang/MicroPython-AM7020) ![GitHub last commit](https://img.shields.io/github/last-commit/JiekangHuang/MicroPython-AM7020)](https://github.com/JiekangHuang/MicroPython-AM7020) - MicroPython driver for AM7020 Narrowband Internet of Things (NBIoT) module.
+* [SIM800L-micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/aleppax/SIM800L-micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/aleppax/SIM800L-micropython)](https://github.com/aleppax/SIM800L-micropython) - MicroPython wrapper for common SIM800L AT commands.
+* [sim7600 ![GitHub Repo Stars](https://img.shields.io/github/stars/basanovase/sim7600) ![GitHub last commit](https://img.shields.io/github/last-commit/basanovase/sim7600)](https://github.com/basanovase/sim7600) - MicroPython library for SIM7600 module.
+* [sim900 ![GitHub Repo Stars](https://img.shields.io/github/stars/basanovase/sim900) ![GitHub last commit](https://img.shields.io/github/last-commit/basanovase/sim900)](https://github.com/basanovase/sim900) - MicroPython library for SIM900 GSM/GPRS module.
 
 #### HTTP
 
@@ -278,6 +285,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-ntpd ![GitHub Repo Stars](https://img.shields.io/github/stars/dave2/micropython-ntpd) ![GitHub last commit](https://img.shields.io/github/last-commit/dave2/micropython-ntpd)](https://github.com/dave2/micropython-ntpd) - An implementation of an NTP daemon in MicroPython.
 * [micropython_ntpserver ![GitHub Repo Stars](https://img.shields.io/github/stars/GrantGMiller/micropython_ntpserver) ![GitHub last commit](https://img.shields.io/github/last-commit/GrantGMiller/micropython_ntpserver)](https://github.com/GrantGMiller/micropython_ntpserver) - An NTP server written for MicroPython.
 * [micropython-ntpclient ![GitHub Repo Stars](https://img.shields.io/github/stars/wieck/micropython-ntpclient) ![GitHub last commit](https://img.shields.io/github/last-commit/wieck/micropython-ntpclient)](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
+* [micropython-ntp ![GitHub Repo Stars](https://img.shields.io/github/stars/ekondayan/micropython-ntp) ![GitHub last commit](https://img.shields.io/github/last-commit/ekondayan/micropython-ntp)](https://github.com/ekondayan/micropython-ntp) - Robust NTP library for MicroPython.
 
 #### OneWire
 
@@ -295,6 +303,10 @@ Other places you can look for MicroPython Libraries:
 * [Micropython-ESP32-OTA ![GitHub Repo Stars](https://img.shields.io/github/stars/AkhileshThorat/Micropython-ESP32-OTA) ![GitHub last commit](https://img.shields.io/github/last-commit/AkhileshThorat/Micropython-ESP32-OTA)](https://github.com/AkhileshThorat/Micropython-ESP32-OTA) - MicroPython updater based on rdehuyss/micropython-ota-updater.
 * [senko ![GitHub Repo Stars](https://img.shields.io/github/stars/RangerDigital/senko) ![GitHub last commit](https://img.shields.io/github/last-commit/RangerDigital/senko)](https://github.com/RangerDigital/senko) - Simplest OTA update solution for your MicroPython projects.
 
+#### Proxy
+
+* [uProxy ![GitHub Repo Stars](https://img.shields.io/github/stars/shawwwn/uProxy) ![GitHub last commit](https://img.shields.io/github/last-commit/shawwwn/uProxy)](https://github.com/shawwwn/uProxy) - An asyncio-based, memory-efficient HTTP/HTTPS/SOCKS4/SOCKS5 forward proxy server for MicroPython, compatible with CPython.
+
 #### Radio
 
 * [micropython-radio ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-radio) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-radio)](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4GHz radio modules.
@@ -310,6 +322,9 @@ Other places you can look for MicroPython Libraries:
 * [pico_jjy_tx ![GitHub Repo Stars](https://img.shields.io/github/stars/elehobica/pico_jjy_tx) ![GitHub last commit](https://img.shields.io/github/last-commit/elehobica/pico_jjy_tx)](https://github.com/elehobica/pico_jjy_tx) - JJY transmitter for Raspberry Pi Pico W.
 * [pico_dcf77_tx ![GitHub Repo Stars](https://img.shields.io/github/stars/elehobica/pico_dcf77_tx) ![GitHub last commit](https://img.shields.io/github/last-commit/elehobica/pico_dcf77_tx)](https://github.com/elehobica/pico_dcf77_tx) - DCF77 transmitter for Raspberry Pi Pico W.
 * [micropython_dcf77 ![GitHub Repo Stars](https://img.shields.io/github/stars/dsiggi/micropython-dcf77) ![GitHub last commit](https://img.shields.io/github/last-commit/dsiggi/micropython-dcf77)](https://github.com/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
+* [EByte_LoRa_E220_micropython_library ![GitHub Repo Stars](https://img.shields.io/github/stars/xreef/EByte_LoRa_E220_micropython_library) ![GitHub last commit](https://img.shields.io/github/last-commit/xreef/EByte_LoRa_E220_micropython_library)](https://github.com/xreef/EByte_LoRa_E220_micropython_library) - MicroPython LoRa EBYTE E220 devices.
+* [EByte_LoRa_E22_micropython_library ![GitHub Repo Stars](https://img.shields.io/github/stars/xreef/EByte_LoRa_E22_micropython_library) ![GitHub last commit](https://img.shields.io/github/last-commit/xreef/EByte_LoRa_E22_micropython_library)](https://github.com/xreef/EByte_LoRa_E22_micropython_library) - MicroPython LoRa EBYTE E22 devices.
+* [EByte_LoRa_E32_micropython_library ![GitHub Repo Stars](https://img.shields.io/github/stars/xreef/EByte_LoRa_E32_micropython_library) ![GitHub last commit](https://img.shields.io/github/last-commit/xreef/EByte_LoRa_E32_micropython_library)](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - MicroPython LoRa EBYTE E32 devices.
 
 #### RC receiver
 
@@ -345,6 +360,7 @@ Other places you can look for MicroPython Libraries:
 * [DS3231 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/DS3231) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/DS3231)](https://github.com/octaprog7/DS3231) - MicroPython module for the DS3231 clock from Maxim Integrated.
 * [DS1307 ![GitHub Repo Stars](https://img.shields.io/github/stars/peter-l5/DS1307) ![GitHub last commit](https://img.shields.io/github/last-commit/peter-l5/DS1307)](https://github.com/peter-l5/DS1307) - MicroPython driver for the DS1307 real time clock.
 * [micropython-DS3231-AT24C32 ![GitHub Repo Stars](https://img.shields.io/github/stars/pangopi/micropython-DS3231-AT24C32) ![GitHub last commit](https://img.shields.io/github/last-commit/pangopi/micropython-DS3231-AT24C32)](https://github.com/pangopi/micropython-DS3231-AT24C32) - MicroPython driver for DS3231 RTC.
+* [micropython_rx-8035 ![GitHub Repo Stars](https://img.shields.io/github/stars/ekspla/micropython_rx-8035) ![GitHub last commit](https://img.shields.io/github/last-commit/ekspla/micropython_rx-8035)](https://github.com/ekspla/micropython_rx-8035) - A MicroPython Driver for Seiko Epson's RTC, RX-8035SA/LC.
 
 #### Serial
 
@@ -385,6 +401,10 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-SYN6988 ![GitHub Repo Stars](https://img.shields.io/github/stars/scruss/micropython-SYN6988) ![GitHub last commit](https://img.shields.io/github/last-commit/scruss/micropython-SYN6988)](https://github.com/scruss/micropython-SYN6988) - MicroPython library for the VoiceTX SYN6988 text to speech module.
 
+#### Time
+
+* [ustrftime ![GitHub Repo Stars](https://img.shields.io/github/stars/iyassou/ustrftime) ![GitHub last commit](https://img.shields.io/github/last-commit/iyassou/ustrftime)](https://github.com/iyassou/ustrftime) - A MicroPython implementation of time.strftime.
+
 #### VoIP
 
 * [uPyVoip ![GitHub Repo Stars](https://img.shields.io/github/stars/RetepRelleum/uPyVoip) ![GitHub last commit](https://img.shields.io/github/last-commit/RetepRelleum/uPyVoip)](https://github.com/RetepRelleum/uPyVoip) - VoIP for MicroPython ESP32 with Interactive Voice Response.
@@ -410,7 +430,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-aioweb ![GitHub Repo Stars](https://img.shields.io/github/stars/wybiral/micropython-aioweb) ![GitHub last commit](https://img.shields.io/github/last-commit/wybiral/micropython-aioweb)](https://github.com/wybiral/micropython-aioweb) - A minimalist asyncio web framework for MicroPython.
 * [thimble ![GitHub Repo Stars](https://img.shields.io/github/stars/DavesCodeMusings/thimble) ![GitHub last commit](https://img.shields.io/github/last-commit/DavesCodeMusings/thimble)](https://github.com/DavesCodeMusings/thimble) - A tiny web framework for MicroPython.
 * [CaptiveWebServer ![GitHub Repo Stars](https://img.shields.io/github/stars/joewez/CaptiveWebServer) ![GitHub last commit](https://img.shields.io/github/last-commit/joewez/CaptiveWebServer)](https://github.com/joewez/CaptiveWebServer) - Simple MicroPython web server for serving a website from a captive portal.
-* [micropython-urouter ![GitHub Repo Stars](https://img.shields.io/github/stars/whales-chen/micropython-urouter) ![GitHub last commit](https://img.shields.io/github/last-commit/whales-chen/micropython-urouter)](https://github.com/whales-chen/micropython-urouter) - A lightweight HTTP request routing processing support library based on MicroPython. The previous name was micro-route.
+* [micropython-urouter ![GitHub Repo Stars](https://img.shields.io/github/stars/majoson-chen/micropython-urouter) ![GitHub last commit](https://img.shields.io/github/last-commit/majoson-chen/micropython-urouter)](https://github.com/majoson-chen/micropython-urouter) - A lightweight HTTP request routing processing support library based on MicroPython. The previous name was micro-route.
 * [wlan-relays ![GitHub Repo Stars](https://img.shields.io/github/stars/oliver-joos/wlan-relays) ![GitHub last commit](https://img.shields.io/github/last-commit/oliver-joos/wlan-relays)](https://github.com/oliver-joos/wlan-relays) - Very simple HTTP server written in MicroPython for controlling the pins of an ESP32 board.
 
 #### WiFi
@@ -452,6 +472,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython_GT30L24T3Y_big5_font ![GitHub Repo Stars](https://img.shields.io/github/stars/alankrantas/micropython_GT30L24T3Y_big5_font) ![GitHub last commit](https://img.shields.io/github/last-commit/alankrantas/micropython_GT30L24T3Y_big5_font)](https://github.com/alankrantas/micropython_GT30L24T3Y_big5_font) - MicroPython driver for reading BIG-5 Chinese characters from GT30L24T3Y / ER3303-1 SPI module.
 * [ttgo-hershey-fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/russhughes/ttgo-hershey-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/russhughes/ttgo-hershey-fonts)](https://github.com/russhughes/ttgo-hershey-fonts) - MicroPython Hershey font demo for the TTGO-LCD board.
 * [packed-font ![GitHub Repo Stars](https://img.shields.io/github/stars/mark-gladding/packed-font) ![GitHub last commit](https://img.shields.io/github/last-commit/mark-gladding/packed-font)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
+* [microfont ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/microfont) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/microfont)](https://github.com/antirez/microfont) - Text drawing library for MicroPython framebuffer.
 
 #### Graphics
 
@@ -533,6 +554,8 @@ Other places you can look for MicroPython Libraries:
 * [t-display-s3 ![GitHub Repo Stars](https://img.shields.io/github/stars/russhughes/t-display-s3) ![GitHub last commit](https://img.shields.io/github/last-commit/russhughes/t-display-s3)](https://github.com/russhughes/t-display-s3) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in Python.
 * [mp-ili9341 ![GitHub Repo Stars](https://img.shields.io/github/stars/tkurbad/mp-ili9341) ![GitHub last commit](https://img.shields.io/github/last-commit/tkurbad/mp-ili9341)](https://github.com/tkurbad/mp-ili9341) - MicroPython Driver for ILI9341 TFT Display.
 * [lvgl_esp32_gc9a01 ![GitHub Repo Stars](https://img.shields.io/github/stars/minyiky/lvgl_esp32_gc9a01) ![GitHub last commit](https://img.shields.io/github/last-commit/minyiky/lvgl_esp32_gc9a01)](https://github.com/minyiky/lvgl_esp32_gc9a01) - Driver for displays using the GC901 driver for use with LVGL MicroPython.
+* [ST77xx-pure-MP ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/ST77xx-pure-MP) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/ST77xx-pure-MP)](https://github.com/antirez/ST77xx-pure-MP) - Pure MicroPython driver for ST77xx displays. Low memory requirements.
+* [upy-st7789 ![GitHub Repo Stars](https://img.shields.io/github/stars/OneMadGypsy/upy-st7789) ![GitHub last commit](https://img.shields.io/github/last-commit/OneMadGypsy/upy-st7789)](https://github.com/OneMadGypsy/upy-st7789) - A simple ST7789 driver written in MicroPython.
 
 #### LED Matrix
 
@@ -557,6 +580,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - MicroPython Library for 16 digits 7-segment displays controlled by a TM1640.
 * [TM74HC595 ![GitHub Repo Stars](https://img.shields.io/github/stars/Sakartu/TM74HC595) ![GitHub last commit](https://img.shields.io/github/last-commit/Sakartu/TM74HC595)](https://github.com/Sakartu/TM74HC595) - Driver for shift register-controlled 5 pin display modules.
 * [micropython-tm1638spi](https://gitlab.com/robhamerling/micropython-tm1638spi) - MicroPython Library for a popular board with 8 7-segment digits, 8 separate LEDs and 8 push buttons controlled by a TM1638.
+* [micropython-hpdl1414 ![GitHub Repo Stars](https://img.shields.io/github/stars/rdagger/micropython-hpdl1414) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-hpdl1414)](https://github.com/rdagger/micropython-hpdl1414) - MicroPython HPDL-1414 Display Driver.
 
 #### LEDs
 
@@ -570,7 +594,7 @@ Other places you can look for MicroPython Libraries:
 * [ws2812-SPI ![GitHub Repo Stars](https://img.shields.io/github/stars/nickovs/ws2812-SPI) ![GitHub last commit](https://img.shields.io/github/last-commit/nickovs/ws2812-SPI)](https://github.com/nickovs/ws2812-SPI) - An efficient MicroPython WS2812 (NeoPixel) driver.
 * [micropython-ws2801 ![GitHub Repo Stars](https://img.shields.io/github/stars/HeMan/micropython-ws2801) ![GitHub last commit](https://img.shields.io/github/last-commit/HeMan/micropython-ws2801)](https://github.com/HeMan/micropython-ws2801) - A MicroPython library to interface with strands of WS2801 RGB LEDs.
 * [tlc5947-rgb-micropython](https://gitlab.com/peterzuger/tlc5947-rgb-micropython) - Driver for the TLC5947 24 channel 12-bit PWM LED driver.
-* [Hybotics_Micropython_HT16K33 ![GitHub Repo Stars](https://img.shields.io/github/stars/hybotics/micropython-ht16k33) ![GitHub last commit](https://img.shields.io/github/last-commit/hybotics/micropython-ht16k33)](https://github.com/hybotics/micropython-ht16k33) - MicroPython driver for the HT16K33, a LED matrix, 7-Segment Numeric, and 14-Segment Alphanumeric display driver IC.
+* [micropython-ht16k33 ![GitHub Repo Stars](https://img.shields.io/github/stars/hybotix/micropython-ht16k33) ![GitHub last commit](https://img.shields.io/github/last-commit/hybotix/micropython-ht16k33)](https://github.com/hybotix/micropython-ht16k33) - MicroPython driver for the HT16K33, a LED matrix, 7-Segment Numeric, and 14-Segment Alphanumeric display driver IC.
 * [micropython-rgbled ![GitHub Repo Stars](https://img.shields.io/github/stars/Warringer/micropython-rgbled) ![GitHub last commit](https://img.shields.io/github/last-commit/Warringer/micropython-rgbled)](https://github.com/Warringer/micropython-rgbled) - This wrapper module aims to reduce the work needed to work with NeoPixel (WS2812) and DotStar (APA102) RGB LED strips and matrices.
 * [micropython_fastled ![GitHub Repo Stars](https://img.shields.io/github/stars/kdschlosser/micropython_fastled) ![GitHub last commit](https://img.shields.io/github/last-commit/kdschlosser/micropython_fastled)](https://github.com/kdschlosser/micropython_fastled) - Port of FastLED to MicroPython.
 * [micropython-rgb-led-driver](https://gitlab.com/Athanaze/micropython-rgb-led-driver) - Tiny driver to control an RGB LED with PWM.
@@ -590,6 +614,7 @@ Other places you can look for MicroPython Libraries:
 * [sh1107-micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/nemart69/sh1107-micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/nemart69/sh1107-micropython)](https://github.com/nemart69/sh1107-micropython) - MicroPython driver for SH1107-based OLED display (64x128).
 * [SH1107 ![GitHub Repo Stars](https://img.shields.io/github/stars/peter-l5/SH1107) ![GitHub last commit](https://img.shields.io/github/last-commit/peter-l5/SH1107)](https://github.com/peter-l5/SH1107) - Driver for SH1107 OLED displays (128x128 and 128x64 pixels).
 * [micropython-ssd1322 ![GitHub Repo Stars](https://img.shields.io/github/stars/rdagger/micropython-ssd1322) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-ssd1322)](https://github.com/rdagger/micropython-ssd1322) - MicroPython display driver for SSD1322 grayscale OLED.
+* [micropython-ssd1306 ![GitHub Repo Stars](https://img.shields.io/github/stars/rdagger/micropython-ssd1306) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-ssd1306)](https://github.com/rdagger/micropython-ssd1306) - MicroPython SPI & I2C Display Driver for SSD1306 monochrome OLED.
 
 #### Printer
 
@@ -610,11 +635,14 @@ Other places you can look for MicroPython Libraries:
 * [micropython-ads1220 ![GitHub Repo Stars](https://img.shields.io/github/stars/rdagger/micropython-ads1220) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-ads1220)](https://github.com/rdagger/micropython-ads1220) - MicroPython library for ADS1220 24-bit analog-to-digital converter.
 * [PCF8591_micropython_library ![GitHub Repo Stars](https://img.shields.io/github/stars/xreef/PCF8591_micropython_library) ![GitHub last commit](https://img.shields.io/github/last-commit/xreef/PCF8591_micropython_library)](https://github.com/xreef/PCF8591_micropython_library) - MicroPython library for PCF8591 8-bit ADC/DAC.
 * [CS1237 ![GitHub Repo Stars](https://img.shields.io/github/stars/robert-hh/CS1237) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/CS1237)](https://github.com/robert-hh/CS1237) - MicroPython driver for the CS1237 ADC.
+* [ads1115 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/ads1115) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/ads1115)](https://github.com/octaprog7/ads1115) - MicroPython module for managing ADS1115, multichannel, differential I2C ADC from TI.
+* [mcp3421 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/mcp3421) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/mcp3421)](https://github.com/octaprog7/mcp3421) - MicroPython module for controlling MCP342X, 18-bit analog-to-digital converter with I2C interface.
 
 #### DAC
 
 * [micropython-mcp4725 ![GitHub Repo Stars](https://img.shields.io/github/stars/wayoda/micropython-mcp4725) ![GitHub last commit](https://img.shields.io/github/last-commit/wayoda/micropython-mcp4725)](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
 * [mcp4728 ![GitHub Repo Stars](https://img.shields.io/github/stars/openfablab/mcp4728) ![GitHub last commit](https://img.shields.io/github/last-commit/openfablab/mcp4728)](https://github.com/openfablab/mcp4728) - Helper library for the Microchip MCP4728 I2C 12-bit Quad DAC.
+* [mpyDAC ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/mpyDAC) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/mpyDAC)](https://github.com/octaprog7/mpyDAC) - MicroPython module for controlling MCP4725, 12-bit digital analog converter (CAP) with EEPROM memory.
 
 #### GPIO
 
@@ -631,6 +659,8 @@ Other places you can look for MicroPython Libraries:
 * [micropython-pcf8575 ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauser/micropython-pcf8575) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-pcf8575)](https://github.com/mcauser/micropython-pcf8575) - MicroPython driver for PCF8575 16-Bit I2C I/O Expander with Interrupt.
 * [ESP8266_MCP23S17 ![GitHub Repo Stars](https://img.shields.io/github/stars/AnthonyKNorman/ESP8266_MCP23S17) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyKNorman/ESP8266_MCP23S17)](https://github.com/AnthonyKNorman/ESP8266_MCP23S17) - MicroPython library for using the MCP23S17 16-bit I/O expander with the ESP8266.
 * [pcf8574 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/pcf8574) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/pcf8574)](https://github.com/octaprog7/pcf8574) - MicroPython module for working with the PCF8574(A) I2C 8-bit I/O expander from NXP.
+* [mcp23017 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/mcp23017) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/mcp23017)](https://github.com/octaprog7/mcp23017) - MicroPython module for MCP23017, 16-Bit I/O Expander with Serial Interface.
+* [micropython-sx1509 ![GitHub Repo Stars](https://img.shields.io/github/stars/rdagger/micropython-sx1509) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-sx1509)](https://github.com/rdagger/micropython-sx1509) - MicroPython SX1509 I/O Expander Library.
 
 #### Joystick
 
@@ -642,6 +672,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-keyboard ![GitHub Repo Stars](https://img.shields.io/github/stars/mcameron/micropython-keyboard) ![GitHub last commit](https://img.shields.io/github/last-commit/mcameron/micropython-keyboard)](https://github.com/mcameron/micropython-keyboard) - 47 key keyboard running on a MicroPython Pyboard.
 * [pico-rgbkeypad ![GitHub Repo Stars](https://img.shields.io/github/stars/martinohanlon/pico-rgbkeypad) ![GitHub last commit](https://img.shields.io/github/last-commit/martinohanlon/pico-rgbkeypad)](https://github.com/martinohanlon/pico-rgbkeypad) - A Python class for controlling the Pimoroni RGB Keypad for Raspberry Pi Pico.
 * [micropython-aiobutton ![GitHub Repo Stars](https://img.shields.io/github/stars/jacklinquan/micropython-aiobutton) ![GitHub last commit](https://img.shields.io/github/last-commit/jacklinquan/micropython-aiobutton)](https://github.com/jacklinquan/micropython-aiobutton) - A MicroPython module for asyncio button.
+* [MicroPython-SimpleKeypad ![GitHub Repo Stars](https://img.shields.io/github/stars/PerfecXX/MicroPython-SimpleKeypad) ![GitHub last commit](https://img.shields.io/github/last-commit/PerfecXX/MicroPython-SimpleKeypad)](https://github.com/PerfecXX/MicroPython-SimpleKeypad) - MicroPython library for interfacing with a keypad matrix.
 
 #### Multiplexer
 
@@ -681,6 +712,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-8encoder ![GitHub Repo Stars](https://img.shields.io/github/stars/HowManyOliversAreThere/micropython-8encoder) ![GitHub last commit](https://img.shields.io/github/last-commit/HowManyOliversAreThere/micropython-8encoder)](https://github.com/HowManyOliversAreThere/micropython-8encoder) - Driver for the I2C [M5Stack 8-Encoder Unit](https://shop.m5stack.com/products/8-encoder-unit-stm32f030).
 * [micropython-quiic-twist ![GitHub Repo Stars](https://img.shields.io/github/stars/rdagger/micropython-quiic-twist) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-quiic-twist)](https://github.com/rdagger/micropython-quiic-twist) - MicroPython Driver for Quiic Twist RGB Rotary Encoder.
 * [AS5600 ![GitHub Repo Stars](https://img.shields.io/github/stars/sgall17a/AS5600) ![GitHub last commit](https://img.shields.io/github/last-commit/sgall17a/AS5600)](https://github.com/sgall17a/AS5600) - AS5600 MicroPython library for reading this magnetic sensor.
+* [AS5600 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/AS5600) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/AS5600)](https://github.com/octaprog7/AS5600) - MicroPython module for controlling single-turn magnetic encoder AS5600.
 
 #### Shift Registers
 
@@ -729,6 +761,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-servo ![GitHub Repo Stars](https://img.shields.io/github/stars/redoxcode/micropython-servo) ![GitHub last commit](https://img.shields.io/github/last-commit/redoxcode/micropython-servo)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
 * [MicroPython_PCA9685 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_PCA9685) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_PCA9685)](https://github.com/jposada202020/MicroPython_PCA9685) - MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.
 * [MicroPython_MOTOR ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_MOTOR) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_MOTOR)](https://github.com/jposada202020/MicroPython_MOTOR) - MicroPython Helper for controlling PWM based motors.
+* [pca9685 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/pca9685) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/pca9685)](https://github.com/octaprog7/pca9685) - MicroPython module for managing a 16-channel SHIM controller, PCA9685
 
 #### Stepper
 
@@ -794,6 +827,7 @@ Other places you can look for MicroPython Libraries:
 * [mp-bmp3xx-full ![GitHub Repo Stars](https://img.shields.io/github/stars/jornamon/mp-bmp3xx-full) ![GitHub last commit](https://img.shields.io/github/last-commit/jornamon/mp-bmp3xx-full)](https://github.com/jornamon/mp-bmp3xx-full) - MicroPython driver for the Bosch BMP3xx range of barometric pressure sensors. Includes FIFO support. ⏩
 * [MicroPython_DPS310 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_DPS310) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_DPS310)](https://github.com/jposada202020/MicroPython_DPS310) - MicroPython Driver for the DPS310 Sensor.
 * [MicroPython_ICP10111 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_ICP10111) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_ICP10111)](https://github.com/jposada202020/MicroPython_ICP10111) - MicroPython Driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor.
+* [bmp581 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/bmp581) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/bmp581)](https://github.com/octaprog7/bmp581) - MicroPython module for BMP581, pressure and ambient temperature sensor from Bosch Sensortec.
 
 #### Battery
 
@@ -825,12 +859,14 @@ Other places you can look for MicroPython Libraries:
 * [TCS3200-MicroPython ![GitHub Repo Stars](https://img.shields.io/github/stars/uraich/TCS3200-MicroPython) ![GitHub last commit](https://img.shields.io/github/last-commit/uraich/TCS3200-MicroPython)](https://github.com/uraich/TCS3200-MicroPython) - A MicroPython driver and test programs for the TCS3200 color sensor.
 * [MicroPython_TCS3430 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_TCS3430) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_TCS3430)](https://github.com/jposada202020/MicroPython_TCS3430) - MicroPython driver for the AMS TCS3430 Color and ALS sensor.
 * [micropython-gy33 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/micropython-gy33) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/micropython-gy33)](https://github.com/QuirkyCort/micropython-gy33) - UART and I2C drivers for GY-33 module (TCS3472 color sensor).
+* [veml6040 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/veml6040) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/veml6040)](https://github.com/octaprog7/veml6040) - MicroPython module for managing a color sensor RGBW, VEML6040 from Vishay.
 
 #### Compass
 
 * [micropython-esp8266-hmc5883l ![GitHub Repo Stars](https://img.shields.io/github/stars/gvalkov/micropython-esp8266-hmc5883l) ![GitHub last commit](https://img.shields.io/github/last-commit/gvalkov/micropython-esp8266-hmc5883l)](https://github.com/gvalkov/micropython-esp8266-hmc5883l) - 3-axis digital compass on the ESP8266.
 * [QMC5883 ![GitHub Repo Stars](https://img.shields.io/github/stars/robert-hh/QMC5883) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/QMC5883)](https://github.com/robert-hh/QMC5883) - Python class for the QMC5883 Three-Axis Digital Compass IC.
 * [microPython_AS5600L ![GitHub Repo Stars](https://img.shields.io/github/stars/capella-ben/microPython_AS5600L) ![GitHub last commit](https://img.shields.io/github/last-commit/capella-ben/microPython_AS5600L)](https://github.com/capella-ben/microPython_AS5600L) - MicroPython driver for AS5600L magnet rotary position sensor.
+* [QMC5883 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/QMC5883) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/QMC5883)](https://github.com/octaprog7/QMC5883) - MicroPython module for control QMC5883L geomagnetic sensor.
 
 #### Current
 
@@ -839,11 +875,13 @@ Other places you can look for MicroPython Libraries:
 * [INA219 ![GitHub Repo Stars](https://img.shields.io/github/stars/robert-hh/INA219) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/INA219)](https://github.com/robert-hh/INA219) - INA219 MicroPython driver.
 * [TI_INA226_micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/elschopi/TI_INA226_micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/elschopi/TI_INA226_micropython)](https://github.com/elschopi/TI_INA226_micropython) - MicroPython driver for Texas Instruments INA226 power measuring IC.
 * [micropython-current-monitor](https://gitlab.com/n.rj.powers/micropython-current-monitor) - Current monitor using the INA219 and an SSD1306 OLED.
+* [INA_TI ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/INA_TI) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/INA_TI)](https://github.com/octaprog7/INA_TI) - MicroPython module for controlling INA219, INA226 - A two-directional current / power monitor with the I2C interface.
 
 #### Distance IR
 
 * [micropython-gp2y0e03 ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-gp2y0e03) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-gp2y0e03)](https://github.com/mcauser/deshipu-micropython-gp2y0e03) - IR-LED distance measuring sensor using Sharp GP2Y0E03.
 * [micropython-vl6180 ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-vl6180) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-vl6180)](https://github.com/mcauser/deshipu-micropython-vl6180) - Time-of-Flight sensor, ambient light sensor & IR emitter.
+* [GP2Y0A21YK ![GitHub Repo Stars](https://img.shields.io/github/stars/basanovase/GP2Y0A21YK) ![GitHub last commit](https://img.shields.io/github/last-commit/basanovase/GP2Y0A21YK)](https://github.com/basanovase/GP2Y0A21YK) - GP2Y0A21YK MicroPython library.
 
 #### Distance Laser
 
@@ -856,6 +894,7 @@ Other places you can look for MicroPython Libraries:
 * [VL6180X ![GitHub Repo Stars](https://img.shields.io/github/stars/Ledbelly2142/VL6180X) ![GitHub last commit](https://img.shields.io/github/last-commit/Ledbelly2142/VL6180X)](https://github.com/Ledbelly2142/VL6180X) - MicroPython driver for the VL6180X sensor on the ESP32.
 * [LidarLight_v3HP_micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/Dnapert/LidarLight_v3HP_micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/Dnapert/LidarLight_v3HP_micropython)](https://github.com/Dnapert/LidarLight_v3HP_micropython) - A MicroPython library for the Garmin Lidar Lite v3HP.
 * [vl53l1x ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vl53l1x.py) - MicroPython driver for the VL53L1X ToF sensor.
+* [vl53l0x-nb ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/vl53l0x-nb) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/vl53l0x-nb)](https://github.com/antirez/vl53l0x-nb) - Fork of MicroPython driver for vl53l0x TOF sensor to add non-blocking mode.
 
 #### Distance Ultrasonic
 
@@ -909,6 +948,8 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython-VEML6075 ![GitHub Repo Stars](https://img.shields.io/github/stars/neliogodoi/MicroPython-VEML6075) ![GitHub last commit](https://img.shields.io/github/last-commit/neliogodoi/MicroPython-VEML6075)](https://github.com/neliogodoi/MicroPython-VEML6075) - Driver base for the VEML6075 UV light sensor.
 * [BH1750 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/BH1750) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/BH1750)](https://github.com/octaprog7/BH1750) - MicroPython module for the BH1750 ambient light sensor (ALS).
 * [veml7700 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/veml7700) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/veml7700)](https://github.com/octaprog7/veml7700) - MicroPython module for the VEML7700 ambient light sensor (ALS) from Vishay.
+* [opt3001 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/opt3001) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/opt3001)](https://github.com/octaprog7/opt3001) - MicroPython module for OPT3001, external lighting sensor from Texas Instruments.
+* [ltr390uv ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/ltr390uv) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/ltr390uv)](https://github.com/octaprog7/ltr390uv) - MicroPython module for LTR390UV, ambient light sensor in the visible and ultraviolet ranges.
 
 #### Load Cell
 
@@ -926,6 +967,9 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_MMC5603 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_MMC5603) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_MMC5603)](https://github.com/jposada202020/MicroPython_MMC5603) - MicroPython driver for the Memsic MMC5603 Magnetometer.
 * [MicroPython_BMM150 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_BMM150) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_BMM150)](https://github.com/jposada202020/MicroPython_BMM150) - MicroPython Driver for the Bosch BMM150 Magnetometer.
 * [MicroPython_MMC5983 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_MMC5983) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_MMC5983)](https://github.com/jposada202020/MicroPython_MMC5983) - MicroPython Library for the Memsic MMC5983 Magnetometer.
+* [MMC5603 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/MMC5603) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/MMC5603)](https://github.com/octaprog7/MMC5603) - MicroPython module for MMC5603 geomagnetic sensor.
+* [HSCDTD008A ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/HSCDTD008A) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/HSCDTD008A)](https://github.com/octaprog7/HSCDTD008A) - MicroPython module for HSCDTD008A geomagnetic sensor.
+* [RM3100 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/RM3100) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/RM3100)](https://github.com/octaprog7/RM3100) - MicroPython module for RM3100 geomagnetic sensor.
 
 #### Motion Inertial
 
@@ -989,6 +1033,7 @@ Other places you can look for MicroPython Libraries:
 * [max31865 ![GitHub Repo Stars](https://img.shields.io/github/stars/sufyanaslam198/max31865) ![GitHub last commit](https://img.shields.io/github/last-commit/sufyanaslam198/max31865)](https://github.com/sufyanaslam198/max31865) - Precision resistance-to-digital converter optimized for platinum resistance temperature detectors, SPI interface.
 * [mcp9700](https://gitlab.com/CrispyCrafter/mcp9700) - Generic MicroPython driver for MCP9700.
 * [micropython-generic-thermistor ![GitHub Repo Stars](https://img.shields.io/github/stars/Trexation/micropython-generic-thermistor) ![GitHub last commit](https://img.shields.io/github/last-commit/Trexation/micropython-generic-thermistor)](https://github.com/Trexation/micropython-generic-thermistor) - MicroPython Generic Thermistor Library for simplified temperature sensing using NTC thermistors with voltage dividers.
+* [micropython-simple-thermistor ![GitHub Repo Stars](https://img.shields.io/github/stars/scruss/micropython-simple-thermistor) ![GitHub last commit](https://img.shields.io/github/last-commit/scruss/micropython-simple-thermistor)](https://github.com/scruss/micropython-simple-thermistor) - Read NTC thermistor temperature wired in a potential divider.
 
 #### Temperature Digital
 
@@ -1040,6 +1085,8 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_AS6212 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_AS6212) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_AS6212)](https://github.com/jposada202020/MicroPython_AS6212) - MicroPython Library for the ASM AS6212 Temperature Sensor.
 * [MicroPython_PCT2075 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_PCT2075) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_PCT2075)](https://github.com/jposada202020/MicroPython_PCT2075) - MicroPython Driver for the NXP Semiconductors PCT2075 Temperature Sensor.
 * [micropython-hdc1080 ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauser/micropython-hdc1080) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-hdc1080)](https://github.com/mcauser/micropython-hdc1080) - MicroPython driver for the HDC1080 temperature and humidity sensor.
+* [bme680-pure-mp ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/bme680-pure-mp) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/bme680-pure-mp)](https://github.com/antirez/bme680-pure-mp) - Pure MicroPython Bosch BME680 sensor driver.
+* [SHT4X ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/SHT4X) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/SHT4X)](https://github.com/octaprog7/SHT4X) - MicroPython module for controlling the SHT4x - 4th generation relative humidity and temperature sensor.
 
 #### Temperature IR
 
@@ -1054,6 +1101,7 @@ Other places you can look for MicroPython Libraries:
 * [uFT6336U ![GitHub Repo Stars](https://img.shields.io/github/stars/fantasticdonkey/uFT6336U) ![GitHub last commit](https://img.shields.io/github/last-commit/fantasticdonkey/uFT6336U)](https://github.com/fantasticdonkey/uFT6336U) - MicroPython I2C driver for the Focus LCDs FT6336U capacitive touch panel controller IC.
 * [MicroPythonTrill ![GitHub Repo Stars](https://img.shields.io/github/stars/Heerkog/MicroPythonTrill) ![GitHub last commit](https://img.shields.io/github/last-commit/Heerkog/MicroPythonTrill)](https://github.com/Heerkog/MicroPythonTrill) - Trill touch sensor library for MicroPython.
 * [L58Touch ![GitHub Repo Stars](https://img.shields.io/github/stars/russhughes/L58Touch) ![GitHub last commit](https://img.shields.io/github/last-commit/russhughes/L58Touch)](https://github.com/russhughes/L58Touch) - L58 Multi-Touch MicroPython Module.
+* [micropython-ft6x06 ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/micropython-ft6x06) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/micropython-ft6x06)](https://github.com/antirez/micropython-ft6x06) - Simple driver for FT6x06 capacitive touch sensor in pure Python.
 
 #### Touch Resistive
 
@@ -1105,6 +1153,10 @@ Other places you can look for MicroPython Libraries:
 #### PSRAM
 
 * [mb_PSRAM_64Mb_SPI ![GitHub Repo Stars](https://img.shields.io/github/stars/MarksBench/mb_PSRAM_64Mb_SPI) ![GitHub last commit](https://img.shields.io/github/last-commit/MarksBench/mb_PSRAM_64Mb_SPI)](https://github.com/MarksBench/mb_PSRAM_64Mb_SPI) - Very simple MicroPython module to use a generic 64Mbit PSRAM (ie Adafruit 4677) with a Raspberry Pi Pico (RP2040).
+
+#### SD
+
+* [mp-sdcard-littleFS ![GitHub Repo Stars](https://img.shields.io/github/stars/jornamon/mp-sdcard-littleFS) ![GitHub last commit](https://img.shields.io/github/last-commit/jornamon/mp-sdcard-littleFS)](https://github.com/jornamon/mp-sdcard-littleFS) - MicroPython SD card driver that works with LittleFS2 (implements extended interface).
 
 #### SRAM
 
@@ -1217,7 +1269,7 @@ Other places you can look for MicroPython Libraries:
 
 ### Logging
 
-* [micropython-ulogger ![GitHub Repo Stars](https://img.shields.io/github/stars/whales-chen/micropython-ulogger) ![GitHub last commit](https://img.shields.io/github/last-commit/whales-chen/micropython-ulogger)](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
+* [micropython-ulogger ![GitHub Repo Stars](https://img.shields.io/github/stars/majoson-chen/micropython-ulogger) ![GitHub last commit](https://img.shields.io/github/last-commit/majoson-chen/micropython-ulogger)](https://github.com/majoson-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
 * [scd30logger ![GitHub Repo Stars](https://img.shields.io/github/stars/agners/scd30logger) ![GitHub last commit](https://img.shields.io/github/last-commit/agners/scd30logger)](https://github.com/agners/scd30logger) - Sensirion SCD30 based CO2, Humidity and Temperature Logger for MicroPython.
 * [sht15logger ![GitHub Repo Stars](https://img.shields.io/github/stars/agners/sht15logger) ![GitHub last commit](https://img.shields.io/github/last-commit/agners/sht15logger)](https://github.com/agners/sht15logger) - MicroPython Temperature and Humidity Logger using Sensirion SHT15.
 
