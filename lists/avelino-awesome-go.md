@@ -2965,7 +2965,7 @@ _Libraries for validation._
 - [validator ![GitHub Repo Stars](https://img.shields.io/github/stars/go-playground/validator) ![GitHub last commit](https://img.shields.io/github/last-commit/go-playground/validator)](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 - [Validator ![GitHub Repo Stars](https://img.shields.io/github/stars/go-the-way/validator) ![GitHub last commit](https://img.shields.io/github/last-commit/go-the-way/validator)](https://github.com/go-the-way/validator) - A lightweight model validator written in Go.Contains VFs:Min, Max, MinLength, MaxLength, Length, Enum, Regex.
 - [valix ![GitHub Repo Stars](https://img.shields.io/github/stars/marrow16/valix) ![GitHub last commit](https://img.shields.io/github/last-commit/marrow16/valix)](https://github.com/marrow16/valix) Go package for validating requests
-
+- [Zog ![GitHub Repo Stars](https://img.shields.io/github/stars/Oudwins/zog) ![GitHub last commit](https://img.shields.io/github/last-commit/Oudwins/zog)](https://github.com/Oudwins/zog) - A [Zod ![GitHub Repo Stars](https://img.shields.io/github/stars/colinhacks/zod) ![GitHub last commit](https://img.shields.io/github/last-commit/colinhacks/zod)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
 **[⬆ back to top](#contents)**
 
 ## Version Control
@@ -2974,7 +2974,6 @@ _Libraries for version control._
 
 - [cli](https://gitlab.com/gitlab-org/cli) - An open-source GitLab command line tool bringing GitLab's cool features to your command line.
 - [froggit-go ![GitHub Repo Stars](https://img.shields.io/github/stars/jfrog/froggit-go) ![GitHub last commit](https://img.shields.io/github/last-commit/jfrog/froggit-go)](https://github.com/jfrog/froggit-go) - Froggit-Go is a Go library, allowing to perform actions on VCS providers.
-- [gh ![GitHub Repo Stars](https://img.shields.io/github/stars/rjeczalik/gh) ![GitHub last commit](https://img.shields.io/github/last-commit/rjeczalik/gh)](https://github.com/rjeczalik/gh) - Scriptable server and net/http middleware for GitHub Webhooks.
 - [git2go ![GitHub Repo Stars](https://img.shields.io/github/stars/libgit2/git2go) ![GitHub last commit](https://img.shields.io/github/last-commit/libgit2/git2go)](https://github.com/libgit2/git2go) - Go bindings for libgit2.
 - [githooks ![GitHub Repo Stars](https://img.shields.io/github/stars/gabyx/githooks) ![GitHub last commit](https://img.shields.io/github/last-commit/gabyx/githooks)](https://github.com/gabyx/githooks) - Per-repo and shared Git hooks with version control and auto update.
 - [go-git ![GitHub Repo Stars](https://img.shields.io/github/stars/go-git/go-git) ![GitHub last commit](https://img.shields.io/github/last-commit/go-git/go-git)](https://github.com/go-git/go-git) - highly extensible Git implementation in pure Go.
