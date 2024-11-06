@@ -637,6 +637,7 @@ Other places you can look for MicroPython Libraries:
 * [CS1237 ![GitHub Repo Stars](https://img.shields.io/github/stars/robert-hh/CS1237) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/CS1237)](https://github.com/robert-hh/CS1237) - MicroPython driver for the CS1237 ADC.
 * [ads1115 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/ads1115) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/ads1115)](https://github.com/octaprog7/ads1115) - MicroPython module for managing ADS1115, multichannel, differential I2C ADC from TI.
 * [mcp3421 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/mcp3421) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/mcp3421)](https://github.com/octaprog7/mcp3421) - MicroPython module for controlling MCP342X, 18-bit analog-to-digital converter with I2C interface.
+* [micropython-MCP3001 ![GitHub Repo Stars](https://img.shields.io/github/stars/scruss/micropython-MCP3001) ![GitHub last commit](https://img.shields.io/github/last-commit/scruss/micropython-MCP3001)](https://github.com/scruss/micropython-MCP3001) - MicroPython driver for the MCP3001 1-channel 10-bit ADC with SPI interface.
 
 #### DAC
 
