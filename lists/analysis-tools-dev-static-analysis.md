@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -540,7 +540,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [gocyclo ![GitHub Repo Stars](https://img.shields.io/github/stars/fzipp/gocyclo) ![GitHub last commit](https://img.shields.io/github/last-commit/fzipp/gocyclo)](https://github.com/fzipp/gocyclo) :warning: — Calculate cyclomatic complexities of functions in Go source code.
 
-- [gofmt -s](https://golang.org/cmd/gofmt) �� Checks if the code is properly formatted and could not be further simplified.
+- [gofmt -s](https://golang.org/cmd/gofmt) — Checks if the code is properly formatted and could not be further simplified.
 
 - [gofumpt ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/gofumpt) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/gofumpt)](https://github.com/mvdan/gofumpt) — Enforce a stricter format than `gofmt`, while being backwards-compatible.  That is, `gofumpt` is happy with a subset of the formats that `gofmt` is happy with.
 The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It can be used as a drop-in replacement to format your Go code, and running gofmt  after gofumpt should produce no changes.
@@ -569,7 +569,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [interfacer ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/interfacer) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/interfacer)](https://github.com/mvdan/interfacer) :warning: — Suggest narrower interfaces that can be used.
 
-- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) :warning: — Report long lines.
+- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) :warning: ��� Report long lines.
 
 - [maligned ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/maligned) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/maligned)](https://github.com/mdempsky/maligned) :warning: — Detect structs that would take less memory if their fields were sorted.
 
@@ -649,7 +649,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [CogniCrypt](https://www.eclipse.org/cognicrypt) — Checks Java source and byte code for incorrect uses of cryptographic APIs.
 
-- [Dataflow Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/typetools/checker-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/typetools/checker-framework)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber��s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
+- [Dataflow Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/typetools/checker-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/typetools/checker-framework)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
 
 - [DesigniteJava](http://www.designite-tools.com/designitejava) :copyright: — DesigniteJava supports detection of various architecture, design, and implementation smells along with computation of various code quality metrics.
 
