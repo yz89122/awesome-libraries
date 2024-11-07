@@ -339,7 +339,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
 * 📝 [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
 * 📝 [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
-* 📝 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
+* ��� [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
 * 📝 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
 * 📝 [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
 
@@ -410,7 +410,7 @@ All resources are freely available except those with a 💲 icon.
 ### Algebraic Statistics
 * 📝 [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - Mathias Drton, Bernd Sturmfels, Seth Sullivant
 * 📝 [An Introduction to Algebraic Statistics](https://www3.diism.unisi.it/~chiantini/did/00Book.pdf) - Cristiano Bocci, Luca Chiantini and Anthony V. Geramita
-* 📝 [Algebraic Statistics](https://tore.tuhh.de/dspace-cris-server/api/core/bitstreams/a0c378d5-ce8e-442a-8891-9e7f763b4279/content) - Karl-Heinz Zimmermann
+* ��� [Algebraic Statistics](https://tore.tuhh.de/dspace-cris-server/api/core/bitstreams/a0c378d5-ce8e-442a-8891-9e7f763b4279/content) - Karl-Heinz Zimmermann
 * 📝 [Algebraic Statistics for Computational Biology](http://yaroslavvb.com/papers/pachter-algebraic.pdf) - Pachter, and Sturmfels.
 
 ### Topology
