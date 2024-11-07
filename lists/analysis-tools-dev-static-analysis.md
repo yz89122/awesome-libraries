@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -418,7 +418,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [effective_dart](https://pub.dev/packages/effective_dart) — Linter rules corresponding to the guidelines in Effective Dart
 
-- [lint ![GitHub Repo Stars](https://img.shields.io/github/stars/passsy/dart-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/passsy/dart-lint)](https://github.com/passsy/dart-lint) — An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter
+- [lint ![GitHub Repo Stars](https://img.shields.io/github/stars/passsy/dart-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/passsy/dart-lint)](https://github.com/passsy/dart-lint) :warning: — An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter
 
 - [Linter for dart](https://dart-lang.github.io/linter) — Style linter for Dart.
 
@@ -1825,7 +1825,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 
-- [krane ![GitHub Repo Stars](https://img.shields.io/github/stars/appvia/krane) ![GitHub last commit](https://img.shields.io/github/last-commit/appvia/krane)](https://github.com/appvia/krane) :warning: — Krane is a simple Kubernetes RBAC static analysis tool.
+- [krane ![GitHub Repo Stars](https://img.shields.io/github/stars/appvia/krane) ![GitHub last commit](https://img.shields.io/github/last-commit/appvia/krane)](https://github.com/appvia/krane) — Krane is a simple Kubernetes RBAC static analysis tool.
 It identifies potential security risks in K8s RBAC design and makes suggestions on how to mitigate them. Krane dashboard presents current RBAC security posture and lets you navigate through its definition.
 
 - [OpenSCAP](https://www.open-scap.org/) — Suite of automated audit tools to examine the configuration and  known vulnerabilities following the NIST-certified Security  Content Automation Protocol (SCAP).
@@ -1970,7 +1970,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [klint ![GitHub Repo Stars](https://img.shields.io/github/stars/uswitch/klint) ![GitHub last commit](https://img.shields.io/github/last-commit/uswitch/klint)](https://github.com/uswitch/klint) — A tool that listens to changes in Kubernetes resources and runs linting rules against them. Identify and debug erroneous objects and nudge objects in line with the policies as both change over time. Klint helps us encode checks and proactively alert teams when they need to take action.
 
-- [krane ![GitHub Repo Stars](https://img.shields.io/github/stars/appvia/krane) ![GitHub last commit](https://img.shields.io/github/last-commit/appvia/krane)](https://github.com/appvia/krane) :warning: — Krane is a simple Kubernetes RBAC static analysis tool.
+- [krane ![GitHub Repo Stars](https://img.shields.io/github/stars/appvia/krane) ![GitHub last commit](https://img.shields.io/github/last-commit/appvia/krane)](https://github.com/appvia/krane) — Krane is a simple Kubernetes RBAC static analysis tool.
 It identifies potential security risks in K8s RBAC design and makes suggestions on how to mitigate them. Krane dashboard presents current RBAC security posture and lets you navigate through its definition.
 
 - [kube-hunter](https://aquasecurity.github.io/kube-hunter/) — Hunt for security weaknesses in Kubernetes clusters.
