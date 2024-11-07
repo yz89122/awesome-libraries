@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1069 | October 21, 2024 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1075 | November 07, 2024 |
 
 In parternship with:
 
@@ -214,6 +214,7 @@ In parternship with:
 ## REPL
 
 * [Online Swift Playground](http://online.swiftplayground.run) - Online Swift Playground.
+* [SwiftFiddle](https://swiftfiddle.com) - Playground for making, sharing, and embedding Swift code.
 
 ## Editor Support
 *Support for your favorite editors.* 
@@ -1063,6 +1064,7 @@ In parternship with:
 * [Kanna ![GitHub Repo Stars](https://img.shields.io/github/stars/tid-kijyun/Kanna) ![GitHub last commit](https://img.shields.io/github/last-commit/tid-kijyun/Kanna)](https://github.com/tid-kijyun/Kanna) - Another XML/HTML parser.
 * [SwiftSoup ![GitHub Repo Stars](https://img.shields.io/github/stars/scinfu/SwiftSoup) ![GitHub last commit](https://img.shields.io/github/last-commit/scinfu/SwiftSoup)](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
 * [WKZombie ![GitHub Repo Stars](https://img.shields.io/github/stars/mkoehnke/WKZombie) ![GitHub last commit](https://img.shields.io/github/last-commit/mkoehnke/WKZombie)](https://github.com/mkoehnke/WKZombie) - Headless browser.
+* [ZMarkupParser ![GitHub Repo Stars](https://img.shields.io/github/stars/ZhgChgLi/ZMarkupParser) ![GitHub last commit](https://img.shields.io/github/last-commit/ZhgChgLi/ZMarkupParser)](https://github.com/ZhgChgLi/ZMarkupParser) - Helps you convert HTML strings into NSAttributedString with customized styles and tags.
 
 #### Messaging Protocol
 [back to top](#readme) 
@@ -1208,6 +1210,7 @@ In parternship with:
 * [Sizes ![GitHub Repo Stars](https://img.shields.io/github/stars/marcosgriselli/Sizes) ![GitHub last commit](https://img.shields.io/github/last-commit/marcosgriselli/Sizes)](https://github.com/marcosgriselli/Sizes) - Test your app on different device and font sizes.
 * [SnapshotTest ![GitHub Repo Stars](https://img.shields.io/github/stars/parski/SnapshotTest) ![GitHub last commit](https://img.shields.io/github/last-commit/parski/SnapshotTest)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
 * [Spectre ![GitHub Repo Stars](https://img.shields.io/github/stars/kylef/Spectre) ![GitHub last commit](https://img.shields.io/github/last-commit/kylef/Spectre)](https://github.com/kylef/Spectre) :penguin: - BDD Framework.
+* [swift-testing-expectation ![GitHub Repo Stars](https://img.shields.io/github/stars/dfed/swift-testing-expectation) ![GitHub last commit](https://img.shields.io/github/last-commit/dfed/swift-testing-expectation)](https://github.com/dfed/swift-testing-expectation) - Create an asynchronous expectation in Swift Testing.
 * [SwiftCheck ![GitHub Repo Stars](https://img.shields.io/github/stars/typelift/SwiftCheck) ![GitHub last commit](https://img.shields.io/github/last-commit/typelift/SwiftCheck)](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 * [UI Testing Cheat Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/joemasilotti/UI-Testing-Cheat-Sheet) ![GitHub last commit](https://img.shields.io/github/last-commit/joemasilotti/UI-Testing-Cheat-Sheet)](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) - Answers to common "How do I test this with UI Testing?" questions with a working example app.
 * [XCTest ![GitHub Repo Stars](https://img.shields.io/github/stars/apple/swift-corelibs-xctest) ![GitHub last commit](https://img.shields.io/github/last-commit/apple/swift-corelibs-xctest)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
@@ -1355,6 +1358,7 @@ In parternship with:
 * [StatefulViewController ![GitHub Repo Stars](https://img.shields.io/github/stars/aschuch/StatefulViewController) ![GitHub last commit](https://img.shields.io/github/last-commit/aschuch/StatefulViewController)](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
 * [StepProgressView ![GitHub Repo Stars](https://img.shields.io/github/stars/yonat/StepProgressView) ![GitHub last commit](https://img.shields.io/github/last-commit/yonat/StepProgressView)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 * [SweetCurtain ![GitHub Repo Stars](https://img.shields.io/github/stars/multimediasuite/SweetCurtain) ![GitHub last commit](https://img.shields.io/github/last-commit/multimediasuite/SweetCurtain)](https://github.com/multimediasuite/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
+* [SwiftUISkia ![GitHub Repo Stars](https://img.shields.io/github/stars/rustq/swiftui-skiae) ![GitHub last commit](https://img.shields.io/github/last-commit/rustq/swiftui-skiae)](https://github.com/rustq/swiftui-skiae) - Skia based 2d graphics SwiftUI rendering library, based on Rust to implement software rasterization to perform rendering
 * [SwiftyUI ![GitHub Repo Stars](https://img.shields.io/github/stars/haoking/SwiftyUI) ![GitHub last commit](https://img.shields.io/github/last-commit/haoking/SwiftyUI)](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
 * [TagListView ![GitHub Repo Stars](https://img.shields.io/github/stars/ElaWorkshop/TagListView) ![GitHub last commit](https://img.shields.io/github/last-commit/ElaWorkshop/TagListView)](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
 * [Toaster ![GitHub Repo Stars](https://img.shields.io/github/stars/devxoul/Toaster) ![GitHub last commit](https://img.shields.io/github/last-commit/devxoul/Toaster)](https://github.com/devxoul/Toaster) - Notification toasts.
@@ -1433,6 +1437,7 @@ In parternship with:
 * [HorizonCalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/airbnb/HorizonCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/airbnb/HorizonCalendar)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 * [JTAppleCalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/patchthecode/JTAppleCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/patchthecode/JTAppleCalendar)](https://github.com/patchthecode/JTAppleCalendar) - UI calendar handler.
 * [KVKCalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/kvyatkovskys/KVKCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/kvyatkovskys/KVKCalendar)](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
+* [OBCalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/oBilet/OBCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/oBilet/OBCalendar)](https://github.com/oBilet/OBCalendar) - OBCalendar is designed for simplicity and customization, it allows you to build beautiful and functional calendar interfaces effortlessly.
 * [Workaholic ![GitHub Repo Stars](https://img.shields.io/github/stars/hemangshah/Workaholic) ![GitHub last commit](https://img.shields.io/github/last-commit/hemangshah/Workaholic)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
 #### Cards
