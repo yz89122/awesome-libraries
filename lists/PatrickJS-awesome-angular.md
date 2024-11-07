@@ -679,6 +679,8 @@ become an Angular expert.
 * [ngx-easy-i18n-js ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrie-allaigre/ngx-easy-i18n-js) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrie-allaigre/ngx-easy-i18n-js)](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
 * [ngx-translate-routes ![GitHub Repo Stars](https://img.shields.io/github/stars/darioegb/ngx-translate-routes) ![GitHub last commit](https://img.shields.io/github/last-commit/darioegb/ngx-translate-routes)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 * [ngx-translate-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/romanrostislavovich/ngx-translate-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/romanrostislavovich/ngx-translate-lint)](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
+* [translate ![GitHub Repo Stars](https://img.shields.io/github/stars/ngstack/translate) ![GitHub last commit](https://img.shields.io/github/last-commit/ngstack/translate)](https://github.com/ngstack/translate) - Translation library for Angular and Ionic applications.
+* [ngx-merge-json-translations ![GitHub Repo Stars](https://img.shields.io/github/stars/jonnomk/ngx-merge-json-translations) ![GitHub last commit](https://img.shields.io/github/last-commit/jonnomk/ngx-merge-json-translations)](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
 
 #### Monorepos
 
