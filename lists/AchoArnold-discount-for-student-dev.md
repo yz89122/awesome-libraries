@@ -327,7 +327,7 @@ Table of Contents
 
 ## Game Development Tools
 
- * [Unity3D](https://education.github.com/pack) [FREE] -Accomplish your creative goals using the world���s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
+ * [Unity3D](https://education.github.com/pack) [FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
 
 * [Unreal Game Engine](https://www.unrealengine.com/en-US/learn) [FREE] - Unreal Engine 4 is a complete suite of game development tools. From 2D mobile games to console blockbusters and VR, Unreal Engine 4 gives you everything you need to start, ship, grow and stand out from the crowd. Part of the [Github Student Developer Pack](https://education.github.com/pack)
 
