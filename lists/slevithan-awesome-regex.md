@@ -35,7 +35,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
   </picture>
 </a>
 
-[`regex` ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/regex)](https://github.com/slevithan/regex) is a lightweight JavaScript library for more readable, high-performance, native JavaScript regexes with powerful features including free spacing, atomic groups, possessive quantifiers, subroutines, subroutine definition groups, and context-aware interpolation.
+[Regex+ ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/regex)](https://github.com/slevithan/regex) is a lightweight JavaScript library for more readable, high-performance, native JavaScript regexes with powerful features including free spacing, atomic groups, possessive quantifiers, subroutines, subroutine definition groups, and context-aware interpolation.
 
 ## Contents
 
@@ -301,7 +301,7 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 ### Alternative regex builders and engines
 
-- [regex ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/regex)](https://github.com/slevithan/regex) - A template tag for extended, readable, high-performance JavaScript regexes.
+- [Regex+ ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/regex)](https://github.com/slevithan/regex) - A template tag for extended, readable, high-performance JavaScript regexes.
 - [Oniguruma-To-ES ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/oniguruma-to-es) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/oniguruma-to-es)](https://github.com/slevithan/oniguruma-to-es) - Convert Oniguruma patterns to native JavaScript regexes.
 - [XRegExp ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/xregexp) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/xregexp)](https://github.com/slevithan/xregexp) \[[*home*](https://xregexp.com/)] - Extended regex syntax, flags, and utils; useful for backcompat.
 - [incr-regex-package ![GitHub Repo Stars](https://img.shields.io/github/stars/nurulc/incr-regex-package) ![GitHub last commit](https://img.shields.io/github/last-commit/nurulc/incr-regex-package)](https://github.com/nurulc/incr-regex-package) - Partial/incremental matching, used by [react-rxinput ![GitHub Repo Stars](https://img.shields.io/github/stars/nurulc/react-rxinput) ![GitHub last commit](https://img.shields.io/github/last-commit/nurulc/react-rxinput)](https://github.com/nurulc/react-rxinput) for input validation with a regex mask.
@@ -395,5 +395,5 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 - Chrome extension: [Regex](https://chromewebstore.google.com/detail/regex/pmihaiejckejbpjdnildimfkpcpnohlo) - Regex search on webpages via `Ctrl+Shift+F`.
 - Quiz: [regex101 Regex Quiz](https://regex101.com/quiz) - Requires sign-in.
-- Games: [Regex Crossword](https://regexcrossword.com/), [regexle](https://regexle.com/), [Regex Machina](https://codepip.com/games/regex-machina/).
+- Games: [Regex Crossword](https://regexcrossword.com/), [regexle](https://regexle.com/), [Regex Machina](https://codepip.com/games/regex-machina/) ($).
 - Comics: [xkcd](https://xkcd.com/208/), [Garabato Kid](https://twitter.com/garabatokid/status/1147063121678389253).
