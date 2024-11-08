@@ -176,6 +176,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
     - [Routers](#routers)
   - [WebAssembly](#webassembly)
   - [Windows](#windows)
+  - [Workflow Frameworks](#workflow-frameworks)
   - [XML](#xml)
   - [Zero Trust](#zero-trust)
   - [Code Analysis](#code-analysis)
@@ -1492,22 +1493,17 @@ _Libraries for programming devices of the IoT._
 ## Job Scheduler
 
 _Libraries for scheduling jobs._
-- [Cadence-client ![GitHub Repo Stars](https://img.shields.io/github/stars/uber-go/cadence-client) ![GitHub last commit](https://img.shields.io/github/last-commit/uber-go/cadence-client)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
 - [cdule ![GitHub Repo Stars](https://img.shields.io/github/stars/deepaksinghvi/cdule) ![GitHub last commit](https://img.shields.io/github/last-commit/deepaksinghvi/cdule)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
 - [cheek ![GitHub Repo Stars](https://img.shields.io/github/stars/datarootsio/cheek) ![GitHub last commit](https://img.shields.io/github/last-commit/datarootsio/cheek)](https://github.com/datarootsio/cheek) - A simple crontab like scheduler that aims to offer a KISS approach to job scheduling.
 - [clockwerk ![GitHub Repo Stars](https://img.shields.io/github/stars/onatm/clockwerk) ![GitHub last commit](https://img.shields.io/github/last-commit/onatm/clockwerk)](https://github.com/onatm/clockwerk) - Go package to schedule periodic jobs using a simple, fluent syntax.
 - [cronticker ![GitHub Repo Stars](https://img.shields.io/github/stars/krayzpipes/cronticker) ![GitHub last commit](https://img.shields.io/github/last-commit/krayzpipes/cronticker)](https://github.com/krayzpipes/cronticker) - A ticker implementation to support cron schedules.
-- [Dagu ![GitHub Repo Stars](https://img.shields.io/github/stars/dagu-go/dagu) ![GitHub last commit](https://img.shields.io/github/last-commit/dagu-go/dagu)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 - [go-cron ![GitHub Repo Stars](https://img.shields.io/github/stars/rk/go-cron) ![GitHub last commit](https://img.shields.io/github/last-commit/rk/go-cron)](https://github.com/rk/go-cron) - Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons.
-- [go-dag ![GitHub Repo Stars](https://img.shields.io/github/stars/rhosocial/go-dag) ![GitHub last commit](https://img.shields.io/github/last-commit/rhosocial/go-dag)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
 - [go-quartz ![GitHub Repo Stars](https://img.shields.io/github/stars/reugn/go-quartz) ![GitHub last commit](https://img.shields.io/github/last-commit/reugn/go-quartz)](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go.
-- [go-taskflow ![GitHub Repo Stars](https://img.shields.io/github/stars/noneback/go-taskflow) ![GitHub last commit](https://img.shields.io/github/last-commit/noneback/go-taskflow)](https://github.com/noneback/go-taskflow) - A taskflow-like Programmatic DAG Task Execution Framework with integrated visualizer and profiler.
 - [gocron ![GitHub Repo Stars](https://img.shields.io/github/stars/go-co-op/gocron) ![GitHub last commit](https://img.shields.io/github/last-commit/go-co-op/gocron)](https://github.com/go-co-op/gocron) - Easy and fluent Go job scheduling. This is an actively maintained fork of [jasonlvhit/gocron ![GitHub Repo Stars](https://img.shields.io/github/stars/jasonlvhit/gocron) ![GitHub last commit](https://img.shields.io/github/last-commit/jasonlvhit/gocron)](https://github.com/jasonlvhit/gocron).
 - [goflow ![GitHub Repo Stars](https://img.shields.io/github/stars/fieldryand/goflow) ![GitHub last commit](https://img.shields.io/github/last-commit/fieldryand/goflow)](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
 - [gron ![GitHub Repo Stars](https://img.shields.io/github/stars/roylee0704/gron) ![GitHub last commit](https://img.shields.io/github/last-commit/roylee0704/gron)](https://github.com/roylee0704/gron) - Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly.
 - [gronx ![GitHub Repo Stars](https://img.shields.io/github/stars/adhocore/gronx) ![GitHub last commit](https://img.shields.io/github/last-commit/adhocore/gronx)](https://github.com/adhocore/gronx) - Cron expression parser, task runner and daemon consuming crontab like task list.
 - [JobRunner ![GitHub Repo Stars](https://img.shields.io/github/stars/bamzi/jobrunner) ![GitHub last commit](https://img.shields.io/github/last-commit/bamzi/jobrunner)](https://github.com/bamzi/jobrunner) - Smart and featureful cron job scheduler with job queuing and live monitoring built in.
-- [jobs ![GitHub Repo Stars](https://img.shields.io/github/stars/albrow/jobs) ![GitHub last commit](https://img.shields.io/github/last-commit/albrow/jobs)](https://github.com/albrow/jobs) - Persistent and flexible background jobs library.
 - [leprechaun ![GitHub Repo Stars](https://img.shields.io/github/stars/kilgaloon/leprechaun) ![GitHub last commit](https://img.shields.io/github/last-commit/kilgaloon/leprechaun)](https://github.com/kilgaloon/leprechaun) - Job scheduler that supports webhooks, crons and classic scheduling.
 - [sched ![GitHub Repo Stars](https://img.shields.io/github/stars/romshark/sched) ![GitHub last commit](https://img.shields.io/github/last-commit/romshark/sched)](https://github.com/romshark/sched) - A job scheduler with the ability to fast-forward time.
 - [scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/carlescere/scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/carlescere/scheduler)](https://github.com/carlescere/scheduler) - Cronjobs scheduling made easy.
@@ -3157,6 +3153,17 @@ _Full stack web frameworks._
 - [d3d9 ![GitHub Repo Stars](https://img.shields.io/github/stars/gonutz/d3d9) ![GitHub last commit](https://img.shields.io/github/last-commit/gonutz/d3d9)](https://github.com/gonutz/d3d9) - Go bindings for Direct3D9.
 - [go-ole ![GitHub Repo Stars](https://img.shields.io/github/stars/go-ole/go-ole) ![GitHub last commit](https://img.shields.io/github/last-commit/go-ole/go-ole)](https://github.com/go-ole/go-ole) - Win32 OLE implementation for golang.
 - [gosddl ![GitHub Repo Stars](https://img.shields.io/github/stars/MonaxGT/gosddl) ![GitHub last commit](https://img.shields.io/github/last-commit/MonaxGT/gosddl)](https://github.com/MonaxGT/gosddl) - Converter from SDDL-string to user-friendly JSON. SDDL consist of four part: Owner, Primary Group, DACL, SACL.
+
+**[⬆ back to top](#contents)**
+
+## Workflow Frameworks
+
+_Libraries for creating Workflows._
+- [Cadence-client ![GitHub Repo Stars](https://img.shields.io/github/stars/uber-go/cadence-client) ![GitHub last commit](https://img.shields.io/github/last-commit/uber-go/cadence-client)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
+- [Dagu ![GitHub Repo Stars](https://img.shields.io/github/stars/dagu-go/dagu) ![GitHub last commit](https://img.shields.io/github/last-commit/dagu-go/dagu)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
+- [go-dag ![GitHub Repo Stars](https://img.shields.io/github/stars/rhosocial/go-dag) ![GitHub last commit](https://img.shields.io/github/last-commit/rhosocial/go-dag)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
+- [go-taskflow ![GitHub Repo Stars](https://img.shields.io/github/stars/noneback/go-taskflow) ![GitHub last commit](https://img.shields.io/github/last-commit/noneback/go-taskflow)](https://github.com/noneback/go-taskflow) - A taskflow-like Programmatic DAG Task Execution Framework with integrated visualizer and profiler.
+- [workflow ![GitHub Repo Stars](https://img.shields.io/github/stars/luno/workflow) ![GitHub last commit](https://img.shields.io/github/last-commit/luno/workflow)](https://github.com/luno/workflow) - A tech stack agnostic Event Driven Workflow framework.
 
 **[⬆ back to top](#contents)**
 
