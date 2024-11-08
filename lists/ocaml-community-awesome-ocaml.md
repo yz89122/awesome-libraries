@@ -147,6 +147,8 @@ Your favorite package is not listed? Fork and [create a Pull Request ![GitHub Re
 - [BAP ![GitHub Repo Stars](https://img.shields.io/github/stars/BinaryAnalysisPlatform/bap) ![GitHub last commit](https://img.shields.io/github/last-commit/BinaryAnalysisPlatform/bap)](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs.
 - [BinCat ![GitHub Repo Stars](https://img.shields.io/github/stars/airbus-seclab/bincat) ![GitHub last commit](https://img.shields.io/github/last-commit/airbus-seclab/bincat)](https://github.com/airbus-seclab/bincat) - BinCat is a binary code static analysis toolkit.
 - [cwe_checker ![GitHub Repo Stars](https://img.shields.io/github/stars/fkie-cad/cwe_checker) ![GitHub last commit](https://img.shields.io/github/last-commit/fkie-cad/cwe_checker)](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
+- [Owi ![GitHub Repo Stars](https://img.shields.io/github/stars/OCamlPro/owi) ![GitHub last commit](https://img.shields.io/github/last-commit/OCamlPro/owi)](https://github.com/OCamlPro/owi) - Owi is a toolchain for working with WebAssembly (Wasm) in OCaml, featuring a powerful, parallel symbolic execution engine for Wasm. It also provides frontends for compiling and analyzing C and Rust programs.
+- [Smt.ml ![GitHub Repo Stars](https://img.shields.io/github/stars/formalsec/smtml) ![GitHub last commit](https://img.shields.io/github/last-commit/formalsec/smtml)](https://github.com/formalsec/smtml) - Smt.ml is a frontend OCaml library that interfaces with multiple SMT solvers, enabling seamless integration of solvers like Z3, cvc5, Colibri2, Bitwuzla, and Alt-Ergo within OCaml programs.
 
 ## Compilers and Compiler Tools
 
@@ -203,7 +205,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — A binding to the NDBM/GDBM Unix "databases".
   - [Mongo.ml](https://massd.github.io/mongo/) – An OCaml driver for Mongodb
   - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
-    - [ppx_pgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/tizoc/ppx_pgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/tizoc/ppx_pgsql)](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
+    - [ppx_pgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/tizoc/ppx_pgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/tizoc/ppx_pgsql)](https://github.com/tizoc/ppx_pgsql) ��� A syntax extension for embedded SQL queries using PG'OCaml.
   - [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
   - [SQLite3 ![GitHub Repo Stars](https://img.shields.io/github/stars/mmottl/sqlite3-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mmottl/sqlite3-ocaml)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
@@ -458,7 +460,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
   - [Diskuv OCaml ![GitHub Repo Stars](https://img.shields.io/github/stars/diskuv/dkml-installer-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/diskuv/dkml-installer-ocaml)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
-  - [makorel ![GitHub Repo Stars](https://img.shields.io/github/stars/sagotch/makorel) ![GitHub last commit](https://img.shields.io/github/last-commit/sagotch/makorel)](https://github.com/sagotch/makorel) �� Release OPAM packages easily.
+  - [makorel ![GitHub Repo Stars](https://img.shields.io/github/stars/sagotch/makorel) ![GitHub last commit](https://img.shields.io/github/last-commit/sagotch/makorel)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
   - [esy ![GitHub Repo Stars](https://img.shields.io/github/stars/esy/esy) ![GitHub last commit](https://img.shields.io/github/last-commit/esy/esy)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 - **Build Tools**:
