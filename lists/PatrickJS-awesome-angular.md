@@ -829,6 +829,7 @@ become an Angular expert.
 * [docker-ng-cli-karma ![GitHub Repo Stars](https://img.shields.io/github/stars/trion-development/docker-ng-cli-karma) ![GitHub last commit](https://img.shields.io/github/last-commit/trion-development/docker-ng-cli-karma)](https://github.com/trion-development/docker-ng-cli-karma) - Angular docker image capable of running Karma with Chrome.
 * [ngx-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/bgotink/ngx-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/bgotink/ngx-playwright)](https://github.com/bgotink/ngx-playwright) - Tools to run Playwright e2e tests in an Angular workspace.
 * [Meticulous AI](https://www.meticulous.ai/) - Cover the 1000s of edge cases of your application - without writing or maintaining a single test.
+* [ngtx ![GitHub Repo Stars](https://img.shields.io/github/stars/Centigrade/ngtx) ![GitHub last commit](https://img.shields.io/github/last-commit/Centigrade/ngtx)](https://github.com/Centigrade/ngtx) - `ngtx` stands for "A**ng**ular **T**esting E**x**tensions" and is a small set of functions aiming to make your life easier when testing Angular components.
 
 #### Updating
 
@@ -955,6 +956,7 @@ become an Angular expert.
 * [angular-google-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/FERNman/angular-google-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/FERNman/angular-google-charts)](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 * [ngx-flexmonster ![GitHub Repo Stars](https://img.shields.io/github/stars/flexmonster/ngx-flexmonster) ![GitHub last commit](https://img.shields.io/github/last-commit/flexmonster/ngx-flexmonster)](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
 * [ngx-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/swimlane/ngx-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/swimlane/ngx-graph)](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular.
+* [ng-draw-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-draw-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-draw-flow)](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes. It allows you to create both simple diagrams and complex editors for building customised charts and graphs.
 
 #### Cookies
 
