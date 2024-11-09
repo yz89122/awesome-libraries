@@ -410,7 +410,7 @@ All resources are freely available except those with a 💲 icon.
 ### Algebraic Statistics
 * 📝 [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - Mathias Drton, Bernd Sturmfels, Seth Sullivant
 * 📝 [An Introduction to Algebraic Statistics](https://www3.diism.unisi.it/~chiantini/did/00Book.pdf) - Cristiano Bocci, Luca Chiantini and Anthony V. Geramita
-* ���� [Algebraic Statistics](https://tore.tuhh.de/dspace-cris-server/api/core/bitstreams/a0c378d5-ce8e-442a-8891-9e7f763b4279/content) - Karl-Heinz Zimmermann
+* 📝 [Algebraic Statistics](https://tore.tuhh.de/dspace-cris-server/api/core/bitstreams/a0c378d5-ce8e-442a-8891-9e7f763b4279/content) - Karl-Heinz Zimmermann
 * 📝 [Algebraic Statistics for Computational Biology](http://yaroslavvb.com/papers/pachter-algebraic.pdf) - Pachter, and Sturmfels.
 
 ### Topology
