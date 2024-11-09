@@ -55,7 +55,6 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [OpinionSpam ![GitHub Repo Stars](https://img.shields.io/github/stars/hdaSprachtechnologie/OpinionSpam) ![GitHub last commit](https://img.shields.io/github/last-commit/hdaSprachtechnologie/OpinionSpam)](https://github.com/hdaSprachtechnologie/OpinionSpam)
 
 ### Resources
-* [How To Label Data](https://www.lighttag.io/how-to-label-data/) - Guide on managing large scale linguistic annotation projects.
 * [Low Resource Languages ![GitHub Repo Stars](https://img.shields.io/github/stars/RIchardLitt/low-resource-languages) ![GitHub last commit](https://img.shields.io/github/last-commit/RIchardLitt/low-resource-languages)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 * [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
 
