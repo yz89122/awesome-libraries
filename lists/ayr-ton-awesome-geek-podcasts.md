@@ -224,7 +224,7 @@ A curated list of podcasts we like to listen to.
 
 ## In Portuguese
 
-* [10deploys](https://www.10deploys.com/) - São discutidas as origens, tendências, influências e os conceitos por trás do DevOps com o objetivo de ajudar organizações a se transformarem em organizações de alto desempenho.
+* [10deploys](https://www.10deploys.com/) - São discutidas as origens, tendências, influências e os conceitos por trás do DevOps com o objetivo de ajudar organizações a se transformarem em organizaç��es de alto desempenho.
 * [99Vidas](http://99vidas.com.br/) - Nostalgia, diversão e muita opinião sobre videogames.
 * [Acabou o café](https://www.listennotes.com/podcasts/acabou-o-caf%C3%A9-archcode-3DQw-pYW_dx/) - Podcast sobre desenvolvimento de sistemas e tecnologia do ArchCode.
 * [Adrenaline](https://open.spotify.com/show/2Yj0uF6UjYLhJzclj2jXaE) - Podcast que aborda temas de tecnologia, games e cultura geek.
@@ -349,7 +349,7 @@ A curated list of podcasts we like to listen to.
 * [Dev Café](https://dev-cafe.fr/) - Tous les lundis, retrouvez l'actualité tech' vue par un développeur ! Hosted by Edouard Marquez.
 * [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
 * [S'informer sur la tech](https://www.abonnel.fr/podcasts/tech) - C'est Cédric Abonnel's blog audio, des vidéos et un wiki, traitant des technologies. Vous retrouverez mes expériences et Cédric Abonnel's découvertes sur la sécurité, l'informatique, le hack et les loisirs techniques.
-* [Burger Tech](https://www.mindcast.fr/@burgerTech) - Dans ce podcast, nous adoptons une approche décontractée, teintée d’humour et parfois d’irrévérence, pour aborder l’actualité tech. Nous partageons des anecdotes hilarantes et surprenantes que nous dénichons sur le Web, engageons des conversations moqueuses, débattons de manière semi-sérieuse et proposons des réflexions empreintes d’humour.
+* [Burger Tech](https://www.mindcast.fr/@burgerTech) - Dans ce podcast, nous adoptons une approche décontract��e, teintée d’humour et parfois d’irrévérence, pour aborder l’actualité tech. Nous partageons des anecdotes hilarantes et surprenantes que nous dénichons sur le Web, engageons des conversations moqueuses, débattons de manière semi-sérieuse et proposons des réflexions empreintes d’humour.
 
 ## In German
 
