@@ -156,7 +156,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Tutorials & Demo
 
 - Jenkins
-  - [Performance Tests with JMeter, Maven and Hudson](https://blog.theserverlabs.com/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
+  - [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
   - [CI with Jenkins, Git, Maven, Grunt, and JMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
   - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
   - [Automating JMeter tests with Maven and Jenkins](https://www.codecentric.de/wissens-hub/blog/automating-jmeter-tests-maven-jenkins)
@@ -211,7 +211,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [OctoPerf](https://octoperf.com/) - SaaS and On-Premise Load Testing Tool with JMeter and Selenium support.
 - [Tricentis Flood](https://www.flood.io/) - Load testing service with JMeter, Gatling and Selenium scenarios support.
 - [RedLine13](https://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
-- [LoadRunner Cloud](https://www.microfocus.com/en-us/products/loadrunner-cloud/overview) - Micro Focus cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly HP StormRunner Load).
+- [LoadRunner Cloud](https://www.opentext.com/products/loadrunner-cloud) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
 - [Loadium](https://loadium.com/) - AWS-based load testing service with JMeter and Selenium support.
 - [Azure Microsoft](https://azure.microsoft.com/en-us/products/load-testing/) - Azure Load Testing Service use Apache JMeter.
 
@@ -342,6 +342,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### IDE Integration
 
 - [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from Intellij IDEA.
+- [JMeter Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/anboralabs/intellij-jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/anboralabs/intellij-jmeter)](https://github.com/anboralabs/intellij-jmeter) - Open JMeter test plans inside Intellij IDE.
 - [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) - Develop the JMeter project with Eclipse IDE.
 - [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org/tutorial/main/kb/docs/java/profile-loadgenerator/)
 
@@ -366,8 +367,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 - [Servers Performance Monitoring Plugin](https://jmeter-plugins.org/wiki/PerfMon/) - Server monitoring plugin from [JMeter Plugins](#plugins) project.
 - [CA App Synthetic Monitor](https://asm.saas.broadcom.com/en/feature/transaction-monitoring-web-application-testing.html) - Transaction monitoring & testing solution with JMeter support.
-- [Dynatrace and JMeter integration](https://docs.dynatrace.com/docs/platform-modules/automations/cloud-automation/test-automation/dynatrace-and-jmeter-integration)
-- [JMeter integration with AppDynamics](https://docplayer.net/62851982-Jmeter-integration-with-appdynamics.html) - APM & EUM solution with JMeter integration.
 - Performance Remediation using New Relic and JMeter: [part 1](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/)
 - [Elastic APM integration ![GitHub Repo Stars](https://img.shields.io/github/stars/vdaburon/jmeter-elastic-apm) ![GitHub last commit](https://img.shields.io/github/last-commit/vdaburon/jmeter-elastic-apm)](https://github.com/vdaburon/jmeter-elastic-apm) - Manages the integration of Elastic Application Performance Monitoring API in Apache JMeter script.
 
@@ -430,7 +429,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Forums
 
 <!--lint ignore double-link-->
-- [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
+- [JMeterPlugins Google Group](https://groups.google.com/g/jmeter-plugins)
 
 ### Twitter
 
