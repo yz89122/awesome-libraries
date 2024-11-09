@@ -1466,7 +1466,7 @@ _Libraries for manipulating images._
 - [transformimgs ![GitHub Repo Stars](https://img.shields.io/github/stars/Pixboost/transformimgs) ![GitHub last commit](https://img.shields.io/github/last-commit/Pixboost/transformimgs)](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
 - [webp-server ![GitHub Repo Stars](https://img.shields.io/github/stars/mehdipourfar/webp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mehdipourfar/webp-server)](https://github.com/mehdipourfar/webp-server) - Simple and minimal image server capable of storing, resizing, converting and caching images.
 
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 
 ## IoT (Internet of Things)
 
