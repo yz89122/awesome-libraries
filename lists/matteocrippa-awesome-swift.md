@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1074 | November 09, 2024 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1075 | November 10, 2024 |
 
 In parternship with:
 
@@ -781,6 +781,7 @@ In parternship with:
 
 * [glide engine ![GitHub Repo Stars](https://img.shields.io/github/stars/cocoatoucher/Glide) ![GitHub last commit](https://img.shields.io/github/last-commit/cocoatoucher/Glide)](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
 * [Raylib for Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/STREGAsGate/Raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/STREGAsGate/Raylib)](https://github.com/STREGAsGate/Raylib) :penguin: - A Cross-Platform Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!
+* [SwiftGodot](https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/) - Swift bindings for the Godot game engine to build extensions or act as an api with SwiftGodotKit.
 
 #### 2D
 [back to top](#readme) 
