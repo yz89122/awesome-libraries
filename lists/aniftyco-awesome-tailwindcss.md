@@ -311,7 +311,7 @@
 - 🔧 [Tailwind CSS with Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/raytiley/tailwind-ember-example) ![GitHub last commit](https://img.shields.io/github/last-commit/raytiley/tailwind-ember-example)](https://github.com/raytiley/tailwind-ember-example) - How to add Tailwind CSS to an Ember application.
 - 🔧 [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - How to setup Tailwind CSS in Sage.
 - 🔧 [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - How to use Tailwind CSS with Gatsby.
-- ���� [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - How to setup Tailwind CSS in Phoenix 1.4.
+- 🔧 [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - How to setup Tailwind CSS in Phoenix 1.4.
 - 🔧 [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) - How to Extend Tailwind CSS.
 - 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
 - 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Rebuilding Coinbase with Tailwind CSS (see the [CodePen](https://codepen.io/adamwathan/pen/RxWrZr)).
@@ -333,7 +333,7 @@
 - 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
 - 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - Building a photo gallery with CSS grids and Tailwind CSS.
 - 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
-- 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
+- ��� [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
 - 🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
 - 🎓 [Create a responsive navigation menu in Tailwind CSS](https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/)
 - 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
