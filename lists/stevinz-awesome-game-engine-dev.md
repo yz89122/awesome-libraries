@@ -362,7 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: App Framework
     - 🎉 [Cinder ![GitHub Repo Stars](https://img.shields.io/github/stars/cinder/Cinder) ![GitHub last commit](https://img.shields.io/github/last-commit/cinder/Cinder)](https://github.com/cinder/Cinder) - App / graphics library for macOS, Windows, Linux, iOS. [[Website](https://libcinder.org)]
     - 🎉 [Cross Window ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossWindow) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossWindow)](https://github.com/alaingalvan/CrossWindow) - Platform library for managing windows and other OS tasks.
-    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) ��� - Cross-platform access to windowing, graphics, audio and networking.
+    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
 - C++: Animation
     - 🎉 [Ozz-Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumeblanc/ozz-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumeblanc/ozz-animation)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
     - 🎉 [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
@@ -483,7 +483,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Wicked Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/turanszkij/WickedEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/turanszkij/WickedEngine)](https://github.com/turanszkij/WickedEngine) - Engine focusing on performance & modern rendering techniques.
 - C++: Gui
     - 🎉 [Crazy Eddie's GUI ![GitHub Repo Stars](https://img.shields.io/github/stars/cegui/cegui) ![GitHub last commit](https://img.shields.io/github/last-commit/cegui/cegui)](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
-    - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
+    - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) ��� - Bloat-free immediate mode gui library. Ported to many other languages.
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
     - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
@@ -635,7 +635,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Go: Audio
     - 🎉 [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
 - Go: Game Engine w/Editor
-    - 🎉 [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
+    - ���� [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 - Go: Game Framework
     - 🎉 [Ebitengine ![GitHub Repo Stars](https://img.shields.io/github/stars/hajimehoshi/ebiten) ![GitHub last commit](https://img.shields.io/github/last-commit/hajimehoshi/ebiten)](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library.
     - 🎉 [Engo ![GitHub Repo Stars](https://img.shields.io/github/stars/EngoEngine/engo) ![GitHub last commit](https://img.shields.io/github/last-commit/EngoEngine/engo)](https://github.com/EngoEngine/engo) - A 2D game framework.
@@ -1363,7 +1363,7 @@ _Resources to help bring video games and game engines alive._
 ### Audio Assets
 - Music
     - 🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - High-quality loops and packs used for music creation.
-    - �� [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
+    - 💸 [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
     - 💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
     - 💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Nice mix of free and affordable music loops.
     - 💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
