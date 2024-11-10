@@ -992,7 +992,7 @@ English-language description for use by biologists.
 
 * [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/pdf/2103.14230v1.pdf) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4172146500538799638&hl=en&as_sdt=0,5)].
 
-* [Learn to explain ef���ciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525&hl=en&as_sdt=0,5)]. [[Project ![GitHub Repo Stars](https://img.shields.io/github/stars/gblackout/NLIL) ![GitHub last commit](https://img.shields.io/github/last-commit/gblackout/NLIL)](https://github.com/gblackout/NLIL)].
+* [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525&hl=en&as_sdt=0,5)]. [[Project ![GitHub Repo Stars](https://img.shields.io/github/stars/gblackout/NLIL) ![GitHub last commit](https://img.shields.io/github/last-commit/gblackout/NLIL)](https://github.com/gblackout/NLIL)].
 
 * [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9257372000778020812&hl=en&as_sdt=0,5)].
 
