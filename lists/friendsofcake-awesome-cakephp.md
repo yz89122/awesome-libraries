@@ -328,6 +328,7 @@ Additional lists you might find useful:
 - 🍰 [Templating ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-templating) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-templating)](https://github.com/dereuromark/cakephp-templating) - HTML snippets as value objects, (Font) icons, and templating topics.
 - 🍰 [Tools:Tree ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 - 🍰 [TwigView plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/twig-view) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/twig-view)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
+- 🍰 [XlsView plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/impronta48/cakephp-xlsview) ![GitHub last commit](https://img.shields.io/github/last-commit/impronta48/cakephp-xlsview)](https://github.com/impronta48/cakephp-xlsview) - A view class to easily generate XLS using PHPSpreadsheet.
 
 ## Testing
 *Plugins/Tools for testing codebases and generating test data.*
