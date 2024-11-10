@@ -428,7 +428,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Livecycle](https://www.livecycle.io/) — Livecycle is an inclusive collaboration platform that makes workflows frictionless for cross-functional product teams and open-source projects.
   * [Lockitbot](https://www.lockitbot.com/) — Reserve and lock shared resources within Slack like Rooms, Dev environments , servers etc. Free for upto 2 resources
   * [MarkUp](https://www.markup.io/) — MarkUp lets you collect feedback directly on top of your websites, PDFs and images.
-  * [Proton Pass](https://proton.me/pass) ��� Password manager with built-in email aliases, 2FA authenticator, sharing and passkeys. Available on web, browser extension, and mobile app and desktop.
+  * [Proton Pass](https://proton.me/pass) — Password manager with built-in email aliases, 2FA authenticator, sharing and passkeys. Available on web, browser extension, and mobile app and desktop.
   * [Visual Debug](https://visualdebug.com) - A Visual feedback tool for better client-dev communication
   * [meet.jit.si](https://meet.jit.si/) — One-click video conversations, and screen sharing, for free
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free) — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 500k users.
@@ -1126,7 +1126,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [statically.io](https://statically.io/) — CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets, and images
   * [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, one developer, no support
-  * [UNPKG](https://unpkg.com/) — CDN for everything on npm
+  * [UNPKG](https://unpkg.com/) ��� CDN for everything on npm
   * [weserv](https://images.weserv.nl/) — An image cache & resize service. Manipulate images on the fly with a worldwide cache.
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
   * [Gcore](https://gcorelabs.com/) Global content delivery network, 1 TB and 1 million requests per month free and free DNS hosting
