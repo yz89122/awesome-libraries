@@ -656,6 +656,7 @@ become an Angular expert.
 * [ngx-notion-cms ![GitHub Repo Stars](https://img.shields.io/github/stars/borjamrd/ngx-notion-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/borjamrd/ngx-notion-cms)](https://github.com/borjamrd/ngx-notion-cms) - Render your Notion content through your Angular application as a CMS.
 * [angular-rsocket ![GitHub Repo Stars](https://img.shields.io/github/stars/saleweaver/angular-rsocket) ![GitHub last commit](https://img.shields.io/github/last-commit/saleweaver/angular-rsocket)](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
 * [ngx-pendo ![GitHub Repo Stars](https://img.shields.io/github/stars/yociduo/ngx-pendo) ![GitHub last commit](https://img.shields.io/github/last-commit/yociduo/ngx-pendo)](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
+* [ngx-surreal ![GitHub Repo Stars](https://img.shields.io/github/stars/vandaeldev/ngx-surreal) ![GitHub last commit](https://img.shields.io/github/last-commit/vandaeldev/ngx-surreal)](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
 
 #### Internationalization
 
@@ -910,6 +911,7 @@ become an Angular expert.
 * [angular-yandex-smart-captcha ![GitHub Repo Stars](https://img.shields.io/github/stars/flowXM/angular-yandex-smart-captcha) ![GitHub last commit](https://img.shields.io/github/last-commit/flowXM/angular-yandex-smart-captcha)](https://github.com/flowXM/angular-yandex-smart-captcha) - This library adds the Yandex SmartCaptcha component to your Angular application, providing an easy way to integrate CAPTCHA protection into your forms and other user interactions.
 * [go-captcha-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/wenlng/go-captcha-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/wenlng/go-captcha-angular)](https://github.com/wenlng/go-captcha-angular) - A simple, easy-to-use, interactive, and secure behavioral verification code that implements verification modes such as text/graphic clicking, sliding/dragging, and rotation.
 * [ng-recaptcha-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/LakhveerChahal/ng-recaptcha-2) ![GitHub last commit](https://img.shields.io/github/last-commit/LakhveerChahal/ng-recaptcha-2)](https://github.com/LakhveerChahal/ng-recaptcha-2) - Angular 18 fork of [ng-recaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/DethAriel/ng-recaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/DethAriel/ng-recaptcha)](https://github.com/DethAriel/ng-recaptcha). Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
+* [ngx-slider-recaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/mrzinkowin/ngx-slider-recaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/mrzinkowin/ngx-slider-recaptcha)](https://github.com/mrzinkowin/ngx-slider-recaptcha) - Customizable Angular library that provides a slider-based CAPTCHA component to help secure forms from spam and bot submissions.
 
 #### Carousels
 
@@ -1558,6 +1560,7 @@ for the creation of web applications developed with Angular.
 * [ngx-lamp ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-lamp) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-lamp)](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
 * [ngx-globe ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-globe) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-globe)](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
 * [ngx-copypaste ![GitHub Repo Stars](https://img.shields.io/github/stars/JsDaddy/ngx-copypaste) ![GitHub last commit](https://img.shields.io/github/last-commit/JsDaddy/ngx-copypaste)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
+* [ngx-morse ![GitHub Repo Stars](https://img.shields.io/github/stars/monkeyscript/ngx-morse) ![GitHub last commit](https://img.shields.io/github/last-commit/monkeyscript/ngx-morse)](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 
 ---
 
