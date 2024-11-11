@@ -504,7 +504,7 @@
 - [rachartier/tiny-devicons-auto-colors.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-devicons-auto-colors.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-devicons-auto-colors.nvim)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
 
 <!--lint disable double-link -->
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 <!--lint enable double-link -->
 
 ## Colorscheme
