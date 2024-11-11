@@ -2085,7 +2085,7 @@ but with the following improvements:
 <h2>Nix</h2>
 
 
-- [deadnix ![GitHub Repo Stars](https://img.shields.io/github/stars/astro/deadnix) ![GitHub last commit](https://img.shields.io/github/last-commit/astro/deadnix)](https://github.com/astro/deadnix) — Scan Nix files for dead code (unused variable bindings)
+- [deadnix ![GitHub Repo Stars](https://img.shields.io/github/stars/astro/deadnix) ![GitHub last commit](https://img.shields.io/github/last-commit/astro/deadnix)](https://github.com/astro/deadnix) �� Scan Nix files for dead code (unused variable bindings)
 
 - [statix](https://git.peppe.rs/languages/statix/about/) — Lints and suggestions for the Nix programming language. "statix check" highlights antipatterns in Nix code. "statix fix" can fix several such occurrences.
 

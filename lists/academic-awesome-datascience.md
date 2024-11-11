@@ -671,7 +671,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 - [Unifying Business, Data, and Code: Designing Data Products with JSON Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
 
-#### Book Deals (Affiliated) ���
+#### Book Deals (Affiliated) 🛍
 
 - [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=ebook_sale_8_8_22)
 
