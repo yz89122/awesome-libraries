@@ -94,6 +94,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [pokemon-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/pokemon-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/pokemon-cli)](https://github.com/sindresorhus/pokemon-cli) - CLI to get Pokémon names.
 - [pokesprite ![GitHub Repo Stars](https://img.shields.io/github/stars/msikma/pokesprite) ![GitHub last commit](https://img.shields.io/github/last-commit/msikma/pokesprite)](https://github.com/msikma/pokesprite) - Database of Pokémon sprites from the core series games, including custom shiny versions.
 - [PokéPalettes ![GitHub Repo Stars](https://img.shields.io/github/stars/BarryMode/pokepalettes) ![GitHub last commit](https://img.shields.io/github/last-commit/BarryMode/pokepalettes)](https://github.com/BarryMode/pokepalettes) - 16-bit palettes that represent Pokémon (based on the models from Pokémon GO).
+- [PokemonRedExperiments ![GitHub Repo Stars](https://img.shields.io/github/stars/PWhiddy/PokemonRedExperiments) ![GitHub last commit](https://img.shields.io/github/last-commit/PWhiddy/PokemonRedExperiments)](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokémon Red with Reinforcement Learning.
 
 ## Resources & Others
 #### Communities

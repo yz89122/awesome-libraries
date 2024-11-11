@@ -1239,6 +1239,7 @@ to simplify usage and allow quick customization.
 * [ngx-loading-buttons ![GitHub Repo Stars](https://img.shields.io/github/stars/dkreider/ngx-loading-buttons) ![GitHub last commit](https://img.shields.io/github/last-commit/dkreider/ngx-loading-buttons)](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
 * [ngx-lazy-directive ![GitHub Repo Stars](https://img.shields.io/github/stars/tuphan-27/ngx-lazy-directive) ![GitHub last commit](https://img.shields.io/github/last-commit/tuphan-27/ngx-lazy-directive)](https://github.com/tuphan-27/ngx-lazy-directive) - Provides an easy way to lazy load components combined with the `*ngIf` directive, thereby reducing the First Contentful Paint time when a module is large.
 * [ngx-fastboot ![GitHub Repo Stars](https://img.shields.io/github/stars/KernelPanic92/ngx-fastboot) ![GitHub last commit](https://img.shields.io/github/last-commit/KernelPanic92/ngx-fastboot)](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
+* [nx-svg-loaders ![GitHub Repo Stars](https://img.shields.io/github/stars/ngeenx/nx-svg-loaders) ![GitHub last commit](https://img.shields.io/github/last-commit/ngeenx/nx-svg-loaders)](https://github.com/ngeenx/nx-svg-loaders) - Angular, React, Svelte, Vue SVG loader/spinner collection.
 
 #### Loggers
 
@@ -1320,6 +1321,7 @@ to simplify usage and allow quick customization.
 * [dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dialog)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 * [ngx-modal-ease ![GitHub Repo Stars](https://img.shields.io/github/stars/GreenFlag31/modal-library) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenFlag31/modal-library)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
 * [ngx-smart-modal ![GitHub Repo Stars](https://img.shields.io/github/stars/maximelafarie/ngx-smart-modal) ![GitHub last commit](https://img.shields.io/github/last-commit/maximelafarie/ngx-smart-modal)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
+* [up-window-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/criar-art/up-window-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/criar-art/up-window-angular)](https://github.com/criar-art/up-window-angular) - An Angular library designed to create dynamic, customizable modals and window-based components for web applications.
 
 #### Notifications
 
