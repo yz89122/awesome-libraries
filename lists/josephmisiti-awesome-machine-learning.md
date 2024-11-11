@@ -131,6 +131,7 @@ Further resources:
       - [Federated Learning](#python-federated-learning)
       - [Kaggle Competition Source Code](#python-kaggle-competition-source-code)
       - [Reinforcement Learning](#python-reinforcement-learning)
+      - [Speech Recognition](#python-speech-recognition)
   - [Ruby](#ruby)
       - [Natural Language Processing](#ruby-natural-language-processing)
       - [General-Purpose Machine Learning](#ruby-general-purpose-machine-learning)
@@ -1277,6 +1278,7 @@ be
 * [Frouros ![GitHub Repo Stars](https://img.shields.io/github/stars/IFCA/frouros) ![GitHub last commit](https://img.shields.io/github/last-commit/IFCA/frouros)](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
 * [CometML ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/comet-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/comet-examples)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 * [Okrolearn ![GitHub Repo Stars](https://img.shields.io/github/stars/Okerew/okrolearn) ![GitHub last commit](https://img.shields.io/github/last-commit/Okerew/okrolearn)](https://github.com/Okerew/okrolearn): A python machine learning library created to combine powefull data analasys feautures with tensors and machine learning components, while mantaining support for other libraries.
+* [Opik ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/opik) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/opik)](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
@@ -1473,6 +1475,10 @@ be
 * [Maze ![GitHub Repo Stars](https://img.shields.io/github/stars/enlite-ai/maze) ![GitHub last commit](https://img.shields.io/github/last-commit/enlite-ai/maze)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 * [RLlib ![GitHub Repo Stars](https://img.shields.io/github/stars/ray-project/ray) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-project/ray)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 * [DI-engine ![GitHub Repo Stars](https://img.shields.io/github/stars/opendilab/DI-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/opendilab/DI-engine)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+
+<a name="python-speech-recognition"></a>
+#### Speech Recognition
+* [EspNet ![GitHub Repo Stars](https://img.shields.io/github/stars/espnet/espnet) ![GitHub last commit](https://img.shields.io/github/last-commit/espnet/espnet)](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
 
 <a name="ruby"></a>
 ## Ruby
