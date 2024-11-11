@@ -89,6 +89,7 @@
 - [Classified Group ![GitHub Repo Stars](https://img.shields.io/github/stars/formfcw/directus-extension-classified-group) ![GitHub last commit](https://img.shields.io/github/last-commit/formfcw/directus-extension-classified-group)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 - [Tokenized Preview ![GitHub Repo Stars](https://img.shields.io/github/stars/formfcw/directus-extension-tokenized-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/formfcw/directus-extension-tokenized-preview)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 - [Umami Analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/egidiusmengelberg/directus-extension-umami) ![GitHub last commit](https://img.shields.io/github/last-commit/egidiusmengelberg/directus-extension-umami)](https://github.com/egidiusmengelberg/directus-extension-umami) - Add Umami analytics to Directus.
+- [Auto generate file transformations ![GitHub Repo Stars](https://img.shields.io/github/stars/utomic-media/directus-extension-auto-generate-file-transformations) ![GitHub last commit](https://img.shields.io/github/last-commit/utomic-media/directus-extension-auto-generate-file-transformations)](https://github.com/utomic-media/directus-extension-auto-generate-file-transformations) - Automatically generate selected file transformations on upload 
 
 ### Extension Scripts
 
