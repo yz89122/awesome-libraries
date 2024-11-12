@@ -48,7 +48,7 @@ Also see:
 - [Google for "dotfiles"](https://www.google.nl/search?q=dotfiles)
 - [Archlinux collection](https://wiki.archlinux.org/index.php/Dotfiles)
 - Tip: search for a filename on GitHub, e.g.
-  [in:path .gitconfig](https://github.com/search?utf8=%E2%9C%93&type=Code&q=in%3Apath+.gitconfig).
+  [path:\*\*/.gitconfig](https://github.com/search?type=code&q=path%3A**%2F.gitconfig).
 
 ## Example dotfiles repos
 
@@ -116,6 +116,7 @@ scripts to manage dotfiles and plugins.
   packages automatically activated during shells or editors startup. There is a wide range of packages already
   available. in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 - [rcm ![GitHub Repo Stars](https://img.shields.io/github/stars/thoughtbot/rcm) ![GitHub last commit](https://img.shields.io/github/last-commit/thoughtbot/rcm)](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
+- [rotz ![GitHub Repo Stars](https://img.shields.io/github/stars/volllly/rotz) ![GitHub last commit](https://img.shields.io/github/last-commit/volllly/rotz)](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust.
 - [themer ![GitHub Repo Stars](https://img.shields.io/github/stars/themerdev/themer) ![GitHub last commit](https://img.shields.io/github/last-commit/themerdev/themer)](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
   your dotfiles.
 - [toml-bombadil ![GitHub Repo Stars](https://img.shields.io/github/stars/oknozor/toml-bombadil) ![GitHub last commit](https://img.shields.io/github/last-commit/oknozor/toml-bombadil)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
@@ -176,7 +177,7 @@ scripts to manage dotfiles and plugins.
 - [osxc](http://osxc.github.io)
 - [vcsh ![GitHub Repo Stars](https://img.shields.io/github/stars/RichiH/vcsh) ![GitHub last commit](https://img.shields.io/github/last-commit/RichiH/vcsh)](https://github.com/RichiH/vcsh)
   ([article](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html),
-  [article](https://www.kunxi.org/2014/02/manage-dotfiles-using-vcsh-and-mr/))
+  [article](https://www.kunxi.org/blog/2014/02/manage-dotfiles-using-vcsh-and-mr/))
 - [YADR](http://skwp.github.io/dotfiles/)
 
 ## License
