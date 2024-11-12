@@ -514,7 +514,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [dupl ![GitHub Repo Stars](https://img.shields.io/github/stars/mibk/dupl) ![GitHub last commit](https://img.shields.io/github/last-commit/mibk/dupl)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 
-- [errcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/kisielk/errcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/kisielk/errcheck)](https://github.com/kisielk/errcheck) — Check that error return values are used.
+- [errcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/kisielk/errcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/kisielk/errcheck)](https://github.com/kisielk/errcheck) �� Check that error return values are used.
 
 - [errwrap ![GitHub Repo Stars](https://img.shields.io/github/stars/fatih/errwrap) ![GitHub last commit](https://img.shields.io/github/last-commit/fatih/errwrap)](https://github.com/fatih/errwrap) — Wrap and fix Go errors with the new %w verb directive.  This tool analyzes fmt.Errorf() calls and reports calls that contain a verb directive that  is different than the new %w verb directive introduced in Go v1.13.  It's also capable of rewriting calls to use the new %w wrap verb directive.
 
@@ -1325,7 +1325,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [tslint-microsoft-contrib ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/tslint-microsoft-contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/tslint-microsoft-contrib)](https://github.com/Microsoft/tslint-microsoft-contrib) :warning: — A set of tslint rules for static code analysis of TypeScript projects maintained by Microsoft.
 
-- [TypeScript Call Graph ![GitHub Repo Stars](https://img.shields.io/github/stars/whyboris/TypeScript-Call-Graph) ![GitHub last commit](https://img.shields.io/github/last-commit/whyboris/TypeScript-Call-Graph)](https://github.com/whyboris/TypeScript-Call-Graph) :warning: — CLI to generate an interactive graph of functions and calls from your TypeScript files
+- [TypeScript Call Graph ![GitHub Repo Stars](https://img.shields.io/github/stars/whyboris/TypeScript-Call-Graph) ![GitHub last commit](https://img.shields.io/github/last-commit/whyboris/TypeScript-Call-Graph)](https://github.com/whyboris/TypeScript-Call-Graph) — CLI to generate an interactive graph of functions and calls from your TypeScript files
 
 - [TypeScript ESLint ![GitHub Repo Stars](https://img.shields.io/github/stars/typescript-eslint/typescript-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/typescript-eslint/typescript-eslint)](https://github.com/typescript-eslint/typescript-eslint) — TypeScript language extension for eslint.
 
