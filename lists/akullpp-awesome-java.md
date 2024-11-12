@@ -664,7 +664,6 @@ _Tools that help send messages between clients to ensure protocol independency._
 _Tools for creating and managing microservices._
 
 - [ActiveRPC](https://rpc.activej.io) - Lightweight and fast library for complex high-load distributed applications and Memcached-like solutions.
-- [Apollo](https://spotify.github.io/apollo/) - Libraries for writing composable microservices.
 - [Armeria ![GitHub Repo Stars](https://img.shields.io/github/stars/line/armeria) ![GitHub last commit](https://img.shields.io/github/last-commit/line/armeria)](https://github.com/line/armeria) - Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
 - [consul-api ![GitHub Repo Stars](https://img.shields.io/github/stars/Ecwid/consul-api) ![GitHub last commit](https://img.shields.io/github/last-commit/Ecwid/consul-api)](https://github.com/Ecwid/consul-api) - Client for the Consul API: a distributed, highly available and datacenter-aware registry/discovery service.
 - [Eureka ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/eureka) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/eureka)](https://github.com/Netflix/eureka) - REST-based service registry for resilient load balancing and failover.
