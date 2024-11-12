@@ -659,6 +659,7 @@ Implementations
   * [SBCL-GOODIES ![GitHub Repo Stars](https://img.shields.io/github/stars/sionescu/sbcl-goodies) ![GitHub last commit](https://img.shields.io/github/last-commit/sionescu/sbcl-goodies)](https://github.com/sionescu/sbcl-goodies) - Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. [MIT][200].
   * [Nightly Windows builds of SBCL ![GitHub Repo Stars](https://img.shields.io/github/stars/olnw/sbcl-builds) ![GitHub last commit](https://img.shields.io/github/last-commit/olnw/sbcl-builds)](https://github.com/olnw/sbcl-builds) -  Nightly builds of SBCL using MSYS2 UCRT64. See also [Roswell's SBCL MSI builds ![GitHub Repo Stars](https://img.shields.io/github/stars/roswell/sbcl_bin) ![GitHub last commit](https://img.shields.io/github/last-commit/roswell/sbcl_bin)](https://github.com/roswell/sbcl_bin/releases/).
   * [SBCL on Chocolatey for Windows](https://community.chocolatey.org/packages/sbcl) (unofficial)
+  * [WIP, 2021] [Static Executables with SBCL](https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html).
 * ⭐ [CCL](//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
 * [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1][11].
   * [eclweb ![GitHub Repo Stars](https://img.shields.io/github/stars/chee/eclweb) ![GitHub last commit](https://img.shields.io/github/last-commit/chee/eclweb)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
@@ -1126,8 +1127,9 @@ See also:
 * [clack-static-asset-middleware ![GitHub Repo Stars](https://img.shields.io/github/stars/fisxoj/clack-static-asset-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/fisxoj/clack-static-asset-middleware)](https://github.com/fisxoj/clack-static-asset-middleware) - a cache-busting static asset middleware for the clack. [MIT][200].
 * [lack-expression-cache ![GitHub Repo Stars](https://img.shields.io/github/stars/daninus14/lack-compression-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/daninus14/lack-compression-cache)](https://github.com/daninus14/lack-compression-cache) -  lack middleware for compressing and caching static resources. MIT.
 * [lack-rerouter ![GitHub Repo Stars](https://img.shields.io/github/stars/daninus14/lack-rerouter) ![GitHub last commit](https://img.shields.io/github/last-commit/daninus14/lack-rerouter)](https://github.com/daninus14/lack-rerouter) -  lack middleware to reroute URIs of requests. MIT.
+* [clack-cors](https://40ants.com/clack-cors/) - A Clack middleware to set CORS related HTTP headers. — Unlicense.
+* [clack-promotheus](https://40ants.com/clack-prometheus/) - Clack middleware to serve stats in Prometheus format. Unlicense.
 
-For routing, we can also use Snooze (see below).
 
 Web frameworks
 --------------
@@ -1187,7 +1189,7 @@ HTML generators and templates
 * [TEN ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/ten) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/ten)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT][200].
 * [eco ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/eco) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/eco)](https://github.com/eudoxia0/eco) - Fast, flexible, designer-friendly template engine. [Expat][14].
 * [cl-closure-template ![GitHub Repo Stars](https://img.shields.io/github/stars/archimag/cl-closure-template) ![GitHub last commit](https://img.shields.io/github/last-commit/archimag/cl-closure-template)](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates, where compiling a template creates a function that generates the result. [LLGPL][8].
-* [flute ![GitHub Repo Stars](https://img.shields.io/github/stars/ailisp/flute) ![GitHub last commit](https://img.shields.io/github/last-commit/ailisp/flute)](https://github.com/ailisp/flute) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT][200].
+* [hsx ![GitHub Repo Stars](https://img.shields.io/github/stars/skyizwhite/hsx) ![GitHub last commit](https://img.shields.io/github/last-commit/skyizwhite/hsx)](https://github.com/skyizwhite/hsx/) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT][200].
 * [clip](https://shinmera.github.io/clip) - An HTML template processor where the templates are written in HTML. [zlib][33].
 * [lsx ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/lsx) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/lsx)](https://github.com/fukamachi/lsx/) and [markup ![GitHub Repo Stars](https://img.shields.io/github/stars/moderninterpreters/markup) ![GitHub last commit](https://img.shields.io/github/last-commit/moderninterpreters/markup)](https://github.com/moderninterpreters/markup) - Two JSX-like templating engines, where HTML tags are Common Lisp code. `markup` comes with an Emacs package.
 
@@ -1381,6 +1383,8 @@ Service (S3) and CloudFront service. [BSD][15].
 * [lisp-pay ![GitHub Repo Stars](https://img.shields.io/github/stars/K1D77A/lisp-pay) ![GitHub last commit](https://img.shields.io/github/last-commit/K1D77A/lisp-pay)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT][200].
 * [lunamech-matrix-api ![GitHub Repo Stars](https://img.shields.io/github/stars/K1D77A/lunamech-matrix-api) ![GitHub last commit](https://img.shields.io/github/last-commit/K1D77A/lunamech-matrix-api)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT][200].
 * [cl-telegram-bot](https://40ants.com/cl-telegram-bot/) - Telegram bot API. [MIT][200].
+  * includes example bots such as a calculator, payment with invoices, an actor-based bot…
+  * automatic API spec parser
   * [cl-telegram-bot-auto-api ![GitHub Repo Stars](https://img.shields.io/github/stars/aartaka/cl-telegram-bot-auto-api) ![GitHub last commit](https://img.shields.io/github/last-commit/aartaka/cl-telegram-bot-auto-api)](https://github.com/aartaka/cl-telegram-bot-auto-api) - Alternative Telegram Bot API bindings, auto-generated from Telegram website. [3-clause BSD][15].
 
 
