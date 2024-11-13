@@ -692,7 +692,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Haxe Bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/haxebullet) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/haxebullet)](https://github.com/armory3d/haxebullet) - _Bullet 3D_ physics bindings for Haxe.
     - 🎉 [HeapsIO/bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/bullet) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/bullet)](https://github.com/HeapsIO/bullet) - _Bullet 3D_ physics for _Heaps_ (Haxe's native low-level game framework).
     - 🎉 [Jelly Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelapfelbeck/jellyPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelapfelbeck/jellyPhysics)](https://github.com/michaelapfelbeck/jellyPhysics) - Soft body 2D physics engine.
-    - 🎉 [Nape ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFlixel/nape-haxe4) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/nape-haxe4)](https://github.com/HaxeFlixel/nape-haxe4) - Fast, friendly 2D rigid body physics engine. [[Demos](https://joecreates.github.io/napephys/)]
+    - �� [Nape ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFlixel/nape-haxe4) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/nape-haxe4)](https://github.com/HaxeFlixel/nape-haxe4) - Fast, friendly 2D rigid body physics engine. [[Demos](https://joecreates.github.io/napephys/)]
 - Haxe: Serialization / Storage
     - 🎉 [CastleDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ncannasse/castle) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/castle)](https://github.com/ncannasse/castle) - Structured database with a local web service to edit it.
     - 🎉 [Format ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/format) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/format)](https://github.com/HaxeFoundation/format) - Various files formats support for Haxe.
@@ -1363,7 +1363,7 @@ _Resources to help bring video games and game engines alive._
 ### Audio Assets
 - Music
     - 🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - High-quality loops and packs used for music creation.
-    - ��� [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
+    - 💸 [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
     - 💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
     - 💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Nice mix of free and affordable music loops.
     - 💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
