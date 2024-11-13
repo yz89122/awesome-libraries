@@ -260,7 +260,7 @@ A curated list of podcasts we like to listen to.
 * [OsProgramadores](https://osprogramadores.com/podcast/) - Marcelo Pinheiro entrevista convidados que trabalham na área de programação. Na tentativa de criar um conteúdo que incentive e guie o pessoal que pretende começar nesta área.
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
 * [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
-* [PodProgramar](https://podprogramar.com.br/) - Podcast sobre desenvolvimento técnologia comando pela Jessi Zanelato e Ana Eliza, abordam temas iniciantes e avançados.
+* [PodProgramar](https://podprogramar.com.br/) - Podcast sobre desenvolvimento t��cnologia comando pela Jessi Zanelato e Ana Eliza, abordam temas iniciantes e avançados.
 * [Podtrash](http://www.td1p.com/) - Um podcast sobre filmes trash, feito por adoradores do trash.
 * [Quero Ouvir (Coisa de Nerd – Leon e Nilce)](https://podcasts.apple.com/br/podcast/quero-ouvir/id1474392512) - Programa de comentários sobre filmes, tecnologia e entretenimento.
 * [Quebradev](https://quebradev.com.br/) - Um podcast de origem periférica e com destino voltado à origem.
