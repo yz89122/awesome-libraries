@@ -362,7 +362,7 @@ All resources are freely available except those with a 💲 icon.
 ## Combinatorics
 
 * 📝 [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee)
-* ��� [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
+* 📝 [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
 * 📝 [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
 * 📝 [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick
 * 📝 [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - Herbert Wilf
@@ -382,7 +382,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
 * 📝 [Byrne's Euclid](https://www.c82.net/euclid/) - Oliver Byrne
 * 📝 [Plane Geometry](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth and David Eugene Smith (1913)
-* �� [Planes and Spherical Trigonometry](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth and David Eugene Smith (1915)
+* 📝 [Planes and Spherical Trigonometry](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth and David Eugene Smith (1915)
 * 📝 [Coordinate Geometry](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine and Henry Dallas Thompson (1911)
 * 📝 [Analytic Geometry](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (1922)
 
@@ -586,7 +586,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/resources/notes.pdf) - Doron Levy (University of Maryland)
 * 📝 [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (University of Minnesota)
-* 📝 [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
+* �� [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
 * 📝 [Lectures In Basic Computational Numerical Analysis](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1000&context=math_textbooks) - J. M. McDonough (University of Kentucky)
 * 📝 [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 * 📝 [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder
