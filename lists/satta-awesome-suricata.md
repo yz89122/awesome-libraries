@@ -18,6 +18,7 @@
 - [Analysis Tools](#analysis-tools)
 - [Rule Sets](#rule-sets)
 - [Rule/Security Content Management and Handling](#rulesecurity-content-management-and-handling)
+- [Plugins and Extensions](#plugins-and-extensions)
 - [Systems Using Suricata](#systems-using-suricata)
 - [Training](#training)
 - [Simulation and Testing](#simulation-and-testing)
@@ -124,6 +125,11 @@
 - [suricata-prettifier ![GitHub Repo Stars](https://img.shields.io/github/stars/theY4Kman/suricata-prettifier) ![GitHub last commit](https://img.shields.io/github/last-commit/theY4Kman/suricata-prettifier)](https://github.com/theY4Kman/suricata-prettifier) - Command-line tool to format and syntax highlight Suricata rules.
 - [OTX-Suricata ![GitHub Repo Stars](https://img.shields.io/github/stars/AlienVault-OTX/OTX-Suricata) ![GitHub last commit](https://img.shields.io/github/last-commit/AlienVault-OTX/OTX-Suricata)](https://github.com/AlienVault-OTX/OTX-Suricata) - Create rules and configuration for Suricata to alert on indicators from an OTX account.
 - [Aristotle ![GitHub Repo Stars](https://img.shields.io/github/stars/secureworks/aristotle) ![GitHub last commit](https://img.shields.io/github/last-commit/secureworks/aristotle)](https://github.com/secureworks/aristotle) - Simple Python program that allows for the filtering and modifying of Suricata and Snort rulesets based on interpreted key-value pairs present in the metadata keyword within each rule.
+
+
+## Plugins and Extensions
+
+- [suricata-zabbix ![GitHub Repo Stars](https://img.shields.io/github/stars/catenacyber/suricata-zabbix) ![GitHub last commit](https://img.shields.io/github/last-commit/catenacyber/suricata-zabbix)](https://github.com/catenacyber/suricata-zabbix) - Zabbix application layer plugin for Suricata.
 
 
 ## Systems Using Suricata
