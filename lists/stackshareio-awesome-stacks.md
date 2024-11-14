@@ -228,7 +228,7 @@ Add search to your JAMStack website, through a static site integration or by cra
 
 - [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/)
 
-### MEVN: Mongo Express Vue Node [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node)
+### MEVN: Mongo Express Vue Node [��](https://awesomestacks.dev/mevn-mongo-express-vue-node)
 
 This is a full stack web app boilerplate project with VueJS + ExpressJS + MongoDB.
 
@@ -466,7 +466,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 - [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
 - [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
 - [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/expo/expo) ![GitHub last commit](https://img.shields.io/github/last-commit/expo/expo)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
-- [Digital Ocean](https://www.digitalocean.com/) - [��️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
+- [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 - [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 
 ##### Resources
