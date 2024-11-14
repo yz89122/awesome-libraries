@@ -127,7 +127,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
-- [pokete ![GitHub Repo Stars](https://img.shields.io/github/stars/lxgr-linux/pokete) ![GitHub last commit](https://img.shields.io/github/last-commit/lxgr-linux/pokete)](https://github.com/lxgr-linux/pokete) - Pokemon-like.
+- [Pokete ![GitHub Repo Stars](https://img.shields.io/github/stars/lxgr-linux/Pokete) ![GitHub last commit](https://img.shields.io/github/last-commit/lxgr-linux/Pokete)](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
 
 ### Books
 
@@ -402,7 +402,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Math
 
 - [mdlt ![GitHub Repo Stars](https://img.shields.io/github/stars/metadelta/mdlt) ![GitHub last commit](https://img.shields.io/github/last-commit/metadelta/mdlt)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
-- [Qalculate ![GitHub Repo Stars](https://img.shields.io/github/stars/Qalculate/libqalculate) ![GitHub last commit](https://img.shields.io/github/last-commit/Qalculate/libqalculate)](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+- [Qalculate ![GitHub Repo Stars](https://img.shields.io/github/stars/Qalculate/libqalculate) ![GitHub last commit](https://img.shields.io/github/last-commit/Qalculate/libqalculate)](https://github.com/Qalculate/libqalculate) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
 
 ### Weather
 
@@ -483,7 +483,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [ranger ![GitHub Repo Stars](https://img.shields.io/github/stars/ranger/ranger) ![GitHub last commit](https://img.shields.io/github/last-commit/ranger/ranger)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 - [midnight-commander ![GitHub Repo Stars](https://img.shields.io/github/stars/MidnightCommander/mc) ![GitHub last commit](https://img.shields.io/github/last-commit/MidnightCommander/mc)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
-- [Vifm](https://vifm.info/) - VI influnced file manager.
+- [Vifm](https://vifm.info/) - VI influenced file manager.
 - [nnn ![GitHub Repo Stars](https://img.shields.io/github/stars/jarun/nnn) ![GitHub last commit](https://img.shields.io/github/last-commit/jarun/nnn)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [lf ![GitHub Repo Stars](https://img.shields.io/github/stars/gokcehan/lf) ![GitHub last commit](https://img.shields.io/github/last-commit/gokcehan/lf)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 - [clifm ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-arch/clifm) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-arch/clifm)](https://github.com/leo-arch/clifm) - The command line file manager.
@@ -557,7 +557,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [broot ![GitHub Repo Stars](https://img.shields.io/github/stars/Canop/broot) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/broot)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 - [rare ![GitHub Repo Stars](https://img.shields.io/github/stars/zix99/rare) ![GitHub last commit](https://img.shields.io/github/last-commit/zix99/rare)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 - [skim ![GitHub Repo Stars](https://img.shields.io/github/stars/lotabout/skim) ![GitHub last commit](https://img.shields.io/github/last-commit/lotabout/skim)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
-- [ast-grep ![GitHub Repo Stars](https://img.shields.io/github/stars/ast-grep/ast-grep) ![GitHub last commit](https://img.shields.io/github/last-commit/ast-grep/ast-grep)](https://github.com/ast-grep/ast-grep) - A tool for code structrual search, linting and rewriting.
+- [ast-grep ![GitHub Repo Stars](https://img.shields.io/github/stars/ast-grep/ast-grep) ![GitHub last commit](https://img.shields.io/github/last-commit/ast-grep/ast-grep)](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
 
 ## Version Control
 
