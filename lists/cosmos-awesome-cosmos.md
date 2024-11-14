@@ -209,6 +209,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [informalsystems/hermes ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/hermes) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/hermes)](https://github.com/informalsystems/hermes) - IBC Relayer in Rust.
 * [confio/ts-relayer ![GitHub Repo Stars](https://img.shields.io/github/stars/confio/ts-relayer) ![GitHub last commit](https://img.shields.io/github/last-commit/confio/ts-relayer)](https://github.com/confio/ts-relayer) - IBC Relayer in TypeScript.
 * [local-interchain ![GitHub Repo Stars](https://img.shields.io/github/stars/Reecepbcups/local-interchain) ![GitHub last commit](https://img.shields.io/github/last-commit/Reecepbcups/local-interchain)](https://github.com/Reecepbcups/local-interchain) - Quickly spin up a local IBC development environment on any operating system.
+* [IBC-escrow-auditor ![GitHub Repo Stars](https://img.shields.io/github/stars/Cordtus/ibc-escrow) ![GitHub last commit](https://img.shields.io/github/last-commit/Cordtus/ibc-escrow)](https://github.com/Cordtus/ibc-escrow) - Standalone tool to check and report on-chain token amounts against the IBC lockup account on counterparty chain.
 
 ## Testing
 
@@ -271,6 +272,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 
 * [Cosmos Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/Reecepbcups/cosmos-endpoint-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/Reecepbcups/cosmos-endpoint-cache)](https://github.com/Reecepbcups/cosmos-endpoint-cache) - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
 * [cosmos-operator ![GitHub Repo Stars](https://img.shields.io/github/stars/strangelove-ventures/cosmos-operator) ![GitHub last commit](https://img.shields.io/github/last-commit/strangelove-ventures/cosmos-operator)](https://github.com/strangelove-ventures/cosmos-operator) - Cosmos Operator is a kubernetes operator for managing cosmos nodes.
+* [Wallet-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/Cordtus/wallet_generator) ![GitHub last commit](https://img.shields.io/github/last-commit/Cordtus/wallet_generator)](https://github.com/Cordtus/wallet_generator) - Manually generate a keypair + wallet addresses from mnemonic, pubkey + wallet addresses from privkey, or wallet addresses from pubkey. Accepts arbitrary HDpath (incl. cointype)
 
 ## Ecosystem
 

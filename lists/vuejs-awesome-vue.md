@@ -326,7 +326,7 @@
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 - [Vue.js in Bahasa Indonesia](https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 - [Vue.js from Scratch Series in Russian](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7) on YouTube by .dev
-- [Ст��орення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](http://codeguida.com/post/526/) Ukraine
+- [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](http://codeguida.com/post/526/) Ukraine
 - [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 - [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource ![GitHub Repo Stars](https://img.shields.io/github/stars/jayway/vue-js-workshop) ![GitHub last commit](https://img.shields.io/github/last-commit/jayway/vue-js-workshop)](https://github.com/jayway/vue-js-workshop)
 - [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
@@ -494,7 +494,7 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立开发���训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
