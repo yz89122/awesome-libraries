@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -779,7 +779,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [lualint ![GitHub Repo Stars](https://img.shields.io/github/stars/philips/lualint) ![GitHub last commit](https://img.shields.io/github/last-commit/philips/lualint)](https://github.com/philips/lualint) — lualint performs luac-based static analysis of global variable usage in Lua source code.
 
-- [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) — An IDE for statically typed Lua development.
+- [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) :warning: — An IDE for statically typed Lua development.
 
 
 <a name="matlab" />
@@ -2033,6 +2033,8 @@ but with the following improvements:
 - [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
 
 - [mdl ![GitHub Repo Stars](https://img.shields.io/github/stars/mivok/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/mivok/markdownlint)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
+
+- [mdsf ![GitHub Repo Stars](https://img.shields.io/github/stars/hougesen/mdsf) ![GitHub last commit](https://img.shields.io/github/last-commit/hougesen/mdsf)](https://github.com/hougesen/mdsf) — Format markdown code blocks using your favorite code formatters.
 
 - [remark-lint](https://remark.js.org) — Pluggable Markdown code style linter written in JavaScript.
 
