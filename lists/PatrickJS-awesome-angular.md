@@ -1046,6 +1046,7 @@ become an Angular expert.
 * [ngx-app-version ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-app-version) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-app-version)](https://github.com/Celtian/ngx-app-version) - Angular directive for writing version into DOM.
 * [ngx-repeat ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-repeat) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-repeat)](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
 * [ngx-fixed-footer ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-fixed-footer) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-fixed-footer)](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
+* [ngx-href ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-href) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-href)](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
 
 #### Drag and Drop
 
