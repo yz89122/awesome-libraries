@@ -807,7 +807,7 @@ Function extensions
 Iteration
 ---------
 
-* ��� [iterate](https://common-lisp.net/project/iterate/) - An iteration construct for Common Lisp which is extensible and Lispier. [MIT][200].
+* ⭐ [iterate](https://common-lisp.net/project/iterate/) - An iteration construct for Common Lisp which is extensible and Lispier. [MIT][200].
 * [for](https://shinmera.github.io/for/) - A concise, lispy and extensible iteration macro. Unlike loop it is extensible and sensible, and unlike iterate it does not require code-walking and is easier to extend. [zlib][33].
 * [series](https://series.sourceforge.net/) - Functional style without any runtime penalty at all. [MIT][200].
 * [trivial-do ![GitHub Repo Stars](https://img.shields.io/github/stars/yitzchak/trivial-do) ![GitHub last commit](https://img.shields.io/github/last-commit/yitzchak/trivial-do)](https://github.com/yitzchak/trivial-do/) -  Additional dolist style macros for Common Lisp. [MIT][200].
