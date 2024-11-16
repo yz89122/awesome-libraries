@@ -234,7 +234,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Interaction Web Database](http://www.ecologia.ib.usp.br/iwdb/) - Ecological species interactions.
 -   [International Currencies 1890-1910](http://eh.net/database/international-currencies-1890-1910/) - Historical data on the international connections between 45 currencies.
 -   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - Includes, among other things, networks of collaboration in DBpedia and Wikipedia, GitHub ([companion handbook](https://arxiv.org/abs/1402.5500)).
-    <!-- -   [James H. Fowler���s Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm). -->
+    <!-- -   [James H. Fowler’s Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm). -->
 -   [Linton Freeman’s Network Data](http://moreno.ss.uci.edu/data.html) - Over 300 datasets of all sorts, in UCINET format.
 -   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package ![GitHub Repo Stars](https://img.shields.io/github/stars/mangal-wg/pymangal) ![GitHub last commit](https://img.shields.io/github/last-commit/mangal-wg/pymangal)](https://github.com/mangal-wg/pymangal), [R package ![GitHub Repo Stars](https://img.shields.io/github/stars/mangal-wg/rmangal) ![GitHub last commit](https://img.shields.io/github/last-commit/mangal-wg/rmangal)](https://github.com/mangal-wg/rmangal)).
 -   [Manlio De Domenico’s Complex Multilayer Networks](https://manliodedomenico.com/data.php).
