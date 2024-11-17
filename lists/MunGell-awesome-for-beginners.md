@@ -350,6 +350,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Sniffnet ![GitHub Repo Stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet) ![GitHub last commit](https://img.shields.io/github/last-commit/GyulyVGC/sniffnet)](https://github.com/GyulyVGC/sniffnet) _(label: good first issue)_ <br> Application to comfortably monitor network traffic.
 - [TiKV ![GitHub Repo Stars](https://img.shields.io/github/stars/tikv/tikv) ![GitHub last commit](https://img.shields.io/github/last-commit/tikv/tikv)](https://github.com/tikv/tikv) _(label: difficulty/easy)_ <br> A distributed transactional key-value database
 - [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner) _(label: n/a)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
+- [zoom-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/security-union/zoom-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/security-union/zoom-rs)](https://github.com/security-union/zoom-rs) _(label: good first issue)_ <br> Teleconference system with a web based user interface written in Rust
 
 ## Scala
 
