@@ -65,6 +65,8 @@ You will find also a lot of spare parts or mods / extensions to commercial vehic
 
 Copters are built using different materials from alu / carbon profiles to CNC cuts to full 3D printed cases and have different configurations for different number of rotors (bi... octo):
 
+* [Sub 250g autonomous drone] - 3D printed bare minimum frame with Liion and GPS
+* [JeNo 5.1" ![GitHub Repo Stars](https://img.shields.io/github/stars/WE-are-FPV/JeNo-5.1) ![GitHub last commit](https://img.shields.io/github/last-commit/WE-are-FPV/JeNo-5.1)](https://github.com/WE-are-FPV/JeNo-5.1) - Modern carbon wide X-frame with accessoirs
 * [Goblin v3](https://www.printables.com/de/model/396395-goblin-fpv-drone) - 3D printed frame, 4S power, 16x16 AIO stack, 2023.
 * [NanoLongRange](https://www.thingiverse.com/thing:4769576) - 3D printed frame with mostly a 18650 Liion cell and a all-in-one board for whoops, 2021.
   * [Discovery Edition](https://www.thingiverse.com/thing:5428365) - Optimized frame with integrated battery holder, 2022.
@@ -142,6 +144,7 @@ Usually brushless DC motors (BLDC) are used for their power and precision. They 
 
 * [BLheli_S ![GitHub Repo Stars](https://img.shields.io/github/stars/bitdump/BLHeli) ![GitHub last commit](https://img.shields.io/github/last-commit/bitdump/BLHeli)](https://github.com/bitdump/BLHeli) - Popular Firmware for ESCs with fine-grained control.
 * [BlueJay ![GitHub Repo Stars](https://img.shields.io/github/stars/mathiasvr/bluejay) ![GitHub last commit](https://img.shields.io/github/last-commit/mathiasvr/bluejay)](https://github.com/mathiasvr/bluejay) - BLheli fork, Digital ESC firmware for controlling brushless motors. More features like custom melodies. Since 2020.
+* [AM32-MultiRotor-ESC-FW ![GitHub Repo Stars](https://img.shields.io/github/stars/am32-firmware/AM32) ![GitHub last commit](https://img.shields.io/github/last-commit/am32-firmware/AM32)](https://github.com/am32-firmware/AM32) - DSHOT, telemetry, 2024
 * [MESC FOC ESC ![GitHub Repo Stars](https://img.shields.io/github/stars/davidmolony/MESC_FOC_ESC) ![GitHub last commit](https://img.shields.io/github/last-commit/davidmolony/MESC_FOC_ESC)](https://github.com/davidmolony/MESC_FOC_ESC) - Open Hardware and Firmware for STM32 basrd ESC.
 * [ESC Configurator ![GitHub Repo Stars](https://img.shields.io/github/stars/stylesuxx/esc-configurator) ![GitHub last commit](https://img.shields.io/github/last-commit/stylesuxx/esc-configurator)](https://github.com/stylesuxx/esc-configurator) - Web app to setup your BLHeli / Bluejay ESC.
 * [PIDtoolbox ![GitHub Repo Stars](https://img.shields.io/github/stars/bw1129/PIDtoolbox) ![GitHub last commit](https://img.shields.io/github/last-commit/bw1129/PIDtoolbox)](https://github.com/bw1129/PIDtoolbox) - tuning your PID settings for max. performance of your specific modell.
@@ -157,11 +160,14 @@ Modern autopilot software require STM32 based boards with F4/F7 chip generation 
 * [Ardupilot](https://ardupilot.org) - Full ecosystem including professional / research use for wings and copters and even land or water vehicles. A lot of information, experiences and possibilities, but also more complex than INAV.
 * [dRehmflight ![GitHub Repo Stars](https://img.shields.io/github/stars/nickrehm/dRehmFlight) ![GitHub last commit](https://img.shields.io/github/last-commit/nickrehm/dRehmFlight)](https://github.com/nickrehm/dRehmFlight) - Dedicated to VTOLs and it's transformation during flight process, Teensy Boards only.
 * [Rotorflight ![GitHub Repo Stars](https://img.shields.io/github/stars/rotorflight/rotorflight) ![GitHub last commit](https://img.shields.io/github/last-commit/rotorflight/rotorflight)](https://github.com/rotorflight/rotorflight) - Firmware for traditional single-rotor helicopters.
+* [HPR-Rocket-Flight-Computer ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyVT/HPR-Rocket-Flight-Computer) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyVT/HPR-Rocket-Flight-Computer)](https://github.com/SparkyVT/HPR-Rocket-Flight-Computer) - High speed rockets firmware
 * [CleanFlight ![GitHub Repo Stars](https://img.shields.io/github/stars/cleanflight/cleanflight) ![GitHub last commit](https://img.shields.io/github/last-commit/cleanflight/cleanflight)](https://github.com/cleanflight/cleanflight) - Legacy fork of baseflight , stall.
 * [BaseFlight ![GitHub Repo Stars](https://img.shields.io/github/stars/multiwii/baseflight) ![GitHub last commit](https://img.shields.io/github/last-commit/multiwii/baseflight)](https://github.com/multiwii/baseflight) - Legacy and oldest FW of the days of Wii gyro hacks and 8bit, stall.
 * [QUICKSILVER firmware ![GitHub Repo Stars](https://img.shields.io/github/stars/BossHobby/QUICKSILVER) ![GitHub last commit](https://img.shields.io/github/last-commit/BossHobby/QUICKSILVER)](https://github.com/BossHobby/QUICKSILVER) - ?.
 * [Paparazzi UAV ![GitHub Repo Stars](https://img.shields.io/github/stars/paparazzi/paparazzi) ![GitHub last commit](https://img.shields.io/github/last-commit/paparazzi/paparazzi)](https://github.com/paparazzi/paparazzi) - ?.
 * [LibrePilot ![GitHub Repo Stars](https://img.shields.io/github/stars/librepilot/LibrePilot) ![GitHub last commit](https://img.shields.io/github/last-commit/librepilot/LibrePilot)](https://github.com/librepilot/LibrePilot) - Stall since 2018.
+* [madflight ![GitHub Repo Stars](https://img.shields.io/github/stars/qqqlab/madflight) ![GitHub last commit](https://img.shields.io/github/last-commit/qqqlab/madflight)](https://github.com/qqqlab/madflight) - For Arduino based target boards, different sensors supported, 2024
+* [The Cube Autopilot ![GitHub Repo Stars](https://img.shields.io/github/stars/proficnc/The-Cube) ![GitHub last commit](https://img.shields.io/github/last-commit/proficnc/The-Cube)](https://github.com/proficnc/The-Cube) - FC hardware like the Pixhawk 2, 
 * [Risc V Powering a 3D Printed Drone](https://www.youtube.com/watch?v=TJCeLOiP7lU) - RISCV cpu experiments on DIY quadcopter.
 
 ## RC Transmitters & Handcontroller 🎮
@@ -305,7 +311,7 @@ Your FC is focused on realtime control for maneuvers, while additional computers
 * [ROS ![GitHub Repo Stars](https://img.shields.io/github/stars/ros/ros) ![GitHub last commit](https://img.shields.io/github/last-commit/ros/ros)](https://github.com/ros/ros) - Robot Operating System, to handle more complex and interactive flights.
 * [DroneKit ![GitHub Repo Stars](https://img.shields.io/github/stars/dronekit/dronekit-python) ![GitHub last commit](https://img.shields.io/github/last-commit/dronekit/dronekit-python)](https://github.com/dronekit/dronekit-python) - Multi platform integration ecosystem including Mavlink radio link.
 
-## Computer Vision 🤖
+## Computer Vision ����
 
 CV is on the processing of what you see at the UAV live image or recordings. This is about aerial mapping, or machine learning powered flight planning. See also [UAV Mapping Guidelines](https://uav-guidelines.openaerialmap.org/).
 
@@ -329,10 +335,13 @@ CV is on the processing of what you see at the UAV live image or recordings. Thi
 
 Dedicated drones and toolchains to help on a dedicated topic
 
+* [Guiness World record drone build](https://www.youtube.com/watch?v=RoSSaSkOTTc) - How a 300mph / 480 km/h quadcopter rocket needs to be designed and build. Similar is the [AOSHS5 build](https://www.youtube.com/watch?v=oG2GaSMlfdo) (but only 200mph).
+* [Arduino FPV Mini Drone](https://www.instructables.com/Make-a-Tiny-Arduino-Drone-With-FPV-Camera/) - Woodframed mini quad without BLDC and custom RF link around MultiWII
 * [SearchWing](https://www.hs-augsburg.de/searchwing/de/willkommen/) - A Search and Rescue RC airplane for visual inspection of huge areas on sea to rescue people from refugee boats at the EU sea border. Waterproof to land beside the SAR mothership.
 * [Dronecoria](https://dronecoria.org) - Octocopter made from wood as heavy lift to drop seeds.
 * [Agilicious](https://agilicious.dev) - 3D printed OSHW drone and ecosystem esp. for CV autonomous agile flight research, 2023
 * [Crazyflie](https://www.bitcraze.io/documentation/system/platform/) - A not so FPV drone that uses custom modules and different technology for swarm control.
+* [ESP-Drone ![GitHub Repo Stars](https://img.shields.io/github/stars/Circuit-Digest/ESP-Drone) ![GitHub last commit](https://img.shields.io/github/last-commit/Circuit-Digest/ESP-Drone)](https://github.com/Circuit-Digest/ESP-Drone) - ESP32 and PCB only based quadcopter without FPV but custom wifi on brushed
 * [ESP32 Drone](https://hackaday.io/project/188578-esp32-drone) - no traditional FPV, but low cost quad using ESP32 board, 2022.
 * [Wifree-copter](https://open-diy-projects.com/wifree-copter/) - Easy 3D printed copter that uses RPI as WIFI remote control with App, 2016.
 
