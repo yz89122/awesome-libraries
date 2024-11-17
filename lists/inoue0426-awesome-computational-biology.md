@@ -120,6 +120,10 @@ A knowledge collection of databases, software and papers related to computationa
 
 ## Drug Response Prediction
 - [drGAT ![GitHub Repo Stars](https://img.shields.io/github/stars/inoue0426/drGAT) ![GitHub last commit](https://img.shields.io/github/last-commit/inoue0426/drGAT)](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
+- [MOFGCN ![GitHub Repo Stars](https://img.shields.io/github/stars/weiba/MOFGCN) ![GitHub last commit](https://img.shields.io/github/last-commit/weiba/MOFGCN)](https://github.com/weiba/MOFGCN/tree/main): GCN + heterogeneous network
+- [DeepDSC](https://ieeexplore-ieee-org.ezp2.lib.umn.edu/stamp/stamp.jsp?tp=&arnumber=8723620&tag=1): Autoencoder + Fully Connected NN
+- [DGDRP ![GitHub Repo Stars](https://img.shields.io/github/stars/minwoopak/heteronet) ![GitHub last commit](https://img.shields.io/github/last-commit/minwoopak/heteronet)](https://github.com/minwoopak/heteronet): Multi-view embedding NN.
+- [DeepAEG ![GitHub Repo Stars](https://img.shields.io/github/stars/zhejiangzhuque/DeepAEG) ![GitHub last commit](https://img.shields.io/github/last-commit/zhejiangzhuque/DeepAEG)](https://github.com/zhejiangzhuque/DeepAEG): GNN Embedding + Attention
 
 ### Drug Repurposing
 
