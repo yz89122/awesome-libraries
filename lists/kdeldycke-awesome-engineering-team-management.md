@@ -84,6 +84,7 @@ This list helps in the transition to management, with a progression from general
   - [Specifications](#specifications)
   - [Estimations](#estimations)
   - [Tickets](#tickets)
+  - [Delivery](#delivery)
 - [Agile](#agile)
 - [Key Performance Indicator (KPI)](#key-performance-indicator-kpi)
 - [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
@@ -759,7 +760,9 @@ Time management and planning starts with estimates, but often degenerates into d
 
 - [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/) - Issue trackers needs to materialize ownership, queue position, state, task breakdown and aggressive closing. Priority, ticket type, software version, severity and long-life tickets are anti-patterns.
 
-- [GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple yet practical.
+### Delivery
+
+- [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) - “Shipping is a social construct within a company. Concretely, that means that a project is shipped when the important people at your company believe it is shipped.” That is the dark side of delivery, in which you optimize for visibility by upper-management for the next performance evaluation cycle.
 
 ## Agile
 
