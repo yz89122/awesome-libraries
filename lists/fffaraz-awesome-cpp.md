@@ -163,6 +163,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libuv ![GitHub Repo Stars](https://img.shields.io/github/stars/libuv/libuv) ![GitHub last commit](https://img.shields.io/github/last-commit/libuv/libuv)](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. [BSD]
 * [promise-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/xhawk18/promise-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/xhawk18/promise-cpp)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. [Anti-996]
 * [uvw ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/uvw) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/uvw)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. [MIT]
+* [uv-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/wlgq2/uv-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/wlgq2/uv-cpp)](https://github.com/wlgq2/uv-cpp) - a simple interface, high-performance network library based on C++11. [MIT]
 
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
