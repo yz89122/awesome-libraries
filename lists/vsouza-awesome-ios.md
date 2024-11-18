@@ -2843,7 +2843,7 @@ Most of these are paid services, some have free tiers.
 - [SwiftEntryKit ![GitHub Repo Stars](https://img.shields.io/github/stars/huri000/SwiftEntryKit) ![GitHub last commit](https://img.shields.io/github/last-commit/huri000/SwiftEntryKit)](https://github.com/huri000/SwiftEntryKit) - A highly customizable popups, alerts and banners presenter for iOS. It offers various presets and is written in pure Swift.
 - [FFPopup ![GitHub Repo Stars](https://img.shields.io/github/stars/JonyFang/FFPopup) ![GitHub last commit](https://img.shields.io/github/last-commit/JonyFang/FFPopup)](https://github.com/JonyFang/FFPopup) - ⛩FFPopup is a lightweight library for presenting custom views as a popup.
 - [PopupView ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/PopupView) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/PopupView)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
-- [MijickPopupView ![GitHub Repo Stars](https://img.shields.io/github/stars/Mijick/PopupView) ![GitHub last commit](https://img.shields.io/github/last-commit/Mijick/PopupView)](https://github.com/Mijick/PopupView) - Popups presentation made simple with SwiftUI.
+- [MijickPopups ![GitHub Repo Stars](https://img.shields.io/github/stars/Mijick/Popups) ![GitHub last commit](https://img.shields.io/github/last-commit/Mijick/Popups)](https://github.com/Mijick/Popups) - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI.
 
 **[back to top](#contributing-and-collaborating)**
 
