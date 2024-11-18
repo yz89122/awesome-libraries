@@ -105,6 +105,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 * [Composer Installers ![GitHub Repo Stars](https://img.shields.io/github/stars/composer/installers) ![GitHub last commit](https://img.shields.io/github/last-commit/composer/installers)](https://github.com/composer/installers) - A  multi-framework Composer library installer.
 * [Composer](https://getcomposer.org/) - A package and dependency manager.
+* [Pie ![GitHub Repo Stars](https://img.shields.io/github/stars/php/pie) ![GitHub last commit](https://img.shields.io/github/last-commit/php/pie)](https://github.com/php/pie) - The official PHP installer for extensions.
 * [Phive](https://phar.io/) - A PHAR manager.
 * [Pickle ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfPHP/pickle) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfPHP/pickle)](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
