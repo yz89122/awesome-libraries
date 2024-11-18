@@ -25,6 +25,7 @@
   - [Blog Posts](#blog-posts)
   - [Courses](#courses)
   - [Documentaries](#documentaries)
+- [Companies Using Vue.js](#companies-using-vuejs)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Commercial Products](#commercial-products)
@@ -732,6 +733,10 @@
 ### Documentaries
 
 - [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) by Honeypot (Feb 2020)
+
+## Companies Using Vue.js
+
+- [Companies Using Vue/Nuxt ![GitHub Repo Stars](https://img.shields.io/github/stars/cloydlau/companies-using-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/cloydlau/companies-using-vue)](https://github.com/cloydlau/companies-using-vue)
 
 ## Projects Using Vue.js
 
