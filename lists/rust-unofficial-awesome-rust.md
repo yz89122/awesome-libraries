@@ -1761,6 +1761,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 * [PistonDevelopers/dyon ![GitHub Repo Stars](https://img.shields.io/github/stars/PistonDevelopers/dyon) ![GitHub last commit](https://img.shields.io/github/last-commit/PistonDevelopers/dyon)](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
 * [rhaiscript/rhai ![GitHub Repo Stars](https://img.shields.io/github/stars/rhaiscript/rhai) ![GitHub last commit](https://img.shields.io/github/last-commit/rhaiscript/rhai)](https://github.com/rhaiscript/rhai) - A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/rhaiscript/rhai) ![GitHub last commit](https://img.shields.io/github/last-commit/rhaiscript/rhai)](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
 * [rune-rs/rune ![GitHub Repo Stars](https://img.shields.io/github/stars/rune-rs/rune) ![GitHub last commit](https://img.shields.io/github/last-commit/rune-rs/rune)](https://github.com/rune-rs/rune) - An embeddable dynamic programming language
+* [trynova/nova ![GitHub Repo Stars](https://img.shields.io/github/stars/trynova/nova) ![GitHub last commit](https://img.shields.io/github/last-commit/trynova/nova)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
 
 ### Simulation
 
