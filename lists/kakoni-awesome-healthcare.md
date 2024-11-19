@@ -175,7 +175,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HealthLocker ![GitHub Repo Stars](https://img.shields.io/github/stars/healthlocker/healthlocker) ![GitHub last commit](https://img.shields.io/github/last-commit/healthlocker/healthlocker)](https://github.com/healthlocker/healthlocker) - Elixir-based personal health record.
 
 ### Telemedicine
-   * [Healthcare worker at home](https://hcw-at-home.com) - ​ Open Source Telehealth software 
+   * [Healthcare worker at home](https://hcw-at-home.com) - ��� Open Source Telehealth software 
 
 ### Research
   * [i2b2](https://www.i2b2.org) - Research data warehouse.
