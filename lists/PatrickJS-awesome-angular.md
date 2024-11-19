@@ -456,6 +456,7 @@ become an Angular expert.
 * [@blue-cardinal/ngx-google-analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/blue-cardinal/ngx-google-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/blue-cardinal/ngx-google-analytics)](https://github.com/blue-cardinal/ngx-google-analytics) - This package provides a module that injects the Google Analytics tag manager script into your Angular project. It provides some guard rails against including the tag manager script in a dev environment.
 * [oculr-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/Progressive-Insurance/oculr-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/Progressive-Insurance/oculr-ngx)](https://github.com/Progressive-Insurance/oculr-ngx) - An analytics library that makes collecting data in an Angular app simple.
 * [ngx-clarity ![GitHub Repo Stars](https://img.shields.io/github/stars/jadengis/ngx-clarity) ![GitHub last commit](https://img.shields.io/github/last-commit/jadengis/ngx-clarity)](https://github.com/jadengis/ngx-clarity) - A useful Angular library that automatically injects the script tag required to use [Microsoft Clarity](https://clarity.microsoft.com/).
+* [ngx-piwik-pro ![GitHub Repo Stars](https://img.shields.io/github/stars/PiwikPRO/ngx-piwik-pro) ![GitHub last commit](https://img.shields.io/github/last-commit/PiwikPRO/ngx-piwik-pro)](https://github.com/PiwikPRO/ngx-piwik-pro) - Dedicated [Piwik PRO](https://piwik.pro/) library that helps with implementing Piwik PRO Tag Manager and the Piwik PRO tracking client in Angular 8+ applications.
 
 #### Authentication
 
@@ -1578,6 +1579,7 @@ for the creation of web applications developed with Angular.
 * [ngx-globe ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-globe) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-globe)](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
 * [ngx-copypaste ![GitHub Repo Stars](https://img.shields.io/github/stars/JsDaddy/ngx-copypaste) ![GitHub last commit](https://img.shields.io/github/last-commit/JsDaddy/ngx-copypaste)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 * [ngx-morse ![GitHub Repo Stars](https://img.shields.io/github/stars/monkeyscript/ngx-morse) ![GitHub last commit](https://img.shields.io/github/last-commit/monkeyscript/ngx-morse)](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
+* [ngx-back-button ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-back-button) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-back-button)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 
 ---
 
