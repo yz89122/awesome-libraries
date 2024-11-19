@@ -269,6 +269,7 @@
 ### Web Development
 
 - [rest-nvim/rest.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rest-nvim/rest.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rest-nvim/rest.nvim)](https://github.com/rest-nvim/rest.nvim) - A fast Neovim HTTP client written in Lua.
+- [lima1909/resty.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lima1909/resty.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lima1909/resty.nvim)](https://github.com/lima1909/resty.nvim) - Fast and easy-to-use HTTP-Rest-Client.
 - [mistweaverco/kulala.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mistweaverco/kulala.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mistweaverco/kulala.nvim)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
 - [ray-x/web-tools.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ray-x/web-tools.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-x/web-tools.nvim)](https://github.com/ray-x/web-tools.nvim) - Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP.
 - [roobert/tailwindcss-colorizer-cmp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/roobert/tailwindcss-colorizer-cmp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/roobert/tailwindcss-colorizer-cmp.nvim)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
