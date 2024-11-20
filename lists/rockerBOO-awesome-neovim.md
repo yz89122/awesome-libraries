@@ -225,7 +225,7 @@
 - [k2589/LLuMinate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/k2589/lluminate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/k2589/lluminate.nvim)](https://github.com/k2589/lluminate.nvim) - Enrich context for LLM with LSP hover added to clipboard.
 
 <!--lint disable double-link -->
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 <!--lint enable double-link -->
 
 ## Programming Languages Support
