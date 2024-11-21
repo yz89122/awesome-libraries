@@ -113,6 +113,7 @@
 - [terrakube ![GitHub Repo Stars](https://img.shields.io/github/stars/AzBuilder/terrakube) ![GitHub last commit](https://img.shields.io/github/last-commit/AzBuilder/terrakube)](https://github.com/AzBuilder/terrakube) - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
 - [tofutf ![GitHub Repo Stars](https://img.shields.io/github/stars/tofutf/tofutf) ![GitHub last commit](https://img.shields.io/github/last-commit/tofutf/tofutf)](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
 - [walrus ![GitHub Repo Stars](https://img.shields.io/github/stars/seal-io/walrus) ![GitHub last commit](https://img.shields.io/github/last-commit/seal-io/walrus)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools, including OpenTofu, Terraform, and others.
+- [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
 
 ### Registry
 
