@@ -274,6 +274,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Watson ![GitHub Repo Stars](https://img.shields.io/github/stars/TailorDev/Watson) ![GitHub last commit](https://img.shields.io/github/last-commit/TailorDev/Watson)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt ![GitHub Repo Stars](https://img.shields.io/github/stars/larose/utt) ![GitHub last commit](https://img.shields.io/github/last-commit/larose/utt)](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib ![GitHub Repo Stars](https://img.shields.io/github/stars/nikolassv/bartib) ![GitHub last commit](https://img.shields.io/github/last-commit/nikolassv/bartib)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+- [arttime ![GitHub Repo Stars](https://img.shields.io/github/stars/reportaman/arttime) ![GitHub last commit](https://img.shields.io/github/last-commit/reportaman/arttime)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 
 ### Note Taking and Lists
 
