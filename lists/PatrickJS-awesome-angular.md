@@ -1126,6 +1126,7 @@ become an Angular expert.
 * [ngx-dynamic-form ![GitHub Repo Stars](https://img.shields.io/github/stars/jvlsoft-dev/ngx-dynamic-form) ![GitHub last commit](https://img.shields.io/github/last-commit/jvlsoft-dev/ngx-dynamic-form)](https://github.com/jvlsoft-dev/ngx-dynamic-form) - A library that works in Angular 16 with Bootstrap 5 to generate forms in a simple and dynamic way.
 * [ngx-form ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ngx-form) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ngx-form)](https://github.com/paddls/ngx-form) - Model based typed reactive forms made easy.
 * [ngx-enhancy-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/klippa-app/ngx-enhancy-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/klippa-app/ngx-enhancy-forms)](https://github.com/klippa-app/ngx-enhancy-forms) - Fancy enhanced angular forms.
+* [ngx-forms-core ![GitHub Repo Stars](https://img.shields.io/github/stars/Juulsgaard/ngx-forms-core) ![GitHub last commit](https://img.shields.io/github/last-commit/Juulsgaard/ngx-forms-core)](https://github.com/Juulsgaard/ngx-forms-core) - This library provides strictly typed versions of the Angular form system. The classes extend the Angular form system and provide several tools to improve type strictness.
 
 ##### Form Controls
 
@@ -1156,6 +1157,7 @@ become an Angular expert.
 * [ngx-rabe-star ![GitHub Repo Stars](https://img.shields.io/github/stars/Avotraina/ngx-rabe-star) ![GitHub last commit](https://img.shields.io/github/last-commit/Avotraina/ngx-rabe-star)](https://github.com/Avotraina/ngx-rabe-star) - An Angular library that provides a customizable star rating component for your Angular application.
 * [ngx-mat-birthday-input ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-mat-birthday-input) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-mat-birthday-input)](https://github.com/rbalet/ngx-mat-birthday-input) - An Angular Material library for entering a birthday.
 * [ngx-countries-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/kapilkumar0037/ngx-countries-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/kapilkumar0037/ngx-countries-dropdown)](https://github.com/kapilkumar0037/ngx-countries-dropdown) - Angular library with customizable countries dropdown component with flags, dial code, language and currency details.
+* [ngx-mat-split-button ![GitHub Repo Stars](https://img.shields.io/github/stars/feature23/ngx-mat-split-button) ![GitHub last commit](https://img.shields.io/github/last-commit/feature23/ngx-mat-split-button)](https://github.com/feature23/ngx-mat-split-button) - A split button component for Angular Material. Split buttons (also known as "split button dropdowns" in Bootstrap) have a primary action button with a conjoined dropdown toggle that opens a menu for secondary actions.
 
 ##### Validation
 
@@ -1293,6 +1295,7 @@ to simplify usage and allow quick customization.
 * [angular-markdown-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/angular-markdown-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/angular-markdown-editor)](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
 * [ngx-markdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/notiz-dev/ngx-markdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/notiz-dev/ngx-markdoc)](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
 * [ngx-md ![GitHub Repo Stars](https://img.shields.io/github/stars/dimpu/ngx-md) ![GitHub last commit](https://img.shields.io/github/last-commit/dimpu/ngx-md)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
+* [ngx-textile ![GitHub Repo Stars](https://img.shields.io/github/stars/vincent/ngx-textile) ![GitHub last commit](https://img.shields.io/github/last-commit/vincent/ngx-textile)](https://github.com/vincent/ngx-textile) - Use the Textile markup language in your Angular project using [textile-js ![GitHub Repo Stars](https://img.shields.io/github/stars/borgar/textile-js) ![GitHub last commit](https://img.shields.io/github/last-commit/borgar/textile-js)](https://github.com/borgar/textile-js).
 
 #### Media
 
