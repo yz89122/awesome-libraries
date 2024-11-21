@@ -85,7 +85,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 ### Promoting
 
-- [Hackathon Sponsorship ![GitHub Repo Stars](https://img.shields.io/github/stars/Neuro-Hack/sponsorship) ![GitHub last commit](https://img.shields.io/github/last-commit/Neuro-Hack/sponsorship)](https://github.com/Neuro-Hack/sponsorship#readme) 🕶��  A crowdsourced 'Awesome List' of companies to contact.
+- [Hackathon Sponsorship ![GitHub Repo Stars](https://img.shields.io/github/stars/Neuro-Hack/sponsorship) ![GitHub last commit](https://img.shields.io/github/last-commit/Neuro-Hack/sponsorship)](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 - [Hackalist ![GitHub Repo Stars](https://img.shields.io/github/stars/Hackalist/Hackalist.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/Hackalist/Hackalist.github.io)](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world. 
 - [Hack Club ![GitHub Repo Stars](https://img.shields.io/github/stars/hackclub/hackathons) ![GitHub last commit](https://img.shields.io/github/last-commit/hackclub/hackathons)](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
 - [Open Source Events ![GitHub Repo Stars](https://img.shields.io/github/stars/Catalyst-IN/OpenSourceEvents-Frontend) ![GitHub last commit](https://img.shields.io/github/last-commit/Catalyst-IN/OpenSourceEvents-Frontend)](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
