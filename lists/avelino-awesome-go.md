@@ -252,6 +252,7 @@ _Libraries for implementing authentication schemes._
 - [cookiestxt ![GitHub Repo Stars](https://img.shields.io/github/stars/mengzhuo/cookiestxt) ![GitHub last commit](https://img.shields.io/github/last-commit/mengzhuo/cookiestxt)](https://github.com/mengzhuo/cookiestxt) - provides a parser of cookies.txt file format.
 - [go-guardian ![GitHub Repo Stars](https://img.shields.io/github/stars/shaj13/go-guardian) ![GitHub last commit](https://img.shields.io/github/last-commit/shaj13/go-guardian)](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
 - [go-jose ![GitHub Repo Stars](https://img.shields.io/github/stars/go-jose/go-jose) ![GitHub last commit](https://img.shields.io/github/last-commit/go-jose/go-jose)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+- [goiabada ![GitHub Repo Stars](https://img.shields.io/github/stars/leodip/goiabada) ![GitHub last commit](https://img.shields.io/github/last-commit/leodip/goiabada)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
 - [gologin ![GitHub Repo Stars](https://img.shields.io/github/stars/dghubble/gologin) ![GitHub last commit](https://img.shields.io/github/last-commit/dghubble/gologin)](https://github.com/dghubble/gologin) - chainable handlers for login with OAuth1 and OAuth2 authentication providers.
 - [gorbac ![GitHub Repo Stars](https://img.shields.io/github/stars/mikespook/gorbac) ![GitHub last commit](https://img.shields.io/github/last-commit/mikespook/gorbac)](https://github.com/mikespook/gorbac) - provides a lightweight role-based access control (RBAC) implementation in Golang.
 - [gosession ![GitHub Repo Stars](https://img.shields.io/github/stars/Kwynto/gosession) ![GitHub last commit](https://img.shields.io/github/last-commit/Kwynto/gosession)](https://github.com/Kwynto/gosession) - This is quick session for net/http in GoLang. This package is perhaps the best implementation of the session mechanism, or at least it tries to become one.
@@ -521,7 +522,7 @@ _Libraries for configuration parsing._
 - [xdg ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenPeeDeeP/xdg) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenPeeDeeP/xdg)](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://specifications.freedesktop.org/basedir-spec/latest/).
 - [yamagiconf ![GitHub Repo Stars](https://img.shields.io/github/stars/romshark/yamagiconf) ![GitHub last commit](https://img.shields.io/github/last-commit/romshark/yamagiconf)](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs.
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ## Continuous Integration
 
