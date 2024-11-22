@@ -657,6 +657,7 @@
 - [Suricata ![GitHub Repo Stars](https://img.shields.io/github/stars/satta/awesome-suricata) ![GitHub last commit](https://img.shields.io/github/last-commit/satta/awesome-suricata)](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection ![GitHub Repo Stars](https://img.shields.io/github/stars/FonduAI/awesome-prompt-injection) ![GitHub last commit](https://img.shields.io/github/last-commit/FonduAI/awesome-prompt-injection)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering ![GitHub Repo Stars](https://img.shields.io/github/stars/infosecB/awesome-detection-engineering) ![GitHub last commit](https://img.shields.io/github/last-commit/infosecB/awesome-detection-engineering)](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
+- [Annual Security Reports ![GitHub Repo Stars](https://img.shields.io/github/stars/jacobdjwilson/awesome-annual-security-reports) ![GitHub last commit](https://img.shields.io/github/last-commit/jacobdjwilson/awesome-annual-security-reports)](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 
 ## Content Management Systems
 
