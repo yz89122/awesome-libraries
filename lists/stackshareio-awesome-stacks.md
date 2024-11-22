@@ -245,7 +245,7 @@ This is a full stack web app boilerplate project with VueJS + ExpressJS + MongoD
 
 A Rails/JavaScript-based stack with modern/developer friendly technologies
 
-- [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/rails)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
+- [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [�� ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/rails)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
 - [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - React components can be used on the client and server side.
 - [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/rmosolgo/graphql-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/rmosolgo/graphql-ruby)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
 - [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client)](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
@@ -386,7 +386,7 @@ Tools to use to monitor your Rails app in production.
 Hosted tools to use to analyze user behavior for a web app.
 
 - [Segment](https://segment.com) - [🛠️](https://stackshare.io/segment) - A single hub to collect, translate and send your data with the flip of a switch.
-- [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [🛠️](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
+- [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [🛠��](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
 - [Amplitude](https://amplitude.com) - [🛠️](https://stackshare.io/amplitude) - User analytics to fuel explosive user growth.
 - [FullStory](https://www.fullstory.com/) - [🛠️](https://stackshare.io/fullstory) - Capture all your customer experience data in one powerful, easy-to-use platform.
 
@@ -409,7 +409,7 @@ The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 Self-hosted open source devops and collaboration tools, suitable for enterprise.
 
 - [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq) ![GitHub last commit](https://img.shields.io/github/last-commit/gitlabhq/gitlabhq)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
-- [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [���� ![GitHub Repo Stars](https://img.shields.io/github/stars/zulip/zulip) ![GitHub last commit](https://img.shields.io/github/last-commit/zulip/zulip)](https://github.com/zulip/zulip) - Powerful open source team chat.
+- [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/zulip/zulip) ![GitHub last commit](https://img.shields.io/github/last-commit/zulip/zulip)](https://github.com/zulip/zulip) - Powerful open source team chat.
 - [Hubot](https://hubot.github.com) - [🛠](https://stackshare.io/hubot) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/hubotio/hubot) ![GitHub last commit](https://img.shields.io/github/last-commit/hubotio/hubot)](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/sentry)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 - [Taiga.io](https://taiga.io) - [🛠](https://stackshare.io/taiga) - [🐙](https://github.com/taigaio) - Project management web application with scrum in mind.
