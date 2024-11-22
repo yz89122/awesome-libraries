@@ -1052,6 +1052,7 @@ become an Angular expert.
 * [ngx-repeat ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-repeat) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-repeat)](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
 * [ngx-fixed-footer ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-fixed-footer) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-fixed-footer)](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
 * [ngx-href ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-href) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-href)](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
+* [ng-dompurify ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-dompurify) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-dompurify)](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify ![GitHub Repo Stars](https://img.shields.io/github/stars/cure53/DOMPurify) ![GitHub last commit](https://img.shields.io/github/last-commit/cure53/DOMPurify)](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
 
 #### Drag and Drop
 
@@ -1127,6 +1128,7 @@ become an Angular expert.
 * [ngx-form ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ngx-form) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ngx-form)](https://github.com/paddls/ngx-form) - Model based typed reactive forms made easy.
 * [ngx-enhancy-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/klippa-app/ngx-enhancy-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/klippa-app/ngx-enhancy-forms)](https://github.com/klippa-app/ngx-enhancy-forms) - Fancy enhanced angular forms.
 * [ngx-forms-core ![GitHub Repo Stars](https://img.shields.io/github/stars/Juulsgaard/ngx-forms-core) ![GitHub last commit](https://img.shields.io/github/last-commit/Juulsgaard/ngx-forms-core)](https://github.com/Juulsgaard/ngx-forms-core) - This library provides strictly typed versions of the Angular form system. The classes extend the Angular form system and provide several tools to improve type strictness.
+* [ngx-focus-entities ![GitHub Repo Stars](https://img.shields.io/github/stars/klee-contrib/ngx-focus-entities) ![GitHub last commit](https://img.shields.io/github/last-commit/klee-contrib/ngx-focus-entities)](https://github.com/klee-contrib/ngx-focus-entities) - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel ![GitHub Repo Stars](https://img.shields.io/github/stars/klee-contrib/topmodel) ![GitHub last commit](https://img.shields.io/github/last-commit/klee-contrib/topmodel)](https://github.com/klee-contrib/topmodel).
 
 ##### Form Controls
 
