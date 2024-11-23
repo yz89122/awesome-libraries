@@ -313,7 +313,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/) 💠🟪 - A course on multiplayer and networking in Unreal. Wait for it to go on sale, then go pick this up. 
 
 
-[Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) ����🟪 - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up.
+[Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) 💠🟪 - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up.
 
 
 [GafferOnGames](https://gafferongames.com) 🟪 - A bunch of articles on netcode for games.
