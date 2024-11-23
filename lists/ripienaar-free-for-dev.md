@@ -1009,7 +1009,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
      - [Docs](https://zoho.com/docs) — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer, Sheets & Show) comes bundled.
      - [Projects](https://zoho.com/projects) — Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to [Bugtracker](https://zoho.com/bugtracker).
      - [Connect](https://zoho.com/connect) — Team Collaboration free for 25 users with three groups, three custom apps, 3 Boards, 3 Manuals, and 10 Integrations along with channels, events & forums.
-     - [Meeting](https://zoho.com/meeting) ��� Meetings with upto 3 meeting participants & 10 Webinar attendees.
+     - [Meeting](https://zoho.com/meeting) — Meetings with upto 3 meeting participants & 10 Webinar attendees.
      - [Vault](https://zoho.com/vault) — Password Management is accessible for Individuals.
      - [Showtime](https://zoho.com/showtime) — Yet another Meeting software for training for a remote session of up to 5 attendees.
      - [Notebook](https://zoho.com/notebook) — A free alternative to Evernote.
