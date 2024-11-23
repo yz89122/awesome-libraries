@@ -483,7 +483,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Testing
 
-- [flutter_convenient_test ![GitHub Repo Stars](https://img.shields.io/github/stars/fzyzcjy/flutter_convenient_test) ![GitHub last commit](https://img.shields.io/github/last-commit/fzyzcjy/flutter_convenient_test)](https://github.com/fzyzcjy/flutter_convenient_test) [479��] - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
+- [flutter_convenient_test ![GitHub Repo Stars](https://img.shields.io/github/stars/fzyzcjy/flutter_convenient_test) ![GitHub last commit](https://img.shields.io/github/last-commit/fzyzcjy/flutter_convenient_test)](https://github.com/fzyzcjy/flutter_convenient_test) [479⭐] - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
 - [Patrol ![GitHub Repo Stars](https://img.shields.io/github/stars/leancodepl/patrol) ![GitHub last commit](https://img.shields.io/github/last-commit/leancodepl/patrol)](https://github.com/leancodepl/patrol) [860⭐] - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
 
 ### Web
