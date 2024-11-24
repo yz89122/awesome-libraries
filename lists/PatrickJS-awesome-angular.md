@@ -958,6 +958,7 @@ become an Angular expert.
 * [carousel-library ![GitHub Repo Stars](https://img.shields.io/github/stars/GreenFlag31/carousel-library) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenFlag31/carousel-library)](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
 * [ngx-simple-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/zolcsi/ngx-simple-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/zolcsi/ngx-simple-gallery)](https://github.com/zolcsi/ngx-simple-gallery) - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
 * [@daelmaak/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/daelmaak/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/daelmaak/ngx-gallery)](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
+* [ngx-custom-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/devendramilmile121/ngx-custom-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/devendramilmile121/ngx-custom-carousel)](https://github.com/devendramilmile121/ngx-custom-carousel) - A feature-rich Angular 17 component crafted to elevate your carousel experience.
 
 #### Charts
 
