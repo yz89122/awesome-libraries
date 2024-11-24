@@ -301,7 +301,7 @@ Meteo
 
 ### Analytics
 
-- [Usage ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-lang/usage) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-lang/usage)](https://github.com/dart-lang/usage) [146���] - Google Analytics wrapper for command-line, web, and Flutter apps
+- [Usage ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-lang/usage) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-lang/usage)](https://github.com/dart-lang/usage) [146⭐] - Google Analytics wrapper for command-line, web, and Flutter apps
 - [Firebase Analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/FirebaseExtended/flutterfire) ![GitHub last commit](https://img.shields.io/github/last-commit/FirebaseExtended/flutterfire)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
 
 ### Internationalization
@@ -380,7 +380,7 @@ Meteo
 
 #### Augmented Reality
 
-- [ARKit Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/olexale/arkit_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/olexale/arkit_flutter_plugin)](https://github.com/olexale/arkit_flutter_plugin) [798⭐] - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
+- [ARKit Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/olexale/arkit_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/olexale/arkit_flutter_plugin)](https://github.com/olexale/arkit_flutter_plugin) [798���] - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
 - [ARCore Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/giandifra/arcore_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/giandifra/arcore_flutter_plugin)](https://github.com/giandifra/arcore_flutter_plugin) [433⭐] - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
 ## Plugins
