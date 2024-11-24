@@ -325,7 +325,7 @@ System integration is the process of linking together different IT systems (com
 - [VerneMQ (⭐3.2k) ![GitHub Repo Stars](https://img.shields.io/github/stars/vernemq/vernemq) ![GitHub last commit](https://img.shields.io/github/last-commit/vernemq/vernemq)](https://github.com/vernemq/vernemq) - A high-performance distributed MQTT message broker designed for scalability and reliability. Offers efficient and reliable message delivery and supports multiple messaging protocols and patterns.
 
 <!--lint disable-->
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 <!--lint enable-->
 ### RPA
 *Robotic Process Automation (RPA) solutions are software tools that automate repetitive, rule-based tasks within business processes. RPA bots can perform tasks such as data entry, data extraction, and data processing with accuracy and speed, freeing up human workers to focus on more complex tasks.*
