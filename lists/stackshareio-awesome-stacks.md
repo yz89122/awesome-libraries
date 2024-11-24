@@ -192,7 +192,7 @@ MERN stands for MongoDB, Express, React, Node. The four key technologies that ma
 
 Lightning fast starter for bloggers, content creators, and really anyone who wants to break free from WordPress.
 
-- [GraphCMS](https://graphcms.com/) - [🛠️](https://stackshare.io/graphcms) - GraphCMS providing a backend to your app, giving you the tools to manage content.
+- [GraphCMS](https://graphcms.com/) - [🛠���](https://stackshare.io/graphcms) - GraphCMS providing a backend to your app, giving you the tools to manage content.
 - [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client)](https://github.com/apollographql/apollo-client) - Apollo Client is the best way to use GraphQL to build client applications.
 
@@ -291,7 +291,7 @@ A foundation for scalable cross-platform desktop apps all the way from developme
 A foundation for scalable cross-platform desktop apps all the way from development to distributing your app using Vue and Electron.
 
 - [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/electron/electron) ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-- [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [��� ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+- [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
 - [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/reduxjs/redux) ![GitHub last commit](https://img.shields.io/github/last-commit/reduxjs/redux)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 - [Vue Router](https://router.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-router) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-router)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 - [Vue CLI](https://cli.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-cli)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
