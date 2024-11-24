@@ -378,7 +378,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
 * 📝 [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
 * 📝 [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
-* 📝 [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
+* ��� [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
 * 📝 [Byrne's Euclid](https://www.c82.net/euclid/) - Oliver Byrne
 * 📝 [Plane Geometry](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth and David Eugene Smith (1913)
 * 📝 [Planes and Spherical Trigonometry](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth and David Eugene Smith (1915)
@@ -603,7 +603,7 @@ All resources are freely available except those with a 💲 icon.
 ## Mathematics for Computer Science
 
 * 📝 [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
-* ��� [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
+* 📝 [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
 * 📝 [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
 * 📝 [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay
 * 📝 [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert
