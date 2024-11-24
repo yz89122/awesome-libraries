@@ -399,6 +399,7 @@ become an Angular expert.
 * [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
 * [JSgigs](https://www.youtube.com/@jsgigs4909)
 * [Sebastian Persson](https://www.youtube.com/@DevBySeb)
+* [Kobi Hari](https://www.youtube.com/@kobihari)
 
 ##### Style Guides
 
@@ -1101,6 +1102,7 @@ become an Angular expert.
 * [ngx-jodit ![GitHub Repo Stars](https://img.shields.io/github/stars/julianpoemp/ngx-jodit) ![GitHub last commit](https://img.shields.io/github/last-commit/julianpoemp/ngx-jodit)](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit ![GitHub Repo Stars](https://img.shields.io/github/stars/xdan/jodit) ![GitHub last commit](https://img.shields.io/github/last-commit/xdan/jodit)](https://github.com/xdan/jodit) WYSIWYG editor.
 * [ngx-ace-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-ace-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-ace-wrapper)](https://github.com/zefoy/ngx-ace-wrapper) - Angular wrapper library for [Ace](http://ace.c9.io/).
 * [ngx-quill-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-quill-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-quill-wrapper)](https://github.com/zefoy/ngx-quill-wrapper) - Angular wrapper library for [Quill](http://quilljs.com/).
+* [ngx-tinymce ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/ngx-tinymce) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-tinymce)](https://github.com/cipchk/ngx-tinymce) - [Tinymce](https://www.tiny.cloud/) components built with Angular.
 
 #### File Upload
 
@@ -1389,6 +1391,7 @@ to simplify usage and allow quick customization.
 * [qrcode.angular ![GitHub Repo Stars](https://img.shields.io/github/stars/OriginRing/qrcode.angular) ![GitHub last commit](https://img.shields.io/github/last-commit/OriginRing/qrcode.angular)](https://github.com/OriginRing/qrcode.angular) - QR Code implementation based on Angular.
 * [ng-qrcode-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ng-qrcode-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ng-qrcode-svg)](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
 * [ngx-qrcode-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/ngx-qrcode-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/ngx-qrcode-generator)](https://github.com/mustafaer/ngx-qrcode-generator) - An Angular component that generates QR codes using the [QRious ![GitHub Repo Stars](https://img.shields.io/github/stars/neocotic/qrious) ![GitHub last commit](https://img.shields.io/github/last-commit/neocotic/qrious)](https://github.com/neocotic/qrious) library.
+* [ngx-scanner-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/id1945/ngx-scanner-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/id1945/ngx-scanner-qrcode)](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
 
 #### Scroll
 
