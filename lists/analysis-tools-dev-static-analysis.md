@@ -514,7 +514,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [dupl ![GitHub Repo Stars](https://img.shields.io/github/stars/mibk/dupl) ![GitHub last commit](https://img.shields.io/github/last-commit/mibk/dupl)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 
-- [errcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/kisielk/errcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/kisielk/errcheck)](https://github.com/kisielk/errcheck) �� Check that error return values are used.
+- [errcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/kisielk/errcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/kisielk/errcheck)](https://github.com/kisielk/errcheck) — Check that error return values are used.
 
 - [errwrap ![GitHub Repo Stars](https://img.shields.io/github/stars/fatih/errwrap) ![GitHub last commit](https://img.shields.io/github/last-commit/fatih/errwrap)](https://github.com/fatih/errwrap) — Wrap and fix Go errors with the new %w verb directive.  This tool analyzes fmt.Errorf() calls and reports calls that contain a verb directive that  is different than the new %w verb directive introduced in Go v1.13.  It's also capable of rewriting calls to use the new %w wrap verb directive.
 
@@ -741,7 +741,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [tern](https://ternjs.net) — A JavaScript code analyzer for deep, cross-editor language support.
 
-- [TypL](https://typl.dev) :warning: — With TypL, you just write completely standard JS, and the tool figures out your types via powerful inferencing.
+- [TypL](https://typl.dev) :warning: ��� With TypL, you just write completely standard JS, and the tool figures out your types via powerful inferencing.
 
 - [xo ![GitHub Repo Stars](https://img.shields.io/github/stars/xojs/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/xojs/xo)](https://github.com/xojs/xo) — Opinionated but configurable ESLint wrapper with lots of goodies included. Enforces strict and readable code.
 
