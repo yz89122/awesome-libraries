@@ -313,7 +313,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [GoCardless](https://gocardless.com/) — Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.
   * [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with up to 5,000 pieces of training data. 1000 model invokes per month free.
   * [Observable](https://observablehq.com/) — a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.
-  * [OCR.Space](https://ocr.space/) — An OCR API parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
+  * [OCR.Space](https://ocr.space/) ��� An OCR API parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
   * [Duply.co](https://duply.co) — Create dynamic images from API & URL, design template once and reuse it. The free tier offers 70 images/month creation from API & URL and Up to 100 through Form.
   * [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
@@ -1009,7 +1009,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
      - [Docs](https://zoho.com/docs) — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer, Sheets & Show) comes bundled.
      - [Projects](https://zoho.com/projects) — Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to [Bugtracker](https://zoho.com/bugtracker).
      - [Connect](https://zoho.com/connect) — Team Collaboration free for 25 users with three groups, three custom apps, 3 Boards, 3 Manuals, and 10 Integrations along with channels, events & forums.
-     - [Meeting](https://zoho.com/meeting) ��� Meetings with upto 3 meeting participants & 10 Webinar attendees.
+     - [Meeting](https://zoho.com/meeting) — Meetings with upto 3 meeting participants & 10 Webinar attendees.
      - [Vault](https://zoho.com/vault) — Password Management is accessible for Individuals.
      - [Showtime](https://zoho.com/showtime) — Yet another Meeting software for training for a remote session of up to 5 attendees.
      - [Notebook](https://zoho.com/notebook) — A free alternative to Evernote.
