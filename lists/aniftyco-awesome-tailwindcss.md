@@ -172,7 +172,7 @@
 - 💙📚 [Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindui.com/templates/catalyst) - Beautiful, accessible application UI kit for React.
 - 📚 [VueTailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/alfonsobries/vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/alfonsobries/vue-tailwind)](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
-- �� [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
+- 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/knipferrc/tails-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/knipferrc/tails-ui)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails ![GitHub Repo Stars](https://img.shields.io/github/stars/thedevdojo/tails) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevdojo/tails)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
