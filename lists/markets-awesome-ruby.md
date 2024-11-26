@@ -590,7 +590,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Documentation
 
-* [Annotate ![GitHub Repo Stars](https://img.shields.io/github/stars/ctran/annotate_models) ![GitHub last commit](https://img.shields.io/github/last-commit/ctran/annotate_models)](https://github.com/ctran/annotate_models) - Add a comment documenting the current schema to the top or bottom of each of your ActiveRecord models.
+* [AnnotateRb ![GitHub Repo Stars](https://img.shields.io/github/stars/drwl/annotaterb) ![GitHub last commit](https://img.shields.io/github/last-commit/drwl/annotaterb)](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate. 
 * [Apipie ![GitHub Repo Stars](https://img.shields.io/github/stars/Apipie/apipie-rails) ![GitHub last commit](https://img.shields.io/github/last-commit/Apipie/apipie-rails)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 * [Asciidoctor](https://asciidoctor.org) - A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
 * [Documentation ![GitHub Repo Stars](https://img.shields.io/github/stars/adamcooke/documentation) ![GitHub last commit](https://img.shields.io/github/last-commit/adamcooke/documentation)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.

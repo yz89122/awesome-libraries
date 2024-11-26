@@ -97,7 +97,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Extrapolation Factory**](https:&#x2F;&#x2F;extrapolationfactory.com&#x2F;) | [NYC] | research studio, futures studies, collaborative prototyping | 
 | [**Fast Horse**](https:&#x2F;&#x2F;www.fasthorseinc.com&#x2F;) | [Minneapolis] | a truly integrated creative agency | [🌐](https:&#x2F;&#x2F;www.fasthorseinc.com&#x2F;careers&#x2F;)
 | [**FIELD**](https:&#x2F;&#x2F;www.field.io&#x2F;) | [London] | future aesthetics for design, motion, experiential | 
-| [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [🌐](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
+| [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [���](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
 | [**fuse**](https:&#x2F;&#x2F;www.fuseworks.it&#x2F;en&#x2F;) | [Modena, Italy] | live-media performances, experimentation, electronic music, digital arts | 
 | [**Future Colossal**](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;) | [NYC] | experiential technologies in advertising and entertainment and art | [🌐](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
 | [**Gallagher &amp; Associates**](https:&#x2F;&#x2F;www.gallagherdesign.com&#x2F;) | [DC] [NYC] [Portland] [Singapore] | harmony between technology, narrative, and physical design | [🌐](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
