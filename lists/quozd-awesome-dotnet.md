@@ -42,6 +42,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Code Snippets](#code-snippets)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
   * [Compression](#compression)
+  * [Configuration](#configuration)
   * [Continuous Integration](#continuous-integration)
   * [Cryptography](#cryptography)
   * [Cloud Storage](#cloud-storage)
@@ -375,6 +376,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [SharpZipLib](https://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 * [Snappy for Windows](https://snappy.machinezoo.com/) - Snappy compression library for .NET baked on P/Invoke
 * [Snappy.Sharp ![GitHub Repo Stars](https://img.shields.io/github/stars/jeffesp/Snappy.Sharp) ![GitHub last commit](https://img.shields.io/github/last-commit/jeffesp/Snappy.Sharp)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
+
+## Configuration
+* [AgileConfig ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnetcore/AgileConfig) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnetcore/AgileConfig)](https://github.com/dotnetcore/AgileConfig) - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website.
 
 ## Continuous Integration
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
@@ -1287,6 +1291,7 @@ metadata in media files, including video, audio, and photo formats
 ## Web Servers
 
 * [EmbedIO ![GitHub Repo Stars](https://img.shields.io/github/stars/unosquare/embedio) ![GitHub last commit](https://img.shields.io/github/last-commit/unosquare/embedio)](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
+* [GenHTTP ![GitHub Repo Stars](https://img.shields.io/github/stars/Kaliumhexacyanoferrat/GenHTTP) ![GitHub last commit](https://img.shields.io/github/last-commit/Kaliumhexacyanoferrat/GenHTTP)](https://github.com/Kaliumhexacyanoferrat/GenHTTP) - A lightweight, embeddable web server for quickly creating REST APIs
 * [SimpleW ![GitHub Repo Stars](https://img.shields.io/github/stars/stratdev3/SimpleW) ![GitHub last commit](https://img.shields.io/github/last-commit/stratdev3/SimpleW)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform. 
 * [XSP ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/xsp) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/xsp)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
