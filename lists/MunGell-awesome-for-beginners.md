@@ -25,7 +25,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [JSON](#json)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
-- [LaTeX](#latex)
 - [Markdown](#markdown)
 - [MLOps](#mlops)
 - [Perl](#perl)
@@ -211,7 +210,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Video Hub App ![GitHub Repo Stars](https://img.shields.io/github/stars/whyboris/Video-Hub-App) ![GitHub last commit](https://img.shields.io/github/last-commit/whyboris/Video-Hub-App)](https://github.com/whyboris/Video-Hub-App) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Video.js ![GitHub Repo Stars](https://img.shields.io/github/stars/videojs/video.js) ![GitHub last commit](https://img.shields.io/github/last-commit/videojs/video.js)](https://github.com/videojs/video.js) _(label: good first issue)_ <br> The player framework
 - [Vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-- [Vue CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-cli)](https://github.com/vuejs/vue-cli) _(label: good first issue)_ <br> Standard Tooling for Vue.js Development
 - [Vue Router ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-router) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-router)](https://github.com/vuejs/vue-router) _(label: good first issue)_ <br> The official router for Vue.js.
 - [Vue.js ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vuepress) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vuepress)](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
@@ -234,10 +232,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Hexagon ![GitHub Repo Stars](https://img.shields.io/github/stars/hexagonkt/hexagon) ![GitHub last commit](https://img.shields.io/github/last-commit/hexagonkt/hexagon)](https://github.com/hexagonkt/hexagon) _(label: help-wanted)_ <br> A microservices toolkit written in Kotlin
 - [Non-Blocking SirixDB HTTP(S)-Server ![GitHub Repo Stars](https://img.shields.io/github/stars/sirixdb/sirix) ![GitHub last commit](https://img.shields.io/github/last-commit/sirixdb/sirix)](https://github.com/sirixdb/sirix) _(label: good first issue)_ <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
 - [OpenCalc ![GitHub Repo Stars](https://img.shields.io/github/stars/Darkempire78/OpenCalc) ![GitHub last commit](https://img.shields.io/github/last-commit/Darkempire78/OpenCalc)](https://github.com/Darkempire78/OpenCalc) _(label: good first issue)_ <br> A simple and beautiful calculator for Android.
-
-## LaTeX
-
-- [Algorithmic Pseudocode ![GitHub Repo Stars](https://img.shields.io/github/stars/just-a-visitor/algorithmic-pseudocode) ![GitHub last commit](https://img.shields.io/github/last-commit/just-a-visitor/algorithmic-pseudocode)](https://github.com/just-a-visitor/algorithmic-pseudocode) _(label: good first issue)_ <br> A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
 
 ## Markdown
 
