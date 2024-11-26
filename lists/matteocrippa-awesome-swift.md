@@ -404,7 +404,7 @@ In parternship with:
 * [Soundable ![GitHub Repo Stars](https://img.shields.io/github/stars/ThXou/Soundable) ![GitHub last commit](https://img.shields.io/github/last-commit/ThXou/Soundable)](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
 * [SwiftAudioPlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/tanhakabir/SwiftAudioPlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/tanhakabir/SwiftAudioPlayer)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
 * [SwiftySound ![GitHub Repo Stars](https://img.shields.io/github/stars/adamcichy/SwiftySound) ![GitHub last commit](https://img.shields.io/github/last-commit/adamcichy/SwiftySound)](https://github.com/adamcichy/SwiftySound) - Simple library that lets you play sounds with a single line of code.
-* [voice-overlay-ios ![GitHub Repo Stars](https://img.shields.io/github/stars/algolia/voice-overlay-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/algolia/voice-overlay-ios)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user���s voice permission and input as text in a customizable UI.
+* [voice-overlay-ios ![GitHub Repo Stars](https://img.shields.io/github/stars/algolia/voice-overlay-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/algolia/voice-overlay-ios)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
 ### Augmented Reality
 [back to top](#readme) 
