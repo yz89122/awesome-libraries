@@ -531,7 +531,7 @@
 ### URL
 
 - [normalize-url ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/normalize-url) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/normalize-url)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
-- [humanize-url ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/humanize-url) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/humanize-url)](https://github.com/sindresorhus/humanize-url) - Humanize a URL: https://sindresorhus.com → sindresorhus.com.
+- [humanize-url ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/humanize-url) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/humanize-url)](https://github.com/sindresorhus/humanize-url) - Humanize a URL: https://sindresorhus.com ��� sindresorhus.com.
 - [url-unshort ![GitHub Repo Stars](https://img.shields.io/github/stars/nodeca/url-unshort) ![GitHub last commit](https://img.shields.io/github/last-commit/nodeca/url-unshort)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 - [speakingurl ![GitHub Repo Stars](https://img.shields.io/github/stars/pid/speakingurl) ![GitHub last commit](https://img.shields.io/github/last-commit/pid/speakingurl)](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
 - [linkify-it ![GitHub Repo Stars](https://img.shields.io/github/stars/markdown-it/linkify-it) ![GitHub last commit](https://img.shields.io/github/last-commit/markdown-it/linkify-it)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
