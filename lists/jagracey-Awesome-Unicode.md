@@ -135,7 +135,7 @@ Forms.) -- [Unicode 8.0.0 Chapter 3 - Surrogates](http://unicode.org/versions/Un
 
 ## Calculating Surrogate Pairs
 
-The Unicode character **���� Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
+The Unicode character **💩 Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
 
 ```javascript
  var High_Surrogate = function(Code_Point){ return Math.floor((Code_Point - 0x10000) / 0x400) + 0xD800 };
@@ -397,7 +397,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1F80](https://codepoints.net/U+1F80?lang=en) | `ᾀ`       | GREEK SMALL LETTER ALPHA WITH PSILI AND YPOGEGRAMMENI                    | `ἀ`, `ι`         | U+1F00, U+03B9         |
 | [U+1F81](https://codepoints.net/U+1F81?lang=en) | `ᾁ`       | GREEK SMALL LETTER ALPHA WITH DASIA AND YPOGEGRAMMENI                    | `ἁ`, `ι`         | U+1F01, U+03B9         |
 | [U+1F82](https://codepoints.net/U+1F82?lang=en) | `ᾂ`       | GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI          | `ἂ`, `ι`         | U+1F02, U+03B9         |
-| [U+1F83](https://codepoints.net/U+1F83?lang=en) | `���`       | GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI          | `ἃ`, `ι`         | U+1F03, U+03B9         |
+| [U+1F83](https://codepoints.net/U+1F83?lang=en) | `ᾃ`       | GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI          | `ἃ`, `ι`         | U+1F03, U+03B9         |
 | [U+1F84](https://codepoints.net/U+1F84?lang=en) | `ᾄ`       | GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI           | `ἄ`, `ι`         | U+1F04, U+03B9         |
 | [U+1F85](https://codepoints.net/U+1F85?lang=en) | `ᾅ`       | GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI           | `ἅ`, `ι`         | U+1F05, U+03B9         |
 | [U+1F86](https://codepoints.net/U+1F86?lang=en) | `ᾆ`       | GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI    | `ἆ`, `ι`         | U+1F06, U+03B9         |
