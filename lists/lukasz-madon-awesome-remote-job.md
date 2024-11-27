@@ -543,7 +543,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Gather](https://gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
   1. [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
   1. [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
-  1. [Matrix ![GitHub Repo Stars](https://img.shields.io/github/stars/ResultadosDigitais/matrix) ![GitHub last commit](https://img.shields.io/github/last-commit/ResultadosDigitais/matrix)](https://github.com/ResultadosDigitais/matrix) ��� Matrix is the online open-source workplace for distributed teams.
+  1. [Matrix ![GitHub Repo Stars](https://img.shields.io/github/stars/ResultadosDigitais/matrix) ![GitHub last commit](https://img.shields.io/github/last-commit/ResultadosDigitais/matrix)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
   1. [Mumble](https://wiki.mumble.info/) Mumble is an open source voice chat software
   1. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
   1. [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
