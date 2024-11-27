@@ -532,6 +532,7 @@
 - [rasulomaroff/reactive.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rasulomaroff/reactive.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rasulomaroff/reactive.nvim)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 - [moyiz/command-and-cursor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/moyiz/command-and-cursor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/moyiz/command-and-cursor.nvim)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
 - [rachartier/tiny-devicons-auto-colors.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-devicons-auto-colors.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-devicons-auto-colors.nvim)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
+- [TaDaa/vimade ![GitHub Repo Stars](https://img.shields.io/github/stars/TaDaa/vimade) ![GitHub last commit](https://img.shields.io/github/last-commit/TaDaa/vimade)](https://github.com/TaDaa/vimade) - Dim, fade, tint, animate, and customize colors in your windows and buffers.
 
 <!--lint disable double-link -->
 
