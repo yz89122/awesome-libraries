@@ -1652,6 +1652,7 @@ for the creation of web applications developed with Angular.
 * [store-service ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxp/store-service) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxp/store-service)](https://github.com/ngxp/store-service) - Adds an abstraction layer / facade between Angular components and the NgRx store.
 * [ngrx-entity-relationship ![GitHub Repo Stars](https://img.shields.io/github/stars/satanTime/ngrx-entity-relationship) ![GitHub last commit](https://img.shields.io/github/last-commit/satanTime/ngrx-entity-relationship)](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
 * [ngx-signal-store-query ![GitHub Repo Stars](https://img.shields.io/github/stars/k3nsei/ngx-signal-store-query) ![GitHub last commit](https://img.shields.io/github/last-commit/k3nsei/ngx-signal-store-query)](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
+* [SmartNgRX ![GitHub Repo Stars](https://img.shields.io/github/stars/DaveMBush/SmartNgRX) ![GitHub last commit](https://img.shields.io/github/last-commit/DaveMBush/SmartNgRX)](https://github.com/DaveMBush/SmartNgRX) - A library that hides most of NgRx from the developer for CRUD operations while still using NgRx under the hood and allowing you to use it with existing NgRx code.
 
 #### RxJS
 
