@@ -290,7 +290,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Formal Software Verification
 
-- [Coq](https://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms, and theorems, together with an environment for semi-interactive development of machine-checked proofs.
+- [Coq](https://coq.inria.fr/) ��� Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms, and theorems, together with an environment for semi-interactive development of machine-checked proofs.
 - [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
 - [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
 
@@ -416,7 +416,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ppx_monad ![GitHub Repo Stars](https://img.shields.io/github/stars/rizo/ppx_monad) ![GitHub last commit](https://img.shields.io/github/last-commit/rizo/ppx_monad)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
   - [ppx_deriving_yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/whitequark/ppx_deriving_yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/whitequark/ppx_deriving_yojson)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 - **Tools and Language Extensions**:
-  - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) ��� an OCaml dialect for multi-stage programming.
+  - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
   - [Fan](http://bobzhang.github.io/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
   - [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
