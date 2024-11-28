@@ -1287,6 +1287,7 @@ to simplify usage and allow quick customization.
 * [ngx-lazy-directive ![GitHub Repo Stars](https://img.shields.io/github/stars/tuphan-27/ngx-lazy-directive) ![GitHub last commit](https://img.shields.io/github/last-commit/tuphan-27/ngx-lazy-directive)](https://github.com/tuphan-27/ngx-lazy-directive) - Provides an easy way to lazy load components combined with the `*ngIf` directive, thereby reducing the First Contentful Paint time when a module is large.
 * [ngx-fastboot ![GitHub Repo Stars](https://img.shields.io/github/stars/KernelPanic92/ngx-fastboot) ![GitHub last commit](https://img.shields.io/github/last-commit/KernelPanic92/ngx-fastboot)](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
 * [nx-svg-loaders ![GitHub Repo Stars](https://img.shields.io/github/stars/ngeenx/nx-svg-loaders) ![GitHub last commit](https://img.shields.io/github/last-commit/ngeenx/nx-svg-loaders)](https://github.com/ngeenx/nx-svg-loaders) - Angular, React, Svelte, Vue SVG loader/spinner collection.
+* [ngx-hover-preload ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/ngx-hover-preload) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/ngx-hover-preload)](https://github.com/mgechev/ngx-hover-preload) - Preload Angular lazy-loaded routes on mouse over.
 
 #### Loggers
 

@@ -905,6 +905,7 @@
 - [HPC ![GitHub Repo Stars](https://img.shields.io/github/stars/dstdev/awesome-hpc) ![GitHub last commit](https://img.shields.io/github/last-commit/dstdev/awesome-hpc)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 - [Geocaching ![GitHub Repo Stars](https://img.shields.io/github/stars/FoxFil/awesome-geocaching) ![GitHub last commit](https://img.shields.io/github/last-commit/FoxFil/awesome-geocaching)](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 - [Regex ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/awesome-regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/awesome-regex)](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
+- [Event-Driven Architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/lutzh/awesome-event-driven-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/lutzh/awesome-event-driven-architecture)](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 
 ## Related
 
