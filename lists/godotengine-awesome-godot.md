@@ -34,6 +34,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 #### Godot 4
 
+- [A Dark Forest ![GitHub Repo Stars](https://img.shields.io/github/stars/TinyTakinTeller/GodotProjectZero) ![GitHub last commit](https://img.shields.io/github/last-commit/TinyTakinTeller/GodotProjectZero)](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar ![GitHub Repo Stars](https://img.shields.io/github/stars/antimundo/poder-solar) ![GitHub last commit](https://img.shields.io/github/last-commit/antimundo/poder-solar)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 - [Unknown Horizons ![GitHub Repo Stars](https://img.shields.io/github/stars/unknown-horizons/godot-port) ![GitHub last commit](https://img.shields.io/github/last-commit/unknown-horizons/godot-port)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
@@ -193,6 +194,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [3D Auto Collision Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/ThGnommy/godot_3d_auto_collision_generator) ![GitHub last commit](https://img.shields.io/github/last-commit/ThGnommy/godot_3d_auto_collision_generator)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click.
 - [AnimatedShape2D ![GitHub Repo Stars](https://img.shields.io/github/stars/Goutte/godot-addon-animated-shape-2d) ![GitHub last commit](https://img.shields.io/github/last-commit/Goutte/godot-addon-animated-shape-2d)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
 - [CReverter (Composite Reverter)](https://codeberg.org/svetogam/creverter) - Memento-based undo/redo utility that supports composition.
+- [CSConnector (Contextual Signal/Setup Connector)](https://codeberg.org/svetogam/csconnector) - Provides a clean interface to dynamically find, setup, and connect to descendant nodes through the scene tree.
 - [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Provides a clean interface to register and find objects through the scene tree like localized singletons.
 - [Cyclops Level Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/blackears/cyclopsLevelBuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/blackears/cyclopsLevelBuilder)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts.
 - [Dialogue Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Rubonnek/dialogue-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Rubonnek/dialogue-engine)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
@@ -223,6 +225,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Talo ![GitHub Repo Stars](https://img.shields.io/github/stars/TaloDev/godot) ![GitHub last commit](https://img.shields.io/github/last-commit/TaloDev/godot)](https://github.com/TaloDev/godot) - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
 - [TerraBrush ![GitHub Repo Stars](https://img.shields.io/github/stars/spimort/TerraBrush) ![GitHub last commit](https://img.shields.io/github/last-commit/spimort/TerraBrush)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 - [Virtual Joystick ![GitHub Repo Stars](https://img.shields.io/github/stars/MarcoFazioRandom/Virtual-Joystick-Godot) ![GitHub last commit](https://img.shields.io/github/last-commit/MarcoFazioRandom/Virtual-Joystick-Godot)](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options. *(Godot 3 and 4)*
+- [Your Buil](https://codeberg.org/svetogam/yourbuil) - A plugin that makes it as easy as possible to use build data like git commit hashes in your build.
 
 #### Godot 3
 
