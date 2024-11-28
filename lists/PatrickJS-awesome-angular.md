@@ -1031,6 +1031,7 @@ become an Angular expert.
 * [time2blocks-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/antonioconselheiro/time2blocks-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/antonioconselheiro/time2blocks-ngx)](https://github.com/antonioconselheiro/time2blocks-ngx) - Angular lib to identify which time is associated with a blockchain block in the past (and format it).
 * [dhutaryan/ngx-mat-timepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/dhutaryan/ngx-mat-timepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dhutaryan/ngx-mat-timepicker)](https://github.com/dhutaryan/ngx-mat-timepicker) - Material timepicker based on material design.
 * [ngx-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-timeline)](https://github.com/omnedia/ngx-timeline) - A simple component library to add an animated timeline view.
+* [ngx-prayertimes-api ![GitHub Repo Stars](https://img.shields.io/github/stars/WurshaApps/ngx-prayertimes-api) ![GitHub last commit](https://img.shields.io/github/last-commit/WurshaApps/ngx-prayertimes-api)](https://github.com/WurshaApps/ngx-prayertimes-api) - An Angular API client for [Prayer Times API](https://aladhan.com/prayer-times-api).
 
 #### DOM
 
@@ -1069,6 +1070,7 @@ become an Angular expert.
 * [ngx-fixed-footer ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-fixed-footer) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-fixed-footer)](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
 * [ngx-href ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-href) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-href)](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
 * [ng-dompurify ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-dompurify) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-dompurify)](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify ![GitHub Repo Stars](https://img.shields.io/github/stars/cure53/DOMPurify) ![GitHub last commit](https://img.shields.io/github/last-commit/cure53/DOMPurify)](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
+* [ngx-windows ![GitHub Repo Stars](https://img.shields.io/github/stars/mateuszbilicz/ngx-windows) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuszbilicz/ngx-windows)](https://github.com/mateuszbilicz/ngx-windows) - Angular Windows Components and Services.
 
 #### Drag and Drop
 
@@ -1373,6 +1375,7 @@ to simplify usage and allow quick customization.
 * [ngx-smart-modal ![GitHub Repo Stars](https://img.shields.io/github/stars/maximelafarie/ngx-smart-modal) ![GitHub last commit](https://img.shields.io/github/last-commit/maximelafarie/ngx-smart-modal)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
 * [up-window-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/criar-art/up-window-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/criar-art/up-window-angular)](https://github.com/criar-art/up-window-angular) - An Angular library designed to create dynamic, customizable modals and window-based components for web applications.
 * [ngx-concern ![GitHub Repo Stars](https://img.shields.io/github/stars/HeyItsBATMAN/ngx-concern) ![GitHub last commit](https://img.shields.io/github/last-commit/HeyItsBATMAN/ngx-concern)](https://github.com/HeyItsBATMAN/ngx-concern) - Angular library for creating simple, unstyled dialogs/modals and action-sheets/bottom-sheets.
+* [ngx-whats-new ![GitHub Repo Stars](https://img.shields.io/github/stars/4gray/ngx-whats-new) ![GitHub last commit](https://img.shields.io/github/last-commit/4gray/ngx-whats-new)](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal windows.
 
 #### Notifications
 
