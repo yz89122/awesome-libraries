@@ -666,6 +666,7 @@ become an Angular expert.
 * [ngx-pendo ![GitHub Repo Stars](https://img.shields.io/github/stars/yociduo/ngx-pendo) ![GitHub last commit](https://img.shields.io/github/last-commit/yociduo/ngx-pendo)](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
 * [ngx-surreal ![GitHub Repo Stars](https://img.shields.io/github/stars/vandaeldev/ngx-surreal) ![GitHub last commit](https://img.shields.io/github/last-commit/vandaeldev/ngx-surreal)](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
 * [ngx-filesize ![GitHub Repo Stars](https://img.shields.io/github/stars/amitdahan/ngx-filesize) ![GitHub last commit](https://img.shields.io/github/last-commit/amitdahan/ngx-filesize)](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
+* [ngx-intercom-messenger ![GitHub Repo Stars](https://img.shields.io/github/stars/MaximBelov/ngx-intercom-messenger) ![GitHub last commit](https://img.shields.io/github/last-commit/MaximBelov/ngx-intercom-messenger)](https://github.com/MaximBelov/ngx-intercom-messenger) - Angular 18+ Wrapper for [@intercom/messenger-js-sdk](https://www.npmjs.com/package/@intercom/messenger-js-sdk).
 
 #### Internationalization
 
@@ -730,6 +731,7 @@ become an Angular expert.
 * [ngx-ssr-code-remover ![GitHub Repo Stars](https://img.shields.io/github/stars/xsip/ngx-ssr-code-remover) ![GitHub last commit](https://img.shields.io/github/last-commit/xsip/ngx-ssr-code-remover)](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
 * [treaty ![GitHub Repo Stars](https://img.shields.io/github/stars/treatyjs/treaty) ![GitHub last commit](https://img.shields.io/github/last-commit/treatyjs/treaty)](https://github.com/treatyjs/treaty) - The meta framework for Angular. An alternative to Analog.
 * [analog-stuff ![GitHub Repo Stars](https://img.shields.io/github/stars/joshuamorony/analog-stuff) ![GitHub last commit](https://img.shields.io/github/last-commit/joshuamorony/analog-stuff)](https://github.com/joshuamorony/analog-stuff) - Extra stuff for AnalogJS including `agx-remark-rehype`.
+* [ngx-trpc ![GitHub Repo Stars](https://img.shields.io/github/stars/lennybakkalian/ngx-trpc) ![GitHub last commit](https://img.shields.io/github/last-commit/lennybakkalian/ngx-trpc)](https://github.com/lennybakkalian/ngx-trpc) - Angular tRPC client with SSR, RxJS, Signals and Subscriptions Support.
 
 #### Site Templates
 
