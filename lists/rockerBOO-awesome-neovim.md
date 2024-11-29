@@ -1393,6 +1393,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [elentok/format-on-save.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/elentok/format-on-save.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/elentok/format-on-save.nvim)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
 - [stevearc/conform.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/stevearc/conform.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/stevearc/conform.nvim)](https://github.com/stevearc/conform.nvim) - A lightweight formatting engine that plays nice with LSP.
 - [nvimdev/guard.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvimdev/guard.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvimdev/guard.nvim)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
+- [paul-louyot/toggle-quotes.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/paul-louyot/toggle-quotes.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/paul-louyot/toggle-quotes.nvim)](https://github.com/paul-louyot/toggle-quotes.nvim) - Toggle between quotes.
 
 ### Indent
 
