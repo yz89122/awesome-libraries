@@ -163,6 +163,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Vivid ![GitHub Repo Stars](https://img.shields.io/github/stars/WetDesertRock/vivid) ![GitHub last commit](https://img.shields.io/github/last-commit/WetDesertRock/vivid)](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
 * [Yonder ![GitHub Repo Stars](https://img.shields.io/github/stars/thenerdie/Yonder) ![GitHub last commit](https://img.shields.io/github/last-commit/thenerdie/Yonder)](https://github.com/thenerdie/Yonder) - A ridiculously easy to use game state management library for LOVE2D.
 * [GameStateManager ![GitHub Repo Stars](https://img.shields.io/github/stars/GwyrddGlas/GameStateManager) ![GitHub last commit](https://img.shields.io/github/last-commit/GwyrddGlas/GameStateManager)](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
+* [Love dialogue ![GitHub Repo Stars](https://img.shields.io/github/stars/Miisan-png/Love-Dialogue) ![GitHub last commit](https://img.shields.io/github/last-commit/Miisan-png/Love-Dialogue)](https://github.com/Miisan-png/Love-Dialogue) - Simple to use Dialogue Library for Love2d with custom scripting language for dialogues .
 
 ## Input
 *Input & Binding Libraries*
@@ -226,6 +227,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [middleclass ![GitHub Repo Stars](https://img.shields.io/github/stars/kikito/middleclass) ![GitHub last commit](https://img.shields.io/github/last-commit/kikito/middleclass)](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).
 * [muun ![GitHub Repo Stars](https://img.shields.io/github/stars/megagrump/muun) ![GitHub last commit](https://img.shields.io/github/last-commit/megagrump/muun)](https://github.com/megagrump/muun) - Moonscript compatible class implementation.
 * [selene ![GitHub Repo Stars](https://img.shields.io/github/stars/novafacing/selene) ![GitHub last commit](https://img.shields.io/github/last-commit/novafacing/selene)](https://github.com/novafacing/selene) - Project template for writing games in Moonscript instead of Lua without precompiling.
+* [Object-Library ![GitHub Repo Stars](https://img.shields.io/github/stars/Virus01Official/Object-Library) ![GitHub last commit](https://img.shields.io/github/last-commit/Virus01Official/Object-Library)](https://github.com/Virus01Official/Object-Library) - ObjectLibrary is a simple library for the LÖVE2D game engine that allows users to create objects with collision detection and optional textures.
+* [LowerClass ![GitHub Repo Stars](https://img.shields.io/github/stars/DevonPalma/LowerClass) ![GitHub last commit](https://img.shields.io/github/last-commit/DevonPalma/LowerClass)](https://github.com/DevonPalma/LowerClass) - A MiddleClass Inspired library with extended features.
 
 ## Performance
 *Performance measurement tools*
@@ -364,7 +367,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Luvent ![GitHub Repo Stars](https://img.shields.io/github/stars/ejmr/Luvent) ![GitHub last commit](https://img.shields.io/github/last-commit/ejmr/Luvent)](https://github.com/ejmr/Luvent) - Simple event-driven programming.
 * [nativefiledialog ![GitHub Repo Stars](https://img.shields.io/github/stars/Alloyed/nativefiledialog) ![GitHub last commit](https://img.shields.io/github/last-commit/Alloyed/nativefiledialog)](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - Open a file picker on Windows/Mac/Linux.
 * [nativefs ![GitHub Repo Stars](https://img.shields.io/github/stars/EngineerSmith/nativefs) ![GitHub last commit](https://img.shields.io/github/last-commit/EngineerSmith/nativefs)](https://github.com/EngineerSmith/nativefs) - Read and write files outside of LÖVE's allowed paths.
-* [Optikon](https://optikon.co.uk/) - WYSIWYG visual level designer.
 * [ParticleEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/MusouCrow/ParticleEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/MusouCrow/ParticleEditor)](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE.
 * [particle-system-playground ![GitHub Repo Stars](https://img.shields.io/github/stars/santoslove/particle-system-playground) ![GitHub last commit](https://img.shields.io/github/last-commit/santoslove/particle-system-playground)](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor.
 * [require.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/premek/require.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/premek/require.lua)](https://github.com/premek/require.lua) - Require all files in a folder.
@@ -372,6 +374,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ShakeDetectorLua ![GitHub Repo Stars](https://img.shields.io/github/stars/azoyan/ShakeDetectorLua) ![GitHub last commit](https://img.shields.io/github/last-commit/azoyan/ShakeDetectorLua)](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
 * [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
 * [tick ![GitHub Repo Stars](https://img.shields.io/github/stars/bjornbytes/tick) ![GitHub last commit](https://img.shields.io/github/last-commit/bjornbytes/tick)](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
+* [servelove ![GitHub Repo Stars](https://img.shields.io/github/stars/YellowButShort/servelove) ![GitHub last commit](https://img.shields.io/github/last-commit/YellowButShort/servelove)](https://github.com/YellowButShort/servelove/) - A web server library that runs on love.
 
 ## Tutorials
 *Blogs and tutorials*
@@ -420,6 +423,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Distribution
 *Tools that automate game publishing in one way or another*
+* [lover ![GitHub Repo Stars](https://img.shields.io/github/stars/Wolfyxon/lover) ![GitHub last commit](https://img.shields.io/github/last-commit/Wolfyxon/lover)](https://github.com/Wolfyxon/lover) - Bringing the joys of rust's package manager (`Cargo`) to love.
 * [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
 * [love-packager ![GitHub Repo Stars](https://img.shields.io/github/stars/simplifylabs/love-packager) ![GitHub last commit](https://img.shields.io/github/last-commit/simplifylabs/love-packager)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
 * [boon ![GitHub Repo Stars](https://img.shields.io/github/stars/camchenry/boon) ![GitHub last commit](https://img.shields.io/github/last-commit/camchenry/boon)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
