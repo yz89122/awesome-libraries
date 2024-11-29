@@ -159,6 +159,8 @@ Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 - [yew-bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/isosphere/yew-bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/isosphere/yew-bootstrap)](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
 - [Zu ![GitHub Repo Stars](https://img.shields.io/github/stars/RustVis/zu) ![GitHub last commit](https://img.shields.io/github/last-commit/RustVis/zu)](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
 - [yew-nav-link ![GitHub Repo Stars](https://img.shields.io/github/stars/RAprogramm/yew-nav-link) ![GitHub last commit](https://img.shields.io/github/last-commit/RAprogramm/yew-nav-link)](https://github.com/RAprogramm/yew-nav-link) - A navigational link that is aware of its active state based on the current route in the application.
+- [Rust Radix ![GitHub Repo Stars](https://img.shields.io/github/stars/RustForWeb/radix) ![GitHub last commit](https://img.shields.io/github/last-commit/RustForWeb/radix)](https://github.com/RustForWeb/radix) - Rust port of Radix with support for Leptos and Yew.
+- [Rust shadcn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/RustForWeb/shadcn-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/RustForWeb/shadcn-ui)](https://github.com/RustForWeb/shadcn-ui) - Rust port of shadcn/ui with support for Leptos and Yew.
 
 ### Components
 
