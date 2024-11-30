@@ -1621,6 +1621,8 @@ for the creation of web applications developed with Angular.
 * [ngx-copypaste ![GitHub Repo Stars](https://img.shields.io/github/stars/JsDaddy/ngx-copypaste) ![GitHub last commit](https://img.shields.io/github/last-commit/JsDaddy/ngx-copypaste)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 * [ngx-morse ![GitHub Repo Stars](https://img.shields.io/github/stars/monkeyscript/ngx-morse) ![GitHub last commit](https://img.shields.io/github/last-commit/monkeyscript/ngx-morse)](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 * [ngx-back-button ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-back-button) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-back-button)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
+* [ngx-route-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/perez247/ngx-route-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/perez247/ngx-route-manager)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
+* [ngx-printify ![GitHub Repo Stars](https://img.shields.io/github/stars/aesopo1213/ngx-printify) ![GitHub last commit](https://img.shields.io/github/last-commit/aesopo1213/ngx-printify)](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
 
 ---
 
