@@ -1048,7 +1048,7 @@
 - [1XBET](https://1xbet.com) - A betting company operating since 2007
 - [MyOwnTV](http://myowntv.org) - A streaming website for creating internet television
 - [CrowdCircus](https://crowdcircus.com) - Europe’s biggest crowdfunding- and crowdinvesting-aggregator
-- [ابیات ناب پار��ی](http://naaab.ir) - A collection of Persian poems
+- [ابیات ناب پارسی](http://naaab.ir) - A collection of Persian poems
 - [Ripplectron ![GitHub Repo Stars](https://img.shields.io/github/stars/devjin0617/ripplectron) ![GitHub last commit](https://img.shields.io/github/last-commit/devjin0617/ripplectron)](https://github.com/devjin0617/ripplectron) - Ripple(Blockchain coin) Wallet Desktop client for vue-electron
 - [PingBreak](https://pingbreak.com) - A free and simple website monitoring service using vuejs for real-time dashboard
 - [Todoist Tribute ![GitHub Repo Stars](https://img.shields.io/github/stars/rohitpaulk/todoist-tribute) ![GitHub last commit](https://img.shields.io/github/last-commit/rohitpaulk/todoist-tribute)](https://github.com/rohitpaulk/todoist-tribute/) - Todoist clone, written in Rails + Vue
