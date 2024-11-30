@@ -432,12 +432,12 @@ _Libraries for building standard or basic Command Line applications._
 - [go-flags ![GitHub Repo Stars](https://img.shields.io/github/stars/jessevdk/go-flags) ![GitHub last commit](https://img.shields.io/github/last-commit/jessevdk/go-flags)](https://github.com/jessevdk/go-flags) - go command line option parser.
 - [go-getoptions ![GitHub Repo Stars](https://img.shields.io/github/stars/DavidGamba/go-getoptions) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidGamba/go-getoptions)](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
 - [gocmd ![GitHub Repo Stars](https://img.shields.io/github/stars/devfacet/gocmd) ![GitHub last commit](https://img.shields.io/github/last-commit/devfacet/gocmd)](https://github.com/devfacet/gocmd) - Go library for building command line applications.
+- [hashicorp/cli ![GitHub Repo Stars](https://img.shields.io/github/stars/hashicorp/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/cli)](https://github.com/hashicorp/cli) - Go library for implementing command-line interfaces.
 - [hiboot cli ![GitHub Repo Stars](https://img.shields.io/github/stars/hidevopsio/hiboot) ![GitHub last commit](https://img.shields.io/github/last-commit/hidevopsio/hiboot)](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
 - [job ![GitHub Repo Stars](https://img.shields.io/github/stars/liujianping/job) ![GitHub last commit](https://img.shields.io/github/last-commit/liujianping/job)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
 - [kingpin ![GitHub Repo Stars](https://img.shields.io/github/stars/alecthomas/kingpin) ![GitHub last commit](https://img.shields.io/github/last-commit/alecthomas/kingpin)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
 - [liner ![GitHub Repo Stars](https://img.shields.io/github/stars/peterh/liner) ![GitHub last commit](https://img.shields.io/github/last-commit/peterh/liner)](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
 - [mcli ![GitHub Repo Stars](https://img.shields.io/github/stars/jxskiss/mcli) ![GitHub last commit](https://img.shields.io/github/last-commit/jxskiss/mcli)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
-- [mitchellh/cli ![GitHub Repo Stars](https://img.shields.io/github/stars/mitchellh/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/mitchellh/cli)](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
 - [mkideal/cli ![GitHub Repo Stars](https://img.shields.io/github/stars/mkideal/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/mkideal/cli)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 - [mow.cli ![GitHub Repo Stars](https://img.shields.io/github/stars/jawher/mow.cli) ![GitHub last commit](https://img.shields.io/github/last-commit/jawher/mow.cli)](https://github.com/jawher/mow.cli) - Go library for building CLI applications with sophisticated flag and argument parsing and validation.
 - [ops ![GitHub Repo Stars](https://img.shields.io/github/stars/nanovms/ops) ![GitHub last commit](https://img.shields.io/github/last-commit/nanovms/ops)](https://github.com/nanovms/ops) - Unikernel Builder/Orchestrator.
@@ -522,7 +522,7 @@ _Libraries for configuration parsing._
 - [xdg ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenPeeDeeP/xdg) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenPeeDeeP/xdg)](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://specifications.freedesktop.org/basedir-spec/latest/).
 - [yamagiconf ![GitHub Repo Stars](https://img.shields.io/github/stars/romshark/yamagiconf) ![GitHub last commit](https://img.shields.io/github/last-commit/romshark/yamagiconf)](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Continuous Integration
 
