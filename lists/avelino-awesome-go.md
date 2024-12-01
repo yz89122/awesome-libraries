@@ -924,6 +924,7 @@ _Libraries for building and using SQL._
 - [go-elasticsearch ![GitHub Repo Stars](https://img.shields.io/github/stars/elastic/go-elasticsearch) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/go-elasticsearch)](https://github.com/elastic/go-elasticsearch) - Official Elasticsearch client for Go.
 - [goes ![GitHub Repo Stars](https://img.shields.io/github/stars/OwnLocal/goes) ![GitHub last commit](https://img.shields.io/github/last-commit/OwnLocal/goes)](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
 - [skizze ![GitHub Repo Stars](https://img.shields.io/github/stars/seiflotfy/skizze) ![GitHub last commit](https://img.shields.io/github/last-commit/seiflotfy/skizze)](https://github.com/seiflotfy/skizze) - probabilistic data-structures service and storage.
+- [zoekt ![GitHub Repo Stars](https://img.shields.io/github/stars/sourcegraph/zoekt) ![GitHub last commit](https://img.shields.io/github/last-commit/sourcegraph/zoekt)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
 
 **[⬆ back to top](#contents)**
 
@@ -2303,6 +2304,7 @@ _Libraries that are used to help make your application more secure._
 - [optimus-go ![GitHub Repo Stars](https://img.shields.io/github/stars/pjebs/optimus-go) ![GitHub last commit](https://img.shields.io/github/last-commit/pjebs/optimus-go)](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm.
 - [passlib ![GitHub Repo Stars](https://img.shields.io/github/stars/hlandau/passlib) ![GitHub last commit](https://img.shields.io/github/last-commit/hlandau/passlib)](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 - [passwap ![GitHub Repo Stars](https://img.shields.io/github/stars/zitadel/passwap) ![GitHub last commit](https://img.shields.io/github/last-commit/zitadel/passwap)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
+- [qrand ![GitHub Repo Stars](https://img.shields.io/github/stars/bitfield/qrand) ![GitHub last commit](https://img.shields.io/github/last-commit/bitfield/qrand)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
 - [secret ![GitHub Repo Stars](https://img.shields.io/github/stars/rsjethani/secret) ![GitHub last commit](https://img.shields.io/github/last-commit/rsjethani/secret)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 - [secure ![GitHub Repo Stars](https://img.shields.io/github/stars/unrolled/secure) ![GitHub last commit](https://img.shields.io/github/last-commit/unrolled/secure)](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [secureio ![GitHub Repo Stars](https://img.shields.io/github/stars/xaionaro-go/secureio) ![GitHub last commit](https://img.shields.io/github/last-commit/xaionaro-go/secureio)](https://github.com/xaionaro-go/secureio) - An keyexchanging+authenticating+encrypting wrapper and multiplexer for `io.ReadWriteCloser` based on XChaCha20-poly1305, ECDH and ED25519.
