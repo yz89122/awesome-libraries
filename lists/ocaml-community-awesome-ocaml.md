@@ -285,7 +285,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% of the solutions are [here ![GitHub Repo Stars](https://img.shields.io/github/stars/MassD/99) ![GitHub last commit](https://img.shields.io/github/last-commit/MassD/99)](https://github.com/MassD/99).
 - [learn-ocaml-corpus](https://ocaml-sf.org/learn-ocaml-public/#activity=exercises). Corpus of beginner-to-advanced online exercises (including those from the OCaml MOOC) with automatic grading tests.
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
-- [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive, readable code. [Solutions ![GitHub Repo Stars](https://img.shields.io/github/stars/exercism/xocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/exercism/xocaml)](https://github.com/exercism/xocaml).
+- [OCaml at Exercism](http://exercism.io/languages/ocaml) ��� Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive, readable code. [Solutions ![GitHub Repo Stars](https://img.shields.io/github/stars/exercism/xocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/exercism/xocaml)](https://github.com/exercism/xocaml).
 - [Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/pleac_ocaml/index.html) - The OCaml section of the book is a free reference for solving common programming problems using OCaml.
 
 ## Formal Software Verification
@@ -484,7 +484,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
   - [Nproc ![GitHub Repo Stars](https://img.shields.io/github/stars/MyLifeLabs/nproc) ![GitHub last commit](https://img.shields.io/github/last-commit/MyLifeLabs/nproc)](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
   - [Parany ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/parany) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/parany)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
-  - [Sklml](http://sklml.inria.fr) ��� Functional parallel skeleton compiler and programming system for OCaml programs.
+  - [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
   - [SPOC ![GitHub Repo Stars](https://img.shields.io/github/stars/mathiasbourgoin/SPOC) ![GitHub last commit](https://img.shields.io/github/last-commit/mathiasbourgoin/SPOC)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
 - **Articles**:
