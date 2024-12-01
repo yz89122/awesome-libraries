@@ -205,7 +205,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — A binding to the NDBM/GDBM Unix "databases".
   - [Mongo.ml](https://massd.github.io/mongo/) – An OCaml driver for Mongodb
   - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
-    - [ppx_pgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/tizoc/ppx_pgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/tizoc/ppx_pgsql)](https://github.com/tizoc/ppx_pgsql) ��� A syntax extension for embedded SQL queries using PG'OCaml.
+    - [ppx_pgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/tizoc/ppx_pgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/tizoc/ppx_pgsql)](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
   - [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
   - [SQLite3 ![GitHub Repo Stars](https://img.shields.io/github/stars/mmottl/sqlite3-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mmottl/sqlite3-ocaml)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
@@ -484,7 +484,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
   - [Nproc ![GitHub Repo Stars](https://img.shields.io/github/stars/MyLifeLabs/nproc) ![GitHub last commit](https://img.shields.io/github/last-commit/MyLifeLabs/nproc)](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
   - [Parany ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/parany) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/parany)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
-  - [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
+  - [Sklml](http://sklml.inria.fr) ��� Functional parallel skeleton compiler and programming system for OCaml programs.
   - [SPOC ![GitHub Repo Stars](https://img.shields.io/github/stars/mathiasbourgoin/SPOC) ![GitHub last commit](https://img.shields.io/github/last-commit/mathiasbourgoin/SPOC)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
 - **Articles**:
