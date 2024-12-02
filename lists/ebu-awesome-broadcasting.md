@@ -23,6 +23,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Radio Production](#radio-production)
   * [Software-defined radio](#software-defined-radio)
   * [Subtitling](#subtitling)
+  * [Communication](#communication)
   * [Video Production](#video-production)
   * [Streaming](#streaming)
 * [Resources](#resources)
@@ -267,6 +268,11 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
 * [Subtitling Conversion Framework (SCF) ![GitHub Repo Stars](https://img.shields.io/github/stars/Irt-Open-Source/scf) ![GitHub last commit](https://img.shields.io/github/last-commit/Irt-Open-Source/scf)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
 * [Timed Text Toolkit (ttt) ![GitHub Repo Stars](https://img.shields.io/github/stars/skynav/ttt) ![GitHub last commit](https://img.shields.io/github/last-commit/skynav/ttt)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
+
+## Communication
+
+* [Intercom Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/Eyevinn/intercom-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/Eyevinn/intercom-manager)](https://github.com/Eyevinn/intercom-manager) + [Intercom Frontend ![GitHub Repo Stars](https://img.shields.io/github/stars/Eyevinn/intercom-frontend) ![GitHub last commit](https://img.shields.io/github/last-commit/Eyevinn/intercom-frontend)](https://github.com/Eyevinn/intercom-frontend) - Intercom system based on built by Eyevinn for SVT.
+* [DYI intercom ![GitHub Repo Stars](https://img.shields.io/github/stars/matiaspl/intercom) ![GitHub last commit](https://img.shields.io/github/last-commit/matiaspl/intercom)](https://github.com/matiaspl/intercom) - Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.
 
 ## Video Production
 
