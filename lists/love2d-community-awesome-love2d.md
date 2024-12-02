@@ -234,7 +234,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Performance measurement tools*
 
 * [AppleCake ![GitHub Repo Stars](https://img.shields.io/github/stars/EngineerSmith/AppleCake) ![GitHub last commit](https://img.shields.io/github/last-commit/EngineerSmith/AppleCake)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
-* [jprof ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/jprof) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/jprof)](https://github.com/pfirsich/jprof) - Profiling library/tool for L��VE.
+* [jprof ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/jprof) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/jprof)](https://github.com/pfirsich/jprof) - Profiling library/tool for LÖVE.
 * [Piefiller ![GitHub Repo Stars](https://img.shields.io/github/stars/Polynominal/Piefiller) ![GitHub last commit](https://img.shields.io/github/last-commit/Polynominal/Piefiller)](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
 * [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - A simple lua profiler that works with LuaJIT and prints a pretty report file in columns.
 
@@ -321,7 +321,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ListBox ![GitHub Repo Stars](https://img.shields.io/github/stars/darkmetalic/ListBox) ![GitHub last commit](https://img.shields.io/github/last-commit/darkmetalic/ListBox)](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
 * [LoveFrames Fork ![GitHub Repo Stars](https://img.shields.io/github/stars/linux-man/LoveFrames) ![GitHub last commit](https://img.shields.io/github/last-commit/linux-man/LoveFrames)](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library.
 * [Love Imgui ![GitHub Repo Stars](https://img.shields.io/github/stars/slages/love-imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/slages/love-imgui)](https://github.com/slages/love-imgui) - Imgui module for the LÖVE game engine.
-* [Löve-Nuklear ![GitHub Repo Stars](https://img.shields.io/github/stars/keharriso/love-nuklear) ![GitHub last commit](https://img.shields.io/github/last-commit/keharriso/love-nuklear)](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games.
+* [Löve-Nuklear ![GitHub Repo Stars](https://img.shields.io/github/stars/keharriso/love-nuklear) ![GitHub last commit](https://img.shields.io/github/last-commit/keharriso/love-nuklear)](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for L��VE games.
 * [Lovely Toasts](https://codeberg.org/togfox/Lovely-Toasts) - Floating speech bubbles with text of your choice.
 * [lovr-ui2d ![GitHub Repo Stars](https://img.shields.io/github/stars/immortalx74/lovr-ui2d) ![GitHub last commit](https://img.shields.io/github/last-commit/immortalx74/lovr-ui2d)](https://github.com/immortalx74/lovr-ui2d) - An immediate mode GUI library for LÖVR and LÖVE.
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
