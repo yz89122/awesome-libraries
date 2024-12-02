@@ -581,7 +581,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Transferwise](https://wise.com/gb/business/payouts) - Easy way to pay remote employees.
 
 ## Others
-  1. [awesome-digital-nomads ![GitHub Repo Stars](https://img.shields.io/github/stars/cbovis/awesome-digital-nomads) ![GitHub last commit](https://img.shields.io/github/last-commit/cbovis/awesome-digital-nomads)](https://github.com/cbovis/awesome-digital-nomads) - ��� A curated list of awesome resources for Digital Nomads.
+  1. [awesome-digital-nomads ![GitHub Repo Stars](https://img.shields.io/github/stars/cbovis/awesome-digital-nomads) ![GitHub last commit](https://img.shields.io/github/last-commit/cbovis/awesome-digital-nomads)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Established Remote ![GitHub Repo Stars](https://img.shields.io/github/stars/yanirs/established-remote) ![GitHub last commit](https://img.shields.io/github/last-commit/yanirs/established-remote)](https://github.com/yanirs/established-remote) - A list of established remote companies
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
