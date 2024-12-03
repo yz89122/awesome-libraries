@@ -160,7 +160,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Localization
 
 - [de_DE ![GitHub Repo Stars](https://img.shields.io/github/stars/splendidinternet/Magento2_German_LocalePack_de_DE) ![GitHub last commit](https://img.shields.io/github/last-commit/splendidinternet/Magento2_German_LocalePack_de_DE)](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) :de: - German Language Package.
-- [de_CH ![GitHub Repo Stars](https://img.shields.io/github/stars/staempfli/magento2-language-de-ch) ![GitHub last commit](https://img.shields.io/github/last-commit/staempfli/magento2-language-de-ch)](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭 - Swiss Language Package.
+- [de_CH ![GitHub Repo Stars](https://img.shields.io/github/stars/staempfli/magento2-language-de-ch) ![GitHub last commit](https://img.shields.io/github/last-commit/staempfli/magento2-language-de-ch)](https://github.com/staempfli/magento2-language-de-ch) ���🇭 - Swiss Language Package.
 - [fr_FR ![GitHub Repo Stars](https://img.shields.io/github/stars/Imaginaerum/magento2-language-fr-fr) ![GitHub last commit](https://img.shields.io/github/last-commit/Imaginaerum/magento2-language-fr-fr)](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
 - [da_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
 - [es_AR ![GitHub Repo Stars](https://img.shields.io/github/stars/SemExpert/Magento2-language-es_ar) ![GitHub last commit](https://img.shields.io/github/last-commit/SemExpert/Magento2-language-es_ar)](https://github.com/SemExpert/Magento2-language-es_ar) 🇦🇷 - Spanish (Argentina) Language Package.
