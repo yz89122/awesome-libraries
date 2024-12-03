@@ -118,7 +118,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [KTX ![GitHub Repo Stars](https://img.shields.io/github/stars/libktx/ktx) ![GitHub last commit](https://img.shields.io/github/last-commit/libktx/ktx)](https://github.com/libktx/ktx) - Kotlin extensions and utilities for libGDX.
 - [noise4j ![GitHub Repo Stars](https://img.shields.io/github/stars/czyzby/noise4j) ![GitHub last commit](https://img.shields.io/github/last-commit/czyzby/noise4j)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 - [Texture Packer GUI ![GitHub Repo Stars](https://img.shields.io/github/stars/crashinvaders/gdx-texture-packer-gui) ![GitHub last commit](https://img.shields.io/github/last-commit/crashinvaders/gdx-texture-packer-gui)](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
-
+- [libGDX Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/BlueBoxWare/LibGDXPlugin) ![GitHub last commit](https://img.shields.io/github/last-commit/BlueBoxWare/LibGDXPlugin)](https://github.com/BlueBoxWare/LibGDXPlugin) - A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.
 
 ## Tutorials
 
@@ -144,6 +144,10 @@ _Tutorials for newbies and seasoned developers alike._
 - [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - Deploying to iOS in 2019 using RoboVM.
 - [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) - Pixel-perfect smooth scrolling.
 - [Introduction to 3D Series](https://www.youtube.com/playlist?list=PLjUR2MkQ0cuHZ70Ps8F9WMyoyKHKAbYvQ) - A tutorial series on libGDX 3D using gdx-gltf.
+
+### General Learning Material
+- [Book of Shaders ![GitHub Repo Stars](https://img.shields.io/github/stars/patriciogonzalezvivo/thebookofshaders) ![GitHub last commit](https://img.shields.io/github/last-commit/patriciogonzalezvivo/thebookofshaders)](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
 
 ## Assets
 
