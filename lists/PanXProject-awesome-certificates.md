@@ -300,7 +300,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [IBM Cloud Essentials](https://cognitiveclass.ai/courses/ibm-cloud-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2)|
-| [Introduction to Cloud Computing](https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing) | EC-Council |Beginner|3 | ��|
+| [Introduction to Cloud Computing](https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing) | EC-Council |Beginner|3 | 🏆|
 | [Cloud Foundations](https://www.mygreatlearning.com/academy/learn-for-free/courses/cloud-foundations) | Great Learning |Beginner| 1.5 | 🏆|
 | [Cloud Essentials Knowledge](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) | Amazon | Intermediate | 10 | 🏅 |
 
@@ -338,7 +338,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat) | EC-Council | Beginner | 1 | 🏆 |
+| [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat) | EC-Council | Beginner | 1 | ��� |
 | [Android Studio Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-studio-tutorial) | Great Learning | Beginner | 1 | 🏆 |
 | [Android App Development](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development ) | Great Learning | Beginner | 1.5 | 🏆 |
 | [Android App Development with Kotlin](https://developers.google.com/profile/badges/tier/courses/android/android-development-with-kotlin) | Google | Intermediate | 20 |  🏅 |	
