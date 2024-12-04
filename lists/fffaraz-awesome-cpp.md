@@ -1017,6 +1017,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SLRE ![GitHub Repo Stars](https://img.shields.io/github/stars/cesanta/slre) ![GitHub last commit](https://img.shields.io/github/last-commit/cesanta/slre)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPLv2/Proprietary]
 * [sregex ![GitHub Repo Stars](https://img.shields.io/github/stars/openresty/sregex) ![GitHub last commit](https://img.shields.io/github/last-commit/openresty/sregex)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. [BSD]
 * [SRELL](https://www.akenotsuki.com/misc/srell/en/) - Unicode-aware regular expression template library for C++. [BSD]
+* [Vectorscan ![GitHub Repo Stars](https://img.shields.io/github/stars/VectorCamp/vectorscan) ![GitHub last commit](https://img.shields.io/github/last-commit/VectorCamp/vectorscan)](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. [BSD-3-Clause] [website](https://www.vectorcamp.gr/project/vectorscan/)
 
 ## Robotics
 
