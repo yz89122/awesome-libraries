@@ -92,6 +92,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Mixed utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
+  * [Printing](#printing)
   * [QR Codes](#qr-codes)
   * [Scroll](#scroll)
   * [State Management](#state-management)
@@ -1396,6 +1397,12 @@ to simplify usage and allow quick customization.
 * [ngx-toastr-message ![GitHub Repo Stars](https://img.shields.io/github/stars/One-Zero-Code/ngx-toastr-message) ![GitHub last commit](https://img.shields.io/github/last-commit/One-Zero-Code/ngx-toastr-message)](https://github.com/One-Zero-Code/ngx-toastr-message) - A lightweight, customizable Angular library for displaying toast notifications.
 * [ngx-french-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/thiagopg84/ngx-french-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/thiagopg84/ngx-french-toast)](https://github.com/thiagopg84/ngx-french-toast) - A lightweight and customizable toast library for your Angular 14+ applications. Show informative toast messages to enhance user experience and provide important feedback or collect data with dynamically imported components.
 
+#### Printing
+
+* [ngx-print ![GitHub Repo Stars](https://img.shields.io/github/stars/selemxmn/ngx-print) ![GitHub last commit](https://img.shields.io/github/last-commit/selemxmn/ngx-print)](https://github.com/selemxmn/ngx-print) - A plug n' play Angulae library to print your stuff.
+* [ngx-printify ![GitHub Repo Stars](https://img.shields.io/github/stars/aesopo1213/ngx-printify) ![GitHub last commit](https://img.shields.io/github/last-commit/aesopo1213/ngx-printify)](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
+* [ngx-printer-demo ![GitHub Repo Stars](https://img.shields.io/github/stars/plaetzchen79/ngx-printer-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/plaetzchen79/ngx-printer-demo)](https://github.com/plaetzchen79/ngx-printer-demo) - A simple Angular service to print a window, parts of a window (div), images, HTMLElements or Angular Objects.
+
 #### QR Codes
 
 * [ng-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/mnahkies/ng-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/mnahkies/ng-qrcode)](https://github.com/mnahkies/ng-qrcode) - Easy to use AOT compatible QR code generator for Angular projects.
@@ -1625,7 +1632,6 @@ for the creation of web applications developed with Angular.
 * [ngx-morse ![GitHub Repo Stars](https://img.shields.io/github/stars/monkeyscript/ngx-morse) ![GitHub last commit](https://img.shields.io/github/last-commit/monkeyscript/ngx-morse)](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 * [ngx-back-button ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-back-button) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-back-button)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 * [ngx-route-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/perez247/ngx-route-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/perez247/ngx-route-manager)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
-* [ngx-printify ![GitHub Repo Stars](https://img.shields.io/github/stars/aesopo1213/ngx-printify) ![GitHub last commit](https://img.shields.io/github/last-commit/aesopo1213/ngx-printify)](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
 
 ---
 
