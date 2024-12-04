@@ -420,6 +420,7 @@ _Libraries for building standard or basic Command Line applications._
 - [command-chain ![GitHub Repo Stars](https://img.shields.io/github/stars/rainu/go-command-chain) ![GitHub last commit](https://img.shields.io/github/last-commit/rainu/go-command-chain)](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
 - [commandeer ![GitHub Repo Stars](https://img.shields.io/github/stars/jaffee/commandeer) ![GitHub last commit](https://img.shields.io/github/last-commit/jaffee/commandeer)](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
 - [complete ![GitHub Repo Stars](https://img.shields.io/github/stars/posener/complete) ![GitHub last commit](https://img.shields.io/github/last-commit/posener/complete)](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
+- [console ![GitHub Repo Stars](https://img.shields.io/github/stars/reeflective/console) ![GitHub last commit](https://img.shields.io/github/last-commit/reeflective/console)](https://github.com/reeflective/console) Closed-loop application library for Cobra commands, with oh-my-posh prompts, and more.
 - [Dnote ![GitHub Repo Stars](https://img.shields.io/github/stars/dnote/dnote) ![GitHub last commit](https://img.shields.io/github/last-commit/dnote/dnote)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
 - [elvish ![GitHub Repo Stars](https://img.shields.io/github/stars/elves/elvish) ![GitHub last commit](https://img.shields.io/github/last-commit/elves/elvish)](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
 - [env ![GitHub Repo Stars](https://img.shields.io/github/stars/codingconcepts/env) ![GitHub last commit](https://img.shields.io/github/last-commit/codingconcepts/env)](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
@@ -522,7 +523,7 @@ _Libraries for configuration parsing._
 - [xdg ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenPeeDeeP/xdg) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenPeeDeeP/xdg)](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://specifications.freedesktop.org/basedir-spec/latest/).
 - [yamagiconf ![GitHub Repo Stars](https://img.shields.io/github/stars/romshark/yamagiconf) ![GitHub last commit](https://img.shields.io/github/last-commit/romshark/yamagiconf)](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Continuous Integration
 
