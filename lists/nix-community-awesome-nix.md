@@ -26,6 +26,7 @@
     * [Gleam](#gleam)
     * [Haskell](#haskell)
     * [Haxe](#haxe)
+    * [Lean](#lean)
     * [Node.js](#nodejs)
     * [OCaml](#ocaml)
     * [PHP](#php)
@@ -208,6 +209,10 @@
 * [haxix ![GitHub Repo Stars](https://img.shields.io/github/stars/MadMcCrow/haxix) ![GitHub last commit](https://img.shields.io/github/last-commit/MadMcCrow/haxix)](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
 * [kebab ![GitHub Repo Stars](https://img.shields.io/github/stars/bwkam/kebab) ![GitHub last commit](https://img.shields.io/github/last-commit/bwkam/kebab)](https://github.com/bwkam/kebab) - Haxe packages for Nix.
 
+### Lean
+
+* [lean4-nix ![GitHub Repo Stars](https://img.shields.io/github/stars/lenianiva/lean4-nix) ![GitHub last commit](https://img.shields.io/github/last-commit/lenianiva/lean4-nix)](https://github.com/lenianiva/lean4-nix) -  Nix flake build for Lean 4, and `lake2nix`.
+
 ### Node.js
 
 * [Napalm ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/napalm) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/napalm)](https://github.com/nix-community/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
@@ -264,6 +269,7 @@
 * [base16.nix ![GitHub Repo Stars](https://img.shields.io/github/stars/SenchoPens/base16.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/SenchoPens/base16.nix)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 ![GitHub Repo Stars](https://img.shields.io/github/stars/chriskempson/base16) ![GitHub last commit](https://img.shields.io/github/last-commit/chriskempson/base16)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 * [Home Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/home-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/home-manager)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [nix-darwin ![GitHub Repo Stars](https://img.shields.io/github/stars/LnL7/nix-darwin) ![GitHub last commit](https://img.shields.io/github/last-commit/LnL7/nix-darwin)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+* [NixOS-WSL ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NixOS-WSL) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NixOS-WSL)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 * [musnix ![GitHub Repo Stars](https://img.shields.io/github/stars/musnix/musnix) ![GitHub last commit](https://img.shields.io/github/last-commit/musnix/musnix)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
 * [NixVim ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixvim)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Self Host Blocks ![GitHub Repo Stars](https://img.shields.io/github/stars/ibizaman/selfhostblocks) ![GitHub last commit](https://img.shields.io/github/last-commit/ibizaman/selfhostblocks)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
