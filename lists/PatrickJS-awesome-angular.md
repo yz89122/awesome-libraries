@@ -913,6 +913,7 @@ become an Angular expert.
 * [ngx-starry-sky ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-starry-sky) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-starry-sky)](https://github.com/omnedia/ngx-starry-sky) - An Angular library that creates a beautiful starry sky background with optional shooting star effects.
 * [ngx-connection-beam ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-connection-beam) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-connection-beam)](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
 * [ngx-countUp ![GitHub Repo Stars](https://img.shields.io/github/stars/inorganik/ngx-countUp) ![GitHub last commit](https://img.shields.io/github/last-commit/inorganik/ngx-countUp)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
+* [ngx-animated-counter ![GitHub Repo Stars](https://img.shields.io/github/stars/BugSplat-Git/ngx-animated-counter) ![GitHub last commit](https://img.shields.io/github/last-commit/BugSplat-Git/ngx-animated-counter)](https://github.com/BugSplat-Git/ngx-animated-counter) - BugSplat's library provides simple count up and count down number animations.
 
 #### Breadcrumbs
 
@@ -1036,6 +1037,7 @@ become an Angular expert.
 * [dhutaryan/ngx-mat-timepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/dhutaryan/ngx-mat-timepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dhutaryan/ngx-mat-timepicker)](https://github.com/dhutaryan/ngx-mat-timepicker) - Material timepicker based on material design.
 * [ngx-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-timeline)](https://github.com/omnedia/ngx-timeline) - A simple component library to add an animated timeline view.
 * [ngx-prayertimes-api ![GitHub Repo Stars](https://img.shields.io/github/stars/WurshaApps/ngx-prayertimes-api) ![GitHub last commit](https://img.shields.io/github/last-commit/WurshaApps/ngx-prayertimes-api)](https://github.com/WurshaApps/ngx-prayertimes-api) - An Angular API client for [Prayer Times API](https://aladhan.com/prayer-times-api).
+* [frxjs-Ngx-Timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/emanuelefricano93/frxjs-Ngx-Timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/emanuelefricano93/frxjs-Ngx-Timeline)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
 
 #### DOM
 
