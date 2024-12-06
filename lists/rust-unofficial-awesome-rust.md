@@ -1091,7 +1091,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [dropbox/rust-brotli ![GitHub Repo Stars](https://img.shields.io/github/stars/dropbox/rust-brotli) ![GitHub last commit](https://img.shields.io/github/last-commit/dropbox/rust-brotli)](https://github.com/dropbox/rust-brotli) - Brotli decompressor that optionally avoids the stdlib
   * [ende76/brotli-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/ende76/brotli-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/ende76/brotli-rs)](https://github.com/ende76/brotli-rs) - implementation of Brotli compression
 * bzip2
-  * [alexcrichton/bzip2-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexcrichton/bzip2-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexcrichton/bzip2-rs)](https://github.com/alexcrichton/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
+  * [trifectatechfoundation/bzip2-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/trifectatechfoundation/bzip2-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/trifectatechfoundation/bzip2-rs)](https://github.com/trifectatechfoundation/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
 * gzip
   * [zopfli ![GitHub Repo Stars](https://img.shields.io/github/stars/zopfli-rs/zopfli) ![GitHub last commit](https://img.shields.io/github/last-commit/zopfli-rs/zopfli)](https://github.com/zopfli-rs/zopfli) [[zopfli](https://crates.io/crates/zopfli)] - implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
 * gzp
