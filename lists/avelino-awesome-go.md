@@ -3219,7 +3219,6 @@ _Plugin for text editors and IDEs._
 - [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof) - This extension adds benchmark profiling support for the Go language to VS Code.
 - [GoSublime ![GitHub Repo Stars](https://img.shields.io/github/stars/DisposaBoy/GoSublime) ![GitHub last commit](https://img.shields.io/github/last-commit/DisposaBoy/GoSublime)](https://github.com/DisposaBoy/GoSublime) - Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features.
 - [gounit-vim ![GitHub Repo Stars](https://img.shields.io/github/stars/hexdigest/gounit-vim) ![GitHub last commit](https://img.shields.io/github/last-commit/hexdigest/gounit-vim)](https://github.com/hexdigest/gounit-vim) - Vim plugin for generating Go tests based on the function's or method's signature.
-- [theia-go-extension ![GitHub Repo Stars](https://img.shields.io/github/stars/theia-ide/theia-go-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/theia-ide/theia-go-extension)](https://github.com/theia-ide/theia-go-extension) - Go language support for the Theia IDE.
 - [vim-compiler-go ![GitHub Repo Stars](https://img.shields.io/github/stars/rjohnsondev/vim-compiler-go) ![GitHub last commit](https://img.shields.io/github/last-commit/rjohnsondev/vim-compiler-go)](https://github.com/rjohnsondev/vim-compiler-go) - Vim plugin to highlight syntax errors on save.
 - [vim-go ![GitHub Repo Stars](https://img.shields.io/github/stars/fatih/vim-go) ![GitHub last commit](https://img.shields.io/github/last-commit/fatih/vim-go)](https://github.com/fatih/vim-go) - Go development plugin for Vim.
 - [vscode-go ![GitHub Repo Stars](https://img.shields.io/github/stars/golang/vscode-go) ![GitHub last commit](https://img.shields.io/github/last-commit/golang/vscode-go)](https://github.com/golang/vscode-go) - Extension for Visual Studio Code (VS Code) which provides support for the Go language.
@@ -3684,7 +3683,6 @@ _Add the group of your city/country here (send **PR**)_
 - [Golang Nugget](https://golangnugget.com) - A weekly roundup of the best Go content, delivered to your inbox every Monday.
 - [Golang Resources](https://golangresources.com) - A curation of the best articles, exercises, talks and videos to learn Go.
 - [Golang Weekly](https://discu.eu/weekly/golang/) - Each monday projects, tutorials and articles about Go.
-- [golang-graphics ![GitHub Repo Stars](https://img.shields.io/github/stars/mholt/golang-graphics) ![GitHub last commit](https://img.shields.io/github/last-commit/mholt/golang-graphics)](https://github.com/mholt/golang-graphics) - Collection of Go images, graphics, and art.
 - [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - Go mailing list.
 - [Google Plus Community](https://plus.google.com/communities/114112804251407510571) - The Google+ community for #golang enthusiasts.
 - [Gopher Community Chat](https://invite.slack.golangbridge.org) - Join Our New Slack Community For Gophers ([Understand how it came](https://blog.gopheracademy.com/gophers-slack-community/)).
