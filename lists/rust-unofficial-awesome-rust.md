@@ -304,6 +304,8 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
   * [dust ![GitHub Repo Stars](https://img.shields.io/github/stars/kelpsyberry/dust) ![GitHub last commit](https://img.shields.io/github/last-commit/kelpsyberry/dust)](https://github.com/kelpsyberry/dust) - A Nintendo DS emulator
 * PlayStation 4
   * [Obliteration ![GitHub Repo Stars](https://img.shields.io/github/stars/obhq/obliteration) ![GitHub last commit](https://img.shields.io/github/last-commit/obhq/obliteration)](https://github.com/obhq/obliteration) - Experimental PS4 emulator for Windows, macOS and Linux [![CI ![GitHub Repo Stars](https://img.shields.io/github/stars/obhq/obliteration) ![GitHub last commit](https://img.shields.io/github/last-commit/obhq/obliteration)](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
+* Shockwave Player
+  * [DirPlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/igorlira/dirplayer-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/igorlira/dirplayer-rs)](https://github.com/igorlira/dirplayer-rs) - A web-compatible Shockwave Player emulator written in Rust
 * ZX Spectrum
   * [rustzx/rustzx ![GitHub Repo Stars](https://img.shields.io/github/stars/rustzx/rustzx) ![GitHub last commit](https://img.shields.io/github/last-commit/rustzx/rustzx)](https://github.com/rustzx/rustzx) - [![RustZX CI ![GitHub Repo Stars](https://img.shields.io/github/stars/rustzx/rustzx) ![GitHub last commit](https://img.shields.io/github/last-commit/rustzx/rustzx)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
 
