@@ -97,6 +97,7 @@ next to it. This icon means the component is part of the official
   * [database ![GitHub Repo Stars](https://img.shields.io/github/stars/susom/database) ![GitHub last commit](https://img.shields.io/github/last-commit/susom/database)](https://github.com/susom/database) - Client for Oracle, PostgreSQL, SQL Server, HyperSQL, etc. designed for security, correctness, and ease of use.
   * [jOOQ ![GitHub Repo Stars](https://img.shields.io/github/stars/jklingsporn/vertx-jooq) ![GitHub last commit](https://img.shields.io/github/last-commit/jklingsporn/vertx-jooq)](https://github.com/jklingsporn/vertx-jooq) - Doing typesafe, asynchronous SQL and generate code using jOOQ.
   * [jOOQx ![GitHub Repo Stars](https://img.shields.io/github/stars/zero88/jooqx) ![GitHub last commit](https://img.shields.io/github/last-commit/zero88/jooqx)](https://github.com/zero88/jooqx) - Leverages the power of typesafe SQL from `jOOQ DSL` and uses the reactive and non-blocking SQL driver from Vert.x.
+  * [Exposed Vert.x SQL Client ![GitHub Repo Stars](https://img.shields.io/github/stars/huanshankeji/exposed-vertx-sql-client) ![GitHub last commit](https://img.shields.io/github/last-commit/huanshankeji/exposed-vertx-sql-client)](https://github.com/huanshankeji/exposed-vertx-sql-client) - Kotlin's [Exposed ![GitHub Repo Stars](https://img.shields.io/github/stars/JetBrains/Exposed) ![GitHub last commit](https://img.shields.io/github/last-commit/JetBrains/Exposed)](https://github.com/JetBrains/Exposed) on top of [Vert.x Reactive SQL Client ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-vertx/vertx-sql-client) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-vertx/vertx-sql-client)](https://github.com/eclipse-vertx/vertx-sql-client).
 
 * NoSQL Databases
   * [MongoDB ![GitHub Repo Stars](https://img.shields.io/github/stars/vert-x3/vertx-mongo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/vert-x3/vertx-mongo-client)](https://github.com/vert-x3/vertx-mongo-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - An asynchronous client for interacting with a MongoDB database.
@@ -391,6 +392,7 @@ next to it. This icon means the component is part of the official
 * [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
 
 ## Articles
+
 * [Embracing Reactive Applications on JVM: a Deep Dive into Modern I/O Models and Vert.x](https://www.infoq.com/articles/reactive-java-vertx-deep-dive/)
 * [Going reactive with Eclipse Vert.x and RX Java](https://blogs.oracle.com/javamagazine/post/going-reactive-with-eclipse-vertx-and-rxjava)
 * [Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More](https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features)
