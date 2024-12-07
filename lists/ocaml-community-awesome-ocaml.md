@@ -339,7 +339,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - [lablgtk](https://garrigue.github.io/lablgtk/) — GTK2 and GTK3 bindings for OCaml with various higher-level facilities to define GUIs.
 - [lablqml ![GitHub Repo Stars](https://img.shields.io/github/stars/Kakadu/lablqml) ![GitHub last commit](https://img.shields.io/github/last-commit/Kakadu/lablqml)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
-- [labltk](https://forge.ocamlcore.org/projects/labltk/) ��� Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
+- [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 - [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
 - [Lambda-Term ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/lambda-term) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/lambda-term)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, and colors, as well as a set of widgets to write curses-like applications.
 - [Notty ![GitHub Repo Stars](https://img.shields.io/github/stars/pqwy/notty) ![GitHub last commit](https://img.shields.io/github/last-commit/pqwy/notty)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
@@ -417,7 +417,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ppx_deriving_yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/whitequark/ppx_deriving_yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/whitequark/ppx_deriving_yojson)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 - **Tools and Language Extensions**:
   - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
-  - [Fan](http://bobzhang.github.io/fan/) ��� Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
+  - [Fan](http://bobzhang.github.io/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
   - [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
 
