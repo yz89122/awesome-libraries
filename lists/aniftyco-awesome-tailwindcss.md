@@ -80,7 +80,7 @@
 - 💼 [Brand Colors ![GitHub Repo Stars](https://img.shields.io/github/stars/praveenjuge/tailwindcss-brand-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/praveenjuge/tailwindcss-brand-colors)](https://github.com/praveenjuge/tailwindcss-brand-colors) - Adds various brand colors for background, border and text.
 - 💼 [Bootstrap Grid ![GitHub Repo Stars](https://img.shields.io/github/stars/karolis-sh/tailwind-bootstrap-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/karolis-sh/tailwind-bootstrap-grid)](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
 - 💼 [Dot & Grid Backgrounds ![GitHub Repo Stars](https://img.shields.io/github/stars/TheNaubit/tailwind-dot-grid-backgrounds) ![GitHub last commit](https://img.shields.io/github/last-commit/TheNaubit/tailwind-dot-grid-backgrounds)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
-- �� [Leading Trim ![GitHub Repo Stars](https://img.shields.io/github/stars/stormwarning/tailwindcss-capsize) ![GitHub last commit](https://img.shields.io/github/last-commit/stormwarning/tailwindcss-capsize)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize ![GitHub Repo Stars](https://img.shields.io/github/stars/seek-oss/capsize) ![GitHub last commit](https://img.shields.io/github/last-commit/seek-oss/capsize)](https://github.com/seek-oss/capsize).
+- 💼 [Leading Trim ![GitHub Repo Stars](https://img.shields.io/github/stars/stormwarning/tailwindcss-capsize) ![GitHub last commit](https://img.shields.io/github/last-commit/stormwarning/tailwindcss-capsize)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize ![GitHub Repo Stars](https://img.shields.io/github/stars/seek-oss/capsize) ![GitHub last commit](https://img.shields.io/github/last-commit/seek-oss/capsize)](https://github.com/seek-oss/capsize).
 - 💼 [Scrollbar Hide ![GitHub Repo Stars](https://img.shields.io/github/stars/reslear/tailwind-scrollbar-hide) ![GitHub last commit](https://img.shields.io/github/last-commit/reslear/tailwind-scrollbar-hide)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 - 💼 [Fluid Type ![GitHub Repo Stars](https://img.shields.io/github/stars/davidhellmann/tailwindcss-fluid-type) ![GitHub last commit](https://img.shields.io/github/last-commit/davidhellmann/tailwindcss-fluid-type)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
 - 💼 [Grid Areas ![GitHub Repo Stars](https://img.shields.io/github/stars/SavvyWombat/tailwindcss-grid-areas) ![GitHub last commit](https://img.shields.io/github/last-commit/SavvyWombat/tailwindcss-grid-areas)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
@@ -162,7 +162,7 @@
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
-- ����🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
+- 🎨🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 
 ## UI Libraries, Components & Templates
 
@@ -225,7 +225,7 @@
 - 🧩 [Penguin UI](https://www.penguinui.com) - Plug-n-play UI component library for Tailwind CSS & Alpine JS.
 - 🧩 [Motion Primitives](https://motion-primitives.com) - React motion components built with Tailwind CSS and Framer Motion.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
-- 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
+- ��� [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
 - 📁 [Tailwind Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindadmin/admin) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindadmin/admin)](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 - 📁 [Landing Gradients](https://landing-gradients.netlify.app) - Landing page template using gradients (1.7+).
