@@ -395,7 +395,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [paperspace](https://www.paperspace.com/) — Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.
   * [RepoForge](https://repoforge.io) - Private cloud-hosted repository for Python, Debian, NPM packages and Docker registries. Free plan for open source/public projects.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆��� Back to Top](#table-of-contents)**
 
 ## Tools for Teams and Collaboration
 
