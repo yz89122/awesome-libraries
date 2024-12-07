@@ -9,6 +9,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## Contents
 
 - [Official Packages](#official-packages)
+- [Top PocketBase-specific Projects (>100 stars)](top-pocketbase-specific-projects---100-stars-)
 - [Major Community Projects](#major-community-projects)
 - [JSVM Plugins](#jsvm-plugins)
 - [Go Plugins](#go-plugins)
@@ -41,10 +42,10 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [PocketBase Typegen ![GitHub Repo Stars](https://img.shields.io/github/stars/patmood/pocketbase-typegen) ![GitHub last commit](https://img.shields.io/github/last-commit/patmood/pocketbase-typegen)](https://github.com/patmood/pocketbase-typegen) - Generate TypeScript types from the SQLite db file. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/pocketbase-typegen)
 - [PocketBase Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/muchobien/pocketbase-docker)](https://github.com/muchobien/pocketbase-docker) - Docker setup supporting multiple architectures and automatically updated with PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker)
 - [PocketBase+Stripe ![GitHub Repo Stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-stripe) ![GitHub last commit](https://img.shields.io/github/last-commit/mrwyndham/pocketbase-stripe)](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for Stripe subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-stripe)
+- [PocketBase+Lemonsqueezy ![GitHub Repo Stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-lemonsqueezy) ![GitHub last commit](https://img.shields.io/github/last-commit/mrwyndham/pocketbase-lemonsqueezy)](https://github.com/mrwyndham/pocketbase-lemonsqueezy) - Go extended PocketBase for Lemonsqueezy subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-lemonsqueezy)
 - [SvelteKit Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/spinspire/pocketbase-sveltekit-starter)](https://github.com/spinspire/pocketbase-sveltekit-starter) - A starter-kit showing how to use customized PocketBase as a backend to SvelteKit frontend. ![GitHub Repo stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter)
 - [SvelteKit Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/danawoodman/sveltekit-auth-example) ![GitHub last commit](https://img.shields.io/github/last-commit/danawoodman/sveltekit-auth-example)](https://github.com/danawoodman/sveltekit-auth-example) - This project is designed as a sample implementation reference for getting authentication setup using SvelteKit. ![GitHub Repo stars](https://img.shields.io/github/stars/danawoodman/sveltekit-auth-example)
 - [SvelteKit PocketBase Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/jianyuan/pocketbase-sveltekit-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/jianyuan/pocketbase-sveltekit-auth)](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Demo login and registration pages with examples. [video](https://youtu.be/AxPB3e-3yEM). ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-sveltekit-auth)
-
 
 ## Major Community Projects
 
@@ -55,9 +56,9 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## JSVM Plugins
 
-* [pocketbase-otp ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/pocketbase-otp)](https://github.com/benallfree/pocketbase-otp) - One-Time Passwords for <=v0.22.* ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp)
-* [pocketpages ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/pocketpages) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/pocketpages)](https://github.com/benallfree/pocketpages) - Server-side EJS pages for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
-* [pocketbase-presigned-urls ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/pocketbase-presigned-urls)](https://github.com/benallfree/pocketbase-presigned-urls) - Serve file uploads from presigned S3 URLs. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls)
+- [pocketbase-otp ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/pocketbase-otp)](https://github.com/benallfree/pocketbase-otp) - One-Time Passwords for <=v0.22.* ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp)
+- [pocketpages ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/pocketpages) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/pocketpages)](https://github.com/benallfree/pocketpages) - Server-side EJS pages for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
+- [pocketbase-presigned-urls ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/pocketbase-presigned-urls)](https://github.com/benallfree/pocketbase-presigned-urls) - Serve file uploads from presigned S3 URLs. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls)
 
 ## Go Plugins
 
@@ -172,4 +173,3 @@ Ports of NPM/Node.js packages to the PocketBase JSVM.
 | [Node.js](https://nodejs.org/docs/latest/api/) | [pocketbase-node ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/pocketbase-node)](https://github.com/benallfree/pocketbase-node) | Node.js core packages (`fs`, `process`, etc)                   | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) |
 | [ejs ![GitHub Repo Stars](https://img.shields.io/github/stars/mde/ejs) ![GitHub last commit](https://img.shields.io/github/last-commit/mde/ejs)](https://github.com/mde/ejs)              | [pocketbase-ejs ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/pocketbase-ejs)](https://github.com/benallfree/pocketbase-ejs)   | Embedded JavaScript templates - [http://ejs.co](http://ejs.co) | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
 | [marked ![GitHub Repo Stars](https://img.shields.io/github/stars/markedjs/marked) ![GitHub last commit](https://img.shields.io/github/last-commit/markedjs/marked)](https://github.com/markedjs/marked)   | ✅ works without changes                                         | A markdown parser and compiler. Built for speed.               | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
-
