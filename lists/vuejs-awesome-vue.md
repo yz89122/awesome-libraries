@@ -439,7 +439,7 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立开发者训练营：Vue 前端应��开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
@@ -524,7 +524,7 @@
 - [Vue vs React: Which is the better framework?](https://buttercms.com/blog/vue-vs-react-which-is-the-better-framework)
 - [Building a Beautiful Animated News App with Vue.js and Vuetify](https://buttercms.com/blog/build-a-beautiful-animated-news-app-with-vuejs-and-vuetify)
 - [Comparing Angular vs Vue](https://buttercms.com/blog/comparing-angular-vs-vue)
-- [Vue vs. React – Which Should You Pick For Your Next Web Project?](https://www.ideamotive.co/blog/vue-vs-react?utm_source=github.com&utm_medium=social&utm_campaign=vue-vs-react)
+- [Vue vs. React ��� Which Should You Pick For Your Next Web Project?](https://www.ideamotive.co/blog/vue-vs-react?utm_source=github.com&utm_medium=social&utm_campaign=vue-vs-react)
 - [Vue.js from scratch series](https://www.youtube.com/playlist?list=PLLhEJK7fQIxDWDJEyeT68wT8ZroODeRuw) on YouTube by Paris Nakita Kejser
 - [10 Quick-Fire Vue Interview Questions](https://medium.com/javascript-in-plain-english/10-quick-fire-vue-interview-questions-3c16d14a3b51)
 - [VueJS Admin Template](https://themeselection.com/vuejs-admin-template/) - Collection of awesome opens source and premium VueJS Admin Templates.
