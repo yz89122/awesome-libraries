@@ -3554,7 +3554,7 @@ _Where to discover new Go libraries._
 - [gophers ![GitHub Repo Stars](https://img.shields.io/github/stars/egonelbre/gophers) ![GitHub last commit](https://img.shields.io/github/last-commit/egonelbre/gophers)](https://github.com/egonelbre/gophers) - Free gophers.
 - [gophers ![GitHub Repo Stars](https://img.shields.io/github/stars/rogeralsing/gophers) ![GitHub last commit](https://img.shields.io/github/last-commit/rogeralsing/gophers)](https://github.com/rogeralsing/gophers) - random gopher graphics.
 - [gophers ![GitHub Repo Stars](https://img.shields.io/github/stars/sillecelik/go-gopher) ![GitHub last commit](https://img.shields.io/github/last-commit/sillecelik/go-gopher)](https://github.com/sillecelik/go-gopher) - Gopher amigurumi toy pattern.
-- [gophers ![GitHub Repo Stars](https://img.shields.io/github/stars/scraly/gophers) ![GitHub last commit](https://img.shields.io/github/last-commit/scraly/gophers)](https://github.com/scraly/gophers) - Gophers by Aur��lie Vache.
+- [gophers ![GitHub Repo Stars](https://img.shields.io/github/stars/scraly/gophers) ![GitHub last commit](https://img.shields.io/github/last-commit/scraly/gophers)](https://github.com/scraly/gophers) - Gophers by Aurélie Vache.
 
 **[⬆ back to top](#contents)**
 
