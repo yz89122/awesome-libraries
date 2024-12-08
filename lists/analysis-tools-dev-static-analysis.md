@@ -2343,7 +2343,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <h2>git</h2>
 
 
-- [commitlint](https://commitlint.js.org) — checks if your commit messages meet the conventional commit format
+- [commitlint](https://commitlint.js.org) �� checks if your commit messages meet the conventional commit format
 
 - [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
