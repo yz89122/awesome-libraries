@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -343,7 +343,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [ESBMC](http://esbmc.org) — ESBMC is an open source, permissively licensed, context-bounded model checker based on satisfiability modulo theories for the verification of single- and multi-threaded C/C++ programs.
 
-- [flawfinder](http://dwheeler.com/flawfinder/) :warning: — Finds possible security weaknesses.
+- [flawfinder](http://dwheeler.com/flawfinder/) :warning: ��� Finds possible security weaknesses.
 
 - [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) :warning: — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 
@@ -745,7 +745,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [xo ![GitHub Repo Stars](https://img.shields.io/github/stars/xojs/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/xojs/xo)](https://github.com/xojs/xo) — Opinionated but configurable ESLint wrapper with lots of goodies included. Enforces strict and readable code.
 
-- [yardstick ![GitHub Repo Stars](https://img.shields.io/github/stars/calmh/yardstick) ![GitHub last commit](https://img.shields.io/github/last-commit/calmh/yardstick)](https://github.com/calmh/yardstick) :warning: ��� Javascript code metrics.
+- [yardstick ![GitHub Repo Stars](https://img.shields.io/github/stars/calmh/yardstick) ![GitHub last commit](https://img.shields.io/github/last-commit/calmh/yardstick)](https://github.com/calmh/yardstick) :warning: — Javascript code metrics.
 
 
 <a name="julia" />
@@ -2343,7 +2343,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <h2>git</h2>
 
 
-- [commitlint](https://commitlint.js.org) — checks if your commit messages meet the conventional commit format
+- [commitlint](https://commitlint.js.org) �� checks if your commit messages meet the conventional commit format
 
 - [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
