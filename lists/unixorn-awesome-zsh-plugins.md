@@ -278,6 +278,7 @@ A fast, configurable, shell plugin manager.
 An easy solution for managing your shell environments. Works with both `bash` and `zsh`. Makes it easy to sync your environment across multiple machines with a `git` repository.
 
 ### [TheFly ![GitHub Repo Stars](https://img.shields.io/github/stars/joknarf/thefly) ![GitHub last commit](https://img.shields.io/github/last-commit/joknarf/thefly)](https://github.com/joknarf/thefly)
+!GitHub last commit](https://img.shields.io/github/last-commit/joknarf/thefly) ![GitHub Repo stars](https://img.shields.io/github/stars/joknarf/thefly)
 
 `bash`/`zsh`/`ksh` plugin manager and env teleporter
 
@@ -1601,7 +1602,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [zflai ![GitHub Repo Stars](https://img.shields.io/github/stars/zdharma-continuum/zflai) ![GitHub last commit](https://img.shields.io/github/last-commit/zdharma-continuum/zflai)](https://github.com/zdharma-continuum/zflai) - A fast logging framework for ZSH.
 - [zfzf ![GitHub Repo Stars](https://img.shields.io/github/stars/b0o/zfzf) ![GitHub last commit](https://img.shields.io/github/last-commit/b0o/zfzf)](https://github.com/b0o/zfzf) - A fzf-powered file picker for ZSH which allows you to quickly navigate the directory hierarchy.
 - [zgen-compinit-tweak ![GitHub Repo Stars](https://img.shields.io/github/stars/seletskiy/zsh-zgen-compinit-tweak) ![GitHub last commit](https://img.shields.io/github/last-commit/seletskiy/zsh-zgen-compinit-tweak)](https://github.com/seletskiy/zsh-zgen-compinit-tweak) - Make `compinit` run only once after all loading is done by [zgen ![GitHub Repo Stars](https://img.shields.io/github/stars/tarjoilija/zgen) ![GitHub last commit](https://img.shields.io/github/last-commit/tarjoilija/zgen)](https://github.com/tarjoilija/zgen).
-- [zgenom-ext-eval ![GitHub Repo Stars](https://img.shields.io/github/stars/jandamm/zgenom-ext-eval) ![GitHub last commit](https://img.shields.io/github/last-commit/jandamm/zgenom-ext-eval)](https://github.com/jandamm/zgenom-ext-eval/) - Zgenom extension for creating plugins inline.
+- [zgenom-ext-eval ![GitHub Repo Stars](https://img.shields.io/github/stars/jandamm/zgenom-ext-eval) ![GitHub last commit](https://img.shields.io/github/last-commit/jandamm/zgenom-ext-eval)](https://github.com/jandamm/zgenom-ext-eval/) - [zgenom ![GitHub Repo Stars](https://img.shields.io/github/stars/jandamm/zgenom) ![GitHub last commit](https://img.shields.io/github/last-commit/jandamm/zgenom)](https://github.com/jandamm/zgenom) extension for creating plugins inline.
 - [zhooks ![GitHub Repo Stars](https://img.shields.io/github/stars/agkozak/zhooks) ![GitHub last commit](https://img.shields.io/github/last-commit/agkozak/zhooks)](https://github.com/agkozak/zhooks) - Displays the contents of any ZSH hook arrays and the code of any hook functions that have been defined. Useful for debugging.
 - [zi-rbenv ![GitHub Repo Stars](https://img.shields.io/github/stars/z-shell/zi-rbenv) ![GitHub last commit](https://img.shields.io/github/last-commit/z-shell/zi-rbenv)](https://github.com/z-shell/zi-rbenv) - Fast `rbenv` loads if you're using [zi ![GitHub Repo Stars](https://img.shields.io/github/stars/z-shell/zi) ![GitHub last commit](https://img.shields.io/github/last-commit/z-shell/zi)](https://github.com/z-shell/zi/).
 - [zimfw-extras ![GitHub Repo Stars](https://img.shields.io/github/stars/PatTheMav/zimfw-extras) ![GitHub last commit](https://img.shields.io/github/last-commit/PatTheMav/zimfw-extras)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw ![GitHub Repo Stars](https://img.shields.io/github/stars/zimfw/zimfw) ![GitHub last commit](https://img.shields.io/github/last-commit/zimfw/zimfw)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
@@ -1852,8 +1853,6 @@ These plugins add tab completions without adding extra functions or aliases.
 - [zpacman ![GitHub Repo Stars](https://img.shields.io/github/stars/Yttehs-HDX/zsh-zpacman) ![GitHub last commit](https://img.shields.io/github/last-commit/Yttehs-HDX/zsh-zpacman)](https://github.com/Yttehs-HDX/zsh-zpacman/) - Add tab completions for [zpacman ![GitHub Repo Stars](https://img.shields.io/github/stars/Yttehs-HDX/zpacman.git) ![GitHub last commit](https://img.shields.io/github/last-commit/Yttehs-HDX/zpacman.git)](https://github.com/Yttehs-HDX/zpacman.git).
 
 ## Themes
-
-If you're using [Antigen ![GitHub Repo Stars](https://img.shields.io/github/stars/zsh-users/antigen) ![GitHub last commit](https://img.shields.io/github/last-commit/zsh-users/antigen)](https://github.com/zsh-users/antigen), you can test these themes in a running ZSH with `antigen theme githubuser/repo`. If you're using [zgenom ![GitHub Repo Stars](https://img.shields.io/github/stars/jandamm/zgenom) ![GitHub last commit](https://img.shields.io/github/last-commit/jandamm/zgenom)](https://github.com/jandamm/zgenom), add them to your `init.zsh` with `zgenom load githubuser/reponame`.
 
 - [021011 ![GitHub Repo Stars](https://img.shields.io/github/stars/guesswhozzz/021011.zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/guesswhozzz/021011.zsh-theme)](https://github.com/guesswhozzz/021011.zsh-theme) - Minimalist. Includes a single `git` marker for VS Code.
 - [0i0 ![GitHub Repo Stars](https://img.shields.io/github/stars/0i0/0i0.zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/0i0/0i0.zsh-theme)](https://github.com/0i0/0i0.zsh-theme) - Optimized for dark terminal windows, uses nerdfont `git` status decorations.
@@ -2943,7 +2942,7 @@ Zgen is not being actively maintained. I recommend that you switch to the [Zgeno
 
 ### [Zgenom ![GitHub Repo Stars](https://img.shields.io/github/stars/jandamm/zgenom) ![GitHub last commit](https://img.shields.io/github/last-commit/jandamm/zgenom)](https://github.com/jandamm/zgenom)
 
-Most of these plugins can be installed by adding `zgenom load githubuser/reponame` to your .zshrc file in the same function you're doing your other `zgenom load` calls in.
+Most of these plugins can be installed by adding `zgenom load githubuser/reponame` to your `.zshrc` file in the same function you're doing your other `zgenom load` calls in.
 
 Zgenom will automatically clone the plugin repositories for you when you do a `zgenom save`.
 
