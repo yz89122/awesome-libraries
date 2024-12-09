@@ -203,6 +203,10 @@ Around the OpenAI API:
 
 demos: [cl-rag-example ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/cl-rag-example) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/cl-rag-example)](https://github.com/atgreen/cl-rag-example) and [cl-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/cl-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/cl-chat)](https://github.com/atgreen/cl-chat), a LLM chat library and web UI.
 
+Work In Progress:
+
+* [Caten ![GitHub Repo Stars](https://img.shields.io/github/stars/hikettei/Caten) ![GitHub last commit](https://img.shields.io/github/last-commit/hikettei/Caten)](https://github.com/hikettei/Caten) -  Deep Learning Compiler based on Polyhedral Compiler and Light-weight IRs, and Optimizing Pattern Matcher, written in Common Lisp
+
 Educational:
 
 * [PAIP-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/norvig/paip-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/norvig/paip-lisp)](https://github.com/norvig/paip-lisp) - Lisp code for the textbook ["Paradigms of Artificial Intelligence Programming"](https://norvig.github.io/paip-lisp/#/).
@@ -626,6 +630,7 @@ windows dynamically using Lisp code and bypass the typical Xcode
 processes. It has
 [good documentation and a tutorial ![GitHub Repo Stars](https://img.shields.io/github/stars/plkrueger/CocoaInterface) ![GitHub last commit](https://img.shields.io/github/last-commit/plkrueger/CocoaInterface)](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf).
 * [McCLIM](https://common-lisp.net/project/mcclim/) - An implementation of the Common Lisp Interface Manager, version II. [GNU LGPL2.1][11].
+  * example project: a Lem editor CLIM interface: [discussion ![GitHub Repo Stars](https://img.shields.io/github/stars/lem-project/lem) ![GitHub last commit](https://img.shields.io/github/last-commit/lem-project/lem)](https://github.com/lem-project/lem/discussions/1311#discussioncomment-10203860), [screenshot](https://framapiaf.org/@frescosecco@mastodon.social/112909105163460836).
 * [cl-webkit ![GitHub Repo Stars](https://img.shields.io/github/stars/joachifm/cl-webkit) ![GitHub last commit](https://img.shields.io/github/last-commit/joachifm/cl-webkit)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT][200].
 * [ftw ![GitHub Repo Stars](https://img.shields.io/github/stars/fjames86/ftw) ![GitHub last commit](https://img.shields.io/github/last-commit/fjames86/ftw)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT][200].
 * [eql, eql5, eql5-android](https://gitlab.com/eql) - Embedded Qt4 and Qt5 Lisp, embedded in ECL, embeddable in Qt. Port of EQL5 to the Android platform. [MIT][200].
@@ -1156,6 +1161,11 @@ See OpenAPI, OData and other libraries below.
   - example code bases: [Ultralisp ![GitHub Repo Stars](https://img.shields.io/github/stars/ultralisp/ultralisp) ![GitHub last commit](https://img.shields.io/github/last-commit/ultralisp/ultralisp)](https://github.com/ultralisp/ultralisp/), [krasnodar ![GitHub Repo Stars](https://img.shields.io/github/stars/lct23/krasnodar) ![GitHub last commit](https://img.shields.io/github/last-commit/lct23/krasnodar)](https://github.com/lct23/krasnodar), a dashboard made for a hackaton (2024) ([demo video](https://diode.zone/videos/watch/9e379a86-c530-4e9d-b8be-7437b1f7200b)).
 * [Interactive SSR ![GitHub Repo Stars](https://img.shields.io/github/stars/interactive-ssr/client) ![GitHub last commit](https://img.shields.io/github/last-commit/interactive-ssr/client)](https://github.com/interactive-ssr/client/blob/master/main.org/) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary.
   - it is not unlike Phoenix LiveView or Hotwire.
+
+CLOG-based frameworks:
+
+- [mold-desktop](https://codeberg.org/mmontone/mold-desktop) - a programmable desktop.
+- [WIP] [clog-moldable-inspector](https://codeberg.org/khinsen/clog-moldable-inspector) - A moldable Common Lisp object inspector based on CLOG. The inspector is thus shown in a Web browser.
 
 
 Parsing html

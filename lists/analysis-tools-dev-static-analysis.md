@@ -462,7 +462,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [elm-analyse](https://stil4m.github.io/elm-analyse) :warning: — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 
-- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) �� Analyzes whole Elm projects, with a focus on shareable and custom rules written in Elm that add guarantees the Elm compiler doesn't give you.
+- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — Analyzes whole Elm projects, with a focus on shareable and custom rules written in Elm that add guarantees the Elm compiler doesn't give you.
 
 
 <a name="erlang" />
@@ -647,7 +647,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [ckjm](http://www.spinellis.gr/sw/ckjm) — Calculates Chidamber and Kemerer object-oriented metrics by processing the bytecode of compiled Java files.
 
-- [CogniCrypt](https://www.eclipse.org/cognicrypt) — Checks Java source and byte code for incorrect uses of cryptographic APIs.
+- [CogniCrypt](https://www.eclipse.org/cognicrypt) :warning: — Checks Java source and byte code for incorrect uses of cryptographic APIs.
 
 - [Dataflow Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/typetools/checker-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/typetools/checker-framework)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
 
@@ -703,7 +703,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
 
-- [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
+- [Closure Compiler](https://developers.google.com/closure/compiler) �� A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 
 - [ClosureLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/google/closure-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-linter)](https://github.com/google/closure-linter) :warning: — Ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors.
 
@@ -879,7 +879,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [php7mar ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexia/php7mar) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexia/php7mar)](https://github.com/Alexia/php7mar) :warning: — Assist developers in porting their code quickly to PHP 7.
 
-- [PHP_CodeSniffer](https://pear.php.net/package/PHP_CodeSniffer) — Detects violations of a defined set of coding standards.
+- [PHP_CodeSniffer](https://pear.php.net/package/PHP_CodeSniffer) :warning: — Detects violations of a defined set of coding standards.
 
 - [PHPArkitect ![GitHub Repo Stars](https://img.shields.io/github/stars/phparkitect/arkitect) ![GitHub last commit](https://img.shields.io/github/last-commit/phparkitect/arkitect)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
@@ -2356,7 +2356,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 - [Code Quality Checker Tools For PHP Projects ![GitHub Repo Stars](https://img.shields.io/github/stars/collections/code-quality-in-php) ![GitHub last commit](https://img.shields.io/github/last-commit/collections/code-quality-in-php)](https://github.com/collections/code-quality-in-php) — A collection of PHP linters in github collections
 - [go-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/dominikh/go-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dominikh/go-tools)](https://github.com/dominikh/go-tools) — A collection of tools and libraries for working with Go code, including linters and static analysis
 - [linters ![GitHub Repo Stars](https://img.shields.io/github/stars/mcandre/linters) ![GitHub last commit](https://img.shields.io/github/last-commit/mcandre/linters)](https://github.com/mcandre/linters) — An introduction to static code analysis
-- [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) — List of tools maintained by the Open Web Application Security Project
+- [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) �� List of tools maintained by the Open Web Application Security Project
 - [php-static-analysis-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/exakat/php-static-analysis-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/exakat/php-static-analysis-tools)](https://github.com/exakat/php-static-analysis-tools) — A reviewed list of useful PHP static analysis tools
 - [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) — A list of tools for static code analysis.
 
