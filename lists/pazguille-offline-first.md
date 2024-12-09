@@ -820,7 +820,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 (Natasha Rooney - Mar 6, 2015)
 
 [TGIF - Offline-first](http://codekult.github.io/tgif-offline-first/)
-(Diego Calderón - Jan 30, 2015)
+(Diego Calder��n - Jan 30, 2015)
 
 [ServiceWorkers and High Performance Offline Apps](https://huffduffer.com/AlanDalton/202718)
 (AlanDalton - Jan 13, 2015)
