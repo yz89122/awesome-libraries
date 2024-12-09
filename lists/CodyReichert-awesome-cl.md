@@ -1012,6 +1012,7 @@ Community
 * #lispcafe on Libera Chat - IRC channel for off-topic discussions.
 * [Planet Lisp](http://planet.lisp.org/) - A meta blog that collects the contents of various Lisp-related blogs.
 * [Common Lisp chat](https://chat.hexstreamsoft.com/) - Keybase team with well-defined rules and retention policies.
+* [Lisp Jabber/XMPP channel](https://xmpp.link/#lisp@conference.a3.pm?join)
 
 Library Manager
 ===============
