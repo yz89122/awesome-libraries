@@ -745,7 +745,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [xo ![GitHub Repo Stars](https://img.shields.io/github/stars/xojs/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/xojs/xo)](https://github.com/xojs/xo) — Opinionated but configurable ESLint wrapper with lots of goodies included. Enforces strict and readable code.
 
-- [yardstick ![GitHub Repo Stars](https://img.shields.io/github/stars/calmh/yardstick) ![GitHub last commit](https://img.shields.io/github/last-commit/calmh/yardstick)](https://github.com/calmh/yardstick) :warning: — Javascript code metrics.
+- [yardstick ![GitHub Repo Stars](https://img.shields.io/github/stars/calmh/yardstick) ![GitHub last commit](https://img.shields.io/github/last-commit/calmh/yardstick)](https://github.com/calmh/yardstick) :warning: ��� Javascript code metrics.
 
 
 <a name="julia" />
@@ -2343,7 +2343,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <h2>git</h2>
 
 
-- [commitlint](https://commitlint.js.org) ��� checks if your commit messages meet the conventional commit format
+- [commitlint](https://commitlint.js.org) — checks if your commit messages meet the conventional commit format
 
 - [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
