@@ -975,7 +975,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [ciocheck ![GitHub Repo Stars](https://img.shields.io/github/stars/ContinuumIO/ciocheck) ![GitHub last commit](https://img.shields.io/github/last-commit/ContinuumIO/ciocheck)](https://github.com/ContinuumIO/ciocheck) :warning: — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
 
-- [cohesion ![GitHub Repo Stars](https://img.shields.io/github/stars/mschwager/cohesion) ![GitHub last commit](https://img.shields.io/github/last-commit/mschwager/cohesion)](https://github.com/mschwager/cohesion) :warning: — A tool for measuring Python class cohesion.
+- [cohesion ![GitHub Repo Stars](https://img.shields.io/github/stars/mschwager/cohesion) ![GitHub last commit](https://img.shields.io/github/last-commit/mschwager/cohesion)](https://github.com/mschwager/cohesion) — A tool for measuring Python class cohesion.
 
 - [deal](https://deal.readthedocs.io/) — Design by contract for Python. Write bug-free code.  By adding a few decorators to your code, you get for free tests, static analysis, formal verification, and much more.
 
@@ -1576,11 +1576,11 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Snyk Code](https://snyk.io) :copyright: — Snyk Code finds security vulnerabilities based on AI. Its speed of analysis allow us to  analyse your code in real time and deliver results when you hit the save button in your IDE.  Supported languages are Java, JavaScript, Python, PHP, C#, Go and TypeScript. Integrations with  GitHub, BitBucket and Gitlab. It is free to try and part of the Snyk platform also covering SCA,  containers and IaC.
 
-- [SonarCloud](https://sonarcloud.io) :copyright: — SonarCloud enables your team to deliver clean code consistently and efficiently with a code review  tool that easily integrates into the cloud DevOps platforms and extend your CI/CD workflow.  SonarCloud is free for open source projects.
+- [SonarQube Cloud](https://sonarcloud.io) :copyright: — SonarQube Cloud enables your team to deliver clean code consistently and efficiently with a code review  tool that easily integrates into the cloud DevOps platforms and extend your CI/CD workflow.  SonarQube Cloud provides a free plan.
 
-- [SonarLint](https://sonarlint.org) — SonarLint is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse,  to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker.  More than a linter, it also delivers rich contextual guidance to help developers understand  why there is an issue, assess the risk, and educate them on how to fix it.
+- [SonarQube for IDE](https://sonarlint.org) — SonarQube for IDE (formerly SonarLint) is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse,  to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker.  More than a linter, it also delivers rich contextual guidance to help developers understand  why there is an issue, assess the risk, and educate them on how to fix it.
 
-- [SonarQube](https://sonarqube.org) — SonarQube empowers development teams with a code quality and security solution that deeply integrates into your enterprise environment; enabling you to deploy clean code consistently and reliably. SonarQube provides a free and open source Community Edition.
+- [SonarQube Server](https://sonarqube.org) — SonarQube empowers development teams with a code quality and security solution that deeply integrates into your enterprise environment; enabling you to deploy clean code consistently and reliably. SonarQube provides a free and open source Community Build.
 
 - [Sonatype](https://www.sonatype.com) :copyright: — Reports known vulnerabilities in common dependencies and recommends updated packages to minimize breaking changes
 
@@ -2356,7 +2356,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 - [Code Quality Checker Tools For PHP Projects ![GitHub Repo Stars](https://img.shields.io/github/stars/collections/code-quality-in-php) ![GitHub last commit](https://img.shields.io/github/last-commit/collections/code-quality-in-php)](https://github.com/collections/code-quality-in-php) — A collection of PHP linters in github collections
 - [go-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/dominikh/go-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dominikh/go-tools)](https://github.com/dominikh/go-tools) — A collection of tools and libraries for working with Go code, including linters and static analysis
 - [linters ![GitHub Repo Stars](https://img.shields.io/github/stars/mcandre/linters) ![GitHub last commit](https://img.shields.io/github/last-commit/mcandre/linters)](https://github.com/mcandre/linters) — An introduction to static code analysis
-- [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) �� List of tools maintained by the Open Web Application Security Project
+- [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) — List of tools maintained by the Open Web Application Security Project
 - [php-static-analysis-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/exakat/php-static-analysis-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/exakat/php-static-analysis-tools)](https://github.com/exakat/php-static-analysis-tools) — A reviewed list of useful PHP static analysis tools
 - [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) — A list of tools for static code analysis.
 

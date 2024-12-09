@@ -372,6 +372,7 @@ See also [Games Made With Piston ![GitHub Repo Stars](https://img.shields.io/git
 ### Message Queue
 
 * [RobustMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/robustmq/robustmq) ![GitHub last commit](https://img.shields.io/github/last-commit/robustmq/robustmq)](https://github.com/robustmq/robustmq) - Next generation cloud-native converged message queue.
+* [Rocketmq-Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/mxsm/rocketmq-rust)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
 
 ### MLOps
 
