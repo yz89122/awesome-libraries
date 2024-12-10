@@ -21,6 +21,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Community](#community)
     * [Newsletters](#newsletters)
     * [Podcasts](#podcasts)
+    * [Seasonal](#seasonal)
     * [X](#x)
       * [angular-team](#angular-team)
       * [experts](#experts)
@@ -170,6 +171,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Catch Up](https://angular-catch-up.podbean.com/)
 * [Angularidades](https://podcasts.apple.com/us/podcast/angularidades/id1702444448) - (Spanish)
 
+##### Seasonal
+
+* [Angular Christmas Calendar](https://angularchristmascalendar.com/)
+* [Angular Love Advent Calendar](https://advent.angular.love/event)
+* [Advent of TypeScript](https://www.adventofts.com/)
+
 ##### X
 
 ###### Angular Team
@@ -287,6 +294,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Daniel Kreider](https://danielk.tech/)
 * [Amadou Sall](https://www.amadousall.com/)
 * [Angular Philosophies ![GitHub Repo Stars](https://img.shields.io/github/stars/tomavic/angular-philosophies) ![GitHub last commit](https://img.shields.io/github/last-commit/tomavic/angular-philosophies)](https://github.com/tomavic/angular-philosophies)
+* [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
 
 ##### Books
 
@@ -1419,6 +1427,7 @@ to simplify usage and allow quick customization.
 * [ng-qrcode-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ng-qrcode-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ng-qrcode-svg)](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
 * [ngx-qrcode-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/ngx-qrcode-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/ngx-qrcode-generator)](https://github.com/mustafaer/ngx-qrcode-generator) - An Angular component that generates QR codes using the [QRious ![GitHub Repo Stars](https://img.shields.io/github/stars/neocotic/qrious) ![GitHub last commit](https://img.shields.io/github/last-commit/neocotic/qrious)](https://github.com/neocotic/qrious) library.
 * [ngx-scanner-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/id1945/ngx-scanner-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/id1945/ngx-scanner-qrcode)](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
+* [Angular-html5qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/mohamedfakhreldin/Angular-html5qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/mohamedfakhreldin/Angular-html5qrcode)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/mebjas/html5-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/mebjas/html5-qrcode)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
 
 #### Scroll
 
@@ -1496,6 +1505,7 @@ to simplify usage and allow quick customization.
 * [ngx-crud ![GitHub Repo Stars](https://img.shields.io/github/stars/henryruhs/ngx-crud) ![GitHub last commit](https://img.shields.io/github/last-commit/henryruhs/ngx-crud)](https://github.com/henryruhs/ngx-crud) - CRUD services in Angular with effortless aborting, caching and observing.
 * [ngx-simple-state-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/notnikola1/ngx-simple-state-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/notnikola1/ngx-simple-state-manager)](https://github.com/notnikola1/ngx-simple-state-manager) - Component-bound simple to handle state managment that is accessible application wide with type support and an observer to handle any reactive state changes if and when needed.
 * [ngx-state-machine ![GitHub Repo Stars](https://img.shields.io/github/stars/state-management/ngx-state-machine) ![GitHub last commit](https://img.shields.io/github/last-commit/state-management/ngx-state-machine)](https://github.com/state-management/ngx-state-machine) -  An Angular wrapper for the [simple-state-machine](https://www.npmjs.com/package/@state-management/simple-state-machine) library. It integrates the state machine into Angular applications by making the `StateMachine` injectable as a service.
+* [@ng-state/store ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-state/store) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-state/store)](https://github.com/ng-state/store) - RxJS and Immer (or ImmutableJs) powered nested state management for Angular applications inspired by NgRx. It is simple, fast, reliable with no boilerplate. Supports signals and injectable actions.
 
 #### Storage
 
