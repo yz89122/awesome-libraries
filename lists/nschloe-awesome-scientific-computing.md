@@ -135,7 +135,7 @@ them.
   (C/C++/Fortran/Java/Python, [custom open-source
   license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
   [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/Unidata/netcdf-c) ![GitHub last commit](https://img.shields.io/github/last-commit/Unidata/netcdf-c)](https://github.com/Unidata/netcdf-c/))
-- [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
+- [HDF5](https://www.hdfgroup.org/solutions/hdf5/) - Data model, library, and file format for storing and managing data.
   (C/Fortran, BSD, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/HDFGroup/hdf5) ![GitHub last commit](https://img.shields.io/github/last-commit/HDFGroup/hdf5)](https://github.com/HDFGroup/hdf5))
 - [XDMF](https://xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
   (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
