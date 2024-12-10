@@ -737,7 +737,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   1–4 |        13 | 60–150 Min |
+|   1��4 |        13 | 60–150 Min |
 
 ### [Barrage](https://boardgamegeek.com/boardgame/251247/barrage)
 
