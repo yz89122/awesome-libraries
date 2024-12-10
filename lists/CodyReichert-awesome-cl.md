@@ -452,6 +452,7 @@ Accessing data structures:
 Other data structures:
 
 * [bitfield ![GitHub Repo Stars](https://img.shields.io/github/stars/marcoheisig/bitfield) ![GitHub last commit](https://img.shields.io/github/last-commit/marcoheisig/bitfield)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT][200].
+* [rope ![GitHub Repo Stars](https://img.shields.io/github/stars/garlic0x1/rope) ![GitHub last commit](https://img.shields.io/github/last-commit/garlic0x1/rope)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
 
 See also:
 
@@ -817,7 +818,7 @@ Iteration
 * [series](https://series.sourceforge.net/) - Functional style without any runtime penalty at all. [MIT][200].
 * [trivial-do ![GitHub Repo Stars](https://img.shields.io/github/stars/yitzchak/trivial-do) ![GitHub last commit](https://img.shields.io/github/last-commit/yitzchak/trivial-do)](https://github.com/yitzchak/trivial-do/) -  Additional dolist style macros for Common Lisp. [MIT][200].
 * [doplus ![GitHub Repo Stars](https://img.shields.io/github/stars/alessiostalla/doplus) ![GitHub last commit](https://img.shields.io/github/last-commit/alessiostalla/doplus)](https://github.com/alessiostalla/doplus) – another extensible iteration library, similar to :for.
-* [cl-transducers](https://git.sr.ht/~fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3][9].
+* [cl-transducers](https://codeberg.org/fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3][9]. ([GitHub mirror ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/cl-transducers) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/cl-transducers)](https://github.com/fosskers/cl-transducers))
   * "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
   * "It is, in general, the most complete implementation of the Transducer pattern."
   * a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
@@ -1965,13 +1966,14 @@ Files and directories
 * ⭐ [uiop](https://common-lisp.net/project/asdf/uiop.html) and its `pathname` package
   (replaces [cl-fad](http://weitz.de/cl-fad/)). uiop is part of ASDF3
   and as thus is shipped in many implementations. [MIT][200].
-* [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems (directory iteration and deletion, environment variables, file permissions, etc) [Expat][14].
 * [pathname-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/pathname-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/pathname-utils)](https://github.com/Shinmera/pathname-utils) - A collection of utilities to help with pathname operations. [zlib][33].
   * [filesystem-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/filesystem-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/filesystem-utils)](https://github.com/Shinmera/filesystem-utils) - deal with common problems with filesystems, such as listing files, probing file types, determining default directories, etc.
   * no dependencies, doesn't access the filesystem.
   * [file-attributes ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/file-attributes) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/file-attributes)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
 * [filepaths ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/filepaths) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/filepaths)](https://github.com/fosskers/filepaths) -  Modern and consistent filepath manipulation for Common Lisp. [LGPL3][9].
   * no dependencies, doesn't access the filesystem.
+* [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems, including Windows (directory iteration and deletion, file permissions, file-type identification, etc) [Expat][14].
+  * note: Osicat isn't a pure Lisp library, it relies on compiling C code and this might make your deployment harder.
 * [ppath](https://codeberg.org/fourier/ppath) - Common Lisp's implementation of the Python's os.path module. [BSD][15].
 * [mmap ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/mmap) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/mmap)](https://github.com/Shinmera/mmap) - Portable mmap file memory mapping utility library. [zlib][33].
 * [fof](https://gitlab.com/ambrevar/fof) - File-object finder Common Lisp library. Enable rapid file search, inspection and manipulation. [GPL3][2].
