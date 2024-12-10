@@ -514,7 +514,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [dupl ![GitHub Repo Stars](https://img.shields.io/github/stars/mibk/dupl) ![GitHub last commit](https://img.shields.io/github/last-commit/mibk/dupl)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 
-- [errcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/kisielk/errcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/kisielk/errcheck)](https://github.com/kisielk/errcheck) — Check that error return values are used.
+- [errcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/kisielk/errcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/kisielk/errcheck)](https://github.com/kisielk/errcheck) �� Check that error return values are used.
 
 - [errwrap ![GitHub Repo Stars](https://img.shields.io/github/stars/fatih/errwrap) ![GitHub last commit](https://img.shields.io/github/last-commit/fatih/errwrap)](https://github.com/fatih/errwrap) — Wrap and fix Go errors with the new %w verb directive.  This tool analyzes fmt.Errorf() calls and reports calls that contain a verb directive that  is different than the new %w verb directive introduced in Go v1.13.  It's also capable of rewriting calls to use the new %w wrap verb directive.
 
@@ -871,7 +871,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP-Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 
-- [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) — PHP spell check library.
+- [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) ��� PHP spell check library.
 
 - [PHP-Token-Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: — Library emulating the PHP internal reflection.
 

@@ -1021,7 +1021,7 @@ English-language description for use by biologists.
 
 * [Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components](http://papers.NeurIPS.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf) - ***NeurIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=12691103404451941071&hl=en&as_sdt=0,5)].
 
-* [Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”](https://arxiv.org/pdf/2006.11524.pdf) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13160160974887139307&hl=en&as_sdt=0,5)].
+* [Neuro-Symbolic Visual Reasoning: Disentangling ��Visual” from “Reasoning”](https://arxiv.org/pdf/2006.11524.pdf) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13160160974887139307&hl=en&as_sdt=0,5)].
 
 * [Understanding Deep Architectures with Reasoning Layer](https://proceedings.neurips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf) - ***NeurIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=937882599430270789&hl=en&as_sdt=0,5)].
 
