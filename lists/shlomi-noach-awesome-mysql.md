@@ -86,6 +86,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 *MySQL connectors for various programming languages*
 
+- [ballerinax/mysql ![GitHub Repo Stars](https://img.shields.io/github/stars/ballerina-platform/module-ballerinax-mysql) ![GitHub last commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerinax-mysql)](https://github.com/ballerina-platform/module-ballerinax-mysql) - Official Ballerina connector for MySQL.
 - [DBD::MariaDB ![GitHub Repo Stars](https://img.shields.io/github/stars/perl5-dbi/DBD-MariaDB) ![GitHub last commit](https://img.shields.io/github/last-commit/perl5-dbi/DBD-MariaDB)](https://github.com/perl5-dbi/DBD-MariaDB) - MariaDB and MySQL driver for the Perl5 Database Interface.
 - [DBD::mysql ![GitHub Repo Stars](https://img.shields.io/github/stars/perl5-dbi/DBD-mysql) ![GitHub last commit](https://img.shields.io/github/last-commit/perl5-dbi/DBD-mysql)](https://github.com/perl5-dbi/DBD-mysql) - MySQL driver for the Perl5 Database Interface.
 - [go-sql-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/go-sql-driver/mysql) ![GitHub last commit](https://img.shields.io/github/last-commit/go-sql-driver/mysql)](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
