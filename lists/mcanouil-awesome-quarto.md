@@ -79,6 +79,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Tutorial: Create Your Website with Quarto](https://www.marvinschmitt.com/blog/website-tutorial-quarto/) - A tutorial on how to create a website using Quarto by Marvin Schmitt.
 - [Tutorial: Publish a Quarto website with Netlify](https://jadeyryan.com/blog/publish-quarto-website/) - A comprehensive blog post walking through how to create a Quarto website, connect it to GitHub, deploy & publish it with Netlify by Jadey Ryan.
 - [Workshop: Parameterized Reports with Quarto](https://jadeyryan.quarto.pub/rladies-dc-quarto-params/) - A 2-hour code-along workshop to learn parameterized reporting with `quarto` and `purrr` to generate multiple format outputs (materials: <https://github.com/jadeynryan/parameterized-quarto-workshop>).
+- [Turorials: Quarto Visual Editor and RStudio](https://youtube.com/playlist?list=PLEzw67WWDg80-fT1hq2IZf7D62tRmKy8f&si=ECVfFIH1bg6_JfjS) - A YouTube playlist of short videos tutorials for beginners to work with Quarto Visual Editor and RStudio by Andy Field.
 
 ## Blog posts
 
@@ -195,6 +196,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Silvia Canelón's website](https://silviacanelon.com) - Silvia Canelón's website customized to match the style of the Hugo Apéro blogdown theme.
 - [NASCENT-PERU website](https://nascent-peru.github.io/) - A multi-lingual (English/Spanish) website for a scientific research project using the [babelquarto ![GitHub Repo Stars](https://img.shields.io/github/stars/ropensci-review-tools/babelquarto) ![GitHub last commit](https://img.shields.io/github/last-commit/ropensci-review-tools/babelquarto)](https://github.com/ropensci-review-tools/babelquarto) package.
 - [rainbowR website](https://rainbowr.org) - rainbowR is a community for LGBTQ+ folks who code in R - its website has a rainbow colour theme, custom syntax highlighting for both light and dark modes, and some fun customisations in the navbar.
+- [Marten Walk's website](https://martenw.com/) - Academic website of Marten Walk, using a custom theme inspired by the Financial Times, with modern look and many customisations (*i.e.*, custom fonts, custom graphs, etc.).
 
 ### Book formats
 
