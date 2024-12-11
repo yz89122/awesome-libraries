@@ -256,6 +256,7 @@
 - [iabdelkareem/csharp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/iabdelkareem/csharp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/iabdelkareem/csharp.nvim)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 - [jim-at-jibba/micropython.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jim-at-jibba/micropython.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jim-at-jibba/micropython.nvim)](https://github.com/jim-at-jibba/micropython.nvim) - Enhances the development experience for developers using Micro-python for IoT and maker projects.
 - [neolooong/whichpy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neolooong/whichpy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neolooong/whichpy.nvim)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
+- [nvim-java/nvim-java ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-java/nvim-java) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-java/nvim-java)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
 
 ### Golang
 
