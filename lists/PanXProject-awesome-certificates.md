@@ -230,7 +230,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Elements of AI](https://www.elementsofai.com/) | University of Helsinki | Beginner |30 | 🏆|
 | [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | Kaggle | Intermediate | 4 | 🏆  |
 | [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Kaggle | Intermediate | 4 | 🏆 |
-| [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536) | Google Cloud Skills Boost | Intermediate | 0.75 | 🏆 |
+| [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536) | Google Cloud Skills Boost | Intermediate | 0.75 | �� |
 | [Introduction to Artificial Intelligence](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1) | Great Learning | Beginner|  1.5 | 🏆 |
 | [Foundations of Prompt Engineering](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering) | Amazon | Intermediate | 4 | 🏆 |
 | [Generative AI for Decision Makers](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers) | Amazon | Beginner| 3 | 🏆 |
@@ -338,10 +338,10 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat) | EC-Council | Beginner | 1 | �� |
+| [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat) | EC-Council | Beginner | 1 | 🏆 |
 | [Android Studio Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-studio-tutorial) | Great Learning | Beginner | 1 | 🏆 |
 | [Android App Development](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development ) | Great Learning | Beginner | 1.5 | 🏆 |
-| [Android App Development with Kotlin](https://developers.google.com/profile/badges/tier/courses/android/android-development-with-kotlin) | Google | Intermediate | 20 |  🏅 |	
+| [Android App Development with Kotlin](https://developers.google.com/profile/badges/tier/courses/android/android-development-with-kotlin) | Google | Intermediate | 20 |  �� |	
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
@@ -517,7 +517,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Apply strokes and fills in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills) | UMaine New Media | Beginner| 0.1 | 🏅 |
 | [Apply gradient in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_gradient) | UMaine New Media | intermediate| 0.1 | 🏅 |
 | [How to make an Infographic in Illustrator 1](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1) | UMaine New Media | Beginner| 0.22 | 🏅 |
-| [How to make an Infographic in Illustrator 2](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2) | UMaine New Media | Beginner| 0.2 | ��� |
+| [How to make an Infographic in Illustrator 2](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2) | UMaine New Media | Beginner| 0.2 | 🏅 |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
