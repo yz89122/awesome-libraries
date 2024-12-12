@@ -1511,6 +1511,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Eandrju/cellular-automaton.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Eandrju/cellular-automaton.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Eandrju/cellular-automaton.nvim)](https://github.com/Eandrju/cellular-automaton.nvim) - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
 - [alanfortlink/blackjack.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alanfortlink/blackjack.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alanfortlink/blackjack.nvim)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
 - [jim-fx/sudoku.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jim-fx/sudoku.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jim-fx/sudoku.nvim)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
+- [csessh/aoc.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/csessh/aoc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/csessh/aoc.nvim)](https://github.com/csessh/aoc.nvim) - Simple little elf who fetches Advent of Code puzzle input for you.
 
 ### Competitive Programming
 
