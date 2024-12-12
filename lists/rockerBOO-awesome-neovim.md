@@ -1216,6 +1216,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [backdround/neowords.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/neowords.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/neowords.nvim)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
 - [backdround/improved-ft.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/improved-ft.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/improved-ft.nvim)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
 - [Mr-LLLLL/treesitter-outer ![GitHub Repo Stars](https://img.shields.io/github/stars/Mr-LLLLL/treesitter-outer) ![GitHub last commit](https://img.shields.io/github/last-commit/Mr-LLLLL/treesitter-outer)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
+- [DanilaMihailov/beacon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/DanilaMihailov/beacon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/DanilaMihailov/beacon.nvim)](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
 
 ### Tree-sitter Based
 
