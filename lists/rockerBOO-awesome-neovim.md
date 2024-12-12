@@ -1217,6 +1217,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [backdround/improved-ft.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/improved-ft.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/improved-ft.nvim)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
 - [Mr-LLLLL/treesitter-outer ![GitHub Repo Stars](https://img.shields.io/github/stars/Mr-LLLLL/treesitter-outer) ![GitHub last commit](https://img.shields.io/github/last-commit/Mr-LLLLL/treesitter-outer)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
 - [DanilaMihailov/beacon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/DanilaMihailov/beacon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/DanilaMihailov/beacon.nvim)](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
+- [Aaronik/Treewalker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/aaronik/Treewalker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronik/Treewalker.nvim)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
 
 ### Tree-sitter Based
 
