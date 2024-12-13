@@ -880,6 +880,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Maruku ![GitHub Repo Stars](https://img.shields.io/github/stars/bhollis/maruku) ![GitHub last commit](https://img.shields.io/github/last-commit/bhollis/maruku)](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
 * [Redcarpet ![GitHub Repo Stars](https://img.shields.io/github/stars/vmg/redcarpet) ![GitHub last commit](https://img.shields.io/github/last-commit/vmg/redcarpet)](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser.
 * [word-to-markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/benbalter/word-to-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/benbalter/word-to-markdown)](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
+* [ZMediumToMarkdown ![GitHub Repo Stars](https://img.shields.io/github/stars/ZhgChgLi/ZMediumToMarkdown) ![GitHub last commit](https://img.shields.io/github/last-commit/ZhgChgLi/ZMediumToMarkdown)](https://github.com/ZhgChgLi/ZMediumToMarkdown) - A powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format.
 
 ## Measurements
 
@@ -924,6 +925,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [Dnsruby ![GitHub Repo Stars](https://img.shields.io/github/stars/alexdalitz/dnsruby) ![GitHub last commit](https://img.shields.io/github/last-commit/alexdalitz/dnsruby)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 * [RubyDNS ![GitHub Repo Stars](https://img.shields.io/github/stars/ioquatix/rubydns) ![GitHub last commit](https://img.shields.io/github/last-commit/ioquatix/rubydns)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+* [PacketFu ![GitHub Repo Stars](https://img.shields.io/github/stars/packetfu/packetfu) ![GitHub last commit](https://img.shields.io/github/last-commit/packetfu/packetfu)](https://github.com/packetfu/packetfu) - A library for reading and writing packets to an interface or to a libpcap-formatted file.
 
 ## Notifications
 
