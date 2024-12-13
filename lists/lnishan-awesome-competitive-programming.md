@@ -124,7 +124,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★★ | [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔 | An absolutely phenomenal book. The contents, organized in a very coherent manner, are nothing short of amazing. ... 培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional) |
 | ★★☆ | [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳 | The Art of Algorithms and Programming Contests (English), 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional) |
 | ★★☆ | [算法竞赛入门经典——训练指南 (Chinese)](https://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋 | 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional) |
-| ��★★ | [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮 | An old-time classic. It's old but the contents in this book are still considered to be very difficult by today's standards. |
+| ★★★ | [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮 | An old-time classic. It's old but the contents in this book are still considered to be very difficult by today's standards. |
 
 ### Books for Algorithms
 
@@ -173,7 +173,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [CS Academy](https://csacademy.com) | New in the competitive programming scene, CS Academy is a growing online judge that hosts competitions once every two weeks. It supports live chat, interactive lessons and an integrated online editor (that actually works). |
 | ★★☆ | [Russian Code Cup](https://www.russiancodecup.ru/en/) | Programming competitions powered by Mail.Ru Group. Competition consists of 3 qualification, 1 elimination and 1 final rounds. For each round contestants are given 4-8 problems which must be solved in a fixed amount of time. |
 | ★★☆ | [CodeFights](https://codesignal.com/) | CodeFights is a website for competitive programming practice and interview preparation. It features daily challenges of varying difficulty, an archive of problems and regular (every 15 minutes) mini-tournaments. Good for beginners. |
-| ★★☆ | [OmegaUp](https://omegaup.com/) (Spanish) | OmegaUp is a community-based website for competitive programing training. It's also where Mexican Olympiad in Informatics (OMI : Olimpiada Mexicana de Informática) is hosted. |
+| ★★�� | [OmegaUp](https://omegaup.com/) (Spanish) | OmegaUp is a community-based website for competitive programing training. It's also where Mexican Olympiad in Informatics (OMI : Olimpiada Mexicana de Informática) is hosted. |
 
 ### Problem Classifiers
 > Sites classifying programming problems.  
@@ -266,7 +266,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) | A huge compiled list of bit manipulation tricks. |
 | ★★★ | [Comparing Floating Point Numbers, 2012 Edition - Random ASCII](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) | Everything you need to know about floating point numbers. A must read especially for geometry topics. |
-| ★★�� | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
+| ★★☆ | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
 
 
 ## Tools
@@ -295,7 +295,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★★☆ | Codeforces Parsers: ... [Codeforces Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/johnathan79717/codeforces-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/johnathan79717/codeforces-parser)](https://github.com/johnathan79717/codeforces-parser) ... [GoCF ![GitHub Repo Stars](https://img.shields.io/github/stars/sukeesh/GoCF) ![GitHub last commit](https://img.shields.io/github/last-commit/sukeesh/GoCF)](https://github.com/sukeesh/GoCF) ... [cfparser ![GitHub Repo Stars](https://img.shields.io/github/stars/gnull/cfparser) ![GitHub last commit](https://img.shields.io/github/last-commit/gnull/cfparser)](https://github.com/gnull/cfparser) (emacs) [cfparser ![GitHub Repo Stars](https://img.shields.io/github/stars/ikatanic/cfparser) ![GitHub last commit](https://img.shields.io/github/last-commit/ikatanic/cfparser)](https://github.com/ikatanic/cfparser) (cli) | These tools parse Codeforces contest problems and help run sample tests. |
 | ★★★ | [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) | A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem could be equivalent to a simple or studied integer sequence. |
 | ★★☆ | Syntax Highlighters: ... [tohtml.com](https://tohtml.com/) ... [markup.su](http://markup.su/highlighter/) ... [hilite.me](http://hilite.me/) | Very handy for creating slides or team notebooks with pretty, formatted code snippets. Just copy the highlighted code snippets and paste them in your favorite WYSIWYG (What-You-See-Is-What-You-Get) editor! |
-| ★★☆ | Code Sharing: ... [Ideone.com](https://ideone.com/) ... [Pastebin.com](https://pastebin.com/) ... [Ubuntu Pastebin](https://paste.ubuntu.com/) | These tools generate semi-permanent pages for code sharing. Very useful especially when you're trying to get someone else to look into your code. |
+| ★★�� | Code Sharing: ... [Ideone.com](https://ideone.com/) ... [Pastebin.com](https://pastebin.com/) ... [Ubuntu Pastebin](https://paste.ubuntu.com/) | These tools generate semi-permanent pages for code sharing. Very useful especially when you're trying to get someone else to look into your code. |
 | ★★☆ | [Ineffable](http://codeforces.com/blog/entry/19083) | A simple command-line grader for local grading. |
 | ★★☆ | [uDebug](https://www.udebug.com/) | A platform that provides expected outputs for user-specified inputs to problems on the UVa Online Judge. Some problems also provide additional test cases for debugging. |
 
