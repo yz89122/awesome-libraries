@@ -117,6 +117,7 @@ For more information about communication, see the [Ansible communication guide](
 - [Monkeyble](https://hewlettpackard.github.io/monkeyble/) - A callback plugin that allow to execute end-to-end tests on playbooks with a Pythonic testing and CI/CD approach to detect regressions.
 - [aar-doc - Automated Ansible Role Documentation ![GitHub Repo Stars](https://img.shields.io/github/stars/telekom-mms/Automated-Ansible-Role-Documentation) ![GitHub last commit](https://img.shields.io/github/last-commit/telekom-mms/Automated-Ansible-Role-Documentation)](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
 - [antsichaut ![GitHub Repo Stars](https://img.shields.io/github/stars/ansible-community/antsichaut) ![GitHub last commit](https://img.shields.io/github/last-commit/ansible-community/antsichaut)](https://github.com/ansible-community/antsichaut) - Automate the filling of a changelog.yaml used by antsibull-changelog.
+- [ansibledb ![GitHub Repo Stars](https://img.shields.io/github/stars/nbentoumi/ansibledb) ![GitHub last commit](https://img.shields.io/github/last-commit/nbentoumi/ansibledb)](https://github.com/nbentoumi/ansibledb) - Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.
 
 ## Blog posts and opinions
 
