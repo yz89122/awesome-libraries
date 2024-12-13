@@ -335,6 +335,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Checklist ![GitHub Repo Stars](https://img.shields.io/github/stars/typebytes/angular-checklist) ![GitHub last commit](https://img.shields.io/github/last-commit/typebytes/angular-checklist)](https://github.com/typebytes/angular-checklist)
 * [ZeroToMastery Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
 * [Framework Field Guide](https://playfulprogramming.com/collections/framework-field-guide) - A free and practical way to learn Angular, React & Vue all at once.
+* [Marmicode Cookbook](https://cookbook.marmicode.io/) - Ingredients & Recipes for Cooking Delicious Apps.
 
 ##### Exercises
 
@@ -681,6 +682,7 @@ become an Angular expert.
 * [ngx-filesize ![GitHub Repo Stars](https://img.shields.io/github/stars/amitdahan/ngx-filesize) ![GitHub last commit](https://img.shields.io/github/last-commit/amitdahan/ngx-filesize)](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
 * [ngx-intercom-messenger ![GitHub Repo Stars](https://img.shields.io/github/stars/MaximBelov/ngx-intercom-messenger) ![GitHub last commit](https://img.shields.io/github/last-commit/MaximBelov/ngx-intercom-messenger)](https://github.com/MaximBelov/ngx-intercom-messenger) - Angular 18+ Wrapper for [@intercom/messenger-js-sdk](https://www.npmjs.com/package/@intercom/messenger-js-sdk).
 * [ngx-katex ![GitHub Repo Stars](https://img.shields.io/github/stars/pusherman/ngx-katex) ![GitHub last commit](https://img.shields.io/github/last-commit/pusherman/ngx-katex)](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX ![GitHub Repo Stars](https://img.shields.io/github/stars/KaTeX/KaTeX) ![GitHub last commit](https://img.shields.io/github/last-commit/KaTeX/KaTeX)](https://github.com/KaTeX/KaTeX).
+* [ngx-wagmi ![GitHub Repo Stars](https://img.shields.io/github/stars/thanhhoa214/ngx-wagmi) ![GitHub last commit](https://img.shields.io/github/last-commit/thanhhoa214/ngx-wagmi)](https://github.com/thanhhoa214/ngx-wagmi) - An essential toolkit to connect your Angular app to the blockchain, bringing powerful wallet and contract interactions to your fingertips.
 
 #### Internationalization
 
@@ -1244,6 +1246,7 @@ to simplify usage and allow quick customization.
 * [ngx-x-browser-svg-mask ![GitHub Repo Stars](https://img.shields.io/github/stars/bmartinson/ngx-x-browser-svg-mask) ![GitHub last commit](https://img.shields.io/github/last-commit/bmartinson/ngx-x-browser-svg-mask)](https://github.com/bmartinson/ngx-x-browser-svg-mask) - Directive to easily achieve cross browser compliance while creating SVG masks.
 * [boringer-avatars ![GitHub Repo Stars](https://img.shields.io/github/stars/cmgriffing/boringer-avatars) ![GitHub last commit](https://img.shields.io/github/last-commit/cmgriffing/boringer-avatars)](https://github.com/cmgriffing/boringer-avatars) - A fork from [boring-avatars ![GitHub Repo Stars](https://img.shields.io/github/stars/boringdesigners/boring-avatars) ![GitHub last commit](https://img.shields.io/github/last-commit/boringdesigners/boring-avatars)](https://github.com/boringdesigners/boring-avatars). This rewrites the base as Mitosis components and exports into multiple framework flavors including [Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/cmgriffing/boringer-avatars) ![GitHub last commit](https://img.shields.io/github/last-commit/cmgriffing/boringer-avatars)](https://github.com/cmgriffing/boringer-avatars/tree/main/packages/lib-angular).
 * [@semantic-icons/heroicons](https://www.npmjs.com/package/@semantic-icons/heroicons) - [Semantic icons ![GitHub Repo Stars](https://img.shields.io/github/stars/khalilou88/semantic-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/khalilou88/semantic-icons)](https://github.com/khalilou88/semantic-icons) helps developers to use [Heroicons](https://heroicons.com/) icons inside Angular projects.
+* [coolshapes ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxpert/coolshapes) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxpert/coolshapes)](https://github.com/ngxpert/coolshapes) -  An Angular library aiming at allowing developers to use cool-looking abstract shapes with little grainy gradients from [coolshapes](https://coolshap.es/).
 
 #### Images
 
@@ -1400,6 +1403,7 @@ to simplify usage and allow quick customization.
 * [up-window-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/criar-art/up-window-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/criar-art/up-window-angular)](https://github.com/criar-art/up-window-angular) - An Angular library designed to create dynamic, customizable modals and window-based components for web applications.
 * [ngx-concern ![GitHub Repo Stars](https://img.shields.io/github/stars/HeyItsBATMAN/ngx-concern) ![GitHub last commit](https://img.shields.io/github/last-commit/HeyItsBATMAN/ngx-concern)](https://github.com/HeyItsBATMAN/ngx-concern) - Angular library for creating simple, unstyled dialogs/modals and action-sheets/bottom-sheets.
 * [ngx-whats-new ![GitHub Repo Stars](https://img.shields.io/github/stars/4gray/ngx-whats-new) ![GitHub last commit](https://img.shields.io/github/last-commit/4gray/ngx-whats-new)](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal windows.
+* [ngx-dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/soc221b/ngx-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/soc221b/ngx-dialog)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
 
 #### Notifications
 
