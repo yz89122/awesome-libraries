@@ -411,7 +411,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1F8E](https://codepoints.net/U+1F8E?lang=en) | `ᾎ`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI | `ἆ`, `ι`         | U+1F06, U+03B9         |
 | [U+1F8F](https://codepoints.net/U+1F8F?lang=en) | `ᾏ`       | GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI | `ἇ`, `ι`         | U+1F07, U+03B9         |
 | [U+1F90](https://codepoints.net/U+1F90?lang=en) | `ᾐ`       | GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI                      | `ἠ`, `ι`         | U+1F20, U+03B9         |
-| [U+1F91](https://codepoints.net/U+1F91?lang=en) | `ᾑ`       | GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI                      | `ἡ`, `ι`         | U+1F21, U+03B9         |
+| [U+1F91](https://codepoints.net/U+1F91?lang=en) | `ᾑ`       | GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI                      | `ἡ`, `��`         | U+1F21, U+03B9         |
 | [U+1F92](https://codepoints.net/U+1F92?lang=en) | `ᾒ`       | GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI            | `ἢ`, `ι`         | U+1F22, U+03B9         |
 | [U+1F93](https://codepoints.net/U+1F93?lang=en) | `ᾓ`       | GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI            | `ἣ`, `ι`         | U+1F23, U+03B9         |
 | [U+1F94](https://codepoints.net/U+1F94?lang=en) | `ᾔ`       | GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI             | `ἤ`, `ι`         | U+1F24, U+03B9         |
@@ -462,7 +462,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1FE3](https://codepoints.net/U+1FE3?lang=en) | `ΰ`       | GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND OXIA                       | `υ`, `̈`, `́`      | U+03C5, U+0308, U+0301 |
 | [U+1FE4](https://codepoints.net/U+1FE4?lang=en) | `ῤ`       | GREEK SMALL LETTER RHO WITH PSILI                                        | `ρ`, `̓`          | U+03C1, U+0313         |
 | [U+1FE6](https://codepoints.net/U+1FE6?lang=en) | `ῦ`       | GREEK SMALL LETTER UPSILON WITH PERISPOMENI                              | `υ`, `͂`          | U+03C5, U+0342         |
-| [U+1FE7](https://codepoints.net/U+1FE7?lang=en) | `���`       | GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI                | `υ`, `̈`, `͂`      | U+03C5, U+0308, U+0342 |
+| [U+1FE7](https://codepoints.net/U+1FE7?lang=en) | `ῧ`       | GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI                | `υ`, `̈`, `͂`      | U+03C5, U+0308, U+0342 |
 | [U+1FF2](https://codepoints.net/U+1FF2?lang=en) | `ῲ`       | GREEK SMALL LETTER OMEGA WITH VARIA AND YPOGEGRAMMENI                    | `ὼ`, `ι`         | U+1F7C, U+03B9         |
 | [U+1FF3](https://codepoints.net/U+1FF3?lang=en) | `ῳ`       | GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI                              | `ω`, `ι`         | U+03C9, U+03B9         |
 | [U+1FF4](https://codepoints.net/U+1FF4?lang=en) | `ῴ`       | GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI                     | `ώ`, `ι`         | U+03CE, U+03B9         |
