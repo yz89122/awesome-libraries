@@ -437,7 +437,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Solar2D ![GitHub Repo Stars](https://img.shields.io/github/stars/coronalabs/corona) ![GitHub last commit](https://img.shields.io/github/last-commit/coronalabs/corona)](https://github.com/coronalabs/corona) - Focus on ease of iterations and usage. Formerly _Corona_.
     - 🎉 [Supernova ![GitHub Repo Stars](https://img.shields.io/github/stars/supernovaengine/supernova) ![GitHub last commit](https://img.shields.io/github/last-commit/supernovaengine/supernova)](https://github.com/supernovaengine/supernova) - Cross-platform for 2D/3D projects.
     - 🎉 [Thunder ![GitHub Repo Stars](https://img.shields.io/github/stars/thunder-engine/thunder) ![GitHub last commit](https://img.shields.io/github/last-commit/thunder-engine/thunder)](https://github.com/thunder-engine/thunder) - Cross-platform 2D/3D with module architecture.
-    - ���� [Two ![GitHub Repo Stars](https://img.shields.io/github/stars/hugoam/two) ![GitHub last commit](https://img.shields.io/github/last-commit/hugoam/two)](https://github.com/hugoam/two) - Toolkit for rapid development of live graphical apps and games.
+    - 🎉 [Two ![GitHub Repo Stars](https://img.shields.io/github/stars/hugoam/two) ![GitHub last commit](https://img.shields.io/github/last-commit/hugoam/two)](https://github.com/hugoam/two) - Toolkit for rapid development of live graphical apps and games.
     - 🎉 [Urho3D ![GitHub Repo Stars](https://img.shields.io/github/stars/urho3d/Urho3D) ![GitHub last commit](https://img.shields.io/github/last-commit/urho3d/Urho3D)](https://github.com/urho3d/Urho3D) - Cross-platform 2D/3D game framework.
     - 💸 [Valve Source SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/source-sdk-2013) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/source-sdk-2013)](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine)) | [Wiki](https://developer.valvesoftware.com/wiki/Source_SDK_2013)]
 - C++: Geometry
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
@@ -1363,7 +1363,7 @@ _Resources to help bring video games and game engines alive._
 ### Audio Assets
 - Music
     - 🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - High-quality loops and packs used for music creation.
-    - �� [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
+    - 💸 [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
     - 💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
     - 💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Nice mix of free and affordable music loops.
     - 💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
