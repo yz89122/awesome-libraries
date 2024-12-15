@@ -468,7 +468,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Harmonic Analysis Lecture Notes](http://www.math.uiuc.edu/~laugesen/545/545Lectures.pdf) - Richard S. Laugesen (University of Illinois at Urbana–Champaign)
 * 📝 [Harmonic Analysis](http://www.math.uchicago.edu/~schlag/harmonicnotes.pdf) - W. Schlag
 * 📝 [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood
-* 📝 [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing
+* �� [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing
 * 📝 [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) - Julius O. Smith III (Stanford University)
 
 ### Complex Analysis
@@ -603,7 +603,7 @@ All resources are freely available except those with a 💲 icon.
 ## Mathematics for Computer Science
 
 * 📝 [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
-* ��� [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
+* 📝 [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
 * 📝 [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
 * 📝 [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay
 * 📝 [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert
