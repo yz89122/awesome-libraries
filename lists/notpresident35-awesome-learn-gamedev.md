@@ -612,7 +612,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - A tutorial on writing Game Design Documents (GDDs).
 
 
-[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠�� - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
+[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
 
 
 [The Evolution of Trust](https://ncase.me/trust/) 💠🟪 - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
@@ -834,7 +834,7 @@ Royalty free music! Don't forget to check the license.
 [Career Advice Collected](https://claudiasnotes.notion.site/claudiasnotes/Career-Advice-Collected-560272eab6ce4069ada95d0852dbb1c9) - Advice on writing resumes and cover letters. Primarily written for producers and entry-level job seekers, but generally applicable.
 
 
-[Questions to ask game studios you're interviewing with](https://lindenreidblog.com/2020/05/21/questions-to-ask-game-studios-youre-interviewing-with/) ���� - A list of questions for you to ask a potential employer in an interview.
+[Questions to ask game studios you're interviewing with](https://lindenreidblog.com/2020/05/21/questions-to-ask-game-studios-youre-interviewing-with/) 🟪 - A list of questions for you to ask a potential employer in an interview.
 
 
 [The Reverse Interview ![GitHub Repo Stars](https://img.shields.io/github/stars/viraptor/reverse-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/viraptor/reverse-interview)](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer (created for non-games tech, but most questions apply to games, and some apply to all disciplines).
