@@ -223,6 +223,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Hexagon ![GitHub Repo Stars](https://img.shields.io/github/stars/hexagonkt/hexagon) ![GitHub last commit](https://img.shields.io/github/last-commit/hexagonkt/hexagon)](https://github.com/hexagonkt/hexagon) _(label: help-wanted)_ <br> A microservices toolkit written in Kotlin
 - [Non-Blocking SirixDB HTTP(S)-Server ![GitHub Repo Stars](https://img.shields.io/github/stars/sirixdb/sirix) ![GitHub last commit](https://img.shields.io/github/last-commit/sirixdb/sirix)](https://github.com/sirixdb/sirix) _(label: good first issue)_ <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
 - [OpenCalc ![GitHub Repo Stars](https://img.shields.io/github/stars/Darkempire78/OpenCalc) ![GitHub last commit](https://img.shields.io/github/last-commit/Darkempire78/OpenCalc)](https://github.com/Darkempire78/OpenCalc) _(label: good first issue)_ <br> A simple and beautiful calculator for Android.
+- [Scribe-Android ![GitHub Repo Stars](https://img.shields.io/github/stars/scribe-org/Scribe-Android) ![GitHub last commit](https://img.shields.io/github/last-commit/scribe-org/Scribe-Android)](https://github.com/scribe-org/Scribe-Android) _(label: good first issue)_ <br> Android keyboards for language learners with translation, verb conjugation and more!
 
 ## Markdown
 
