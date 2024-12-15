@@ -162,7 +162,7 @@
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
-- ����🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
+- 🎨🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 
 ## UI Libraries, Components & Templates
 
@@ -181,7 +181,7 @@
 - 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
 - 📚 [Vanilla Components](https://vanilla-components.com) - Set of fully customizable Vue components.
 - 📚 [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
-- ��� [Built At Lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
+- 📚 [Built At Lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 - 📚 [Statichunt](https://statichunt.com/tailwind-templates) - Open source directory of hand-picked free and premium Tailwind templates & Starters.
 - 📚 [Tailkits](https://tailkits.com/) - Curated Tailwind CSS components, templates, UI kits, resources, tools & more.
 - 📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
@@ -216,7 +216,7 @@
 - 🧩 [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 🧩 [RippleUI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
 - 🧩 [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
-- ��� [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
+- 🧩 [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
 - 🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
 - 🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
 - 🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
@@ -239,7 +239,7 @@
 - 📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
 - 📁 [Admin One Vue 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-vue-tailwind)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 - 📁 [Cruip](https://cruip.com/) - Beautifully designed HTML, React, and Vue.js templates.
-- �� [Admin One React ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-react-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-react-tailwind)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
+- 📁 [Admin One React ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-react-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-react-tailwind)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 - 📁 [Flowbite Admin Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/flowbite-admin-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/flowbite-admin-dashboard)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 - 📁 [Astro Template Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/fortezhuo/fortezhuo.my.id) ![GitHub last commit](https://img.shields.io/github/last-commit/fortezhuo/fortezhuo.my.id)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
 - 📁 [Astro Template Cactus ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismwilliams/astro-theme-cactus)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
