@@ -815,6 +815,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Barometer
 
+* [MicroPython-BMPxxx ![GitHub Repo Stars](https://img.shields.io/github/stars/bradcar/MicroPython_BMPxxx) ![GitHub last commit](https://img.shields.io/github/last-commit/bradcar/MicroPython_BMPxxx)](https://github.com/bradcar/MicroPython_BMPxxx) - Driver for BMP585, BMP581, BMP390, BMP280 Bosch temperature/pressure sensors.
 * [micropython-bme280 ![GitHub Repo Stars](https://img.shields.io/github/stars/kevbu/micropython-bme280) ![GitHub last commit](https://img.shields.io/github/last-commit/kevbu/micropython-bme280)](https://github.com/kevbu/micropython-bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
 * [micropython-bmp180 ![GitHub Repo Stars](https://img.shields.io/github/stars/micropython-IMU/micropython-bmp180) ![GitHub last commit](https://img.shields.io/github/last-commit/micropython-IMU/micropython-bmp180)](https://github.com/micropython-IMU/micropython-bmp180) - Driver for Bosch BMP180 temperature, pressure and altitude sensor.
 * [mpy_bme280_esp8266 ![GitHub Repo Stars](https://img.shields.io/github/stars/catdog2/mpy_bme280_esp8266) ![GitHub last commit](https://img.shields.io/github/last-commit/catdog2/mpy_bme280_esp8266)](https://github.com/catdog2/mpy_bme280_esp8266) - Bosch BME280 temperature/pressure/humidity sensor.
