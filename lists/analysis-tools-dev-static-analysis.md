@@ -462,7 +462,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [elm-analyse](https://stil4m.github.io/elm-analyse) :warning: — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 
-- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) ��� Analyzes whole Elm projects, with a focus on shareable and custom rules written in Elm that add guarantees the Elm compiler doesn't give you.
+- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — Analyzes whole Elm projects, with a focus on shareable and custom rules written in Elm that add guarantees the Elm compiler doesn't give you.
 
 
 <a name="erlang" />
@@ -703,7 +703,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
 
-- [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
+- [Closure Compiler](https://developers.google.com/closure/compiler) �� A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 
 - [ClosureLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/google/closure-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-linter)](https://github.com/google/closure-linter) :warning: — Ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors.
 
@@ -871,7 +871,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP-Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 
-- [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) �� PHP spell check library.
+- [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) — PHP spell check library.
 
 - [PHP-Token-Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: — Library emulating the PHP internal reflection.
 
