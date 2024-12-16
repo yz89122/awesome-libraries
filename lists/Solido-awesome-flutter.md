@@ -403,7 +403,7 @@ Meteo
 - [File Picker ![GitHub Repo Stars](https://img.shields.io/github/stars/miguelpruivo/plugins_flutter_file_picker) ![GitHub last commit](https://img.shields.io/github/last-commit/miguelpruivo/plugins_flutter_file_picker)](https://github.com/miguelpruivo/plugins_flutter_file_picker) [1320⭐] - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
 - [VPN ![GitHub Repo Stars](https://img.shields.io/github/stars/X-dea/Flutter_VPN) ![GitHub last commit](https://img.shields.io/github/last-commit/X-dea/Flutter_VPN)](https://github.com/X-dea/Flutter_VPN) [350⭐] - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
 - [Geolocator ![GitHub Repo Stars](https://img.shields.io/github/stars/baseflow/flutter-geolocator) ![GitHub last commit](https://img.shields.io/github/last-commit/baseflow/flutter-geolocator)](https://github.com/baseflow/flutter-geolocator) [1240⭐] - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
-- [Permission Handler ![GitHub Repo Stars](https://img.shields.io/github/stars/baseflow/flutter-permission-handler) ![GitHub last commit](https://img.shields.io/github/last-commit/baseflow/flutter-permission-handler)](https://github.com/baseflow/flutter-permission-handler) [2023���] - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
+- [Permission Handler ![GitHub Repo Stars](https://img.shields.io/github/stars/baseflow/flutter-permission-handler) ![GitHub last commit](https://img.shields.io/github/last-commit/baseflow/flutter-permission-handler)](https://github.com/baseflow/flutter-permission-handler) [2023⭐] - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 - [Live Activities ![GitHub Repo Stars](https://img.shields.io/github/stars/istornz/live_activities) ![GitHub last commit](https://img.shields.io/github/last-commit/istornz/live_activities)](https://github.com/istornz/live_activities) [164⭐] - A plugin to use iOS live activities & Dynamic Island features by [Dimitri Dessus](https://github.com/istornz)
 
 #### Scanner
@@ -786,7 +786,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Flutter Peru](https://meetup.com/Flutter-Peru/)
 - Twitter [Flutter Peru](https://twitter.com/FlutterPeru)
 
-### 🇷🇺 Russia
+### ����🇺 Russia
 
 - [Telegram](https://t.me/rudart)
 - [Telegram - Oh, my Flutter](https://t.me/ohmyflutter)
