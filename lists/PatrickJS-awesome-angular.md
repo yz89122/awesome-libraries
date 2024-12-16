@@ -417,6 +417,7 @@ become an Angular expert.
 
 * [Official Angular style guide](https://angular.dev/style-guide#)
 * [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
+* [TypeScript style guide](https://mkosir.github.io/typescript-style-guide/)
 
 ---
 
@@ -575,6 +576,7 @@ become an Angular expert.
 * [Compodoc ![GitHub Repo Stars](https://img.shields.io/github/stars/compodoc/compodoc) ![GitHub last commit](https://img.shields.io/github/last-commit/compodoc/compodoc)](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application.
 * [ng-doc ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-doc/ng-doc) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-doc/ng-doc)](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects.
 * [docgeni ![GitHub Repo Stars](https://img.shields.io/github/stars/docgeni/docgeni) ![GitHub last commit](https://img.shields.io/github/last-commit/docgeni/docgeni)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
+* [trakk.js ![GitHub Repo Stars](https://img.shields.io/github/stars/trakkjs/trakk-js) ![GitHub last commit](https://img.shields.io/github/last-commit/trakkjs/trakk-js)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
 
 #### Generators
 
@@ -1694,6 +1696,7 @@ for the creation of web applications developed with Angular.
 * [ngx-morse ![GitHub Repo Stars](https://img.shields.io/github/stars/monkeyscript/ngx-morse) ![GitHub last commit](https://img.shields.io/github/last-commit/monkeyscript/ngx-morse)](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 * [ngx-back-button ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-back-button) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-back-button)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 * [ngx-route-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/perez247/ngx-route-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/perez247/ngx-route-manager)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
+* [ng-whiteboard ![GitHub Repo Stars](https://img.shields.io/github/stars/mostafazke/ng-whiteboard) ![GitHub last commit](https://img.shields.io/github/last-commit/mostafazke/ng-whiteboard)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 
 ---
 
