@@ -399,6 +399,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [thepowersgang/rust_os ![GitHub Repo Stars](https://img.shields.io/github/stars/thepowersgang/rust_os) ![GitHub last commit](https://img.shields.io/github/last-commit/thepowersgang/rust_os)](https://github.com/thepowersgang/rust_os) - An OS kernel written in rust. Non POSIX
 * [theseus-os/Theseus ![GitHub Repo Stars](https://img.shields.io/github/stars/theseus-os/Theseus) ![GitHub last commit](https://img.shields.io/github/last-commit/theseus-os/Theseus)](https://github.com/theseus-os/Theseus) - A safe-language, single address space and single privilege level OS written from scratch - [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)
 * [tock/tock ![GitHub Repo Stars](https://img.shields.io/github/stars/tock/tock) ![GitHub last commit](https://img.shields.io/github/last-commit/tock/tock)](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers
+* [vinc/moros ![GitHub Repo Stars](https://img.shields.io/github/stars/vinc/moros) ![GitHub last commit](https://img.shields.io/github/last-commit/vinc/moros)](https://github.com/vinc/moros) - A text-based hobby operating system targeting computers with a x86-64 architecture and a BIOS.
 
 ### Package Managers
 
