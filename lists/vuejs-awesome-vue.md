@@ -9,7 +9,7 @@
 
 > A curated list of awesome things related to Vue.js
 
-- [Awesome Vue.js  ](#awesome-vuejs--)
+- [Awesome Vue.js ](#awesome-vuejs--)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -469,6 +469,7 @@
 - [umo editor ![GitHub Repo Stars](https://img.shields.io/github/stars/umodoc/editor) ![GitHub last commit](https://img.shields.io/github/last-commit/umodoc/editor)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
 - [Vitesse Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
 - [Vitesse-lite Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse-lite)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
+- [Vue Tic Tac Toe | Cerito Cruz ![GitHub Repo Stars](https://img.shields.io/github/stars/EduardoProfe666/cerito-cruz-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/EduardoProfe666/cerito-cruz-vue)](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
 
 ### Books
 
@@ -1076,7 +1077,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 
 #### Icons
 
-- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons 'vue-material-design-icons on GitHub') - A collection of SVG Material Design icons as single file components.
+- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 - [vue-fontawesome ![GitHub Repo Stars](https://img.shields.io/github/stars/FortAwesome/vue-fontawesome) ![GitHub last commit](https://img.shields.io/github/last-commit/FortAwesome/vue-fontawesome)](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
 - [vue-country-flag ![GitHub Repo Stars](https://img.shields.io/github/stars/P3trur0/vue-country-flag) ![GitHub last commit](https://img.shields.io/github/last-commit/P3trur0/vue-country-flag)](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
 - [vue-fa ![GitHub Repo Stars](https://img.shields.io/github/stars/Cweili/vue-fa) ![GitHub last commit](https://img.shields.io/github/last-commit/Cweili/vue-fa)](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
