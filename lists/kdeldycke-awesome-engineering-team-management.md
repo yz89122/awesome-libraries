@@ -924,7 +924,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 - [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/) - You can build you own career engine, starting as a technical founder of a startup, building a great team, then grow with the company to learn and become a full-fledge CEO.
 
-- [How title, money and scope affect your fulfillment](https://twitter.com/shreyas/status/1268372416427786240) - ���For talented mid-career folks, when making job changes, how do you rank: 1. Title 2. Money 3. Scope”.
+- [How title, money and scope affect your fulfillment](https://twitter.com/shreyas/status/1268372416427786240) - “For talented mid-career folks, when making job changes, how do you rank: 1. Title 2. Money 3. Scope”.
 
 - [Amazon Wants to 'Win at Games.' So Why Hasn't It?](https://www.wired.com/story/amazon-wants-to-win-at-games-so-why-hasnt-it/) - “Any product manager can go between any business—from groceries to film to games to Kindle. The skillset is interchangeable. They just have to learn the particular market.”
 
