@@ -130,6 +130,7 @@ _A list of resources dedicated to EspressIf hardware_
 
 - [EspressIf](https://www.espressif.com/) - Official Website
 - [ESP-IDF ![GitHub Repo Stars](https://img.shields.io/github/stars/espressif/esp-idf) ![GitHub last commit](https://img.shields.io/github/last-commit/espressif/esp-idf)](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework
+- [ESP-32-C3 + Rust + BLE](https://dev.to/theembeddedrustacean/series/26733) - ESP32 Bluetooth w/ Rust Series' Articles
 
 ## Nordic
 
