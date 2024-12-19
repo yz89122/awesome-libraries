@@ -551,6 +551,7 @@ become an Angular expert.
 * [bolt](https://bolt.new/) -  Dev sandbox with AI from StackBlitz.
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 * [IDX](https://idx.dev/) - Project IDX is an AI-assisted workspace for full-stack, multiplatform app development in the cloud.
+* [ngx-html-syntax ![GitHub Repo Stars](https://img.shields.io/github/stars/princemaple/ngx-html-syntax) ![GitHub last commit](https://img.shields.io/github/last-commit/princemaple/ngx-html-syntax)](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [SublimeText](https://www.sublimetext.com/).
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 * [Angular Dev Tools](https://angular.dev/tools/devtools) - Angular DevTools is a browser extension that provides debugging and profiling capabilities for Angular applications.
 * [VS Code NG Language Service ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/vscode-ng-language-service) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/vscode-ng-language-service)](https://github.com/angular/vscode-ng-language-service) - This extension provides a rich editing experience for Angular templates.
@@ -1009,6 +1010,7 @@ become an Angular expert.
 * [ngx-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/swimlane/ngx-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/swimlane/ngx-graph)](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular.
 * [ng-draw-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-draw-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-draw-flow)](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes. It allows you to create both simple diagrams and complex editors for building customised charts and graphs.
 * [sequential-workflow-designer ![GitHub Repo Stars](https://img.shields.io/github/stars/nocode-js/sequential-workflow-designer) ![GitHub last commit](https://img.shields.io/github/last-commit/nocode-js/sequential-workflow-designer)](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
+* [ngx-hierarchy ![GitHub Repo Stars](https://img.shields.io/github/stars/rushik1992/ngx-hierarchy) ![GitHub last commit](https://img.shields.io/github/last-commit/rushik1992/ngx-hierarchy)](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
 
 #### Cookies
 
