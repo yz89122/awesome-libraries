@@ -63,6 +63,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
 - [DataStation ![GitHub Repo Stars](https://img.shields.io/github/stars/multiprocessio/datastation) ![GitHub last commit](https://img.shields.io/github/last-commit/multiprocessio/datastation)](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 - [DBeaver ![GitHub Repo Stars](https://img.shields.io/github/stars/dbeaver/dbeaver) ![GitHub last commit](https://img.shields.io/github/last-commit/dbeaver/dbeaver)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
+- [dbForge Edge](https://www.devart.com/dbforge/edge/) - Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services.
 - [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - Universal IDE for MySQL and MariaDB database development, management, and administration.
 - [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - Powerful IDE for Oracle management, administration, and development.
 - [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
@@ -71,6 +72,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [dbKoda ![GitHub Repo Stars](https://img.shields.io/github/stars/SouthbankSoftware/dbkoda) ![GitHub last commit](https://img.shields.io/github/last-commit/SouthbankSoftware/dbkoda)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
 - [IBExpert](http://www.ibexpert.net/ibe) - Comprehensive GUI tool for Firebird and InterBase.
 - [HeidiSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/HeidiSQL/HeidiSQL) ![GitHub last commit](https://img.shields.io/github/last-commit/HeidiSQL/HeidiSQL)](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
+- [Kangaroo ![GitHub Repo Stars](https://img.shields.io/github/stars/dbkangaroo/kangaroo) ![GitHub last commit](https://img.shields.io/github/last-commit/dbkangaroo/kangaroo)](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 - [KeepTool](https://keeptool.com) - A professional suite of tools for Oracle Database developers, administrators and advanced application users.
 - [MySQL Workbench](https://www.mysql.com/products/workbench) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs.
 - [Navicat](https://www.navicat.com/en/products#navicat) - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application.
@@ -354,12 +356,14 @@ Low-code and no-code platforms for application building
 
 ### Formatters
 - [CodeBuff ![GitHub Repo Stars](https://img.shields.io/github/stars/antlr/codebuff) ![GitHub last commit](https://img.shields.io/github/last-commit/antlr/codebuff)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
+- [JSQLFormatter ![GitHub Repo Stars](https://img.shields.io/github/stars/manticore-projects/jsqlformatter) ![GitHub last commit](https://img.shields.io/github/last-commit/manticore-projects/jsqlformatter)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on [JSqlParser ![GitHub Repo Stars](https://img.shields.io/github/stars/JSQLParser/JSqlParser) ![GitHub last commit](https://img.shields.io/github/last-commit/JSQLParser/JSqlParser)](https://github.com/JSQLParser/JSqlParser).
 - [pgFormatter ![GitHub Repo Stars](https://img.shields.io/github/stars/darold/pgFormatter) ![GitHub last commit](https://img.shields.io/github/last-commit/darold/pgFormatter)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 - [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting. 
 - [SQL Formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/zeroturnaround/sql-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/zeroturnaround/sql-formatter)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
 
 ### Games
 - [Lost at SQL](https://lost-at-sql.therobinlord.com) - A SQL learning game to help you pick up basic SQL skills - so that you can use queries to get information.
+- [Querymon](https://codepip.com/games/querymon/) - Learn to use SQL queries on the Querydex, a database of monsters from common to legendary.
 - [Schemaverse](https://datalemur.com/blog/games-to-learn-sql#schemaverse) - A Space-based strategy game implemented entirely within a PostgreSQL database.
 - [SQL Island](https://sql-island.informatik.uni-kl.de) - After the survived plane crash, you will be stuck on SQL Island for the time being. By making progress in the game, you will find a way to escape from this island.
 - [SQL Murder Mystery](https://mystery.knightlab.com) - Designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.

@@ -307,19 +307,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/semantic-org/semantic-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/semantic-org/semantic-ui)](https://github.com/semantic-org/semantic-ui)
   | #LESS
 
-- [**Materialize**](https://materializecss.com) - CSS framework based on material design.  
-  ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
-  [Demo](https://materializecss.com/showcase.html),
-  [Docs](https://materializecss.com/getting-started.html),
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/Dogfalo/materialize) ![GitHub last commit](https://img.shields.io/github/last-commit/Dogfalo/materialize)](https://github.com/Dogfalo/materialize)
-  | #SCSS
-
-- [**Spectre.css**](https://picturepan2.github.io/spectre/) - Lightweight, responsive and modern CSS framework.  
-  ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
-  [Docs](https://picturepan2.github.io/spectre/getting-started.html),
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/picturepan2/spectre) ![GitHub last commit](https://img.shields.io/github/last-commit/picturepan2/spectre)](https://github.com/picturepan2/spectre)
-  | #SCSS
-  
 - [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
   ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
   [Demo](https://tachyons.io/gallery/),
@@ -327,32 +314,15 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/tachyons-css/tachyons) ![GitHub last commit](https://img.shields.io/github/last-commit/tachyons-css/tachyons)](https://github.com/tachyons-css/tachyons/)
   | #CSS
 
-- [**Milligram**](https://milligram.io) - Minimalist CSS framework.  
-  ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
-  [Demo](https://milligram.io/showcase.html),
-  [Docs](https://milligram.io/#getting-started),
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/milligram/milligram) ![GitHub last commit](https://img.shields.io/github/last-commit/milligram/milligram)](https://github.com/milligram/milligram)
-  | #Sass
-
 - [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/kognise/water.css) ![GitHub last commit](https://img.shields.io/github/last-commit/kognise/water.css)](https://github.com/kognise/water.css)
   | #CSS
 
-- [**Basscss**](https://basscss.com) - Low-level CSS toolkit.  
-  ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/basscss/basscss) ![GitHub last commit](https://img.shields.io/github/last-commit/basscss/basscss)](https://github.com/basscss/basscss/)
-
 - [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/csstools/sanitize.css) ![GitHub last commit](https://img.shields.io/github/last-commit/csstools/sanitize.css)](https://github.com/csstools/sanitize.css)
   | #CSS
-  
-- [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.  
-  ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
-  [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/muicss/mui) ![GitHub last commit](https://img.shields.io/github/last-commit/muicss/mui)](https://github.com/muicss/mui)
-  | #SCSS
   
 - [**modern-css-reset** ![GitHub Repo Stars](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset) ![GitHub last commit](https://img.shields.io/github/last-commit/hankchizljaw/modern-css-reset)](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.  
   ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
@@ -373,21 +343,11 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/inuitcss/inuitcss) ![GitHub last commit](https://img.shields.io/github/last-commit/inuitcss/inuitcss)](https://github.com/inuitcss/inuitcss)
   | #SCSS
 
-- [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.  
-  ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/tylerchilds/cutestrap) ![GitHub last commit](https://img.shields.io/github/last-commit/tylerchilds/cutestrap)](https://github.com/tylerchilds/cutestrap)
-
 - [**unsemantic**](https://unsemantic.com) - Fluid grid for mobile, tablet, and desktop.  
   ![](https://img.shields.io/github/stars/nathansmith/unsemantic.svg?style=social&label=Star)
   [Demo](https://unsemantic.com/demo-responsive),
   [Docs](https://unsemantic.com/css-documentation),
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/nathansmith/unsemantic) ![GitHub last commit](https://img.shields.io/github/last-commit/nathansmith/unsemantic)](https://github.com/nathansmith/unsemantic)
-
-- [**Base**](https://getbase.org) - Rock solid, responsive HTML/CSS framework.  
-  ![](https://img.shields.io/github/stars/getbase/base.svg?style=social&label=Star)
-  [Docs ![GitHub Repo Stars](https://img.shields.io/github/stars/getbase/base) ![GitHub last commit](https://img.shields.io/github/last-commit/getbase/base)](https://github.com/getbase/base/blob/master/readme.md#documentation),
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/getbase/base) ![GitHub last commit](https://img.shields.io/github/last-commit/getbase/base)](https://github.com/getbase/base)
-  | #SCSS #LESS
 
 - [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
   ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
