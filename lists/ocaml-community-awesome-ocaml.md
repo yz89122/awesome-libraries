@@ -205,7 +205,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — A binding to the NDBM/GDBM Unix "databases".
   - [Mongo.ml](https://massd.github.io/mongo/) – An OCaml driver for Mongodb
   - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
-    - [ppx_pgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/tizoc/ppx_pgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/tizoc/ppx_pgsql)](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
+    - [ppx_pgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/tizoc/ppx_pgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/tizoc/ppx_pgsql)](https://github.com/tizoc/ppx_pgsql) ��� A syntax extension for embedded SQL queries using PG'OCaml.
   - [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
   - [SQLite3 ![GitHub Repo Stars](https://img.shields.io/github/stars/mmottl/sqlite3-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mmottl/sqlite3-ocaml)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
@@ -246,7 +246,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [learn-ocaml ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-sf/learn-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-sf/learn-ocaml)](https://github.com/ocaml-sf/learn-ocaml). Web app (written in OCaml) underlying the learn-ocaml-corpus. Can be customized to serve lectures (with Markdown slides), playgrounds (with a toplevel prelude), and interactive exercises (with OCaml tests). MIT License.
 - [learn-ocaml.el ![GitHub Repo Stars](https://img.shields.io/github/stars/pfitaxel/learn-ocaml.el) ![GitHub last commit](https://img.shields.io/github/last-commit/pfitaxel/learn-ocaml.el)](https://github.com/pfitaxel/learn-ocaml.el). Minor mode for Emacs that can display exercise topics and grade exercise solutions, after logging to a Learn-OCaml instance. MIT License.
 - [BetterOCaml](https://betterocaml.ml) – An efficient, intuitive, and cross-platform web IDE with your OCaml code interpreted and running in your browser!
-- [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) ��� Compile and execute OCaml code online.
+- [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – Compile and execute OCaml code online.
 - [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - Learn and execute OCaml code from your iPhone/iPad/Mac.
 - [Jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/akabe/ocaml-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/akabe/ocaml-jupyter)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
 - [utop ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/utop) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/utop)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support for multiline edition, history, real-time and context-sensitive completion, colors, and more.
