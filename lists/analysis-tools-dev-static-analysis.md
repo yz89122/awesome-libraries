@@ -877,7 +877,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [php7cc ![GitHub Repo Stars](https://img.shields.io/github/stars/sstalle/php7cc) ![GitHub last commit](https://img.shields.io/github/last-commit/sstalle/php7cc)](https://github.com/sstalle/php7cc) :warning: — PHP 7 Compatibility Checker.
 
-- [php7mar ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexia/php7mar) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexia/php7mar)](https://github.com/Alexia/php7mar) :warning: �� Assist developers in porting their code quickly to PHP 7.
+- [php7mar ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexia/php7mar) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexia/php7mar)](https://github.com/Alexia/php7mar) :warning: — Assist developers in porting their code quickly to PHP 7.
 
 - [PHP_CodeSniffer](https://pear.php.net/package/PHP_CodeSniffer) :warning: — Detects violations of a defined set of coding standards.
 
@@ -889,7 +889,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [phpdcd ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phpdcd) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpdcd)](https://github.com/sebastianbergmann/phpdcd) :warning: — Dead Code Detector (DCD) for PHP code.
 
-- [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) :warning: — Builds a dependency graph for a project.
+- [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) :warning: �� Builds a dependency graph for a project.
 
 - [PhpDeprecationDetector ![GitHub Repo Stars](https://img.shields.io/github/stars/wapmorgan/PhpDeprecationDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpDeprecationDetector)](https://github.com/wapmorgan/PhpDeprecationDetector) — Analyzer of PHP code to search issues with deprecated functionality in newer interpreter versions.  It finds removed objects (functions, variables, constants and ini-directives),  deprecated functions functionality, and usage of forbidden names or tricks (e.g. reserved identifiers in newer versions).
 
