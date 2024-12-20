@@ -125,7 +125,7 @@ Alternatives to ad-supported websites, software, and publications.
 
 - [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - Opt-out of the advertising game.
 - [Can We Have an Honest Conversation About Advertisements?](https://www.theminimalists.com/ads/)
-- [Clean City Law: Secrets of São Paulo Uncovered by Outdoor Advertising Ban](https://99percentinvisible.org/article/clean-city-law-secrets-sao-paulo-uncovered-outdoor-advertising-ban/)
+- [Clean City Law: Secrets of S��o Paulo Uncovered by Outdoor Advertising Ban](https://99percentinvisible.org/article/clean-city-law-secrets-sao-paulo-uncovered-outdoor-advertising-ban/)
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) - Explores the idea of conscious success rather than accidental success, using ads as an example.
 - [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
 - [Human Ad Block: A Tutorial](https://maxlath.eu/posts/ad-blocker-humain/) - Creative ways to block ads in public.
