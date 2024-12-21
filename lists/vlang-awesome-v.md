@@ -160,6 +160,7 @@
 - [vorum ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vorum) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vorum)](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vss ![GitHub Repo Stars](https://img.shields.io/github/stars/vssio/vss) ![GitHub last commit](https://img.shields.io/github/last-commit/vssio/vss)](https://github.com/vssio/vss) - Easy-to-use static site generator.
 - [VTik ![GitHub Repo Stars](https://img.shields.io/github/stars/Sharqo78/VTik) ![GitHub last commit](https://img.shields.io/github/last-commit/Sharqo78/VTik)](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
+- [rr-dl ![GitHub Repo Stars](https://img.shields.io/github/stars/dy-tea/rr-dl) ![GitHub last commit](https://img.shields.io/github/last-commit/dy-tea/rr-dl)](https://github.com/dy-tea/rr-dl) - Royal-Road Novel downloader.
 
 ## Libraries
 
@@ -228,6 +229,7 @@
 - [vsdl ![GitHub Repo Stars](https://img.shields.io/github/stars/kjlaw89/vsdl) ![GitHub last commit](https://img.shields.io/github/last-commit/kjlaw89/vsdl)](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [vsdl2 ![GitHub Repo Stars](https://img.shields.io/github/stars/nsauzede/vsdl2) ![GitHub last commit](https://img.shields.io/github/last-commit/nsauzede/vsdl2)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [vsl.vcl ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vsl) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vsl)](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
+- [vbmp ![GitHub Repo Stars](https://img.shields.io/github/stars/dy-tea/vbmp) ![GitHub last commit](https://img.shields.io/github/last-commit/dy-tea/vbmp)](https://github.com/dy-tea/vbmp) - Read and write bitmap files.
 
 ### IRC
 
