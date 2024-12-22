@@ -166,7 +166,7 @@ A collection of Android security-related resources.
 1. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 1. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 1. ~~[ZjDroid ![GitHub Repo Stars](https://img.shields.io/github/stars/BaiduSecurityLabs/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/BaiduSecurityLabs/ZjDroid)](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror ![GitHub Repo Stars](https://img.shields.io/github/stars/yangbean9/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/yangbean9/ZjDroid)](https://github.com/yangbean9/ZjDroid)~~
-1. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) ��� .dex to .class converter~~
+1. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
 
 ### Fuzz Testing
 
