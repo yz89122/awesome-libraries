@@ -171,7 +171,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
   - [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) - libpointmatcher: Comparing ICP variants on real-world data sets.
 - [Normal distributions transform ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching (NDT).
-- [KISS-ICP ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=kMMH8rA1ggI) - In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way.
+- [KISS-ICP ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=kMMH8rA1ggI) - In Defense of Point-to-Point ICP �� Simple, Accurate, and Robust Registration If Done the Right Way.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/PRBonn/kiss-icp) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
   - [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://arxiv.org/pdf/2209.15397.pdf)
 
