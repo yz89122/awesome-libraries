@@ -1440,7 +1440,7 @@ Update Time, five active automations, webhooks.
   * [todoist.com](https://todoist.com/) — Collaborative and individual task management. The free plan has: 5 active projects, five users in the project, file uploading up to 5MB, three filters, and one week of activity history.
   * [trello.com](https://trello.com/) — Board-based project management. Unlimited Personal Boards, 10 Team Boards.
   * [Tweek](https://tweek.so/) — Simple Weekly To-Do Calendar & Task Management.
-  * [ubertesters.com](https://ubertesters.com/) �� Test platform, integration and crowd testers, 2 projects, five members
+  * [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowd testers, 2 projects, five members
   * [Wikifactory](https://wikifactory.com/) — Product designing Service with Projects, VCS & Issues. The free plan offers unlimited projects & collaborators and 3GB storage.
   * [Yodiz](https://www.yodiz.com/) — Agile development and issue tracking. Free up to 3 users, unlimited projects.
   * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — Free hosted YouTrack (InCloud) for FOSS projects and private projects (free for three users). Includes time tracking and agile boards
