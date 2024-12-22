@@ -258,6 +258,11 @@ Frameworks that are smaller than ~5KB.
   [Docs ![GitHub Repo Stars](https://img.shields.io/github/stars/BafS/Gutenberg) ![GitHub last commit](https://img.shields.io/github/last-commit/BafS/Gutenberg)](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
   | #SCSS
 
+- [**System.css**](https://sakofchit.github.io/system.css/) - Design system for building retro Apple interfaces.  
+  ![](https://img.shields.io/github/stars/sakofchit/system.css.svg?style=social&label=Star)
+  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/sakofchit/system.css) ![GitHub last commit](https://img.shields.io/github/last-commit/sakofchit/system.css)](https://github.com/sakofchit/system.css)
+  | #PostCSS
+
 - [**XP.css**](https://botoxparty.github.io/XP.css/) - CSS library for building interfaces that look like Windows XP.  
   ![](https://img.shields.io/github/stars/botoxparty/XP.css.svg?style=social&label=Star)
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/botoxparty/XP.css) ![GitHub last commit](https://img.shields.io/github/last-commit/botoxparty/XP.css)](https://github.com/botoxparty/XP.css)
