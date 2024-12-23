@@ -230,6 +230,7 @@
 - [3v0k4/exit.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/3v0k4/exit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/3v0k4/exit.nvim)](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
 - [k2589/LLuMinate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/k2589/lluminate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/k2589/lluminate.nvim)](https://github.com/k2589/lluminate.nvim) - Enrich context for LLM with LSP hover added to clipboard.
 - [supermaven-inc/supermaven-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/supermaven-inc/supermaven-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/supermaven-inc/supermaven-nvim)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+- [milanglacier/yarepl.nvim#aider-extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/milanglacier/yarepl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/milanglacier/yarepl.nvim)](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
 
 <!--lint disable double-link -->
 
@@ -948,6 +949,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [EL-MASTOR/bufferlist.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/EL-MASTOR/bufferlist.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/EL-MASTOR/bufferlist.nvim)](https://github.com/EL-MASTOR/bufferlist.nvim) - A super fast, lightweight, minimal and super easy buffer manager.
 - [ellisonleao/dotenv.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ellisonleao/dotenv.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ellisonleao/dotenv.nvim)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
 - [dzfrias/arena.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dzfrias/arena.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dzfrias/arena.nvim)](https://github.com/dzfrias/arena.nvim) - A smart (frecency-based) buffer switcher.
+- [MisanthropicBit/decipher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MisanthropicBit/decipher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MisanthropicBit/decipher.nvim)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
 
 ### CSV Files
 
@@ -1245,6 +1247,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [nvimtools/hydra.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvimtools/hydra.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvimtools/hydra.nvim)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
 - [anuvyklack/keymap-amend.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/anuvyklack/keymap-amend.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/anuvyklack/keymap-amend.nvim)](https://github.com/anuvyklack/keymap-amend.nvim) - Amend the existing keymap.
 - [max397574/better-escape.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/max397574/better-escape.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/max397574/better-escape.nvim)](https://github.com/max397574/better-escape.nvim) - Create shortcuts to escape insert mode without getting delay.
+- [TheBlob42/houdini.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/TheBlob42/houdini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/TheBlob42/houdini.nvim)](https://github.com/TheBlob42/houdini.nvim) - Create shortcut to escape modes without delay.
 - [Nexmean/caskey.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Nexmean/caskey.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Nexmean/caskey.nvim)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 - [Wansmer/langmapper.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Wansmer/langmapper.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Wansmer/langmapper.nvim)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.
 - [tris203/hawtkeys.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tris203/hawtkeys.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tris203/hawtkeys.nvim)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
@@ -1483,6 +1486,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [jyscao/ventana.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jyscao/ventana.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jyscao/ventana.nvim)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
 - [mrjones2014/smart-splits.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrjones2014/smart-splits.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrjones2014/smart-splits.nvim)](https://github.com/mrjones2014/smart-splits.nvim) - Smart, seamless, directional navigation and resizing of splits.
 - [altermo/nwm ![GitHub Repo Stars](https://img.shields.io/github/stars/altermo/nwm) ![GitHub last commit](https://img.shields.io/github/last-commit/altermo/nwm)](https://github.com/altermo/nwm) - X11 window manager.
+- [MisanthropicBit/winmove.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MisanthropicBit/winmove.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MisanthropicBit/winmove.nvim)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
 
 ### Tmux
 
