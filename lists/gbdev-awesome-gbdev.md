@@ -305,7 +305,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 #### Music drivers and trackers
 
-- [DevSound ![GitHub Repo Stars](https://img.shields.io/github/stars/DevEd2/DevSound) ![GitHub last commit](https://img.shields.io/github/last-commit/DevEd2/DevSound)](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
+- [DevSoundX ![GitHub Repo Stars](https://img.shields.io/github/stars/DevEd2/DevSoundX) ![GitHub last commit](https://img.shields.io/github/last-commit/DevEd2/DevSoundX)](https://github.com/DevEd2/DevSoundX) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
 - [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine.
 - [GBT PLAYER ![GitHub Repo Stars](https://img.shields.io/github/stars/AntonioND/gbt-player) ![GitHub last commit](https://img.shields.io/github/last-commit/AntonioND/gbt-player)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
 - [mmlgb ![GitHub Repo Stars](https://img.shields.io/github/stars/SimonLarsen/mmlgb) ![GitHub last commit](https://img.shields.io/github/last-commit/SimonLarsen/mmlgb)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
