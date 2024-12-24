@@ -62,7 +62,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Animation
 *Animation & Frame-Managing Libraries*
 
-* [andross ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/andross) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/andross)](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
+* [andross ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/andross) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/andross)](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a L��ve backend.
 * [anim8 ![GitHub Repo Stars](https://img.shields.io/github/stars/kikito/anim8) ![GitHub last commit](https://img.shields.io/github/last-commit/kikito/anim8)](https://github.com/kikito/anim8) - Animation library.
 * [animx ![GitHub Repo Stars](https://img.shields.io/github/stars/YoungNeer/animx) ![GitHub last commit](https://img.shields.io/github/last-commit/YoungNeer/animx)](https://github.com/YoungNeer/animx) - A featureful Animation library for loading animations from XML files!.
 * [Aseprite loader ![GitHub Repo Stars](https://img.shields.io/github/stars/elloramir/love-ase) ![GitHub last commit](https://img.shields.io/github/last-commit/elloramir/love-ase)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
@@ -335,7 +335,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [SUIT ![GitHub Repo Stars](https://img.shields.io/github/stars/vrld/SUIT) ![GitHub last commit](https://img.shields.io/github/last-commit/vrld/SUIT)](https://github.com/vrld/SUIT) - Small immediate mode GUI library.
 * [TuxRedux ![GitHub Repo Stars](https://img.shields.io/github/stars/KINGTUT10101/TuxRedux) ![GitHub last commit](https://img.shields.io/github/last-commit/KINGTUT10101/TuxRedux)](https://github.com/KINGTUT10101/TuxRedux) - An immediate-mode UI system for LOVE2D inspired by SUIT.
 * [YALG ![GitHub Repo Stars](https://img.shields.io/github/stars/sasszem/yalg) ![GitHub last commit](https://img.shields.io/github/last-commit/sasszem/yalg)](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
-* [YUI](https://gitea.it/1414codeforge/yui) - Declarative UI library for LÖVE.
+* [YUI](https://gitea.it/1414codeforge/yui) - Declarative UI library for L��VE.
 * [Inky ![GitHub Repo Stars](https://img.shields.io/github/stars/Keyslam/Inky) ![GitHub last commit](https://img.shields.io/github/last-commit/Keyslam/Inky)](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 * [Badar 🌕 ![GitHub Repo Stars](https://img.shields.io/github/stars/Nabeel20/Badar) ![GitHub last commit](https://img.shields.io/github/last-commit/Nabeel20/Badar)](https://github.com/Nabeel20/Badar) - Simple **custom UI syntax** for easy components compositions.
 * [MeowUI ![GitHub Repo Stars](https://img.shields.io/github/stars/MoonGameLab/MeowUI) ![GitHub last commit](https://img.shields.io/github/last-commit/MoonGameLab/MeowUI)](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
