@@ -1363,6 +1363,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [OXY2DEV/foldtext.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/foldtext.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/foldtext.nvim)](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
 - [tummetott/unimpaired.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tummetott/unimpaired.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tummetott/unimpaired.nvim)](https://github.com/tummetott/unimpaired.nvim) - Lua port of [tpope/vim-unimpaired ![GitHub Repo Stars](https://img.shields.io/github/stars/tpope/vim-unimpaired) ![GitHub last commit](https://img.shields.io/github/last-commit/tpope/vim-unimpaired)](https://github.com/tpope/vim-unimpaired).
 - [daltongd/yanklock.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/daltongd/yanklock.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/daltongd/yanklock.nvim)](https://github.com/daltongd/yanklock.nvim) - Temporarily lock the paste register to `"0`, and use `d`, `c`, and `s` motions while keeping the most recent yanked content easily accessible.
+- [zongben/capsoff.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zongben/capsoff.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zongben/capsoff.nvim)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
 
 ### Comment
 
