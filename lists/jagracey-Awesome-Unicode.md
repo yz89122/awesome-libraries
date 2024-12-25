@@ -135,7 +135,7 @@ Forms.) -- [Unicode 8.0.0 Chapter 3 - Surrogates](http://unicode.org/versions/Un
 
 ## Calculating Surrogate Pairs
 
-The Unicode character **💩 Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
+The Unicode character **���� Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
 
 ```javascript
  var High_Surrogate = function(Code_Point){ return Math.floor((Code_Point - 0x10000) / 0x400) + 0xD800 };
@@ -425,7 +425,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1F9C](https://codepoints.net/U+1F9C?lang=en) | `ᾜ`       | GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI          | `ἤ`, `ι`         | U+1F24, U+03B9         |
 | [U+1F9D](https://codepoints.net/U+1F9D?lang=en) | `ᾝ`       | GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI          | `ἥ`, `ι`         | U+1F25, U+03B9         |
 | [U+1F9E](https://codepoints.net/U+1F9E?lang=en) | `ᾞ`       | GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI   | `ἦ`, `ι`         | U+1F26, U+03B9         |
-| [U+1F9F](https://codepoints.net/U+1F9F?lang=en) | `ᾟ`       | GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI   | `ἧ`, `ι`         | U+1F27, U+03B9         |
+| [U+1F9F](https://codepoints.net/U+1F9F?lang=en) | `ᾟ`       | GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI   | `ἧ`, `��`         | U+1F27, U+03B9         |
 | [U+1FA0](https://codepoints.net/U+1FA0?lang=en) | `ᾠ`       | GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI                    | `ὠ`, `ι`         | U+1F60, U+03B9         |
 | [U+1FA1](https://codepoints.net/U+1FA1?lang=en) | `ᾡ`       | GREEK SMALL LETTER OMEGA WITH DASIA AND YPOGEGRAMMENI                    | `ὡ`, `ι`         | U+1F61, U+03B9         |
 | [U+1FA2](https://codepoints.net/U+1FA2?lang=en) | `ᾢ`       | GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA AND YPOGEGRAMMENI          | `ὢ`, `ι`         | U+1F62, U+03B9         |
@@ -447,7 +447,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1FB4](https://codepoints.net/U+1FB4?lang=en) | `ᾴ`       | GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI                     | `ά`, `ι`         | U+03AC, U+03B9         |
 | [U+1FB6](https://codepoints.net/U+1FB6?lang=en) | `ᾶ`       | GREEK SMALL LETTER ALPHA WITH PERISPOMENI                                | `α`, `͂`          | U+03B1, U+0342         |
 | [U+1FB7](https://codepoints.net/U+1FB7?lang=en) | `ᾷ`       | GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI              | `α`, `͂`, `ι`     | U+03B1, U+0342, U+03B9 |
-| [U+1FBC](https://codepoints.net/U+1FBC?lang=en) | `ᾼ`       | GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI                           | `α`, `ι`         | U+03B1, U+03B9         |
+| [U+1FBC](https://codepoints.net/U+1FBC?lang=en) | `ᾼ`       | GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI                           | `α`, `��`         | U+03B1, U+03B9         |
 | [U+1FC2](https://codepoints.net/U+1FC2?lang=en) | `ῂ`       | GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI                      | `ὴ`, `ι`         | U+1F74, U+03B9         |
 | [U+1FC3](https://codepoints.net/U+1FC3?lang=en) | `ῃ`       | GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI                                | `η`, `ι`         | U+03B7, U+03B9         |
 | [U+1FC4](https://codepoints.net/U+1FC4?lang=en) | `ῄ`       | GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI                       | `ή`, `ι`         | U+03AE, U+03B9         |
