@@ -633,6 +633,7 @@ become an Angular expert.
 * [ng-memento ![GitHub Repo Stars](https://img.shields.io/github/stars/terzurumluoglu/ng-memento) ![GitHub last commit](https://img.shields.io/github/last-commit/terzurumluoglu/ng-memento)](https://github.com/terzurumluoglu/ng-memento) - Makes your application faster by preventing the same HTTP requests from being called again in your Angular project.
 * [ngx-suspense-of ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-suspense-of) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-suspense-of)](https://github.com/Celtian/ngx-suspense-of) - Angular directive that adds suspense to your app.
 * [ngx-http-request-state ![GitHub Repo Stars](https://img.shields.io/github/stars/daiscog/ngx-http-request-state) ![GitHub last commit](https://img.shields.io/github/last-commit/daiscog/ngx-http-request-state)](https://github.com/daiscog/ngx-http-request-state) - An Angular library for wrapping HttpClient responses with loading & error information.
+* [ngs-request-tracker ![GitHub Repo Stars](https://img.shields.io/github/stars/andrei-shpileuski/ngs-request-tracker) ![GitHub last commit](https://img.shields.io/github/last-commit/andrei-shpileuski/ngs-request-tracker)](https://github.com/andrei-shpileuski/ngs-request-tracker) - A library for tracking, storing, and displaying statistics on all HTTP requests.
 
 #### Integrations
 
@@ -717,6 +718,7 @@ become an Angular expert.
 * [ngx-i18n-extract-regex-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-i18n-extract-regex-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-i18n-extract-regex-cli)](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
 * [ngx-translate-version ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-translate-version) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-translate-version)](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
 * [ngx-signal-translate ![GitHub Repo Stars](https://img.shields.io/github/stars/adamcsk1/ngx-signal-translate) ![GitHub last commit](https://img.shields.io/github/last-commit/adamcsk1/ngx-signal-translate)](https://github.com/adamcsk1/ngx-signal-translate) - A signal-driven translation service.
+* [ngs-plural ![GitHub Repo Stars](https://img.shields.io/github/stars/andrei-shpileuski/ngs-plural) ![GitHub last commit](https://img.shields.io/github/last-commit/andrei-shpileuski/ngs-plural)](https://github.com/andrei-shpileuski/ngs-plural) - A lightweight Angular library for handling pluralization in different languages using a pipe and a service. It simplifies the process of generating grammatically correct plural forms based on a numeric count and supports custom language rules.
 
 #### Module Federation
 
@@ -1718,6 +1720,7 @@ for the creation of web applications developed with Angular.
 * [ngx-back-button ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-back-button) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-back-button)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 * [ngx-route-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/perez247/ngx-route-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/perez247/ngx-route-manager)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
 * [ng-whiteboard ![GitHub Repo Stars](https://img.shields.io/github/stars/mostafazke/ng-whiteboard) ![GitHub last commit](https://img.shields.io/github/last-commit/mostafazke/ng-whiteboard)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
+* [ngs-json-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/andrei-shpileuski/ngs-json-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/andrei-shpileuski/ngs-json-utils)](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight utility library for Angular applications that provides easy-to-use functions for working with JSON objects. It includes methods for deep cloning, serialization, and deserialization of JSON data, designed specifically for Angular projects with TypeScript support.
 
 ---
 
