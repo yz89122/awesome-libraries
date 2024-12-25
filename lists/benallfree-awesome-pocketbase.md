@@ -71,6 +71,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 - [PocketBase React ![GitHub Repo Stars](https://img.shields.io/github/stars/tobicrain/pocketbase-react) ![GitHub last commit](https://img.shields.io/github/last-commit/tobicrain/pocketbase-react)](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JavaScript SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/tobicrain/pocketbase-react)
 - [PocketBase Next.js App Template ![GitHub Repo Stars](https://img.shields.io/github/stars/tsensei/nextjs-pocketbase-starter-template) ![GitHub last commit](https://img.shields.io/github/last-commit/tsensei/nextjs-pocketbase-starter-template)](https://github.com/tsensei/nextjs-pocketbase-starter-template) - PocketBase Next.js Template with server & browser client using cookies. ![GitHub Repo stars](https://img.shields.io/github/stars/tsensei/nextjs-pocketbase-starter-template)
+- [Next.js PocketBase Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/jianyuan/pocketbase-nextjs-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/jianyuan/pocketbase-nextjs-auth)](https://github.com/jianyuan/pocketbase-nextjs-auth) - Sample Next.js 15 application with PocketBase integration, a typed client, server-side and client-side rendering techniques, and server actions. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-nextjs-auth)
 
 ## Svelte
 
