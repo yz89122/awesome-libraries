@@ -1340,6 +1340,7 @@ to simplify usage and allow quick customization.
 * [nx-svg-loaders ![GitHub Repo Stars](https://img.shields.io/github/stars/ngeenx/nx-svg-loaders) ![GitHub last commit](https://img.shields.io/github/last-commit/ngeenx/nx-svg-loaders)](https://github.com/ngeenx/nx-svg-loaders) - Angular, React, Svelte, Vue SVG loader/spinner collection.
 * [ngx-hover-preload ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/ngx-hover-preload) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/ngx-hover-preload)](https://github.com/mgechev/ngx-hover-preload) - Preload Angular lazy-loaded routes on mouse over.
 * [skeletonizer ![GitHub Repo Stars](https://img.shields.io/github/stars/lukaVarga/skeletonizer) ![GitHub last commit](https://img.shields.io/github/last-commit/lukaVarga/skeletonizer)](https://github.com/lukaVarga/skeletonizer) - A lightweight package that provides a simple way to create skeletonized views for your application. It has adapters for Vue and Angular and is highly customizable and easy to use.
+* [dz-ngx-element ![GitHub Repo Stars](https://img.shields.io/github/stars/zdigambar/dz-ngx-element) ![GitHub last commit](https://img.shields.io/github/last-commit/zdigambar/dz-ngx-element)](https://github.com/zdigambar/dz-ngx-element) - [NgxElement](https://www.npmjs.com/package/@zdigambar/ngx-element) enables to lazy load Angular components in non-angular applications. The library will register a custom element to which you can pass an attribute to specify what component you want to load.
 
 #### Loggers
 
