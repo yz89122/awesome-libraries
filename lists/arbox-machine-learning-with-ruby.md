@@ -130,7 +130,8 @@ programming languages with appropriate bindings for Ruby.
 - [eps ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/eps) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/eps)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
   using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
 - [ruby-openai ![GitHub Repo Stars](https://img.shields.io/github/stars/alexrudall/ruby-openai) ![GitHub last commit](https://img.shields.io/github/last-commit/alexrudall/ruby-openai)](https://github.com/alexrudall/ruby-openai) - OpenAI API wrapper
-
+- [Instruct ![GitHub Repo Stars](https://img.shields.io/github/stars/instruct-rb/instruct) ![GitHub last commit](https://img.shields.io/github/last-commit/instruct-rb/instruct)](https://github.com/instruct-rb/instruct) - Inspired by Guidance; weave code, prompts and completions together to instruct LLMs to do what you want.
+  
 ### Neural networks
 
 - [neural-net-ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/gbuesing/neural-net-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/gbuesing/neural-net-ruby)](https://github.com/gbuesing/neural-net-ruby) -

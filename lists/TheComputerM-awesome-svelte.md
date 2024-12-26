@@ -237,6 +237,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [saasstarter ![GitHub Repo Stars](https://img.shields.io/github/stars/CriticalMoments/CMSaasStarter) ![GitHub last commit](https://img.shields.io/github/last-commit/CriticalMoments/CMSaasStarter)](https://github.com/CriticalMoments/CMSaasStarter) - A open source, fast, and free to host Svelte SaaS template.
 - [svelte-pwa-template ![GitHub Repo Stars](https://img.shields.io/github/stars/tretapey/svelte-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/tretapey/svelte-pwa)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. _(pre-v5)_
 - [vite-svelte-docker-template ![GitHub Repo Stars](https://img.shields.io/github/stars/bavragor/vite-svelte-docker-template) ![GitHub last commit](https://img.shields.io/github/last-commit/bavragor/vite-svelte-docker-template)](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
+- [svelte-docs-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/code-gio/svelte-docs-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/code-gio/svelte-docs-starter)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 
 ## Utilities
 
