@@ -701,7 +701,7 @@ Another awesome book for learning Web Development in Golang.
 ### [Coursera Specialization: Programming with Go](https://www.coursera.org/specializations/google-golang/)
 ### [Course: Understand Go's In-Depth Mechanics](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?referralCode=5CE6EB34E2B1EF4A7D37)
 ### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
-### [Course: Web Development with Google���s Go Programming Language](https://www.udemy.com/course/go-programming-language)
+### [Course: Web Development with Google’s Go Programming Language](https://www.udemy.com/course/go-programming-language)
 ### [Golangbot.com Articles](https://golangbot.com/)
 ### [Tuxerrante repo on go exercises ![GitHub Repo Stars](https://img.shields.io/github/stars/tuxerrante/go_exercises) ![GitHub last commit](https://img.shields.io/github/last-commit/tuxerrante/go_exercises)](https://github.com/tuxerrante/go_exercises)
 
