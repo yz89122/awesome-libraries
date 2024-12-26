@@ -94,6 +94,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ## GUI
 - [Adminer ![GitHub Repo Stars](https://img.shields.io/github/stars/vrana/adminer) ![GitHub last commit](https://img.shields.io/github/last-commit/vrana/adminer)](https://github.com/vrana/adminer) - Database management in a single PHP file.
 - [Another Redis Desktop Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/qishibo/AnotherRedisDesktopManager) ![GitHub last commit](https://img.shields.io/github/last-commit/qishibo/AnotherRedisDesktopManager)](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
+- [Antares SQL ![GitHub Repo Stars](https://img.shields.io/github/stars/antares-sql/antares) ![GitHub last commit](https://img.shields.io/github/last-commit/antares-sql/antares)](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX. Available for Mac, Linux and Windows.
 - [Azure Data Studio ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/azuredatastudio) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/azuredatastudio)](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [Beekeeper Studio ![GitHub Repo Stars](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/beekeeper-studio/beekeeper-studio)](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 - [Clidey WhoDB ![GitHub Repo Stars](https://img.shields.io/github/stars/clidey/whodb) ![GitHub last commit](https://img.shields.io/github/last-commit/clidey/whodb)](https://github.com/clidey/whodb) - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
@@ -356,7 +357,8 @@ Low-code and no-code platforms for application building
 
 ### Formatters
 - [CodeBuff ![GitHub Repo Stars](https://img.shields.io/github/stars/antlr/codebuff) ![GitHub last commit](https://img.shields.io/github/last-commit/antlr/codebuff)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
-- [JSQLFormatter ![GitHub Repo Stars](https://img.shields.io/github/stars/manticore-projects/jsqlformatter) ![GitHub last commit](https://img.shields.io/github/last-commit/manticore-projects/jsqlformatter)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on [JSqlParser ![GitHub Repo Stars](https://img.shields.io/github/stars/JSQLParser/JSqlParser) ![GitHub last commit](https://img.shields.io/github/last-commit/JSQLParser/JSqlParser)](https://github.com/JSQLParser/JSqlParser).
+- [JSQLFormatter ![GitHub Repo Stars](https://img.shields.io/github/stars/manticore-projects/jsqlformatter) ![GitHub last commit](https://img.shields.io/github/last-commit/manticore-projects/jsqlformatter)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on JSqlParser.
+- [SQL Online](https://sqlonline.in) - A Free Tool to format your SQL Queries followed by content for Analysts.
 - [pgFormatter ![GitHub Repo Stars](https://img.shields.io/github/stars/darold/pgFormatter) ![GitHub last commit](https://img.shields.io/github/last-commit/darold/pgFormatter)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 - [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting. 
 - [SQL Formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/zeroturnaround/sql-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/zeroturnaround/sql-formatter)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
@@ -460,6 +462,7 @@ Useful SQL-scripts for various purposes
 ## Papers
 Documents, articles, manifestos and other theoretical materials on database tools
 - [The "Database as Code" Manifesto ![GitHub Repo Stars](https://img.shields.io/github/stars/mgramin/database-as-code) ![GitHub last commit](https://img.shields.io/github/last-commit/mgramin/database-as-code)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
+- [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - A friendly illustrated guide to designing and implementing your first database.
 
 ## Machine Learning
 - [MindsDB ![GitHub Repo Stars](https://img.shields.io/github/stars/mindsdb/mindsdb) ![GitHub last commit](https://img.shields.io/github/last-commit/mindsdb/mindsdb)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
