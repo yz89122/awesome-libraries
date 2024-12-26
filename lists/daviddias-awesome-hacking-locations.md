@@ -921,7 +921,7 @@ Webpage: [mercadonegro-aveiro.blogspot.pt](https://mercadonegro-aveiro.blogspot.
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | �� | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Mon 21:00-02:00, Tue-Fri 17:00-02:00, Sat-Sun 14:00-02:00
+✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Mon 21:00-02:00, Tue-Fri 17:00-02:00, Sat-Sun 14:00-02:00
 
 ![](https://www.speedtest.net/result/9023464358.png)
 
