@@ -313,7 +313,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [GoCardless](https://gocardless.com/) — Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.
   * [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with up to 5,000 pieces of training data. 1000 model invokes per month free.
   * [Observable](https://observablehq.com/) — a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.
-  * [OCR.Space](https://ocr.space/) ��� An OCR API parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
+  * [OCR.Space](https://ocr.space/) — An OCR API parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
   * [Duply.co](https://duply.co) — Create dynamic images from API & URL, design template once and reuse it. The free tier offers 70 images/month creation from API & URL and Up to 100 through Form.
   * [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
@@ -1915,7 +1915,7 @@ Update Time, five active automations, webhooks.
   * [QuickType.io](https://quicktype.io/) - Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
   * [RandomKeygen](https://randomkeygen.com/) - A free mobile-friendly tool that offers a variety of randomly generated keys and passwords you can use to secure any application, service, or device.
   * [ray.so](https://ray.so/) - Create beautiful images of your code snippets.
-  * [readme.com](https://readme.com/) �� Beautiful documentation made easy, free for Open Source.
+  * [readme.com](https://readme.com/) — Beautiful documentation made easy, free for Open Source.
   * [redirection.io](https://redirection.io/) — SaaS tool for managing HTTP redirections for businesses, marketing and SEO.
   * [redirect.ing](https://redirect.ing/) - Fast & secure domain forwarding without managing servers or SSL certificates. Free plan includes 10 hostnames and 100,000 requests per month.
   * [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.
