@@ -541,7 +541,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   2. [Signal](https://signal.org/) - Encrypted, secure chat and video calls.
   1. [Skype](https://www.skype.com/) – Video calls.
   1. [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [Huddles](https://slack.com/features/huddles), a real-time, HD screen sharing system for collaboration in teams
-  1. [Talky](https://talky.io/) �� Truly simple video chat and screen sharing for groups
+  1. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
   1. [TeamHub](https://git.live/) — Realtime status and progress reporting directly inside your IDE
   1. [Tips for immersive video calls](https://www.benkuhn.net/vc/) —     Tips for immersive video calls
   1. [Twist](https://twist.com/) — A communications platform where long-form discussions and casual messaging live in harmony.
