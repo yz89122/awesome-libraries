@@ -2539,6 +2539,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 - [go-fixedwidth ![GitHub Repo Stars](https://img.shields.io/github/stars/ianlopshire/go-fixedwidth) ![GitHub last commit](https://img.shields.io/github/last-commit/ianlopshire/go-fixedwidth)](https://github.com/ianlopshire/go-fixedwidth) - Fixed-width text formatting (encoder/decoder with reflection).
 - [go-humanize ![GitHub Repo Stars](https://img.shields.io/github/stars/dustin/go-humanize) ![GitHub last commit](https://img.shields.io/github/last-commit/dustin/go-humanize)](https://github.com/dustin/go-humanize) - Formatters for time, numbers, and memory size to human readable format.
 - [gotabulate ![GitHub Repo Stars](https://img.shields.io/github/stars/bndr/gotabulate) ![GitHub last commit](https://img.shields.io/github/last-commit/bndr/gotabulate)](https://github.com/bndr/gotabulate) - Easily pretty-print your tabular data with Go.
+- [sq ![GitHub Repo Stars](https://img.shields.io/github/stars/neilotoole/sq) ![GitHub last commit](https://img.shields.io/github/last-commit/neilotoole/sq)](https://github.com/neilotoole/sq) - Convert data from SQL databases or document formats like CSV or Excel into formats such as JSON, Excel, CSV, HTML, Markdown, XML, and YAML.
 - [textwrap ![GitHub Repo Stars](https://img.shields.io/github/stars/isbm/textwrap) ![GitHub last commit](https://img.shields.io/github/last-commit/isbm/textwrap)](https://github.com/isbm/textwrap) - Wraps text at end of lines. Implementation of `textwrap` module from Python.
 
 ### Markup Languages
