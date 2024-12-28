@@ -1176,8 +1176,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [LibYAML ![GitHub Repo Stars](https://img.shields.io/github/stars/yaml/libyaml) ![GitHub last commit](https://img.shields.io/github/last-commit/yaml/libyaml)](https://github.com/yaml/libyaml) - A C library for parsing and emitting YAML. [MIT] [website](https://pyyaml.org/wiki/LibYAML)
 * [mini-yaml ![GitHub Repo Stars](https://img.shields.io/github/stars/jimmiebergmann/mini-yaml) ![GitHub last commit](https://img.shields.io/github/last-commit/jimmiebergmann/mini-yaml)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. [MIT]
-* [yaml-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/jbeder/yaml-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/jbeder/yaml-cpp)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. [MIT]
 * [rapidyaml ![GitHub Repo Stars](https://img.shields.io/github/stars/biojppm/rapidyaml) ![GitHub last commit](https://img.shields.io/github/last-commit/biojppm/rapidyaml)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. [MIT]
+* [yaml-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/jbeder/yaml-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/jbeder/yaml-cpp)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. [MIT]
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
