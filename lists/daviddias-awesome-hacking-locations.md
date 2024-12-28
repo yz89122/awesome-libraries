@@ -690,7 +690,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Lithuania 🇱🇹
+# Lithuania 🇱����
 
 ## Vilnius
 
@@ -804,7 +804,7 @@ Webpage: https://facebook.com/lugar34
 
 Wifi| Power | Address  | Open Hours
 --- | ----- | ------------------------------ | -------------------------------------------
-✔   | ��     | [Storgata 34](https://goo.gl/maps/x2h8ApkDiSw) | 09–01
+✔   | ✔     | [Storgata 34](https://goo.gl/maps/x2h8ApkDiSw) | 09–01
 
 ## Ålesund
 
@@ -1259,7 +1259,7 @@ Webpage: http://www.cafevitoria.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm ��� 2:00am
+✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am
 
 ## Viana do Castelo
 
