@@ -519,6 +519,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for creating visualizations with data.*
 
 * [plox ![GitHub Repo Stars](https://img.shields.io/github/stars/gridpoint-com/plox) ![GitHub last commit](https://img.shields.io/github/last-commit/gridpoint-com/plox)](https://github.com/gridpoint-com/plox) - Server-side rendered SVG graphing components for Phoenix and LiveView.
+* [tucan ![GitHub Repo Stars](https://img.shields.io/github/stars/pnezis/tucan) ![GitHub last commit](https://img.shields.io/github/last-commit/pnezis/tucan)](https://github.com/pnezis/tucan) - An Elixir plotting library on top of VegaLite.
+* [vega_lite ![GitHub Repo Stars](https://img.shields.io/github/stars/livebook-dev/vega_lite) ![GitHub last commit](https://img.shields.io/github/last-commit/livebook-dev/vega_lite)](https://github.com/livebook-dev/vega_lite) - Elixir bindings for Vega-Lite.
 
 ## Date and Time
 *Libraries for working with dates and times.*
