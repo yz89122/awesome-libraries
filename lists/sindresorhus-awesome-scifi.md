@@ -475,7 +475,7 @@ If you're going to read one Science Fiction book to get a broader perspective on
 <details>
   <summary>Description</summary>
 
-  > _Star Maker_ is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon��s previous book, _Last and First Men_ (1930), a history of the human species over two billion years. _Star Maker_ tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered _Star Maker_ to be one of the finest works of science fiction ever written.
+  > _Star Maker_ is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon’s previous book, _Last and First Men_ (1930), a history of the human species over two billion years. _Star Maker_ tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered _Star Maker_ to be one of the finest works of science fiction ever written.
 </details>
 
 #### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) _by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)_ [3.7]
@@ -3095,7 +3095,7 @@ A worthy successor to The Next Generation, well developed characters, great Xind
   > A century before Captain Kirk's five-year mission, Jonathan Archer captains Earth ship Enterprise NX-01 during the early years of Starfleet leading up to the formation of the Federation and the Earth-Romulan War.
 </details>
 
-#### [Star Trek: The Next Generation](https://www.imdb.com/title/tt0092455/) (1987–1994) [8.7]
+#### [Star Trek: The Next Generation](https://www.imdb.com/title/tt0092455/) (1987��1994) [8.7]
 
 Categories: `action` `adventure` `mystery`
 
