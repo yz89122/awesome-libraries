@@ -1057,6 +1057,7 @@ become an Angular expert.
 * [ngx-panemu-table ![GitHub Repo Stars](https://img.shields.io/github/stars/panemu/ngx-panemu-table) ![GitHub last commit](https://img.shields.io/github/last-commit/panemu/ngx-panemu-table)](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
 * [ngx-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/blueshiftone/ngx-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/blueshiftone/ngx-grid)](https://github.com/blueshiftone/ngx-grid) - A professional Angular data grid.
 * [@guiexpert/angular-table ![GitHub Repo Stars](https://img.shields.io/github/stars/guiexperttable/angular-19-table) ![GitHub last commit](https://img.shields.io/github/last-commit/guiexperttable/angular-19-table)](https://github.com/guiexperttable/angular-19-table) - Framework-agnostic table library designed to seamlessly integrate with the major frameworks, including [Angular](https://gui.expert/getstarted/angular/).
+* [ngx-tabulator-tables ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-tabulator-tables) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-tabulator-tables)](https://github.com/knackstedt/ngx-tabulator-tables) - Angular wrapper for the [Tabulator](https://tabulator.info/) table library.
 
 #### Dates
 
