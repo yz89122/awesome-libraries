@@ -1762,14 +1762,14 @@ Sly extensions:
 Text and binary parsers
 ============================
 
-* ⭐ [esrap ![GitHub Repo Stars](https://img.shields.io/github/stars/scymtym/esrap) ![GitHub last commit](https://img.shields.io/github/last-commit/scymtym/esrap)](https://github.com/scymtym/esrap) - Packrat parser. [Expat][14].
+* ⭐ [esrap ![GitHub Repo Stars](https://img.shields.io/github/stars/scymtym/esrap) ![GitHub last commit](https://img.shields.io/github/last-commit/scymtym/esrap)](https://github.com/scymtym/esrap) - Parsing Grammar, Packrat parser, TDPL features and more. [Expat][14].
+* [parseq ![GitHub Repo Stars](https://img.shields.io/github/stars/mrossini-ethz/parseq) ![GitHub last commit](https://img.shields.io/github/last-commit/mrossini-ethz/parseq)](https://github.com/mrossini-ethz/parseq) - a library for parsing sequences such as strings and lists using Parsing Expression Grammars (PEGs). Inspired by Esrap. GPL2.
+* [uclp ![GitHub Repo Stars](https://img.shields.io/github/stars/ravi-delia/uclp) ![GitHub last commit](https://img.shields.io/github/last-commit/ravi-delia/uclp)](https://github.com/ravi-delia/uclp) -  An experimental implementation of parsing expression grammars (PEGs, a la Janet) in Common Lisp. MIT.
 * [alexa ![GitHub Repo Stars](https://img.shields.io/github/stars/quil-lang/alexa) ![GitHub last commit](https://img.shields.io/github/last-commit/quil-lang/alexa)](https://github.com/quil-lang/alexa) -  A Lexical Analyzer Generator. [BSD_3Clause][15].
   - ALEXA is a tool similar to lex or flex for generating lexical analyzers. Unlike tools like lex, however, ALEXA defines a domain-specific language within your Lisp program, so you don't need to invoke a separate tool.
 * [cl-yacc ![GitHub Repo Stars](https://img.shields.io/github/stars/jech/cl-yacc) ![GitHub last commit](https://img.shields.io/github/last-commit/jech/cl-yacc)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200].
 * [cl-shlex ![GitHub Repo Stars](https://img.shields.io/github/stars/ruricolist/cl-shlex) ![GitHub last commit](https://img.shields.io/github/last-commit/ruricolist/cl-shlex)](https://github.com/ruricolist/cl-shlex/) - simple lexical analyzer for shell-like syntaxes. [MIT][200].
 * [smug ![GitHub Repo Stars](https://img.shields.io/github/stars/drewc/smug) ![GitHub last commit](https://img.shields.io/github/last-commit/drewc/smug)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT][200].
-* [parseq ![GitHub Repo Stars](https://img.shields.io/github/stars/mrossini-ethz/parseq) ![GitHub last commit](https://img.shields.io/github/last-commit/mrossini-ethz/parseq)](https://github.com/mrossini-ethz/parseq) - a library for parsing sequences such as strings and lists using Parsing Expression Grammars (PEGs). Inspired by Esrap. GPL2.
-* [uclp ![GitHub Repo Stars](https://img.shields.io/github/stars/ravi-delia/uclp) ![GitHub last commit](https://img.shields.io/github/last-commit/ravi-delia/uclp)](https://github.com/ravi-delia/uclp) -  An experimental implementation of parsing expression grammars (PEGs, a la Janet) in Common Lisp. MIT.
 * [lisp-binary ![GitHub Repo Stars](https://img.shields.io/github/stars/j3pic/lisp-binary) ![GitHub last commit](https://img.shields.io/github/last-commit/j3pic/lisp-binary)](https://github.com/j3pic/lisp-binary) - A library to easily read and write complex binary formats. [GPL3][2].
 
 see also:
