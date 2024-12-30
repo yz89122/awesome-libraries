@@ -524,7 +524,7 @@ All resources are freely available except those with a 💲 icon.
 ### Partial Differential Equations
 
 * 📝 [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis)
-* ���� [Partial Differential Equations: Lecture Notes](http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) - Erich Miersemann (Leipzig University)
+* 📝 [Partial Differential Equations: Lecture Notes](http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) - Erich Miersemann (Leipzig University)
 * 📝 [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde/) - E. Harrell, J. Herod (Georgia Tech)
 
 
@@ -603,7 +603,7 @@ All resources are freely available except those with a 💲 icon.
 ## Mathematics for Computer Science
 
 * 📝 [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
-* 📝 [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
+* ��� [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
 * 📝 [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
 * 📝 [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay
 * 📝 [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert
