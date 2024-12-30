@@ -11,6 +11,7 @@
 ## Contents
 
 - [Applications](#applications)
+	- [Build Systems](#build-systems)
 	- [Command-line](#command-line)
 	- [Editors](#editors)
 	- [Games](#games)
@@ -61,6 +62,10 @@
 	- [Videos](#videos)
 
 ## Applications
+
+### Build Systems
+
+- [clockwork ![GitHub Repo Stars](https://img.shields.io/github/stars/emmathemartian/clockwork) ![GitHub last commit](https://img.shields.io/github/last-commit/emmathemartian/clockwork)](https://github.com/emmathemartian/clockwork) - A language-agnostic build tool wrote in V.
 
 ### Command-line
 
@@ -137,6 +142,7 @@
 ### Serialization
 
 - [ini-v ![GitHub Repo Stars](https://img.shields.io/github/stars/ldedev/ini-v) ![GitHub last commit](https://img.shields.io/github/last-commit/ldedev/ini-v)](https://github.com/ldedev/ini-v) - Simple and practical module for manipulating ini/cfg file.
+- [maple ![GitHub Repo Stars](https://img.shields.io/github/stars/emmathemartian/maple) ![GitHub last commit](https://img.shields.io/github/last-commit/emmathemartian/maple)](https://github.com/emmathemartian/maple) - A very simple key-value config format wrote in V.
 - [v-toxml ![GitHub Repo Stars](https://img.shields.io/github/stars/radare/v-toxml) ![GitHub last commit](https://img.shields.io/github/last-commit/radare/v-toxml)](https://github.com/radare/v-toxml) - XML Serialization library for V.
 - [vgura ![GitHub Repo Stars](https://img.shields.io/github/stars/gura-conf/vgura) ![GitHub last commit](https://img.shields.io/github/last-commit/gura-conf/vgura)](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 - [vlang-yaml ![GitHub Repo Stars](https://img.shields.io/github/stars/jdonnerstag/vlang-yaml) ![GitHub last commit](https://img.shields.io/github/last-commit/jdonnerstag/vlang-yaml)](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
