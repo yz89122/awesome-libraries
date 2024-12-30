@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -376,7 +376,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🌎 [emscripten ![GitHub Repo Stars](https://img.shields.io/github/stars/emscripten-core/emscripten) ![GitHub last commit](https://img.shields.io/github/last-commit/emscripten-core/emscripten)](https://github.com/emscripten-core/emscripten) - The C/C++ to JavaScript (as WebAssembly) compiler. [[Website](https://emscripten.org/)]
 - C++: Entity Component System
     - 🎉 [EntityX ![GitHub Repo Stars](https://img.shields.io/github/stars/alecthomas/entityx) ![GitHub last commit](https://img.shields.io/github/last-commit/alecthomas/entityx)](https://github.com/alecthomas/entityx) - Fast, type-safe C++ entity component system.
-    - ���� [Entt ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/entt) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/entt)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
+    - 🎉 [Entt ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/entt) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/entt)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
 - C++: Fonts
     - 🎉 [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
     - 🎉 [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
@@ -426,7 +426,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [JNGL ![GitHub Repo Stars](https://img.shields.io/github/stars/jhasse/jngl) ![GitHub last commit](https://img.shields.io/github/last-commit/jhasse/jngl)](https://github.com/jhasse/jngl) - 2D framework. Develop anywhere, deploy everywhere.
     - 🔒 [KlayGE ![GitHub Repo Stars](https://img.shields.io/github/stars/gongminmin/KlayGE) ![GitHub last commit](https://img.shields.io/github/last-commit/gongminmin/KlayGE)](https://github.com/gongminmin/KlayGE) - Cross-platform game framework with plugin-based architecture.
     - 🎉 [Koala Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/phisko/kengine) ![GitHub last commit](https://img.shields.io/github/last-commit/phisko/kengine)](https://github.com/phisko/kengine) - Framework with an ECS architecture, aka _Kengine_.
-    - ��� [Lumino ![GitHub Repo Stars](https://img.shields.io/github/stars/LuminoEngine/Lumino) ![GitHub last commit](https://img.shields.io/github/last-commit/LuminoEngine/Lumino)](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics apps.
+    - 🎉 [Lumino ![GitHub Repo Stars](https://img.shields.io/github/stars/LuminoEngine/Lumino) ![GitHub last commit](https://img.shields.io/github/last-commit/LuminoEngine/Lumino)](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics apps.
     - 🎉 [Nazara Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/NazaraEngine/NazaraEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/NazaraEngine/NazaraEngine)](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
     - 🎉 [nCine ![GitHub Repo Stars](https://img.shields.io/github/stars/nCine/nCine) ![GitHub last commit](https://img.shields.io/github/last-commit/nCine/nCine)](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
     - 🎉 [Octave ![GitHub Repo Stars](https://img.shields.io/github/stars/mholtkamp/octave) ![GitHub last commit](https://img.shields.io/github/last-commit/mholtkamp/octave)](https://github.com/mholtkamp/octave) - 3D game engine for GameCube, Wii, 3DS, and more.
@@ -485,7 +485,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Crazy Eddie's GUI ![GitHub Repo Stars](https://img.shields.io/github/stars/cegui/cegui) ![GitHub last commit](https://img.shields.io/github/last-commit/cegui/cegui)](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
     - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
-    - ���� [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
+    - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
     - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
     - 🎉 [Litehtml ![GitHub Repo Stars](https://img.shields.io/github/stars/litehtml/litehtml) ![GitHub last commit](https://img.shields.io/github/last-commit/litehtml/litehtml)](https://github.com/litehtml/litehtml) - Lightweight HTML / CSS rendering engine.
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
