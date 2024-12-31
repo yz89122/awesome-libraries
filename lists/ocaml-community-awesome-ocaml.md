@@ -319,7 +319,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [cairo2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Chris00/ocaml-cairo) ![GitHub last commit](https://img.shields.io/github/last-commit/Chris00/ocaml-cairo)](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
   - [Vg ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/vg) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/vg)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
 - **3D**
-  - [glMLite ![GitHub Repo Stars](https://img.shields.io/github/stars/fccm/glMLite) ![GitHub last commit](https://img.shields.io/github/last-commit/fccm/glMLite)](https://github.com/fccm/glMLite) — OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
+  - [glMLite ![GitHub Repo Stars](https://img.shields.io/github/stars/fccm/glMLite) ![GitHub last commit](https://img.shields.io/github/last-commit/fccm/glMLite)](https://github.com/fccm/glMLite) ��� OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
   - [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
   - [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
 
@@ -469,7 +469,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
     - [oasis2opam ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml/oasis2opam) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml/oasis2opam)](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
   - [obuild ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-obuild/obuild) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-obuild/obuild)](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
   - [ocaml-makefile ![GitHub Repo Stars](https://img.shields.io/github/stars/mmottl/ocaml-makefile) ![GitHub last commit](https://img.shields.io/github/last-commit/mmottl/ocaml-makefile)](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
-  - [topkg ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/topkg) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/topkg)](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
+  - [topkg ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/topkg) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/topkg)](https://github.com/dbuenzli/topkg) �� OPAM-aware packaging system using ocamlbuild.
   - [Bazel ![GitHub Repo Stars](https://img.shields.io/github/stars/jin/rules_ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/jin/rules_ocaml)](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
 
 ## Parallelism
