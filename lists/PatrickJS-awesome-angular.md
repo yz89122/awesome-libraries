@@ -581,6 +581,7 @@ become an Angular expert.
 * [ng-doc ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-doc/ng-doc) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-doc/ng-doc)](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects.
 * [docgeni ![GitHub Repo Stars](https://img.shields.io/github/stars/docgeni/docgeni) ![GitHub last commit](https://img.shields.io/github/last-commit/docgeni/docgeni)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 * [trakk.js ![GitHub Repo Stars](https://img.shields.io/github/stars/trakkjs/trakk-js) ![GitHub last commit](https://img.shields.io/github/last-commit/trakkjs/trakk-js)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
+* [ng-component-hierarchy-visualizer ![GitHub Repo Stars](https://img.shields.io/github/stars/timonkrebs/ng-component-hierarchy-visualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/timonkrebs/ng-component-hierarchy-visualizer)](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - A non invasive tool to generate Mermaid representations of your Angular component hierarchy representation based on the route configurations
 
 #### Generators
 
