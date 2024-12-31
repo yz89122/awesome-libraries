@@ -1176,6 +1176,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Yaml
 
 * [fkYAML ![GitHub Repo Stars](https://img.shields.io/github/stars/fktn-k/fkYAML) ![GitHub last commit](https://img.shields.io/github/last-commit/fktn-k/fkYAML)](https://github.com/fktn-k/fkYAML) - A C++ header-only YAML library. [MIT]
+* [LibCYAML ![GitHub Repo Stars](https://img.shields.io/github/stars/tlsa/libcyaml) ![GitHub last commit](https://img.shields.io/github/last-commit/tlsa/libcyaml)](https://github.com/tlsa/libcyaml) - C library for reading and writing YAML. [ISC]
 * [LibYAML ![GitHub Repo Stars](https://img.shields.io/github/stars/yaml/libyaml) ![GitHub last commit](https://img.shields.io/github/last-commit/yaml/libyaml)](https://github.com/yaml/libyaml) - A C library for parsing and emitting YAML. [MIT] [website](https://pyyaml.org/wiki/LibYAML)
 * [mini-yaml ![GitHub Repo Stars](https://img.shields.io/github/stars/jimmiebergmann/mini-yaml) ![GitHub last commit](https://img.shields.io/github/last-commit/jimmiebergmann/mini-yaml)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. [MIT]
 * [rapidyaml ![GitHub Repo Stars](https://img.shields.io/github/stars/biojppm/rapidyaml) ![GitHub last commit](https://img.shields.io/github/last-commit/biojppm/rapidyaml)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. [MIT]
