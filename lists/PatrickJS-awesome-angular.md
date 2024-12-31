@@ -956,6 +956,7 @@ become an Angular expert.
 * [ngx-connection-beam ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-connection-beam) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-connection-beam)](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
 * [ngx-countUp ![GitHub Repo Stars](https://img.shields.io/github/stars/inorganik/ngx-countUp) ![GitHub last commit](https://img.shields.io/github/last-commit/inorganik/ngx-countUp)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 * [ngx-animated-counter ![GitHub Repo Stars](https://img.shields.io/github/stars/BugSplat-Git/ngx-animated-counter) ![GitHub last commit](https://img.shields.io/github/last-commit/BugSplat-Git/ngx-animated-counter)](https://github.com/BugSplat-Git/ngx-animated-counter) - BugSplat's library provides simple count up and count down number animations.
+* [ngx-dom-confetti ![GitHub Repo Stars](https://img.shields.io/github/stars/damingerdai/ngx-dom-confetti) ![GitHub last commit](https://img.shields.io/github/last-commit/damingerdai/ngx-dom-confetti)](https://github.com/damingerdai/ngx-dom-confetti) - Celebrate success with dom confetti on Angular projects!
 
 #### Breadcrumbs
 
