@@ -582,6 +582,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [dbt ![GitHub Repo Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core) ![GitHub last commit](https://img.shields.io/github/last-commit/dbt-labs/dbt-core)](https://github.com/dbt-labs/dbt-core) | Data build tool |
 | [SHAP ![GitHub Repo Stars](https://img.shields.io/github/stars/slundberg/shap) ![GitHub last commit](https://img.shields.io/github/last-commit/slundberg/shap)](https://github.com/slundberg/shap) | Game theoretic approach to explain the output of any machine learning model |
 | [LIME ![GitHub Repo Stars](https://img.shields.io/github/stars/marcotcr/lime) ![GitHub last commit](https://img.shields.io/github/last-commit/marcotcr/lime)](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
+| [zasper ![GitHub Repo Stars](https://img.shields.io/github/stars/zasper-io/zasper) ![GitHub last commit](https://img.shields.io/github/last-commit/zasper-io/zasper)](https://github.com/zasper-io/zasper) | Supercharged IDE for Data Science |
 
 
 ## Literature and Media
