@@ -139,7 +139,7 @@ Contributions welcome! Read the [contribution guidelines ![GitHub Repo Stars](ht
 ### Tools
 
 - [Alectryon ![GitHub Repo Stars](https://img.shields.io/github/stars/cpitclaudel/alectryon) ![GitHub last commit](https://img.shields.io/github/last-commit/cpitclaudel/alectryon)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
-- [Autosubst 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/uds-psl/autosubst2) ![GitHub last commit](https://img.shields.io/github/last-commit/uds-psl/autosubst2)](https://github.com/uds-psl/autosubst2) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
+- [Autosubst-ocaml ![GitHub Repo Stars](https://img.shields.io/github/stars/uds-psl/autosubst-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/uds-psl/autosubst-ocaml)](https://github.com/uds-psl/autosubst-ocaml) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
 - [coq2html ![GitHub Repo Stars](https://img.shields.io/github/stars/xavierleroy/coq2html) ![GitHub last commit](https://img.shields.io/github/last-commit/xavierleroy/coq2html)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
 - [coqdoc](https://coq.inria.fr/refman/using/tools/coqdoc.html) - Standard documentation tool that generates LaTeX or HTML files from Coq code.
