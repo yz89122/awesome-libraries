@@ -499,6 +499,7 @@ You can find hundreds of high quality packages at:
 * [Iced ![GitHub Repo Stars](https://img.shields.io/github/stars/hecrj/iced) ![GitHub last commit](https://img.shields.io/github/last-commit/hecrj/iced)](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 * [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+* [Tyrian](https://tyrian.indigoengine.io/) - Tyrian is an Elm-inspired frontend framework for Scala.js.
 * [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET Multi-platform App UI
 * [Oolong](https://oolong-kt.org/) - An Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 
