@@ -162,7 +162,7 @@
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
-- 🎨🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
+- ����🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 
 ## UI Libraries, Components & Templates
 
@@ -312,7 +312,7 @@
 - 🔧 [Tailwind CSS with Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/raytiley/tailwind-ember-example) ![GitHub last commit](https://img.shields.io/github/last-commit/raytiley/tailwind-ember-example)](https://github.com/raytiley/tailwind-ember-example) - How to add Tailwind CSS to an Ember application.
 - 🔧 [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - How to setup Tailwind CSS in Sage.
 - 🔧 [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - How to use Tailwind CSS with Gatsby.
-- �� [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - How to setup Tailwind CSS in Phoenix 1.4.
+- 🔧 [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - How to setup Tailwind CSS in Phoenix 1.4.
 - 🔧 [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) - How to Extend Tailwind CSS.
 - 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
 - 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Rebuilding Coinbase with Tailwind CSS (see the [CodePen](https://codepen.io/adamwathan/pen/RxWrZr)).
