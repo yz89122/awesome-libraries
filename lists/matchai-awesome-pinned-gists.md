@@ -81,6 +81,9 @@ Displaying data from user-defined (e.g. configured in the GitHub Action input pa
 
 - [date-box ![GitHub Repo Stars](https://img.shields.io/github/stars/kf-liu/date-box) ![GitHub last commit](https://img.shields.io/github/last-commit/kf-liu/date-box)](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
 
+- [image2grid ![GitHub Repo Stars](https://img.shields.io/github/stars/kiwamizamurai/image2grid) ![GitHub last commit](https://img.shields.io/github/last-commit/kiwamizamurai/image2grid)](https://github.com/kiwamizamurai/image2grid) - Generate for grid-like images/gifs for a GitHub README.
+
+
 ## Resources
 
 Resources for keeping pinned gists updated.
