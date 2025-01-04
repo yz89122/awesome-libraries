@@ -401,7 +401,9 @@
 
 ### Operating Systems & OS Development Examples
 
+- [limine-v-template ![GitHub Repo Stars](https://img.shields.io/github/stars/plos-clan/limine-v-template) ![GitHub last commit](https://img.shields.io/github/last-commit/plos-clan/limine-v-template)](https://github.com/plos-clan/limine-v-template) - A simple template for building a Limine-compliant kernel in V.
 - [Simple Linux kernel module example ![GitHub Repo Stars](https://img.shields.io/github/stars/spytheman/simple_kernel_module_in_v) ![GitHub last commit](https://img.shields.io/github/last-commit/spytheman/simple_kernel_module_in_v)](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
+- [v-limine ![GitHub Repo Stars](https://img.shields.io/github/stars/wenxuanjun/v-limine) ![GitHub last commit](https://img.shields.io/github/last-commit/wenxuanjun/v-limine)](https://github.com/wenxuanjun/v-limine) - A V library for handling Limine boot protocol structures.
 
 ### Patterns
 
