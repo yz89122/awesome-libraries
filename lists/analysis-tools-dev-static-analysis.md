@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -871,7 +871,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP-Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 
-- [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) — PHP spell check library.
+- [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) ��� PHP spell check library.
 
 - [PHP-Token-Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: — Library emulating the PHP internal reflection.
 
