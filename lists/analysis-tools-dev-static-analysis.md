@@ -1063,11 +1063,15 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 <h2>R</h2>
 
 
+- [CodeDepends ![GitHub Repo Stars](https://img.shields.io/github/stars/duncantl/CodeDepends) ![GitHub last commit](https://img.shields.io/github/last-commit/duncantl/CodeDepends)](https://github.com/duncantl/CodeDepends) :warning: — Static Code Analysis for R.
+
 - [cyclocomp ![GitHub Repo Stars](https://img.shields.io/github/stars/MangoTheCat/cyclocomp) ![GitHub last commit](https://img.shields.io/github/last-commit/MangoTheCat/cyclocomp)](https://github.com/MangoTheCat/cyclocomp) — Quantifies the cyclomatic complexity of R functions / expressions.
 
 - [goodpractice](https://mangothecat.github.io/goodpractice) — Analyses the source code for R packages and provides best-practice recommendations.
 
 - [lintr ![GitHub Repo Stars](https://img.shields.io/github/stars/jimhester/lintr) ![GitHub last commit](https://img.shields.io/github/last-commit/jimhester/lintr)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
+
+- [R Language Server ![GitHub Repo Stars](https://img.shields.io/github/stars/REditorSupport/languageserver) ![GitHub last commit](https://img.shields.io/github/last-commit/REditorSupport/languageserver)](https://github.com/REditorSupport/languageserver/) — Provides code completion, refactoring, folding, diagnostics (with lintr), and more for R.
 
 - [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
 
@@ -1704,7 +1708,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [ktool](https://ktool.cynder.me/en/latest/ktool.html) — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 
-- [Manalyze ![GitHub Repo Stars](https://img.shields.io/github/stars/JusticeRage/Manalyze) ![GitHub last commit](https://img.shields.io/github/last-commit/JusticeRage/Manalyze)](https://github.com/JusticeRage/Manalyze) — A static analyzer, which checks portable executables for malicious content.
+- [Manalyze ![GitHub Repo Stars](https://img.shields.io/github/stars/JusticeRage/Manalyze) ![GitHub last commit](https://img.shields.io/github/last-commit/JusticeRage/Manalyze)](https://github.com/JusticeRage/Manalyze) :warning: — A static analyzer, which checks portable executables for malicious content.
 
 - [mcsema ![GitHub Repo Stars](https://img.shields.io/github/stars/lifting-bits/mcsema) ![GitHub last commit](https://img.shields.io/github/last-commit/lifting-bits/mcsema)](https://github.com/lifting-bits/mcsema) :warning: — Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode. It translates ("lifts") executable binaries from native machine code to LLVM bitcode, which is very useful for performing program analysis methods.
 
