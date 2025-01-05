@@ -390,7 +390,7 @@ Meteo
 
 ### Device
 
-- [WebView ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-flitter/flutter_webview_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-flitter/flutter_webview_plugin)](https://github.com/dart-flitter/flutter_webview_plugin) [1479⭐] - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
+- [WebView ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-flitter/flutter_webview_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-flitter/flutter_webview_plugin)](https://github.com/dart-flitter/flutter_webview_plugin) [1479��] - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 - [Location ![GitHub Repo Stars](https://img.shields.io/github/stars/Lyokone/flutterlocation) ![GitHub last commit](https://img.shields.io/github/last-commit/Lyokone/flutterlocation)](https://github.com/Lyokone/flutterlocation) [1104⭐] - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
 - [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
 - [Local Notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/MaikuB/flutter_local_notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/MaikuB/flutter_local_notifications)](https://github.com/MaikuB/flutter_local_notifications) [2441⭐] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
