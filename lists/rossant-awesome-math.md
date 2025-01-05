@@ -297,7 +297,7 @@ All resources are freely available except those with a 💲 icon.
 
 ## Algebra
 
-* ���� [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - S. Burris, H.P. Sankappanavar
+* 📝 [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - S. Burris, H.P. Sankappanavar
 * 📝 [A Course in Commutative Algebra](https://faculty.math.illinois.edu/~r-ash/ComAlg.html) - Robert Ash
 * 📝 [First Course in Algebra](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1910)
 * 📝 [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1911)
@@ -517,7 +517,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - Gabriel Nagy
 * 📝 [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) - Gerald Teschl
 * 📝 [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
-* 📝 [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - William F. Trench
+* �� [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - William F. Trench
 * 📝 [Elementary Differential Equations With Boundary Value Problems](http://digitalcommons.trinity.edu/mono/9/) - William F. Trench
 * 📝 [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) - Jiří Lebl
 * 📝 [Differential Equations](http://djm.cc/library/Differential_Equations_Phillips_edited.pdf) - H. B. Phillips (1922)
