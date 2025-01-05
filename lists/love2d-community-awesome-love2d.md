@@ -180,6 +180,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Lighting
 *Lighting & Shadow Libraries*
 
+* [bitumbra ![GitHub Repo Stars](https://img.shields.io/github/stars/a13X-B/bitumbra) ![GitHub last commit](https://img.shields.io/github/last-commit/a13X-B/bitumbra)](https://github.com/a13X-B/bitumbra) - GPU accelerated many lights 2D shadows.
 * [lighter ![GitHub Repo Stars](https://img.shields.io/github/stars/speakk/lighter) ![GitHub last commit](https://img.shields.io/github/last-commit/speakk/lighter)](https://github.com/speakk/lighter) - A performant dynamic light implementation with a simple API.
 * [Shädows ![GitHub Repo Stars](https://img.shields.io/github/stars/matiasah/shadows) ![GitHub last commit](https://img.shields.io/github/last-commit/matiasah/shadows)](https://github.com/matiasah/shadows) - A Shadows & Lights engine for LÖVE.
 * [Light World ![GitHub Repo Stars](https://img.shields.io/github/stars/tanema/light_world.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/tanema/light_world.lua)](https://github.com/tanema/light_world.lua) - A lighting model.
@@ -194,6 +195,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Cirno's Perfect Math Library ![GitHub Repo Stars](https://img.shields.io/github/stars/excessive/cpml) ![GitHub last commit](https://img.shields.io/github/last-commit/excessive/cpml)](https://github.com/excessive/cpml) - Math/intersection library designed for games.
 * [delaunay ![GitHub Repo Stars](https://img.shields.io/github/stars/Yonaba/delaunay) ![GitHub last commit](https://img.shields.io/github/last-commit/Yonaba/delaunay)](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons.
 * [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class.
+* [loaded_dice ![GitHub Repo Stars](https://img.shields.io/github/stars/a13X-B/loaded_dice) ![GitHub last commit](https://img.shields.io/github/last-commit/a13X-B/loaded_dice)](https://github.com/a13X-B/loaded_dice) - Walker-Vose alias method implementation (loaded dice-like RNG) useful for rolling loot tables, etc.
 * [MLib ![GitHub Repo Stars](https://img.shields.io/github/stars/davisdude/mlib) ![GitHub last commit](https://img.shields.io/github/last-commit/davisdude/mlib)](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use.
 * [nvec ![GitHub Repo Stars](https://img.shields.io/github/stars/MikuAuahDark/NPad93) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/NPad93)](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) - Hump.vector-compatible LuaJIT FFI-accelerated 2D vector library.
 * [shash ![GitHub Repo Stars](https://img.shields.io/github/stars/rxi/shash) ![GitHub last commit](https://img.shields.io/github/last-commit/rxi/shash)](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua.
