@@ -330,6 +330,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 See also [Payments](#payments) applications.
 
 * [e257-fi/tackler-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/e257-fi/tackler-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/e257-fi/tackler-ng)](https://github.com/e257-fi/tackler-ng) [[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge ![GitHub Repo Stars](https://img.shields.io/github/stars/e257-fi/tackler-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/e257-fi/tackler-ng)](https://github.com/e257-fi/tackler-ng/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/e257-fi/tackler-ng/blob/main/.github/workflows/ci.yml)
+* [tarkah/tickrs ![GitHub Repo Stars](https://img.shields.io/github/stars/tarkah/tickrs) ![GitHub last commit](https://img.shields.io/github/last-commit/tarkah/tickrs)](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal
 
 ### Games
 
@@ -886,6 +887,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 * [facebookexperimental/MIRAI ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookexperimental/mirai) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookexperimental/mirai)](https://github.com/facebookexperimental/mirai) - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookexperimental/mirai) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookexperimental/mirai)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml)
 * [static_assertions](https://crates.io/crates/static_assertions) - Compile-time assertions to ensure that invariants are met
+* [verus-lang/verus ![GitHub Repo Stars](https://img.shields.io/github/stars/verus-lang/verus) ![GitHub last commit](https://img.shields.io/github/last-commit/verus-lang/verus)](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code
 
 ### Testing
 
