@@ -1531,6 +1531,7 @@ to simplify usage and allow quick customization.
 * [ngrx-entity-relationship ![GitHub Repo Stars](https://img.shields.io/github/stars/satanTime/ngrx-entity-relationship) ![GitHub last commit](https://img.shields.io/github/last-commit/satanTime/ngrx-entity-relationship)](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
 * [ngx-signal-store-query ![GitHub Repo Stars](https://img.shields.io/github/stars/k3nsei/ngx-signal-store-query) ![GitHub last commit](https://img.shields.io/github/last-commit/k3nsei/ngx-signal-store-query)](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
 * [SmartNgRX ![GitHub Repo Stars](https://img.shields.io/github/stars/DaveMBush/SmartNgRX) ![GitHub last commit](https://img.shields.io/github/last-commit/DaveMBush/SmartNgRX)](https://github.com/DaveMBush/SmartNgRX) - A library that hides most of NgRx from the developer for CRUD operations while still using NgRx under the hood and allowing you to use it with existing NgRx code.
+* [ngrx-hateoas ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/ngrx-hateoas) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/ngrx-hateoas)](https://github.com/angular-architects/ngrx-hateoas) - A library to bring hypermedia json into the NgRx Signal Store following the HATEOAS approach.
 
 ##### NGXS
 
