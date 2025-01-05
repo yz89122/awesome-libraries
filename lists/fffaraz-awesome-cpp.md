@@ -1083,6 +1083,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Serialization
 
+* [BitSerializer ![GitHub Repo Stars](https://img.shields.io/github/stars/PavelKisliak/BitSerializer) ![GitHub last commit](https://img.shields.io/github/last-commit/PavelKisliak/BitSerializer)](https://github.com/PavelKisliak/BitSerializer) - Multi-format serialization library (JSON, XML, YAML, CSV, MsgPack) [MIT]
 * [Bitsery ![GitHub Repo Stars](https://img.shields.io/github/stars/fraillt/bitsery) ![GitHub last commit](https://img.shields.io/github/last-commit/fraillt/bitsery)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. [MIT]
 * [Bond ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/bond) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/bond)](https://github.com/Microsoft/bond) - An open source, cross-platform framework for working with schematized data. [MIT]
 * [Boost.Serialization ![GitHub Repo Stars](https://img.shields.io/github/stars/boostorg/serialization) ![GitHub last commit](https://img.shields.io/github/last-commit/boostorg/serialization)](https://github.com/boostorg/serialization) - Boost Serialization Library. [Boost] [website](https://boost.org/libs/serialization)
