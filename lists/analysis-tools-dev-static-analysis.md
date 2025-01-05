@@ -1405,7 +1405,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Codacy](https://www.codacy.com) :copyright: — Code Analysis to ship Better Code, Faster.
 
-- [Code Intelligence](https://www.code-intelligence.com) :copyright: �� CI/CD-agnostic DevSecOps platform which combines industry-leading fuzzing engines for finding bugs and visualizing code coverage
+- [Code Intelligence](https://www.code-intelligence.com) :copyright: — CI/CD-agnostic DevSecOps platform which combines industry-leading fuzzing engines for finding bugs and visualizing code coverage
 
 - [Codeac](https://www.codeac.io/?ref=awesome-static-analysis) :copyright: — Automated code review tool integrates with GitHub, Bitbucket and GitLab (even self-hosted). Available for JavaScript, TypeScript, Python, Ruby, Go, PHP, Java, Docker, and more. (open-source free)
 
