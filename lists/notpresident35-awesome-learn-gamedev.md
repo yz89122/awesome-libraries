@@ -184,7 +184,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) - A free book on generating functions.
 
 
-[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) 💠 - An extensive tutorial series.
+[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) ���� - An extensive tutorial series.
 
 
 [Game Engine Architecture](https://www.gameenginebook.com/) 🟪 - A book on game engines. About $25 for the e-book, probably worth the investment if you plan to be an engine, tools, or graphics programmer.
@@ -663,7 +663,7 @@ Royalty Free Game Art! Don't forget to check the license.
 ### UI/UX
 
 
-[WE CAN FIX IT IN UI](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1) 💠🟪 - A huge list of UI/UX resources!
+[WE CAN FIX IT IN UI](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1) 💠���� - A huge list of UI/UX resources!
 
 
 [Game UI Database](https://www.gameuidatabase.com/index.php) 💠🟪 - A searchable repository of UI designs from many different games to use as reference.
