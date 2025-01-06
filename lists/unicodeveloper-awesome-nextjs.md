@@ -29,6 +29,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 
 - [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)](https://github.com/vercel/next.js)
 - [GitHub discussions for Next.js ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)](https://github.com/vercel/next.js/discussions)
+- [Vercel Community](https://vercel.community/)
 
 ## Essentials
 
