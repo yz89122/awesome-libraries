@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -343,7 +343,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [ESBMC](http://esbmc.org) — ESBMC is an open source, permissively licensed, context-bounded model checker based on satisfiability modulo theories for the verification of single- and multi-threaded C/C++ programs.
 
-- [flawfinder](http://dwheeler.com/flawfinder/) :warning: �� Finds possible security weaknesses.
+- [flawfinder](http://dwheeler.com/flawfinder/) :warning: — Finds possible security weaknesses.
 
 - [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) :warning: — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 
@@ -845,8 +845,6 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Mondrian](https://trismegiste.github.io/Mondrian) :warning: — A set of static analysis and refactoring tools which use graph theory.
 
-- [Nitpick CI](https://nitpick-ci.com) :copyright: — Automated PHP code review.
-
 - [parallel-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/php-parallel-lint/PHP-Parallel-Lint) ![GitHub last commit](https://img.shields.io/github/last-commit/php-parallel-lint/PHP-Parallel-Lint)](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — This tool checks syntax of PHP files faster than serial check with a fancier output.
 
 - [Parse ![GitHub Repo Stars](https://img.shields.io/github/stars/psecio/parse) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/parse)](https://github.com/psecio/parse) — A Static Security Scanner.
@@ -861,7 +859,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP Coding Standards Fixer](https://cs.symfony.com) — Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
 
-- [PHP Insights](https://phpinsights.com) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
+- [PHP Insights ![GitHub Repo Stars](https://img.shields.io/github/stars/nunomaduro/phpinsights) ![GitHub last commit](https://img.shields.io/github/last-commit/nunomaduro/phpinsights)](https://github.com/nunomaduro/phpinsights) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
 
 - [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) — A Static Code Analyzer for PHP.
 
@@ -1011,8 +1009,6 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [pyanalyze](https://pyanalyze.readthedocs.io/en/latest/) — A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and type errors. It can be extended to add additional rules and perform checks specific to particular functions.
 
-- [PyCodeQual](https://pycodequ.al) :copyright: — PyCodeQual gives you insights into complexity and bug risks. It adds automatic reviews to your pull requests.
-
 - [pycodestyle](https://pycodestyle.pycqa.org/en/latest) — (Formerly `pep8`) Check Python code against some of the style conventions in PEP 8.
 
 - [pydocstyle](http://www.pydocstyle.org) :warning: — Check compliance with Python docstring conventions.
@@ -1067,11 +1063,15 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cyclocomp ![GitHub Repo Stars](https://img.shields.io/github/stars/MangoTheCat/cyclocomp) ![GitHub last commit](https://img.shields.io/github/last-commit/MangoTheCat/cyclocomp)](https://github.com/MangoTheCat/cyclocomp) — Quantifies the cyclomatic complexity of R functions / expressions.
 
-- [goodpractice](https://mangothecat.github.io/goodpractice) — Analyses the source code for R packages and provides best-practice recommendations.
+- [flowR ![GitHub Repo Stars](https://img.shields.io/github/stars/flowr-analysis/flowr) ![GitHub last commit](https://img.shields.io/github/last-commit/flowr-analysis/flowr)](https://github.com/flowr-analysis/flowr) — A [program slicer ![GitHub Repo Stars](https://img.shields.io/github/stars/flowr-analysis/flowr) ![GitHub last commit](https://img.shields.io/github/last-commit/flowr-analysis/flowr)](https://github.com/flowr-analysis/flowr/wiki/Terminology#program-slice) and [dataflow analyzer](https://en.wikipedia.org/wiki/Data-flow_analysis) for the [R](https://www.r-project.org/) programming language. Its slicer allows you to reduce a complicated program just to the parts related for a specific task (e.g., the generation of a single or collection of plots, a significance test, ...). The dataflow analysis provides you with a detailed view on the semantics of the R code which can greatly improve other analyses. To use _flowR_, check out the [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=code-inspect.vscode-flowr), the [RStudio Addin ![GitHub Repo Stars](https://img.shields.io/github/stars/flowr-analysis/rstudio-addin-flowr) ![GitHub last commit](https://img.shields.io/github/last-commit/flowr-analysis/rstudio-addin-flowr)](https://github.com/flowr-analysis/rstudio-addin-flowr), the [Docker image](https://hub.docker.com/r/eagleoutice/flowr), or the [R package ![GitHub Repo Stars](https://img.shields.io/github/stars/flowr-analysis/flowr-r-adapter) ![GitHub last commit](https://img.shields.io/github/last-commit/flowr-analysis/flowr-r-adapter)](https://github.com/flowr-analysis/flowr-r-adapter).
+
+- [goodpractice](https://docs.ropensci.org/goodpractice/) — Analyses the source code for R packages and provides best-practice recommendations.
 
 - [lintr ![GitHub Repo Stars](https://img.shields.io/github/stars/jimhester/lintr) ![GitHub last commit](https://img.shields.io/github/last-commit/jimhester/lintr)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 
 - [R Language Server ![GitHub Repo Stars](https://img.shields.io/github/stars/REditorSupport/languageserver) ![GitHub last commit](https://img.shields.io/github/last-commit/REditorSupport/languageserver)](https://github.com/REditorSupport/languageserver/) — Provides code completion, refactoring, folding, diagnostics (with lintr), and more for R.
+
+- [rco](https://jcrodriguez1989.github.io/rco/) — Performance optimizer for R code (with GUI).
 
 - [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
 
@@ -1131,7 +1131,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [Rubrowser ![GitHub Repo Stars](https://img.shields.io/github/stars/blazeeboy/rubrowser) ![GitHub last commit](https://img.shields.io/github/last-commit/blazeeboy/rubrowser)](https://github.com/blazeeboy/rubrowser) — Ruby classes interactive dependency graph generator.
 
-- [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) :warning: — Static code analysis for Ruby.
+- [ruby-lint](https://gitlab.com/yorickpeterse/ruby-lint) :warning: — Static code analysis for Ruby.
 
 - [rubycritic ![GitHub Repo Stars](https://img.shields.io/github/stars/whitesmith/rubycritic) ![GitHub last commit](https://img.shields.io/github/last-commit/whitesmith/rubycritic)](https://github.com/whitesmith/rubycritic) — A Ruby code quality reporter.
 
@@ -1399,7 +1399,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Clayton](https://www.getclayton.com/) :copyright: — AI-powered code reviews for Salesforce. Secure your developments, enforce best practice and control your technical debt in real-time.
 
-- [coala](https://coala.io) :warning: — Language independent framework for creating code analysis - supports [over 60 languages](https://coala.io/languages) by default.
+- [coala ![GitHub Repo Stars](https://img.shields.io/github/stars/coala/coala) ![GitHub last commit](https://img.shields.io/github/last-commit/coala/coala)](https://github.com/coala/coala) :warning: — Language independent framework for creating code analysis - supports over 60 languages by default.
 
 - [Cobra](https://spinroot.com/cobra) :copyright: — Structural source code analyzer by NASA's Jet Propulsion Laboratory.
 
@@ -1420,8 +1420,6 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right&trade; provides a fast, automated way to ensure that your source code adheres to (your) predefined design and style guidelines as well as best coding practices.
 
 - [Codemodder](https://codemodder.io/) — Codemodder is a pluggable framework for building expressive codemods. Use Codemodder when you need more than a linter or code formatting tool. Use it to fix non-trivial security issues and other code quality problems.
-
-- [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) :copyright: — Automated SAST code reviews driven by security, supports 15+ languages and includes security training.
 
 - [codeql ![GitHub Repo Stars](https://img.shields.io/github/stars/github/codeql) ![GitHub last commit](https://img.shields.io/github/last-commit/github/codeql)](https://github.com/github/codeql) — Deep code analysis - semantic queries and dataflow for several languages with VSCode plugin support.
 
@@ -1449,7 +1447,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [cqc ![GitHub Repo Stars](https://img.shields.io/github/stars/xcatliu/cqc) ![GitHub last commit](https://img.shields.io/github/last-commit/xcatliu/cqc)](https://github.com/xcatliu/cqc) :warning: — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
 
-- [DeepCode](https://www.deepcode.ai) :warning: :copyright: — DeepCode was acquired by Snyk is now Snyk Code.
+- [DeepCode](https://snyk.io/platform/deepcode-ai/) :warning: :copyright: — DeepCode was acquired by Snyk is now Snyk Code.
 
 - [DeepSource](https://deepsource.com) :copyright: — In-depth static analysis to find issues in verticals of bug risks, security, anti-patterns, performance, documentation and style. Native integrations with GitHub, GitLab and Bitbucket. Less than 5% false positives.
 
@@ -1631,7 +1629,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [weggli ![GitHub Repo Stars](https://img.shields.io/github/stars/googleprojectzero/weggli) ![GitHub last commit](https://img.shields.io/github/last-commit/googleprojectzero/weggli)](https://github.com/googleprojectzero/weggli) — A fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.
 
-- [WhiteHat Application Security Platform](https://www.whitehatsec.com/platform/static-application-security-testing) :copyright: — WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10.
+- [WhiteHat Application Security Platform](https://source.whitehatsec.com/help/sentinel/sast-service-detail.html) :copyright: — WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10.
 
 - [Wotan ![GitHub Repo Stars](https://img.shields.io/github/stars/fimbullinter/wotan) ![GitHub last commit](https://img.shields.io/github/last-commit/fimbullinter/wotan)](https://github.com/fimbullinter/wotan) :warning: — Pluggable TypeScript and JavaScript linter.
 
@@ -1665,7 +1663,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [alquitran ![GitHub Repo Stars](https://img.shields.io/github/stars/ferivoz/alquitran) ![GitHub last commit](https://img.shields.io/github/last-commit/ferivoz/alquitran)](https://github.com/ferivoz/alquitran) — Inspects tar archives and tries to spot portability issues in regard  to POSIX 2017 pax specification and common tar implementations.
 This project is intended to be used by maintainers of projects who want to offer portable source code archives for as many systems as possible. Checking tar archives with alquitran before publishing them should help spotting issues before they reach distributors and users.
 
-- [packj](https://packj.dev) — Packj (pronounced package) is a command line (CLI) tool to vet open-source software packages for "risky" attributes that make them vulnerable to supply chain attacks. This is the tool behind our large-scale security analysis platform Packj.dev that continuously vets packages and provides free reports.
+- [packj ![GitHub Repo Stars](https://img.shields.io/github/stars/ossillate-inc/packj) ![GitHub last commit](https://img.shields.io/github/last-commit/ossillate-inc/packj)](https://github.com/ossillate-inc/packj) — Packj (pronounced package) is a command line (CLI) tool to vet open-source software packages for "risky" attributes that make them vulnerable to supply chain attacks. This is the tool behind our large-scale security analysis platform Packj.dev that continuously vets packages and provides free reports.
 
 - [pure ![GitHub Repo Stars](https://img.shields.io/github/stars/ronomon/pure) ![GitHub last commit](https://img.shields.io/github/last-commit/ronomon/pure)](https://github.com/ronomon/pure) :warning: — Pure is a static analysis file format checker that checks ZIP files for dangerous compression ratios, spec deviations, malicious archive signatures, mismatching local and central directory headers, ambiguous UTF-8 filenames, directory and symlink traversals, invalid MS-DOS dates, overlapping headers, overflow, underflow,  sparseness, accidental buffer bleeds etc.
 
@@ -1875,8 +1873,6 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [Goblint](https://goblint.in.tum.de) — A static analyzer for the analysis of multi-threaded C programs. Its primary focus is the  detection of data races, but it also reports other runtime errors, such as buffer overflows and null-pointer dereferences.
 
-- [Nitpick CI](https://nitpick-ci.com) :copyright: — Automated PHP code review.
-
 - [PullRequest](https://www.pullrequest.com) :copyright: — Code review as a service with built-in static analysis.  Increase velocity and reduce technical debt through quality code review by expert engineers backed by best-in-class automation.
 
 - [quality ![GitHub Repo Stars](https://img.shields.io/github/stars/apiology/quality) ![GitHub last commit](https://img.shields.io/github/last-commit/apiology/quality)](https://github.com/apiology/quality) :warning: — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
@@ -2068,7 +2064,7 @@ but with the following improvements:
 <h2>Mobile</h2>
 
 
-- [Android Lint](http://tools.android.com/tips/lint) — Run static analysis on Android projects.
+- [Android Lint](https://developer.android.com/studio/write/lint) — Run static analysis on Android projects.
 
 - [android-lint-summary](https://passy.github.io/android-lint-summary) :warning: — Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.
 
@@ -2206,7 +2202,7 @@ Kani verifies:
 
 - [lockfile-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/lirantal/lockfile-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/lockfile-lint)](https://github.com/lirantal/lockfile-lint) — Lint an npm or yarn lockfile to analyze and detect security issues
 
-- [LunaSec](https://www.lunasec.io) — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
+- [LunaSec ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/lunatrace-by-lunasec) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/lunatrace-by-lunasec)](https://github.com/marketplace/lunatrace-by-lunasec/) — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
 
 - [njsscan](https://opensecurity.in) — A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.
 
@@ -2372,4 +2368,4 @@ To the extent possible under law, [Matthias Endler](https://endler.dev) has waiv
 The underlying source code used to format and display that content is licensed under the MIT license.
 
 
-Title image [Designed by Freepik](http://www.freepik.com).
+Title image [Designed by Freepik](https://www.freepik.com).
