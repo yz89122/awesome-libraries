@@ -293,6 +293,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 - [EthereumKit ![GitHub Repo Stars](https://img.shields.io/github/stars/yuzushioh/EthereumKit) ![GitHub last commit](https://img.shields.io/github/last-commit/yuzushioh/EthereumKit)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
 - [EtherWalletKit ![GitHub Repo Stars](https://img.shields.io/github/stars/SteadyAction/EtherWalletKit) ![GitHub last commit](https://img.shields.io/github/last-commit/SteadyAction/EtherWalletKit)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 - [Web3.swift ![GitHub Repo Stars](https://img.shields.io/github/stars/Boilertalk/Web3.swift) ![GitHub last commit](https://img.shields.io/github/last-commit/Boilertalk/Web3.swift)](https://github.com/Boilertalk/Web3.swift) - Web3 library for interacting with the Ethereum blockchain.
+- [web3swift ![GitHub Repo Stars](https://img.shields.io/github/stars/web3swift-team/web3swift) ![GitHub last commit](https://img.shields.io/github/last-commit/web3swift-team/web3swift)](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -476,6 +477,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 - [GroupWork ![GitHub Repo Stars](https://img.shields.io/github/stars/quanvo87/GroupWork) ![GitHub last commit](https://img.shields.io/github/last-commit/quanvo87/GroupWork)](https://github.com/quanvo87/GroupWork) - Easy concurrent, asynchronous tasks in Swift.
 - [StickyLocking ![GitHub Repo Stars](https://img.shields.io/github/stars/stickytools/sticky-locking) ![GitHub last commit](https://img.shields.io/github/last-commit/stickytools/sticky-locking)](https://github.com/stickytools/sticky-locking) - A general purpose embedded hierarchical lock manager used to build highly concurrent applications of all types.
 - [SwiftCoroutine ![GitHub Repo Stars](https://img.shields.io/github/stars/belozierov/SwiftCoroutine) ![GitHub last commit](https://img.shields.io/github/last-commit/belozierov/SwiftCoroutine)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
+- [AsyncQueue ![GitHub Repo Stars](https://img.shields.io/github/stars/dfed/swift-async-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dfed/swift-async-queue)](https://github.com/dfed/swift-async-queue) - A library of queues that enable sending ordered tasks from synchronous to asynchronous contexts.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -682,7 +684,6 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Swinject ![GitHub Repo Stars](https://img.shields.io/github/stars/Swinject/Swinject) ![GitHub last commit](https://img.shields.io/github/last-commit/Swinject/Swinject)](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift.
 - [Reliant ![GitHub Repo Stars](https://img.shields.io/github/stars/appfoundry/Reliant) ![GitHub last commit](https://img.shields.io/github/last-commit/appfoundry/Reliant)](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
 - [Kraken ![GitHub Repo Stars](https://img.shields.io/github/stars/sabirvirtuoso/Kraken) ![GitHub last commit](https://img.shields.io/github/last-commit/sabirvirtuoso/Kraken)](https://github.com/sabirvirtuoso/Kraken) - A Dependency Injection Container for Swift with easy-to-use syntax.
-- [Cleanse ![GitHub Repo Stars](https://img.shields.io/github/stars/square/Cleanse) ![GitHub last commit](https://img.shields.io/github/last-commit/square/Cleanse)](https://github.com/square/Cleanse) - Lightweight Swift Dependency Injection Framework by Square.
 - [Typhoon ![GitHub Repo Stars](https://img.shields.io/github/stars/appsquickly/Typhoon) ![GitHub last commit](https://img.shields.io/github/last-commit/appsquickly/Typhoon)](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
 - [Pilgrim ![GitHub Repo Stars](https://img.shields.io/github/stars/appsquickly/pilgrim) ![GitHub last commit](https://img.shields.io/github/last-commit/appsquickly/pilgrim)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
 - [Perform ![GitHub Repo Stars](https://img.shields.io/github/stars/thoughtbot/Perform) ![GitHub last commit](https://img.shields.io/github/last-commit/thoughtbot/Perform)](https://github.com/thoughtbot/Perform) - Easy dependency injection for storyboard segues.
@@ -694,6 +695,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 - [DITranquillity ![GitHub Repo Stars](https://img.shields.io/github/stars/ivlevAstef/DITranquillity) ![GitHub last commit](https://img.shields.io/github/last-commit/ivlevAstef/DITranquillity)](https://github.com/ivlevAstef/DITranquillity) - Dependency injection framework for iOS applications written in clean Swift.
 - [Needle ![GitHub Repo Stars](https://img.shields.io/github/stars/uber/needle) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/needle)](https://github.com/uber/needle) — Compile-time safe Swift dependency injection framework with real code.
 - [Locatable ![GitHub Repo Stars](https://img.shields.io/github/stars/vincent-pradeilles/locatable) ![GitHub last commit](https://img.shields.io/github/last-commit/vincent-pradeilles/locatable)](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
+- [SafeDI ![GitHub Repo Stars](https://img.shields.io/github/stars/dfed/safedi) ![GitHub last commit](https://img.shields.io/github/last-commit/dfed/safedi)](https://github.com/dfed/safedi) - Compile-time safe dependency injection in Swift 6.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -934,6 +936,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 - [HybridCamera ![GitHub Repo Stars](https://img.shields.io/github/stars/eonist/HybridCamera) ![GitHub last commit](https://img.shields.io/github/last-commit/eonist/HybridCamera)](https://github.com/eonist/HybridCamera) - Video and photo camera for iOS, similar to the SnapChat camera.
 - [CameraKit-iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/CameraKit/camerakit-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/CameraKit/camerakit-ios)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next iOS project.
 - [ExyteMediaPicker ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/mediapicker) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/mediapicker)](https://github.com/exyte/mediapicker) - Customizable media picker
+- [MijickCamera ![GitHub Repo Stars](https://img.shields.io/github/stars/Mijick/Camera) ![GitHub last commit](https://img.shields.io/github/last-commit/Mijick/Camera)](https://github.com/Mijick/Camera) - Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
 
 **[back to top](#contributing-and-collaborating)**
 
