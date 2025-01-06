@@ -358,7 +358,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Treblle](https://www.treblle.com) - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.
   * [Webhook Store](https://www.openwebhook.io) - Tool for storing third-party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.
   * [Weights & Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
-  * [wit.ai](https://wit.ai/) — NLP for developers.
+  * [wit.ai](https://wit.ai/) ��� NLP for developers.
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month.
   * [ZenRows](https://www.zenrows.com/) — Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. The free tier of 1000 API calls.
@@ -553,7 +553,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.
   * [DiffText](https://difftext.com) - Instantly find the differences between two blocks of code. Completely free to use.
   * [eversql.com](https://www.eversql.com/) — EverSQL - The #1 platform for database optimization. Gain critical insights into your database and SQL queries automatically.
-  * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
+  * [gerrithub.io](https://review.gerrithub.io/) ��� Gerrit code review for GitHub repositories for free
   * [gocover.io](https://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
   * [goreportcard.com](https://goreportcard.com/) — Code Quality for Go projects, free for Open Source
   * [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
