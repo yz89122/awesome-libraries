@@ -17,7 +17,7 @@ Have something to add or change? Open a [pull request ![GitHub Repo Stars](https
 
 ### Table of Contents
 
-- [Getting started](#getting-started)
+- [GTFS Reference resources](#gtfs-reference-resources)
 - [Community](#community)
 - [Data](#data)
 - [Software for Creating APIs](#software-for-creating-apis)
@@ -99,6 +99,7 @@ Places to access collections of GTFS and other transit and multimodal data
 
 #### Transit agency data archives
 - [CapMetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/scascketta/CapMetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/scascketta/CapMetrics)](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd ![GitHub Repo Stars](https://img.shields.io/github/stars/scascketta/capmetricsd) ![GitHub last commit](https://img.shields.io/github/last-commit/scascketta/capmetricsd)](https://github.com/scascketta/capmetricsd), a Go daemon.
+- [Bus Observatory API](https://api.busobservatory.org/) - Public archive of real-time data on vehicle movements and status, collected from transit systems around the world.
 
 #### National government datasets
 - [National Transit Database (USA)](https://www.transit.dot.gov/ntd) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
@@ -250,6 +251,8 @@ Apps people use when taking transit.
 - [TRAVIC Transit Visualization Client](http://tracker.geops.ch/) - Visualizes vehicles moving based on static GTFS data (and sometimes realtime data). Supports over 260 cities.  Github account for geOps organization is [here](https://github.com/geops).
 - [Traze](https://traze.app/) by [Veridict](https://www.veridict.com) - Visualization of public transport vehicles from all over the world. Collaborate with other users to get real-time updates even when it is not available from the agency. Based on a number of sources, including GTFS and GTFS-RT. (Previously known as Livemap24). 
 - [Visualizing MBTA Data](http://mbtaviz.github.io/) - Interactive graphs that show how people use Boston's subway system.
+- [GTFS Viz 🚉 ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrielAHN/gtfs-viz) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielAHN/gtfs-viz)](https://github.com/gabrielAHN/gtfs-viz) - A web app that visualizes GTFS Data on the browser at scale without a backend on the client side using [duckdb-wasm 🦆](https://duckdb.org/docs/api/wasm/overview.html).
+
 #### Transit Map Creation
 - [Brand New Subway](https://jpwright.github.io/subway/) - An interactive transportation planning game that lets players alter the NYC subway system to their heart's content.
 - [BENO Metro Mapm Creator](https://beno.uk/metromapcreator/#) - A very old fashioned but classic transit map creator.
@@ -351,6 +354,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [multigtfs ![GitHub Repo Stars](https://img.shields.io/github/stars/tulsawebdevs/django-multi-gtfs) ![GitHub last commit](https://img.shields.io/github/last-commit/tulsawebdevs/django-multi-gtfs)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
 - [partridge ![GitHub Repo Stars](https://img.shields.io/github/stars/remix/partridge) ![GitHub last commit](https://img.shields.io/github/last-commit/remix/partridge)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
 - [transit_service_analyst ![GitHub Repo Stars](https://img.shields.io/github/stars/psrc/transit_service_analyst) ![GitHub last commit](https://img.shields.io/github/last-commit/psrc/transit_service_analyst)](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
+- [TransitGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/UTEL-UIUC/TransitGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/UTEL-UIUC/TransitGPT)](https://github.com/UTEL-UIUC/TransitGPT) - TransitGPT is a Generative AI-powered chatbot that enables transit enthusiasts to access and analyze General Transit Feed Specification (GTFS) data through natural language instructions.
 
 ##### R
 - [r-transit](https://github.com/r-transit) - Collection of tools for GTFS in R.
@@ -364,7 +368,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 
 Converters from various static schedule formats to and from GTFS.
 
-- [Chouette ![GitHub Repo Stars](https://img.shields.io/github/stars/enroute-mobi/chouette-core) ![GitHub last commit](https://img.shields.io/github/last-commit/enroute-mobi/chouette-core)](https://github.com/enroute-mobi/chouette-core) - Converts between French-Transmodel [NeTEX](https://transmodel-cen.eu/index.php/netex/) and GTFS.
+- [Chouette](https://enroute.atlassian.net/wiki/spaces/PUBLIC/pages/539426886/Chouette+Convert) - Converts between French-Transmodel [NeTEX](https://transmodel-cen.eu/index.php/netex/) and GTFS.
 - [extract-gtfs-pathways ![GitHub Repo Stars](https://img.shields.io/github/stars/derhuerst/extract-gtfs-pathways) ![GitHub last commit](https://img.shields.io/github/last-commit/derhuerst/extract-gtfs-pathways)](https://github.com/derhuerst/extract-gtfs-pathways) – Command-line tool to extract pathways as GeoJSON from a GTFS dataset.
 - [extract-gtfs-shapes ![GitHub Repo Stars](https://img.shields.io/github/stars/derhuerst/extract-gtfs-shapes) ![GitHub last commit](https://img.shields.io/github/last-commit/derhuerst/extract-gtfs-shapes)](https://github.com/derhuerst/extract-gtfs-shapes) – Command-line tool to extract shapes as GeoJSON from a GTFS dataset.
 - [GTFS-OSM-Sync ![GitHub Repo Stars](https://img.shields.io/github/stars/CUTR-at-USF/gtfs-osm-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/CUTR-at-USF/gtfs-osm-sync)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
@@ -411,6 +415,9 @@ Converters from various static schedule formats to and from GTFS.
 - [GTFS Text-to-Speech Tester ![GitHub Repo Stars](https://img.shields.io/github/stars/BlinkTagInc/node-gtfs-tts) ![GitHub last commit](https://img.shields.io/github/last-commit/BlinkTagInc/node-gtfs-tts)](https://github.com/BlinkTagInc/node-gtfs-tts) - A command-line tool that reads GTFS stop names out loud using Text-to-Speech to determine which need Text-to-Speech values for tts_stop_name in stops.txt.
 - [Spare GTFS-Flex Builder](https://sparelabs.com/en/spare-gtfs-flex-builder) - A free tool that helps transit agencies easily create, manage, and export their transportation data in GTFS-Flex format. 
 - [Swiftly](https://goswift.ly/) - Tool generate realtime transit data.
+- [Chouette SaaS](https://bitbucket.org/enroute-mobi/chouette-core) - Tool to generate GTFS Schedule data
+- [Ara SaaS](https://bitbucket.org/enroute-mobi/ara) - Tool to generate GTFS Realtime data.
+- [Amarillo ![GitHub Repo Stars](https://img.shields.io/github/stars/mfdz/amarillo) ![GitHub last commit](https://img.shields.io/github/last-commit/mfdz/amarillo)](https://github.com/mfdz/amarillo) - Aggregates and enhances carpooling-offers and publishes them as GTFS(-RT)
 
 #### GTFS Merge Tools
 - [combine_gtfs_feeds ![GitHub Repo Stars](https://img.shields.io/github/stars/psrc/combine_gtfs_feeds) ![GitHub last commit](https://img.shields.io/github/last-commit/psrc/combine_gtfs_feeds)](https://github.com/psrc/combine_gtfs_feeds) - A Python tool to combine multiple gtfs feeds into one feed/dataset.
@@ -479,6 +486,8 @@ Converters from various static schedule formats to and from GTFS.
 - [GTFS-realtime to SQL ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenMobilityData/GtfsRealTimeToSql) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenMobilityData/GtfsRealTimeToSql)](https://github.com/OpenMobilityData/GtfsRealTimeToSql) - Parses a GTFS-RealTime feed into an SQL database (used in [OpenMobilityData.org](https://openmobilitydata.org))
 - [gtfsrdb ![GitHub Repo Stars](https://img.shields.io/github/stars/CUTR-at-USF/gtfsrdb) ![GitHub last commit](https://img.shields.io/github/last-commit/CUTR-at-USF/gtfsrdb)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
 - [retro-gtfs ![GitHub Repo Stars](https://img.shields.io/github/stars/SAUSy-Lab/retro-gtfs) ![GitHub last commit](https://img.shields.io/github/last-commit/SAUSy-Lab/retro-gtfs)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
+- [Transi](https://gitlab.com/cutr-at-usf/transi) - A Cloud-native GTFS-RT/GTFS archiving system.
+- [GTFS-Realtime-Capsule ![GitHub Repo Stars](https://img.shields.io/github/stars/tsdataclinic/gtfs-realtime-capsule) ![GitHub last commit](https://img.shields.io/github/last-commit/tsdataclinic/gtfs-realtime-capsule)](https://github.com/tsdataclinic/gtfs-realtime-capsule) - A command-line tool that scrapes, normalizes, and archives real-time public transit data.
 
 #### GTFS Realtime Convertors
 
