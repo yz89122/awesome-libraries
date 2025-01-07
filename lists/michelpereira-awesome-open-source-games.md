@@ -140,6 +140,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### FPS
 
 - [BananaBread ![GitHub Repo Stars](https://img.shields.io/github/stars/kripken/BananaBread) ![GitHub last commit](https://img.shields.io/github/last-commit/kripken/BananaBread)](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten.
+- [Nazi Zombies Portable](https://nzp.gay) - Call of Duty: Zombies "de-make" powered by various enhanced forks of the Quake engine.
 
 ### RPG
 
@@ -169,6 +170,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [3d.city ![GitHub Repo Stars](https://img.shields.io/github/stars/lo-th/3d.city) ![GitHub last commit](https://img.shields.io/github/last-commit/lo-th/3d.city)](https://github.com/lo-th/3d.city) - Goal was to build a city in 3D to test the performance of WebGL and and Three.js.
 - [Blk Game ![GitHub Repo Stars](https://img.shields.io/github/stars/morozd/blk-game) ![GitHub last commit](https://img.shields.io/github/last-commit/morozd/blk-game)](https://github.com/morozd/blk-game) - Fully modifiable multiplayer voxel world in JS that can run efficiently in the browser.
 - [Cube Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Nurgak/Cube-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Nurgak/Cube-engine)](https://github.com/Nurgak/Cube-engine) - Resembles that of Minecraft, a popular voxel-type 3D game based on boxes.
+- [Sandboxels](https://sandboxels.r74n.com/) - Falling-sand experimentation game with over 500 materials to play with.
 
 ### Puzzle
 
@@ -239,8 +241,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Native
 
 ### Action
+
 - [Hypersomnia ![GitHub Repo Stars](https://img.shields.io/github/stars/TeamHypersomnia/Hypersomnia) ![GitHub last commit](https://img.shields.io/github/last-commit/TeamHypersomnia/Hypersomnia)](https://github.com/TeamHypersomnia/Hypersomnia) - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Has a built-in map Editor.
 - [OpenTomb ![GitHub Repo Stars](https://img.shields.io/github/stars/opentomb/OpenTomb) ![GitHub last commit](https://img.shields.io/github/last-commit/opentomb/OpenTomb)](https://github.com/opentomb/OpenTomb) - Open-source Tomb Raider 1-5 engine remake.
+- [OpenLiberty ![GitHub Repo Stars](https://img.shields.io/github/stars/FOSS-Supremacy/OpenLiberty) ![GitHub last commit](https://img.shields.io/github/last-commit/FOSS-Supremacy/OpenLiberty)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 
 ### Arcade
 
@@ -275,18 +279,21 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Freedoom ![GitHub Repo Stars](https://img.shields.io/github/stars/freedoom/freedoom) ![GitHub last commit](https://img.shields.io/github/last-commit/freedoom/freedoom)](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 - [GlPortal ![GitHub Repo Stars](https://img.shields.io/github/stars/GlPortal/glPortal) ![GitHub last commit](https://img.shields.io/github/last-commit/GlPortal/glPortal)](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 - [Ioquake3 ![GitHub Repo Stars](https://img.shields.io/github/stars/ioquake/ioq3) ![GitHub last commit](https://img.shields.io/github/last-commit/ioquake/ioq3)](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
+- [Nazi Zombies Portable ![GitHub Repo Stars](https://img.shields.io/github/stars/nzp-team/nzportable) ![GitHub last commit](https://img.shields.io/github/last-commit/nzp-team/nzportable)](https://github.com/nzp-team/nzportable) - Call of Duty: Zombies "de-make" powered by various enhanced forks of the Quake engine.
 - [OpenLara ![GitHub Repo Stars](https://img.shields.io/github/stars/XProger/OpenLara) ![GitHub last commit](https://img.shields.io/github/last-commit/XProger/OpenLara)](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine.
 - [Openspades ![GitHub Repo Stars](https://img.shields.io/github/stars/yvt/openspades) ![GitHub last commit](https://img.shields.io/github/last-commit/yvt/openspades)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
 - [Red Eclipse](https://github.com/redeclipse) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
 - [Unvanquished ![GitHub Repo Stars](https://img.shields.io/github/stars/Unvanquished/Unvanquished) ![GitHub last commit](https://img.shields.io/github/last-commit/Unvanquished/Unvanquished)](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 - [Urban Terror ![GitHub Repo Stars](https://img.shields.io/github/stars/FrozenSand/UrbanTerror4) ![GitHub last commit](https://img.shields.io/github/last-commit/FrozenSand/UrbanTerror4)](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
 - [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
+- [Xonotic](https://xonotic.org/) - An addictive arena-style first person shooter with crisp movement and a wide array of weapons.
 
 
 ### MMORPG
 
 - [Meridian 59 ![GitHub Repo Stars](https://img.shields.io/github/stars/Meridian59/Meridian59) ![GitHub last commit](https://img.shields.io/github/last-commit/Meridian59/Meridian59)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012 - the game is being actively developed by the community.
 - [Stendhal ![GitHub Repo Stars](https://img.shields.io/github/stars/arianne/stendhal) ![GitHub last commit](https://img.shields.io/github/last-commit/arianne/stendhal)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
+- [Veloren](https://veloren.net/) - An action-adventure role-playing game set in a vast fantasy world.
 
 ### RPG
 
@@ -448,6 +455,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Prince of Persia ![GitHub Repo Stars](https://img.shields.io/github/stars/jmechner/Prince-of-Persia-Apple-II) ![GitHub last commit](https://img.shields.io/github/last-commit/jmechner/Prince-of-Persia-Apple-II)](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 - [UFO RUN ![GitHub Repo Stars](https://img.shields.io/github/stars/Nextpeer/Nextpeer-UFORUN) ![GitHub last commit](https://img.shields.io/github/last-commit/Nextpeer/Nextpeer-UFORUN)](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
 - [System Shock ![GitHub Repo Stars](https://img.shields.io/github/stars/NightDiveStudios/shockmac) ![GitHub last commit](https://img.shields.io/github/last-commit/NightDiveStudios/shockmac)](https://github.com/NightDiveStudios/shockmac) - Source code for original System Shock game (PowerMac version), more readable fork available [here ![GitHub Repo Stars](https://img.shields.io/github/stars/ToxicFrog/shockmac) ![GitHub last commit](https://img.shields.io/github/last-commit/ToxicFrog/shockmac)](https://github.com/ToxicFrog/shockmac).
+- [Rogue Legacy ![GitHub Repo Stars](https://img.shields.io/github/stars/flibitijibibo/RogueLegacy1) ![GitHub last commit](https://img.shields.io/github/last-commit/flibitijibibo/RogueLegacy1)](https://github.com/flibitijibibo/RogueLegacy1/) - Source code for Rogue Legacy 1.
 
 ## Frameworks/Engines/Libraries
 
