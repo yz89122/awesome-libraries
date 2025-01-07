@@ -51,6 +51,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Timer ![GitHub Repo Stars](https://img.shields.io/github/stars/CoreyHayward/PowerToys-Run-Timer) ![GitHub last commit](https://img.shields.io/github/last-commit/CoreyHayward/PowerToys-Run-Timer)](https://github.com/CoreyHayward/PowerToys-Run-Timer) - Set and manage timers.
 - [HexInspector ![GitHub Repo Stars](https://img.shields.io/github/stars/NaroZeol/PowerHexInspector) ![GitHub last commit](https://img.shields.io/github/last-commit/NaroZeol/PowerHexInspector)](https://github.com/NaroZeol/PowerHexInspector) - Convert numbers between bases.
 - [LocalLLM ![GitHub Repo Stars](https://img.shields.io/github/stars/Darkdriller/PowerToys-Run-LocalLLm) ![GitHub last commit](https://img.shields.io/github/last-commit/Darkdriller/PowerToys-Run-LocalLLm)](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) - Query local LLM models with Ollama.
+- [JohnnyDecimal ![GitHub Repo Stars](https://img.shields.io/github/stars/seguri/PowerToys-Run-JohnnyDecimal) ![GitHub last commit](https://img.shields.io/github/last-commit/seguri/PowerToys-Run-JohnnyDecimal)](https://github.com/seguri/PowerToys-Run-JohnnyDecimal) - Navigate through your JohnnyDecimal system.
 
 ## Resources
 
@@ -64,6 +65,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 ## Articles
 
 - [Creating custom PowerToys Run plugins](https://conductofcode.io/post/creating-custom-powertoys-run-plugins/) - A step by step guide on how to create community plugins for PowerToys Run.
+- [How I developed the JohnnyDecimal plugin](https://blog.seguri.dev/posts/powertoys-run-johnnydecimal/) - A step by step guide on how the JohnnyDecimal community plugin was developed.
 
 ## Contributing
 
