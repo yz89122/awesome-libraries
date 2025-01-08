@@ -205,7 +205,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — A binding to the NDBM/GDBM Unix "databases".
   - [Mongo.ml](https://massd.github.io/mongo/) – An OCaml driver for Mongodb
   - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
-    - [ppx_pgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/tizoc/ppx_pgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/tizoc/ppx_pgsql)](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
+    - [ppx_pgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/tizoc/ppx_pgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/tizoc/ppx_pgsql)](https://github.com/tizoc/ppx_pgsql) ��� A syntax extension for embedded SQL queries using PG'OCaml.
   - [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
   - [SQLite3 ![GitHub Repo Stars](https://img.shields.io/github/stars/mmottl/sqlite3-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mmottl/sqlite3-ocaml)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
@@ -290,7 +290,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Formal Software Verification
 
-- [Coq](https://coq.inria.fr/) ��� Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms, and theorems, together with an environment for semi-interactive development of machine-checked proofs.
+- [Coq](https://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms, and theorems, together with an environment for semi-interactive development of machine-checked proofs.
 - [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
 - [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
 
