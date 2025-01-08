@@ -732,7 +732,7 @@ Featured playlists: `Tensors for Beginners`, `Tensor Calculus`, `Spinors for Beg
 Content about: Fundamental math, Physics \
 Featured playlists: `Fractals`, `Collision Detection`, `3D`, `Physics`, `Application - Ballistics`, `Trigonometry`.
 
-[🔼 Back to the top](#contents)
+[��� Back to the top](#contents)
 
 ## Machine Learning
 
