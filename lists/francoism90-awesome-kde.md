@@ -192,7 +192,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Scripts
 
 - [Grid-Tiling-Kwin ![GitHub Repo Stars](https://img.shields.io/github/stars/lingtjien/Grid-Tiling-Kwin) ![GitHub last commit](https://img.shields.io/github/last-commit/lingtjien/Grid-Tiling-Kwin)](https://github.com/lingtjien/Grid-Tiling-Kwin) - A kwin script that automatically tiles windows.
-- [Kröhnkite ![GitHub Repo Stars](https://img.shields.io/github/stars/esjeon/krohnkite) ![GitHub last commit](https://img.shields.io/github/last-commit/esjeon/krohnkite)](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
+- [Kröhnkite ![GitHub Repo Stars](https://img.shields.io/github/stars/anametologin/krohnkite) ![GitHub last commit](https://img.shields.io/github/last-commit/anametologin/krohnkite)](https://github.com/anametologin/krohnkite) - A dynamic tiling extension for KWin.
 - [kwin-tiling ![GitHub Repo Stars](https://img.shields.io/github/stars/faho/kwin-tiling) ![GitHub last commit](https://img.shields.io/github/last-commit/faho/kwin-tiling)](https://github.com/faho/kwin-tiling) - Tiling script for kwin.
 
 #### Display Manager
