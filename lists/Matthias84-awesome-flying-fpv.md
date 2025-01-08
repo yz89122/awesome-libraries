@@ -311,7 +311,7 @@ Your FC is focused on realtime control for maneuvers, while additional computers
 * [ROS ![GitHub Repo Stars](https://img.shields.io/github/stars/ros/ros) ![GitHub last commit](https://img.shields.io/github/last-commit/ros/ros)](https://github.com/ros/ros) - Robot Operating System, to handle more complex and interactive flights.
 * [DroneKit ![GitHub Repo Stars](https://img.shields.io/github/stars/dronekit/dronekit-python) ![GitHub last commit](https://img.shields.io/github/last-commit/dronekit/dronekit-python)](https://github.com/dronekit/dronekit-python) - Multi platform integration ecosystem including Mavlink radio link.
 
-## Computer Vision 🤖
+## Computer Vision ����
 
 CV is on the processing of what you see at the UAV live image or recordings. This is about aerial mapping, or machine learning powered flight planning. See also [UAV Mapping Guidelines](https://uav-guidelines.openaerialmap.org/).
 
