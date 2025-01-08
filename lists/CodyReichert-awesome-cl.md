@@ -941,8 +941,7 @@ Web Development
 --------
 
 * [Section on Web Development in The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/web.html) - An introductory tutorial covering web server setup, routing, weblocks, templating, error handling, packaging, hot reloading, database connection, and deployment, amongst other topics in the current lisp web development ecosystem.
-* [Lisp for the Web](https://leanpub.com/lispweb) - A book that walks you through building a voting web application in three tiers.
-* [Lisp Web Tales](https://leanpub.com/lispwebtales) - Simple tutorials using [hunchentoot](http://edicl.github.io/hunchentoot/), [cl-redis ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/cl-redis) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/cl-redis)](https://github.com/vseloved/cl-redis), [restas ![GitHub Repo Stars](https://img.shields.io/github/stars/archimag/restas) ![GitHub last commit](https://img.shields.io/github/last-commit/archimag/restas)](https://github.com/archimag/restas), [SEXML ![GitHub Repo Stars](https://img.shields.io/github/stars/madnificent/SEXML) ![GitHub last commit](https://img.shields.io/github/last-commit/madnificent/SEXML)](https://github.com/madnificent/SEXML), [Postmodern ![GitHub Repo Stars](https://img.shields.io/github/stars/marijnh/Postmodern) ![GitHub last commit](https://img.shields.io/github/last-commit/marijnh/Postmodern)](https://github.com/marijnh/Postmodern), and more.
+* NEW [Web Apps in Lisp: Know-how](https://web-apps-in-lisp.github.io/) - tutorial and reference material to build interactive web apps in Common Lisp. CC-BY.
 
 Reference
 ---------
