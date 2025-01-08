@@ -677,7 +677,7 @@ https://twitter.com/mathias
 Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 https://twitter.com/ThorstenHans
 
-## Greece 🇬🇷
+## Greece ���🇷
 
 ### Athens
 
