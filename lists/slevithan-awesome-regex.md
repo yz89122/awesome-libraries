@@ -136,6 +136,8 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 
 - [ripgrep ![GitHub Repo Stars](https://img.shields.io/github/stars/BurntSushi/ripgrep) ![GitHub last commit](https://img.shields.io/github/last-commit/BurntSushi/ripgrep)](https://github.com/BurntSushi/ripgrep) - Better and faster grep. Recursively searches directories while respecting gitignore rules and skipping hidden/binary files.
   - Flavors: Rust (default), PCRE.
+- [nomino ![GitHub Repo Stars](https://img.shields.io/github/stars/yaa110/nomino) ![GitHub last commit](https://img.shields.io/github/last-commit/yaa110/nomino)](https://github.com/yaa110/nomino) - Rename files uses regexes.
+  - Flavor: Rust.
 
 ➕ **See also:** [Feature comparison of grep-like tools](https://beyondgrep.com/feature-comparison/).
 
