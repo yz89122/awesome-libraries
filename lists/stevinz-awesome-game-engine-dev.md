@@ -214,7 +214,7 @@ _Info on topics necessary for designing and developing game engines._
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
-    - ���� [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
+    - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
 
@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -413,7 +413,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Skylicht ![GitHub Repo Stars](https://img.shields.io/github/stars/skylicht-lab/skylicht-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/skylicht-lab/skylicht-engine)](https://github.com/skylicht-lab/skylicht-engine) - Upgraded features including audio, physics and particles. Built on _Irrlicht_.
     - 🎉 [Spartan Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/PanosK92/SpartanEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/PanosK92/SpartanEngine)](https://github.com/PanosK92/SpartanEngine) - Emphasis on quality and performance.
     - 🎉 [Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/Oyun-Teknolojileri/ToolKit) ![GitHub last commit](https://img.shields.io/github/last-commit/Oyun-Teknolojileri/ToolKit)](https://github.com/Oyun-Teknolojileri/ToolKit) - Simple 2D/3D game and app develepment kit.
-    - �� [Torque 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/GarageGames/Torque3D) ![GitHub last commit](https://img.shields.io/github/last-commit/GarageGames/Torque3D)](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on _The Forge_.
+    - 🎉 [Torque 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/GarageGames/Torque3D) ![GitHub last commit](https://img.shields.io/github/last-commit/GarageGames/Torque3D)](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on _The Forge_.
     - 🔒 [UPBGE ![GitHub Repo Stars](https://img.shields.io/github/stars/UPBGE/upbge) ![GitHub last commit](https://img.shields.io/github/last-commit/UPBGE/upbge)](https://github.com/UPBGE/upbge) - Blender game engine, originally forked from _Blender_.
 - C++: Game Framework
     - 🎉 [Acid ![GitHub Repo Stars](https://img.shields.io/github/stars/EQMG/Acid) ![GitHub last commit](https://img.shields.io/github/last-commit/EQMG/Acid)](https://github.com/EQMG/Acid) - Modern C++17 and structured to be fast, simple, and modular.
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
