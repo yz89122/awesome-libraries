@@ -409,7 +409,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | So You Want to Talk About Race | Ijeoma Oluo | [4.53](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) | 2018 |
 | The Origin of Others | Toni Morrison | [4.22](https://www.goodreads.com/book/show/34758228-the-origin-of-others) | 2017 |
 
-<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-��-blue"/></a>
 
 ## Education
 | Name | Author | Goodreads Rating | Year Published |
@@ -461,7 +461,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Shakespeare's Metrical Art | George T. Wright | [4.39](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) | 1991 |
 | Hamlet in Purgatory | Stephen Greenblatt | [3.98](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) | 2002 |
 
-<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-���-blue"/></a>
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
 ## Fiction
 

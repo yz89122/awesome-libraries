@@ -881,6 +881,7 @@ _Libraries for building and using SQL._
 - [pq ![GitHub Repo Stars](https://img.shields.io/github/stars/lib/pq) ![GitHub last commit](https://img.shields.io/github/last-commit/lib/pq)](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql.
 - [Sqinn-Go ![GitHub Repo Stars](https://img.shields.io/github/stars/cvilsmeier/sqinn-go) ![GitHub last commit](https://img.shields.io/github/last-commit/cvilsmeier/sqinn-go)](https://github.com/cvilsmeier/sqinn-go) - SQLite with pure Go.
 - [sqlhooks ![GitHub Repo Stars](https://img.shields.io/github/stars/qustavo/sqlhooks) ![GitHub last commit](https://img.shields.io/github/last-commit/qustavo/sqlhooks)](https://github.com/qustavo/sqlhooks) - Attach hooks to any database/sql driver.
+- [sqlite](https://pkg.go.dev/modernc.org/sqlite) - Package sqlite is a sql/database driver using a CGo-free port of the C SQLite3 library.
 - [surrealdb.go ![GitHub Repo Stars](https://img.shields.io/github/stars/surrealdb/surrealdb.go) ![GitHub last commit](https://img.shields.io/github/last-commit/surrealdb/surrealdb.go)](https://github.com/surrealdb/surrealdb.go) - SurrealDB Driver for Go.
 - [ydb-go-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/ydb-platform/ydb-go-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/ydb-platform/ydb-go-sdk)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
 
@@ -3755,7 +3756,7 @@ _Add the group of your city/country here (send **PR**)_
 - [package main](https://www.youtube.com/packagemain) - YouTube channel about Programming in Go.
 - [Programming with Google Go](https://www.coursera.org/specializations/google-golang) - Coursera Specialization to learn about Go from scratch.
 - [Scaling Go Applications](https://betterstack.com/community/guides/scaling-go/) - Everything about building, deploying and scaling Go applications in production.
-- [The world’s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
+- [The world���s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
 - [Understanding Go in a visual way](https://dev.to/aurelievache/series/26234) - Learn Go visually
 - [W3basic Go Tutorials](https://www.w3basic.com/golang/) - W3Basic provides an in-depth tutorial and well-organized content to learn Golang programming.
 - [Working with Go ![GitHub Repo Stars](https://img.shields.io/github/stars/mkaz/working-with-go) ![GitHub last commit](https://img.shields.io/github/last-commit/mkaz/working-with-go)](https://github.com/mkaz/working-with-go) - Intro to go for experienced programmers.
