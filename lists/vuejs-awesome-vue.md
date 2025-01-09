@@ -439,7 +439,7 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立开发者训练营：Vue 前端���用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
@@ -1692,7 +1692,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vue-starters-directory](https://shershen08.github.io/vue-starters-directory/) - Search for available scaffold projects and starter kits for VueJS. Features search and github stats are available.
 - [Vue3-SPA-starter-template ![GitHub Repo Stars](https://img.shields.io/github/stars/M-Media-Group/Vue3-SPA-starter-template) ![GitHub last commit](https://img.shields.io/github/last-commit/M-Media-Group/Vue3-SPA-starter-template)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
 - [vue-x-platforms ![GitHub Repo Stars](https://img.shields.io/github/stars/NativeScript/vue-x-platforms) ![GitHub last commit](https://img.shields.io/github/last-commit/NativeScript/vue-x-platforms)](https://github.com/NativeScript/vue-x-platforms) - Vue running on Web, iOS, Android and Vision Pro.
-- [mevn-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafacagri/mevn-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafacagri/mevn-boilerplate)](https://github.com/mustafacagri/mevn-boilerplate) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
+- [mevn-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafacagri/mevn-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafacagri/mevn-boilerplate)](https://github.com/mustafacagri/mevn-boilerplate) - ���️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 
 #### Universal
 
