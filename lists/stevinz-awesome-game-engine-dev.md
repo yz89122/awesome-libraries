@@ -214,7 +214,7 @@ _Info on topics necessary for designing and developing game engines._
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
-    - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
+    - ���� [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
 
@@ -362,7 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: App Framework
     - 🎉 [Cinder ![GitHub Repo Stars](https://img.shields.io/github/stars/cinder/Cinder) ![GitHub last commit](https://img.shields.io/github/last-commit/cinder/Cinder)](https://github.com/cinder/Cinder) - App / graphics library for macOS, Windows, Linux, iOS. [[Website](https://libcinder.org)]
     - 🎉 [Cross Window ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossWindow) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossWindow)](https://github.com/alaingalvan/CrossWindow) - Platform library for managing windows and other OS tasks.
-    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) ��� - Cross-platform access to windowing, graphics, audio and networking.
+    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
 - C++: Animation
     - 🎉 [Ozz-Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumeblanc/ozz-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumeblanc/ozz-animation)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
     - 🎉 [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
@@ -413,7 +413,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Skylicht ![GitHub Repo Stars](https://img.shields.io/github/stars/skylicht-lab/skylicht-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/skylicht-lab/skylicht-engine)](https://github.com/skylicht-lab/skylicht-engine) - Upgraded features including audio, physics and particles. Built on _Irrlicht_.
     - 🎉 [Spartan Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/PanosK92/SpartanEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/PanosK92/SpartanEngine)](https://github.com/PanosK92/SpartanEngine) - Emphasis on quality and performance.
     - 🎉 [Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/Oyun-Teknolojileri/ToolKit) ![GitHub last commit](https://img.shields.io/github/last-commit/Oyun-Teknolojileri/ToolKit)](https://github.com/Oyun-Teknolojileri/ToolKit) - Simple 2D/3D game and app develepment kit.
-    - 🎉 [Torque 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/GarageGames/Torque3D) ![GitHub last commit](https://img.shields.io/github/last-commit/GarageGames/Torque3D)](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on _The Forge_.
+    - �� [Torque 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/GarageGames/Torque3D) ![GitHub last commit](https://img.shields.io/github/last-commit/GarageGames/Torque3D)](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on _The Forge_.
     - 🔒 [UPBGE ![GitHub Repo Stars](https://img.shields.io/github/stars/UPBGE/upbge) ![GitHub last commit](https://img.shields.io/github/last-commit/UPBGE/upbge)](https://github.com/UPBGE/upbge) - Blender game engine, originally forked from _Blender_.
 - C++: Game Framework
     - 🎉 [Acid ![GitHub Repo Stars](https://img.shields.io/github/stars/EQMG/Acid) ![GitHub last commit](https://img.shields.io/github/last-commit/EQMG/Acid)](https://github.com/EQMG/Acid) - Modern C++17 and structured to be fast, simple, and modular.
