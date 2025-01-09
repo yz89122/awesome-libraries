@@ -445,6 +445,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Just The Source
 
 - [Aquaria ![GitHub Repo Stars](https://img.shields.io/github/stars/AquariaOSE/Aquaria) ![GitHub last commit](https://img.shields.io/github/last-commit/AquariaOSE/Aquaria)](https://github.com/AquariaOSE/Aquaria) - Breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
+- [Descent 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/DescentDevelopers/Descent3) ![GitHub last commit](https://img.shields.io/github/last-commit/DescentDevelopers/Descent3)](https://github.com/DescentDevelopers/Descent3) - Pilot a fighter in a six-degree-of-freedom shooter across underground and surface environments.
 - [Doom 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/TTimo/doom3.gpl) ![GitHub last commit](https://img.shields.io/github/last-commit/TTimo/doom3.gpl)](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source code release.
 - [ID Software](https://github.com/id-Software) - Includes Doom, Quake, Wolfenstein and more.
 - [Jedi Academy ![GitHub Repo Stars](https://img.shields.io/github/stars/grayj/Jedi-Academy) ![GitHub last commit](https://img.shields.io/github/last-commit/grayj/Jedi-Academy)](https://github.com/grayj/Jedi-Academy) - Jedi Academy source only, mirror of SourceForge from Raven Software.

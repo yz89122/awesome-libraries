@@ -224,7 +224,7 @@ A curated list of podcasts we like to listen to.
 
 ## In Portuguese
 
-* [10deploys](https://www.10deploys.com/) - São discutidas as origens, tendências, influências e os conceitos por trás do DevOps com o objetivo de ajudar organizações a se transformarem em organizações de alto desempenho.
+* [10deploys](https://www.10deploys.com/) - São discutidas as origens, tendências, influências e os conceitos por trás do DevOps com o objetivo de ajudar organiza��ões a se transformarem em organizações de alto desempenho.
 * [99Vidas](http://99vidas.com.br/) - Nostalgia, diversão e muita opinião sobre videogames.
 * [Acabou o café](https://www.listennotes.com/podcasts/acabou-o-caf%C3%A9-archcode-3DQw-pYW_dx/) - Podcast sobre desenvolvimento de sistemas e tecnologia do ArchCode.
 * [Adrenaline](https://open.spotify.com/show/2Yj0uF6UjYLhJzclj2jXaE) - Podcast que aborda temas de tecnologia, games e cultura geek.
@@ -276,7 +276,7 @@ A curated list of podcasts we like to listen to.
 * [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) - Política, história e atualidades.
 * [Zone Of Front-Enders](https://zofe.com.br/) - Podcast com enfoque no desenvolvimento front-end da web.
 * [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
-* [PH Santos Podcast](https://open.spotify.com/show/08zI81PqsvRqnzPvBElIKZ?si=8ca629191f074b25) - Podcast do Comunicador e Crítico de Cinema PH Santos, focado em séries e filmes.
+* [PH Santos Podcast](https://open.spotify.com/show/08zI81PqsvRqnzPvBElIKZ?si=8ca629191f074b25) - Podcast do Comunicador e Cr��tico de Cinema PH Santos, focado em séries e filmes.
 * [Olá, Gabs](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl?si=8e20c3b64c1a4ce7) - Podcast sobre tecnologia de maneira bem humana. Reflexõe, histórias e tecnologia.
 
 ## In Spanish
@@ -300,7 +300,7 @@ A curated list of podcasts we like to listen to.
 * [Eduardo Collado](https://www.eduardocollado.com/) - Administración de redes. No sólo de hosting y redes vive el hombre.
 * [Home Studio Libre: el Podcast](https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html) - Aquí encontraras informacion en español sobre producción y postproducción de audio y vídeo con herramientas libres.
 * [Más Allá de la Innovación](https://masalladelainnovacion.com) - Entrevistas tech de OpenExpo.
-* [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) - Reflexiones sobre tecnología, ordenadores, chromebooks, smartphones, tablets, software, sistemas operativos:Linux, Windows y otros y apps.
+* [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) - Reflexiones sobre tecnolog��a, ordenadores, chromebooks, smartphones, tablets, software, sistemas operativos:Linux, Windows y otros y apps.
 * [NOlegaltech Radio](https://www.ivoox.com/podcast-nolegaltech-radio_sq_f1446265_1.html) - El mundo legal no mola nada... Píldoras de tecnología y derecho en 10 minutos.
   * [Linux Express, de Podcast Linux](https://podcastlinux.gitlab.io) - Resumen más personal de Podcast Linux.
 * [Podcast oficial KDE España](https://www.ivoox.com/podcast-podcast-kde-espana_sq_f1249423_1.html) - Podcast de la Asociación Cultural KDE España.
