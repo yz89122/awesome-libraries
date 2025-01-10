@@ -1031,7 +1031,7 @@ highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli
 * [Week Number](https://sindresorhus.com/week-number) - The current week number in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6502579523)
 * [Work Hours ![GitHub Repo Stars](https://img.shields.io/github/stars/niteoweb/work-hours-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/niteoweb/work-hours-mac)](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/niteoweb/work-hours-mac)
 * [Xbar](https://xbarapp.com/) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
-* [FunKey��Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677) - FunKey is a Mac app that offers the ability to add artificial mechanical keyboard sounds to your MacBook. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677)
+* [FunKey－Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677) - FunKey is a Mac app that offers the ability to add artificial mechanical keyboard sounds to your MacBook. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677)
 
 ### File Organization Tools
 
