@@ -461,7 +461,7 @@ become an Angular expert.
 
 #### Analytics
 
-* [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - Heap is the only digital insights platform that gives you complete understanding of your customers’ digital journeys, so you can quickly improve conversion, retention, and customer delight.
+* [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - Heap is the only digital insights platform that gives you complete understanding of your customers��� digital journeys, so you can quickly improve conversion, retention, and customer delight.
 * [ngx-tableau](https://www.npmjs.com/package/ngx-tableau) - `ngx-tableau` is an Angular module that allows you to embed a Tableau report in an Angular webapp.
 * [ngx-google-analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/hakimio/ngx-google-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/hakimio/ngx-google-analytics)](https://github.com/hakimio/ngx-google-analytics) - A simple Google analytics integration for Angular apps.
 * [ng2-adsense ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ng2-adsense) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ng2-adsense)](https://github.com/scttcper/ng2-adsense) - Angular Adsense Component.

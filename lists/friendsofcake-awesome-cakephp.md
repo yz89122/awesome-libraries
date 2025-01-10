@@ -133,6 +133,7 @@ Additional lists you might find useful:
 *Plugins for sending and parsing email.*
 
 - [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue)](https://github.com/dereuromark/cakephp-queue) - A dependency-free queue-based mail solution using Mailer/Email class, allowing re-queue on (network) failure.
+- [SendGrid plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/sprintcube/cakephp-sendgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/sprintcube/cakephp-sendgrid)](https://github.com/sprintcube/cakephp-sendgrid) - Email transport plugin for sending email via SendGrid API.
 
 ## File Manipulation
 *Plugins for file manipulation.*
