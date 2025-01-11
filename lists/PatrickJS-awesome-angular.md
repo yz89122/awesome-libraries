@@ -458,6 +458,7 @@ become an Angular expert.
 * [deep-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/OvidijusParsiunas/deep-chat)](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
 * [abbi-ng-ai-image-descriptor ![GitHub Repo Stars](https://img.shields.io/github/stars/slsfi/abbi-ng-ai-image-descriptor) ![GitHub last commit](https://img.shields.io/github/last-commit/slsfi/abbi-ng-ai-image-descriptor)](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
 * [ng-flexbot ![GitHub Repo Stars](https://img.shields.io/github/stars/arolleaguekeng/ng-flexbot) ![GitHub last commit](https://img.shields.io/github/last-commit/arolleaguekeng/ng-flexbot)](https://github.com/arolleaguekeng/ng-flexbot) - An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context.
+* [Frontend AI](https://www.webcrumbs.org/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
 
 #### Analytics
 
@@ -980,6 +981,7 @@ become an Angular expert.
 * [angular-year-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/IOMechs/angular-year-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/IOMechs/angular-year-calendar)](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️.
 * [@schedule-x/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/schedule-x/schedule-x) ![GitHub last commit](https://img.shields.io/github/last-commit/schedule-x/schedule-x)](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [angular-calendar-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/oOps1627/angular-calendar-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/oOps1627/angular-calendar-timeline)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
+* [ngx-resource-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/by-pinja/ngx-resource-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/by-pinja/ngx-resource-calendar)](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 
 #### Captcha
 
