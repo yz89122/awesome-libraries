@@ -52,6 +52,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [HexInspector ![GitHub Repo Stars](https://img.shields.io/github/stars/NaroZeol/PowerHexInspector) ![GitHub last commit](https://img.shields.io/github/last-commit/NaroZeol/PowerHexInspector)](https://github.com/NaroZeol/PowerHexInspector) - Convert numbers between bases.
 - [LocalLLM ![GitHub Repo Stars](https://img.shields.io/github/stars/Darkdriller/PowerToys-Run-LocalLLm) ![GitHub last commit](https://img.shields.io/github/last-commit/Darkdriller/PowerToys-Run-LocalLLm)](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) - Query local LLM models with Ollama.
 - [JohnnyDecimal ![GitHub Repo Stars](https://img.shields.io/github/stars/seguri/PowerToys-Run-JohnnyDecimal) ![GitHub last commit](https://img.shields.io/github/last-commit/seguri/PowerToys-Run-JohnnyDecimal)](https://github.com/seguri/PowerToys-Run-JohnnyDecimal) - Navigate through your JohnnyDecimal system.
+- [BrowserFavorite ![GitHub Repo Stars](https://img.shields.io/github/stars/Der-Penz/PowerToys-Run-BrowserFavorite) ![GitHub last commit](https://img.shields.io/github/last-commit/Der-Penz/PowerToys-Run-BrowserFavorite)](https://github.com/Der-Penz/PowerToys-Run-BrowserFavorite) - Quickly open your Browser Bookmarks.
 
 ## Resources
 
