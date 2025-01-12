@@ -1157,6 +1157,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Git
 
+- [mrloop/telescope-git-branch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrloop/telescope-git-branch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrloop/telescope-git-branch.nvim)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
 - [f-person/git-blame.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/f-person/git-blame.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/f-person/git-blame.nvim)](https://github.com/f-person/git-blame.nvim) - Show Git blame info.
 - [trevorhauter/gitportal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/trevorhauter/gitportal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/trevorhauter/gitportal.nvim)](https://github.com/trevorhauter/gitportal.nvim) - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
 - [lewis6991/gitsigns.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lewis6991/gitsigns.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lewis6991/gitsigns.nvim)](https://github.com/lewis6991/gitsigns.nvim) - Git integration: signs, hunk actions, blame, etc.
@@ -1496,6 +1497,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [mrjones2014/smart-splits.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrjones2014/smart-splits.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrjones2014/smart-splits.nvim)](https://github.com/mrjones2014/smart-splits.nvim) - Smart, seamless, directional navigation and resizing of splits.
 - [altermo/nwm ![GitHub Repo Stars](https://img.shields.io/github/stars/altermo/nwm) ![GitHub last commit](https://img.shields.io/github/last-commit/altermo/nwm)](https://github.com/altermo/nwm) - X11 window manager.
 - [MisanthropicBit/winmove.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MisanthropicBit/winmove.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MisanthropicBit/winmove.nvim)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
+- [ycdzj/win-mover.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ycdzj/win-mover.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ycdzj/win-mover.nvim)](https://github.com/ycdzj/win-mover.nvim) - Window mover that avoids moving side windows.
 
 ### Tmux
 
