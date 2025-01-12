@@ -54,6 +54,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [JohnnyDecimal ![GitHub Repo Stars](https://img.shields.io/github/stars/seguri/PowerToys-Run-JohnnyDecimal) ![GitHub last commit](https://img.shields.io/github/last-commit/seguri/PowerToys-Run-JohnnyDecimal)](https://github.com/seguri/PowerToys-Run-JohnnyDecimal) - Navigate through your JohnnyDecimal system.
 - [BrowserFavorite ![GitHub Repo Stars](https://img.shields.io/github/stars/Der-Penz/PowerToys-Run-BrowserFavorite) ![GitHub last commit](https://img.shields.io/github/last-commit/Der-Penz/PowerToys-Run-BrowserFavorite)](https://github.com/Der-Penz/PowerToys-Run-BrowserFavorite) - Quickly open your Browser Bookmarks.
 - [Universal Search Suggestions ![GitHub Repo Stars](https://img.shields.io/github/stars/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin)](https://github.com/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin/) - Adds search suggestions when typing something.
+- [Bang ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#bang) - Search websites with DuckDuckGo !Bangs.
 
 ## Resources
 
