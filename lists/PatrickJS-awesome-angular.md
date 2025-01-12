@@ -1053,6 +1053,7 @@ become an Angular expert.
 * [ngx-cookie-consent ![GitHub Repo Stars](https://img.shields.io/github/stars/giacomo/ngx-cookie-consent) ![GitHub last commit](https://img.shields.io/github/last-commit/giacomo/ngx-cookie-consent)](https://github.com/giacomo/ngx-cookie-consent) - Angular multi-language module to display a cookie consent banner without other dependencies.
 * [ngx-cookieconsent ![GitHub Repo Stars](https://img.shields.io/github/stars/tinesoft/ngx-cookieconsent) ![GitHub last commit](https://img.shields.io/github/last-commit/tinesoft/ngx-cookieconsent)](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
 * [cookieconsent ![GitHub Repo Stars](https://img.shields.io/github/stars/orestbida/cookieconsent) ![GitHub last commit](https://img.shields.io/github/last-commit/orestbida/cookieconsent)](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
+* [ngx-cookiebot ![GitHub Repo Stars](https://img.shields.io/github/stars/halloverden/ngx-cookiebot) ![GitHub last commit](https://img.shields.io/github/last-commit/halloverden/ngx-cookiebot)](https://github.com/halloverden/ngx-cookiebot) - An Angular wrapper around the [Cookiebot](https://www.cookiebot.com/) SDK.
 
 #### Data Grids
 
