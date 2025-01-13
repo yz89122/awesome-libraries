@@ -292,7 +292,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### WebSocket
 - [deno-websocket ![GitHub Repo Stars](https://img.shields.io/github/stars/ryo-ma/deno-websocket) ![GitHub last commit](https://img.shields.io/github/last-commit/ryo-ma/deno-websocket)](https://github.com/ryo-ma/deno-websocket) - 🦕 A simple WebSocket library like ws of node.js library.
-- [dropper ![GitHub Repo Stars](https://img.shields.io/github/stars/denyncrawford/dropper-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denyncrawford/dropper-deno)](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno ���
+- [dropper ![GitHub Repo Stars](https://img.shields.io/github/stars/denyncrawford/dropper-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denyncrawford/dropper-deno)](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
 - [websocket_server ![GitHub Repo Stars](https://img.shields.io/github/stars/JohanWinther/websocket_server) ![GitHub last commit](https://img.shields.io/github/last-commit/JohanWinther/websocket_server)](https://github.com/JohanWinther/websocket_server) - A WebSocket server library.
 - [wocket ![GitHub Repo Stars](https://img.shields.io/github/stars/drashland/wocket) ![GitHub last commit](https://img.shields.io/github/last-commit/drashland/wocket)](https://github.com/drashland/wocket) - A WebSocket library for Deno.
 
@@ -480,7 +480,7 @@ This list is a collection of the best Deno modules and resources.
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
 - [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
 - [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
-- [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
+- [Dive into Deno：��ロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
 
 ### Korean
 
