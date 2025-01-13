@@ -248,7 +248,7 @@ Isaac Asimov's original "Foundation Trilogy" is a mesmerizing voyage into the re
 <details>
   <summary>Description</summary>
 
-  > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future—to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire—both scientists and scholars—and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
+  > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future—to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire��both scientists and scholars—and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
   >
   > But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind’s last best hope is faced with an agonizing choice: submit to the barbarians and be overrun—or fight them and be destroyed.
 </details>
@@ -3095,7 +3095,7 @@ A worthy successor to The Next Generation, well developed characters, great Xind
   > A century before Captain Kirk's five-year mission, Jonathan Archer captains Earth ship Enterprise NX-01 during the early years of Starfleet leading up to the formation of the Federation and the Earth-Romulan War.
 </details>
 
-#### [Star Trek: The Next Generation](https://www.imdb.com/title/tt0092455/) (1987���1994) [8.7]
+#### [Star Trek: The Next Generation](https://www.imdb.com/title/tt0092455/) (1987–1994) [8.7]
 
 Categories: `action` `adventure` `mystery`
 
