@@ -11,11 +11,6 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 ![PowerToys Run](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/raw/main/launcher-dark.png)
 ![PowerToys Run](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/raw/main/launcher-light.png)
 
-<!--lint disable no-undefined-references-->
-> [!NOTE]
-> Please read the [security](security.md) policy before installing any community plugins.
-<!--lint enable no-undefined-references-->
-
 ## Contents<!-- omit in toc -->
 
 - [Official](#official)
@@ -33,6 +28,11 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 ## Installation
+
+<!--lint disable no-undefined-references-->
+> [!NOTE]
+> Please read the [security](security.md) policy before installing any community plugins.
+<!--lint enable no-undefined-references-->
 
 <!--lint disable double-link-->
 <!--lint disable no-undefined-references-->
@@ -84,6 +84,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Community.PowerToys.Run.Plugin.Update ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugin.Update) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugin.Update)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Update) - NuGet package with support for updating community plugins.
 - [Community.PowerToys.Run.Plugin.Abstractions ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugin.Abstractions) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugin.Abstractions)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Abstractions) - NuGet package with abstractions for community plugin dependencies.
 - [ptr ![GitHub Repo Stars](https://img.shields.io/github/stars/8LWXpg/ptr) ![GitHub last commit](https://img.shields.io/github/last-commit/8LWXpg/ptr)](https://github.com/8LWXpg/ptr) - CLI tool for installing and managing community plugins.
+- [Community.PowerToys.Run.Plugin.Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugin.Lint) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugin.Lint)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Lint) - Linter for community plugins.
 
 ## Articles
 
