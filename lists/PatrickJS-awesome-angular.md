@@ -505,6 +505,7 @@ become an Angular expert.
 * [ngxfire ![GitHub Repo Stars](https://img.shields.io/github/stars/teve-no/ngxfire) ![GitHub last commit](https://img.shields.io/github/last-commit/teve-no/ngxfire)](https://github.com/teve-no/ngxfire) - Zoneless AngularFire replacement.
 * [FusionAuth Angular SDK](https://fusionauth.io/docs/sdks/angular-sdk) - [FusionAuth](https://fusionauth.io/) SDK helps manage authentication state for your Angular app and provides functionality to login, register, and logout users. It also can be configured to automatically manage your refresh token.
 * [lbx-jwt ![GitHub Repo Stars](https://img.shields.io/github/stars/Service-Soft/lbx-jwt) ![GitHub last commit](https://img.shields.io/github/last-commit/Service-Soft/lbx-jwt)](https://github.com/Service-Soft/lbx-jwt) - Provides JWT authentication for loopback applications. Includes storing roles inside tokens and handling refreshing. Built-in reuse detection.
+* [corbado](https://www.corbado.com/#signup-init) - [Integrate](https://docs.corbado.com/corbado-complete/frontend-integration/angular) Corbado with Angular to use passkeys for authentication.
 
 #### Builders
 
@@ -1220,6 +1221,7 @@ become an Angular expert.
 * [ngx-focus-entities ![GitHub Repo Stars](https://img.shields.io/github/stars/klee-contrib/ngx-focus-entities) ![GitHub last commit](https://img.shields.io/github/last-commit/klee-contrib/ngx-focus-entities)](https://github.com/klee-contrib/ngx-focus-entities) - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel ![GitHub Repo Stars](https://img.shields.io/github/stars/klee-contrib/topmodel) ![GitHub last commit](https://img.shields.io/github/last-commit/klee-contrib/topmodel)](https://github.com/klee-contrib/topmodel).
 * [@TanStack/form ![GitHub Repo Stars](https://img.shields.io/github/stars/TanStack/form) ![GitHub last commit](https://img.shields.io/github/last-commit/TanStack/form)](https://github.com/TanStack/form) - Designed with first-class TypeScript support, headless UI components, and a framework-agnostic design, it streamlines form handling and ensures a seamless experience across various front-end frameworks.
 * [@luistabotelho/angular-signal-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/luistabotelho/angular-signal-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/luistabotelho/angular-signal-forms)](https://github.com/luistabotelho/angular-signal-forms) - Simple Angular library to implement forms with signals.
+* [ngx-form-object ![GitHub Repo Stars](https://img.shields.io/github/stars/infinum/ngx-form-object) ![GitHub last commit](https://img.shields.io/github/last-commit/infinum/ngx-form-object)](https://github.com/infinum/ngx-form-object) - ngx-form-object is an abstraction on top of Angular's reactive forms. It generates a form from a given model and automatically handles creation of nested forms (HasOne and HasMany model relationships).
 
 ##### Form Controls
 
