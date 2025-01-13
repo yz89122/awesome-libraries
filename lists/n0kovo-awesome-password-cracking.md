@@ -138,6 +138,7 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 
 
 ## Misc
+- [Hashes ![GitHub Repo Stars](https://img.shields.io/github/stars/zefr0x/hashes) ![GitHub last commit](https://img.shields.io/github/last-commit/zefr0x/hashes)](https://github.com/zefr0x/hashes) - Identify hashing algorithms (GUI frontend for Name That Hash).
 - [hashgen ![GitHub Repo Stars](https://img.shields.io/github/stars/cyclone-github/hashgen) ![GitHub last commit](https://img.shields.io/github/last-commit/cyclone-github/hashgen)](https://github.com/cyclone-github/hashgen) - Hashgen is a simple yet very fast CLI hash generator written in Go and cross compiled for Linux, Windows & Mac.
 - [Name That Hash ![GitHub Repo Stars](https://img.shields.io/github/stars/HashPals/Name-That-Hash) ![GitHub last commit](https://img.shields.io/github/last-commit/HashPals/Name-That-Hash)](https://github.com/HashPals/Name-That-Hash) - Don't know what type of hash it is? Name That Hash will name that hash type! Identify MD5, SHA256 and 300+ other hashes. Comes with a neat web app.
 
@@ -151,7 +152,7 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 - Epixoip - [GitHub](https://github.com/epixoip) / [Mastodon](https://infosec.exchange/@epixoip) / [Twitter](https://twitter.com/jmgosney).
 - Evilmog - [GitHub](https://github.com/evilmog/) / [Mastodon](https://infosec.exchange/@evilmog) / [Twitter](https://twitter.com/Evil_Mog).
 - Hydraze - [GitHub](https://github.com/Hydraze) / [Mastodon](https://infosec.exchange/@hydraze) / [Twitter](https://twitter.com/Hydraze).
-- JakeWnuk - [GitHub](https://github.com/jakewnuk) / [Mastodon](https://infosec.exchange/@JakeWnuk).
+- JakeWnuk - [GitHub](https://github.com/jakewnuk).
 - Kontrast23 - [GitHub](https://github.com/kontrast23) / [Twitter](https://twitter.com/marco_preuss).
 - M3g9tr0n - [GitHub](https://github.com/m3g9tr0n) / [Twitter](https://twitter.com/m3g9tr0n).
 - Matrix - [GitHub](https://github.com/matrix) / [Twitter](https://twitter.com/gm4tr1x).
@@ -215,7 +216,6 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 - [Elpscrk ![GitHub Repo Stars](https://img.shields.io/github/stars/D4Vinci/elpscrk) ![GitHub last commit](https://img.shields.io/github/last-commit/D4Vinci/elpscrk)](https://github.com/D4Vinci/elpscrk) - Elpscrk is like cupp, but it's based on permutations and statistics while being memory efficient.
 - [Keyboard-Walk-Generators ![GitHub Repo Stars](https://img.shields.io/github/stars/Rich5/Keyboard-Walk-Generators) ![GitHub last commit](https://img.shields.io/github/last-commit/Rich5/Keyboard-Walk-Generators)](https://github.com/Rich5/Keyboard-Walk-Generators) - Generate Keyboard Walk Dictionaries for cracking.
 - [kwprocessor ![GitHub Repo Stars](https://img.shields.io/github/stars/hashcat/kwprocessor) ![GitHub last commit](https://img.shields.io/github/last-commit/hashcat/kwprocessor)](https://github.com/hashcat/kwprocessor) - Advanced keyboard-walk generator with configureable basechars, keymap and routes.
-- [maskcat ![GitHub Repo Stars](https://img.shields.io/github/stars/jakewnuk/maskcat) ![GitHub last commit](https://img.shields.io/github/last-commit/jakewnuk/maskcat)](https://github.com/jakewnuk/maskcat) - Utility tool for Hashcat Masks and Password Cracking.
 - [maskprocessor ![GitHub Repo Stars](https://img.shields.io/github/stars/hashcat/maskprocessor) ![GitHub last commit](https://img.shields.io/github/last-commit/hashcat/maskprocessor)](https://github.com/hashcat/maskprocessor/) - High-performance word generator with a per-position configureable charset.
 - [maskuni ![GitHub Repo Stars](https://img.shields.io/github/stars/flbdx/maskuni) ![GitHub last commit](https://img.shields.io/github/last-commit/flbdx/maskuni)](https://github.com/flbdx/maskuni) - A standalone fast word generator in the spirit of hashcat's mask generator with unicode support.
 - [Mentalist ![GitHub Repo Stars](https://img.shields.io/github/stars/sc0tfree/mentalist) ![GitHub last commit](https://img.shields.io/github/last-commit/sc0tfree/mentalist)](https://github.com/sc0tfree/mentalist) - Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.
@@ -287,7 +287,8 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 - [PassGPT: Password Modeling and (Guided) Generation with LLMs](https://arxiv.org/abs/2306.01545)
 
 ### Talks
-- [BsidesKY2023 - Leveling Up Password Attacks with Breach Data ![GitHub Repo Stars](https://img.shields.io/github/stars/JakeWnuk/Security-Conferences) ![GitHub last commit](https://img.shields.io/github/last-commit/JakeWnuk/Security-Conferences)](https://github.com/JakeWnuk/Security-Conferences/blob/main/BsidesKY2023%20-%20Leveling%20Up%20Password%20Attacks%20with%20Breach%20Data.pdf)
+- [BSides Cayman Islands 2024 - No Cap Cracking: Improving Offline Hash Recovery Methodologies](https://jakewnuk.com/static/No%20Cap%20Cracking%20Improving%20Offline%20Hash%20Recovery%20Methodologies.pdf)
+- [BSides Cayman Islands 2023 - Leveling Up Password Attacks with Breach Data](https://jakewnuk.com/static/Leveling%20Up%20Password%20Attacks%20with%20Breach%20Data.pdf)
 - [DEF CON Safe Mode Password Village - Getting Started with Hashcat](https://www.youtube.com/watch?v=MBTJ8f6Fsmg)
 - [DEF CON Safe Mode Password Village - Jeremi Gosney - Cracking at Extreme Scale](https://www.youtube.com/watch?v=4Ell1Tt23NI)
 - [DEF CON 28 Safe Mode Password Village – 'Let's Crack RockYou Without Using rockyou txt'](https://www.youtube.com/watch?v=8FtXntEsZdU)
@@ -295,5 +296,4 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 - [Tailored, Machine Learning-driven Password Guessing Attacks and Mitigation at DefCamp](https://www.youtube.com/watch?v=iK6ZbD6v9Gg)
 - [UNHash - Methods for better password cracking](https://media.ccc.de/v/31c3_-_5966_-_en_-_saal_1_-_201412292245_-_unhash_-_methods_for_better_password_cracking_-_tonimir_kisasondi)
 - [USENIX Security '21 - Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries](https://www.youtube.com/watch?v=Jvp3UTdCeag)
-- [USENIX Security '16 - Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks
-](https://www.youtube.com/watch?v=GgaZ_LxsL_8)
+- [USENIX Security '16 - Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](https://www.youtube.com/watch?v=GgaZ_LxsL_8)
