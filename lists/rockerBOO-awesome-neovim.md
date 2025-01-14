@@ -723,6 +723,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Bekaboo/dropbar.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Bekaboo/dropbar.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Bekaboo/dropbar.nvim)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
 - [SmiteshP/nvim-navic ![GitHub Repo Stars](https://img.shields.io/github/stars/SmiteshP/nvim-navic) ![GitHub last commit](https://img.shields.io/github/last-commit/SmiteshP/nvim-navic)](https://github.com/SmiteshP/nvim-navic) - A simple statusline/winbar component that uses LSP to show your current code context.
 - [luukvbaal/statuscol.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/luukvbaal/statuscol.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/luukvbaal/statuscol.nvim)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
+- [mawkler/hml.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mawkler/hml.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mawkler/hml.nvim)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
 
 ### Statusline
 
