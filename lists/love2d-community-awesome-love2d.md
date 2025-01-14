@@ -62,7 +62,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Animation
 *Animation & Frame-Managing Libraries*
 
-* [andross ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/andross) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/andross)](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a L��ve backend.
+* [andross ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/andross) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/andross)](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
 * [anim8 ![GitHub Repo Stars](https://img.shields.io/github/stars/kikito/anim8) ![GitHub last commit](https://img.shields.io/github/last-commit/kikito/anim8)](https://github.com/kikito/anim8) - Animation library.
 * [animx ![GitHub Repo Stars](https://img.shields.io/github/stars/YoungNeer/animx) ![GitHub last commit](https://img.shields.io/github/last-commit/YoungNeer/animx)](https://github.com/YoungNeer/animx) - A featureful Animation library for loading animations from XML files!.
 * [Aseprite loader ![GitHub Repo Stars](https://img.shields.io/github/stars/elloramir/love-ase) ![GitHub last commit](https://img.shields.io/github/last-commit/elloramir/love-ase)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
@@ -352,7 +352,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data.
 * [colorchanger ![GitHub Repo Stars](https://img.shields.io/github/stars/santoslove/colorchanger) ![GitHub last commit](https://img.shields.io/github/last-commit/santoslove/colorchanger)](https://github.com/santoslove/colorchanger) - Change the colors in your LÖVE game.
 * [Flirt ![GitHub Repo Stars](https://img.shields.io/github/stars/Alloyed/flirt) ![GitHub last commit](https://img.shields.io/github/last-commit/Alloyed/flirt)](https://github.com/Alloyed/flirt) - LÖVE version manager; allows to switch between multiple versions of engine on same machine.
-* [GifCat ![GitHub Repo Stars](https://img.shields.io/github/stars/WetDesertRock/GifCat) ![GitHub last commit](https://img.shields.io/github/last-commit/WetDesertRock/GifCat)](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from L��VE.
+* [GifCat ![GitHub Repo Stars](https://img.shields.io/github/stars/WetDesertRock/GifCat) ![GitHub last commit](https://img.shields.io/github/last-commit/WetDesertRock/GifCat)](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE.
 * [hex2color ![GitHub Repo Stars](https://img.shields.io/github/stars/S-Walrus/hex2color) ![GitHub last commit](https://img.shields.io/github/last-commit/S-Walrus/hex2color)](https://github.com/S-Walrus/hex2color/) - A single function to use HEX color values.
 * [i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/excessive/i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/excessive/i18n)](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game.
 * [Ini Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/FivosM/ini_parser) ![GitHub last commit](https://img.shields.io/github/last-commit/FivosM/ini_parser)](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser.
