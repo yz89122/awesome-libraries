@@ -228,6 +228,7 @@ Independents plugins are listed here.
 - [Websocket Client ![GitHub Repo Stars](https://img.shields.io/github/stars/OrdinarySF/capacitor-websocket-client) ![GitHub last commit](https://img.shields.io/github/last-commit/OrdinarySF/capacitor-websocket-client)](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 - [Bing Translator ![GitHub Repo Stars](https://img.shields.io/github/stars/sabereen/capacitor-bing-translator) ![GitHub last commit](https://img.shields.io/github/last-commit/sabereen/capacitor-bing-translator)](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
 - [Capacitor Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/ebarooni/capacitor-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/ebarooni/capacitor-calendar)](https://github.com/ebarooni/capacitor-calendar) - A plugin for interacting with calendar and reminders.
+- [Capacitor voice recorder ![GitHub Repo Stars](https://img.shields.io/github/stars/tchvu3/capacitor-voice-recorder) ![GitHub last commit](https://img.shields.io/github/last-commit/tchvu3/capacitor-voice-recorder)](https://github.com/tchvu3/capacitor-voice-recorder) - A plugin for simple voice recording.
 
 
 ## Cordova plugins
