@@ -237,7 +237,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [AppleCake ![GitHub Repo Stars](https://img.shields.io/github/stars/EngineerSmith/AppleCake) ![GitHub last commit](https://img.shields.io/github/last-commit/EngineerSmith/AppleCake)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 * [jprof ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/jprof) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/jprof)](https://github.com/pfirsich/jprof) - Profiling library/tool for LÖVE.
-* [Piefiller ![GitHub Repo Stars](https://img.shields.io/github/stars/Polynominal/Piefiller) ![GitHub last commit](https://img.shields.io/github/last-commit/Polynominal/Piefiller)](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
+* [Piefiller ![GitHub Repo Stars](https://img.shields.io/github/stars/Polynominal/Piefiller) ![GitHub last commit](https://img.shields.io/github/last-commit/Polynominal/Piefiller)](https://github.com/Polynominal/Piefiller) - Graphical profiler for L��VE.
 * [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - A simple lua profiler that works with LuaJIT and prints a pretty report file in columns.
 
 ## Physics
