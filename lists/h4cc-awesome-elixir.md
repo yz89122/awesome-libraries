@@ -409,6 +409,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Applications, tools and libraries for your own cloud service.*
 
 * [aws ![GitHub Repo Stars](https://img.shields.io/github/stars/aws-beam/aws-elixir) ![GitHub last commit](https://img.shields.io/github/last-commit/aws-beam/aws-elixir)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+* [Batteries Included ![GitHub Repo Stars](https://img.shields.io/github/stars/batteries-included/batteries-included) ![GitHub last commit](https://img.shields.io/github/last-commit/batteries-included/batteries-included)](https://github.com/batteries-included/batteries-included) - A self hostable platform for automation/UI driven Kubernetes; built in Elixir and Golang the entire UI is built with Phoenix Live View.
 * [Bonny ![GitHub Repo Stars](https://img.shields.io/github/stars/coryodaniel/bonny) ![GitHub last commit](https://img.shields.io/github/last-commit/coryodaniel/bonny)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
 * [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
 * [discovery ![GitHub Repo Stars](https://img.shields.io/github/stars/undeadlabs/discovery) ![GitHub last commit](https://img.shields.io/github/last-commit/undeadlabs/discovery)](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
