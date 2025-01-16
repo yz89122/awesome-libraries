@@ -412,7 +412,7 @@
 - [tristone13th/lspmark.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tristone13th/lspmark.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tristone13th/lspmark.nvim)](https://github.com/tristone13th/lspmark.nvim) - Sane project-wise bookmarks with persistent storage based on LSP.
 - [EvWilson/spelunk.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/EvWilson/spelunk.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/EvWilson/spelunk.nvim)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
 - [2KAbhishek/markit.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/markit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/markit.nvim)](https://github.com/2KAbhishek/markit.nvim) - Improved global marks and project wide bookmarks, to quickly navigate files.
-- [you-n-g/navigate-note.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/you-n-g/navigate-note.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/you-n-g/navigate-note.nvim)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking. 
+- [you-n-g/navigate-note.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/you-n-g/navigate-note.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/you-n-g/navigate-note.nvim)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 - [zongben/navimark.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zongben/navimark.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zongben/navimark.nvim)](https://github.com/zongben/navimark.nvim) - An easy and powerful bookmark manager with telescope.
 
 <!--lint disable double-link -->
@@ -423,6 +423,7 @@
 
 ## Search
 
+- [wurli/visimatch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wurli/visimatch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wurli/visimatch.nvim)](https://github.com/wurli/visimatch.nvim) - Adds highlights to any text matching the current selection in visual mode.
 - [kevinhwang91/nvim-hlslens ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinhwang91/nvim-hlslens) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinhwang91/nvim-hlslens)](https://github.com/kevinhwang91/nvim-hlslens) - Helps you better glance searched information, seamlessly jump matched instances.
 - [rktjmp/highlight-current-n.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rktjmp/highlight-current-n.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rktjmp/highlight-current-n.nvim)](https://github.com/rktjmp/highlight-current-n.nvim) - Highlights the current /, ? or \* match under your cursor when pressing n or N and gets out of the way afterwards.
 - [gaborvecsei/memento.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gaborvecsei/memento.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gaborvecsei/memento.nvim)](https://github.com/gaborvecsei/memento.nvim) - Keeps track of your visited file history after a buffer is closed. Reopen files more easily.
@@ -1304,6 +1305,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Editing Support
 
+- [wurli/split.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wurli/split.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wurli/split.nvim)](https://github.com/wurli/split.nvim) - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
 - [csessh/stopinsert.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/csessh/stopinsert.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/csessh/stopinsert.nvim)](https://github.com/csessh/stopinsert.nvim) - Automatically exit Insert mode after inactivity.
 - [windwp/nvim-ts-autotag ![GitHub Repo Stars](https://img.shields.io/github/stars/windwp/nvim-ts-autotag) ![GitHub last commit](https://img.shields.io/github/last-commit/windwp/nvim-ts-autotag)](https://github.com/windwp/nvim-ts-autotag) - Use Tree-sitter to autoclose and autorename XML, HTML, JSX tag.
 - [windwp/nvim-autopairs ![GitHub Repo Stars](https://img.shields.io/github/stars/windwp/nvim-autopairs) ![GitHub last commit](https://img.shields.io/github/last-commit/windwp/nvim-autopairs)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs written by Lua.
