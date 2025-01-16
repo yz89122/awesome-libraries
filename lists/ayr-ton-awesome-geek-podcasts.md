@@ -337,7 +337,7 @@ A curated list of podcasts we like to listen to.
 
 ## In Swedish
 
-* [Kodsnack](https://kodsnack.se/) - Weekly Swedish podcast about all things code, for coders. Hosted by Fredrik Björeman, Tobias Hieta and Kristoffer Gr��nlund, with occasional guests.
+* [Kodsnack](https://kodsnack.se/) - Weekly Swedish podcast about all things code, for coders. Hosted by Fredrik Björeman, Tobias Hieta and Kristoffer Grönlund, with occasional guests.
 
 ## In French
 
