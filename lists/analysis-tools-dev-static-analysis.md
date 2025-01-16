@@ -867,7 +867,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP Semantic Versioning Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/tomzx/php-semver-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/tomzx/php-semver-checker)](https://github.com/tomzx/php-semver-checker) :warning: — Suggests a next version according to semantic versioning.
 
-- [PHP-Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
+- [PHP-Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) �� A PHP parser written in PHP.
 
 - [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) — PHP spell check library.
 
@@ -1273,7 +1273,7 @@ Kani verifies:
 <h2>Shell</h2>
 
 
-- [bashate ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/bashate) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/bashate)](https://github.com/openstack/bashate) ��� Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
+- [bashate ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/bashate) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/bashate)](https://github.com/openstack/bashate) — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
 
 - [i-Code CNES for Shell ![GitHub Repo Stars](https://img.shields.io/github/stars/lequal/i-CodeCNES) ![GitHub last commit](https://img.shields.io/github/last-commit/lequal/i-CodeCNES)](https://github.com/lequal/i-CodeCNES) — An open source static code analysis tool for Shell and Fortran (77 and 90).
 
