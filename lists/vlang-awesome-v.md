@@ -246,7 +246,7 @@
 ### Networking
 
 - [vibe ![GitHub Repo Stars](https://img.shields.io/github/stars/tobealive/vibe) ![GitHub last commit](https://img.shields.io/github/last-commit/tobealive/vibe)](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
-- [vmq ![GitHub Repo Stars](https://img.shields.io/github/stars/jordan-bonecutter/vmq) ![GitHub last commit](https://img.shields.io/github/last-commit/jordan-bonecutter/vmq)](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
+- [vmq ![GitHub Repo Stars](https://img.shields.io/github/stars/jordan-bonecutter/vmq) ![GitHub last commit](https://img.shields.io/github/last-commit/jordan-bonecutter/vmq)](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ��MQ, 0MQ: a high-performance asynchronous messaging library).
 
 ### Operating system
 
