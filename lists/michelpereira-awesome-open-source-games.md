@@ -151,6 +151,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### MMORPG
 
 - [BrowserQuest ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/BrowserQuest) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/BrowserQuest)](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment.
+- [Reia](https://www.playreia.com) - RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.
 
 ### Strategy
 - [Ancient Beast ![GitHub Repo Stars](https://img.shields.io/github/stars/FreezingMoon/AncientBeast) ![GitHub last commit](https://img.shields.io/github/last-commit/FreezingMoon/AncientBeast)](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents.
@@ -292,6 +293,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### MMORPG
 
 - [Meridian 59 ![GitHub Repo Stars](https://img.shields.io/github/stars/Meridian59/Meridian59) ![GitHub last commit](https://img.shields.io/github/last-commit/Meridian59/Meridian59)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012 - the game is being actively developed by the community.
+- [Reia ![GitHub Repo Stars](https://img.shields.io/github/stars/Quaint-Studios/Reia) ![GitHub last commit](https://img.shields.io/github/last-commit/Quaint-Studios/Reia)](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.
 - [Stendhal ![GitHub Repo Stars](https://img.shields.io/github/stars/arianne/stendhal) ![GitHub last commit](https://img.shields.io/github/last-commit/arianne/stendhal)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
 - [Veloren](https://veloren.net/) - An action-adventure role-playing game set in a vast fantasy world.
 
