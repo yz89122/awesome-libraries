@@ -106,7 +106,7 @@ List of middlewares that are created by the Fiber community.
 - [jsorb84/ssefiber ![GitHub Repo Stars](https://img.shields.io/github/stars/jsorb84/ssefiber) ![GitHub last commit](https://img.shields.io/github/last-commit/jsorb84/ssefiber)](https://github.com/jsorb84/ssefiber) - A basic SSE Implementation for Fiber.
 - [streamerd/fibergun ![GitHub Repo Stars](https://img.shields.io/github/stars/streamerd/fibergun) ![GitHub last commit](https://img.shields.io/github/last-commit/streamerd/fibergun)](https://github.com/streamerd/fibergun) - A GunDB middleware for Fiber. Enables easy integration of GunDB, a decentralized database.
 
-## �� Boilerplates
+## 🚧 Boilerplates
 Premade boilerplates for Fiber.
 - [gofiber/boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/boilerplate)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
 - [fiber-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasvvugt/fiber-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasvvugt/fiber-boilerplate)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
