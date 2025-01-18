@@ -107,7 +107,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Groove Jones**](https:&#x2F;&#x2F;groovejones.com&#x2F;) | [Dallas] | XR, AR, VR, volumetric scanning, popups | [🌐](https:&#x2F;&#x2F;groovejones.com&#x2F;workwithus&#x2F;)
 | [**Hotel Creative**](https:&#x2F;&#x2F;hotelcreative.com&#x2F;) | [London] | retail, branding, exhibitions, events | [📧](mailto:jobs@hotelcreative.com)
 | [**Hovercraft**](https:&#x2F;&#x2F;www.hovercraftstudio.com&#x2F;) | [Denver] [Portland] | interactive installations, site-specific content, retail, sports | [🌐](https:&#x2F;&#x2F;hovercraftstudio.com&#x2F;careers?job&#x3D;freelance-creative-partners)
-| [**HUSH**](https:&#x2F;&#x2F;heyhush.com&#x2F;) | [NYC] | marketing and advertising, retail and DTC, architecture | [🌐](https:&#x2F;&#x2F;www.heyhush.com&#x2F;people)
+| [**HUSH**](https:&#x2F;&#x2F;heyhush.com&#x2F;) | [NYC] | marketing and advertising, retail and DTC, architecture | [��](https:&#x2F;&#x2F;www.heyhush.com&#x2F;people)
 | [**iart**](https:&#x2F;&#x2F;iart.ch&#x2F;en&#x2F;) | [Basel] | studio for media architectures, enhancing physical spaces with digital technology | [🌐](https:&#x2F;&#x2F;iart.ch&#x2F;en&#x2F;jobs)
 | [**IMG SRC**](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;) | [Tokyo] | full-service communication agency focusing on websites, installations, and R&amp;D | [🌐](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;en&#x2F;careers&#x2F;)
 | [**Immersive International**](https:&#x2F;&#x2F;www.immersive.international&#x2F;) | [London] [Shanghai] [Ottawa] [Hong Kong] [Cape Town] | live experiences and art installations in public, private and commercial spaces | 
@@ -142,7 +142,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Nohlab**](https:&#x2F;&#x2F;nohlab.com&#x2F;works) | [Istanbul] | producing interdisciplinary experiences around art, design and technology | [📧](mailto:apply@nohlab.com)
 | [**Normal**](https:&#x2F;&#x2F;normal.studio&#x2F;en&#x2F;) | [Montreal] | public installations, entertainment, performing arts, stage design | [📧](mailto:cv@normal.studio)
 | [**Nowhere**](https:&#x2F;&#x2F;studionowhere.com&#x2F;) | [Shanghai] | marketing events, interactive experiences | 
-| [**Oat Foundry**](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;) | [Philadelphia] | split-flap displays, electromechanical stuff, think tank, products, experiences | [🌐](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;careers&#x2F;)
+| [**Oat Foundry**](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;) | [Philadelphia] | split-flap displays, electromechanical stuff, think tank, products, experiences | [���](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;careers&#x2F;)
 | [**OIO**](https:&#x2F;&#x2F;oio.studio&#x2F;) | [London] | creative company working on future products and tools for a less boring future | 
 | [**Onformative**](https:&#x2F;&#x2F;onformative.com&#x2F;) | [Berlin] | studio for digital art and design, challenge the boundaries between art and design and technology | [🌐](https:&#x2F;&#x2F;onformative.com&#x2F;jobs)
 | [**Optimist**](https:&#x2F;&#x2F;optimistinc.com&#x2F;) | [LA] [NYC] [London] [Amsterdam] [Hamburg] [Berlin] [Prague] | architects of subculture, creative, design, strategy, production, content, brand experience | [🌐](https:&#x2F;&#x2F;optimistinc.com&#x2F;job-openings.html)
@@ -156,7 +156,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Red Paper Heart**](https:&#x2F;&#x2F;redpaperheart.com) | [NYC] | art from real world interaction | [📧](mailto:jobs@redpaperheart.com)
 | [**Relative Scale**](https:&#x2F;&#x2F;relativescale.com&#x2F;) | [Raleigh] | bespoke digital products and experiences for brands and institutions | 
 | [**RGI Creative**](https:&#x2F;&#x2F;www.rgicreative.com&#x2F;) | [Cleveland] | corporate experience design, museums exhibits and displays | [🌐](https:&#x2F;&#x2F;www.rgicreative.com&#x2F;contactform)
-| [**Rosie Lee Creative**](https:&#x2F;&#x2F;rosieleecreative.com&#x2F;) | [London] [Amsterdam] [NYC] | design, creative, digital and consultancy | [���](https:&#x2F;&#x2F;rosieleecreative.com&#x2F;jobs)
+| [**Rosie Lee Creative**](https:&#x2F;&#x2F;rosieleecreative.com&#x2F;) | [London] [Amsterdam] [NYC] | design, creative, digital and consultancy | [🌐](https:&#x2F;&#x2F;rosieleecreative.com&#x2F;jobs)
 | [**S1T2**](https:&#x2F;&#x2F;s1t2.com&#x2F;) | [Sydney] [Melbourne] [Shanghai] | We create interactive experiences that immerse audiences in the future of storytelling through technology. | 
 | [**Second Story**](https:&#x2F;&#x2F;secondstory.com&#x2F;) | [Atlanta] [Portland] [NYC] | exhibition, interactive, software, experience, hardware, VR, AR, projection | [🌐](https:&#x2F;&#x2F;careers.smartrecruiters.com&#x2F;PublicisGroupe&#x2F;razorfish)
 | [**Seeeklab**](https:&#x2F;&#x2F;www.seeeklab.com&#x2F;en&#x2F;) | [Xiamen] | marketing events, interactive installation | 
