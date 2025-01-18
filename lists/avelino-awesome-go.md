@@ -1231,7 +1231,7 @@ _Packages to support functional programming in Go._
 
 _Awesome game development libraries._
 
-- [Azul3D ![GitHub Repo Stars](https://img.shields.io/github/stars/azul3d/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/azul3d/engine)](https://github.com/azul3d/engine) - 3D game engine written in Go.
+- [Arche ![GitHub Repo Stars](https://img.shields.io/github/stars/mlange-42/arche) ![GitHub last commit](https://img.shields.io/github/last-commit/mlange-42/arche)](https://github.com/mlange-42/arche) - Archetype-based Entity Component System (ECS) for Go.
 - [Ebitengine ![GitHub Repo Stars](https://img.shields.io/github/stars/hajimehoshi/ebiten) ![GitHub last commit](https://img.shields.io/github/last-commit/hajimehoshi/ebiten)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
 - [ecs ![GitHub Repo Stars](https://img.shields.io/github/stars/andygeiss/ecs) ![GitHub last commit](https://img.shields.io/github/last-commit/andygeiss/ecs)](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
 - [engo ![GitHub Repo Stars](https://img.shields.io/github/stars/EngoEngine/engo) ![GitHub last commit](https://img.shields.io/github/last-commit/EngoEngine/engo)](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
@@ -2066,6 +2066,7 @@ _Libraries for working with various layers of the network._
 
 _Libraries for making HTTP requests._
 
+- [axios4go ![GitHub Repo Stars](https://img.shields.io/github/stars/rezmoss/axios4go) ![GitHub last commit](https://img.shields.io/github/last-commit/rezmoss/axios4go)](https://github.com/rezmoss/axios4go) - A Go HTTP client library inspired by Axios, providing a simple and intuitive API for making HTTP requests.
 - [azuretls-client ![GitHub Repo Stars](https://img.shields.io/github/stars/Noooste/azuretls-client) ![GitHub last commit](https://img.shields.io/github/last-commit/Noooste/azuretls-client)](https://github.com/Noooste/azuretls-client) -  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint
 - [fast-shot ![GitHub Repo Stars](https://img.shields.io/github/stars/opus-domini/fast-shot) ![GitHub last commit](https://img.shields.io/github/last-commit/opus-domini/fast-shot)](https://github.com/opus-domini/fast-shot) - Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client.
 - [gentleman ![GitHub Repo Stars](https://img.shields.io/github/stars/h2non/gentleman) ![GitHub last commit](https://img.shields.io/github/last-commit/h2non/gentleman)](https://github.com/h2non/gentleman) - Full-featured plugin-driven HTTP client library.
