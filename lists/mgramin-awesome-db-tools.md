@@ -230,6 +230,7 @@ Low-code and no-code platforms for application building
 - [ILLA Cloud ![GitHub Repo Stars](https://img.shields.io/github/stars/illacloud/illa-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/illacloud/illa-builder)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 - [Nhost ![GitHub Repo Stars](https://img.shields.io/github/stars/nhost/nhost) ![GitHub last commit](https://img.shields.io/github/last-commit/nhost/nhost)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [Saltcorn ![GitHub Repo Stars](https://img.shields.io/github/stars/saltcorn/saltcorn) ![GitHub last commit](https://img.shields.io/github/last-commit/saltcorn/saltcorn)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
+- [SQLPage ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlpage/SQLPage) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlpage/SQLPage)](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [Tooljet ![GitHub Repo Stars](https://img.shields.io/github/stars/ToolJet/ToolJet) ![GitHub last commit](https://img.shields.io/github/last-commit/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
 
