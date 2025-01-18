@@ -618,7 +618,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [The Evolution of Trust](https://ncase.me/trust/) 💠🟪 - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
 
 
-[Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) ���🟪 - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s) - dig through their game design backlog if you would like, but stick to the older stuff.
+[Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) 💠🟪 - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s) - dig through their game design backlog if you would like, but stick to the older stuff.
 
 
 [The Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) 💠🟪 - A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK.
@@ -666,7 +666,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [WE CAN FIX IT IN UI](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1) 💠🟪 - A huge list of UI/UX resources!
 
 
-[Game UI Database](https://www.gameuidatabase.com/index.php) 💠🟪 - A searchable repository of UI designs from many different games to use as reference.
+[Game UI Database](https://www.gameuidatabase.com/index.php) ���🟪 - A searchable repository of UI designs from many different games to use as reference.
 
 
 [Laws of UX](https://lawsofux.com/en/) - Best practices of UX design.
