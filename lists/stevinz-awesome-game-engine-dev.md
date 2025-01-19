@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -623,7 +623,7 @@ _Language specific game engine development libraries / frameworks / code._
 - F#: Audio
     - 🔒 [FSound ![GitHub Repo Stars](https://img.shields.io/github/stars/albertp007/FSound) ![GitHub last commit](https://img.shields.io/github/last-commit/albertp007/FSound)](https://github.com/albertp007/FSound) - Sound processing library.
 - F#: Entity Component System
-    - 🎉 [Garnet ![GitHub Repo Stars](https://img.shields.io/github/stars/bcarruthers/garnet) ![GitHub last commit](https://img.shields.io/github/last-commit/bcarruthers/garnet)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
+    - ���� [Garnet ![GitHub Repo Stars](https://img.shields.io/github/stars/bcarruthers/garnet) ![GitHub last commit](https://img.shields.io/github/last-commit/bcarruthers/garnet)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
 - F#: Game Engine w/Editor
     - 🎉 [Nu Game Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/bryanedds/Nu) ![GitHub last commit](https://img.shields.io/github/last-commit/bryanedds/Nu)](https://github.com/bryanedds/Nu) - Cross-platform game engine built in the functional style.
 - F#: Gui
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
@@ -1275,7 +1275,7 @@ _Software to help with game engine / video game development._
     - 🆓 [Bfxr](https://www.bfxr.net) - Classic. For making simple sound effects for games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/increpare/bfxr) ![GitHub last commit](https://img.shields.io/github/last-commit/increpare/bfxr)](https://github.com/increpare/bfxr)]
     - 🆓 [ChipTone](https://sfbgames.itch.io/chiptone) - Tool for generating sound effects.
     - 💸 [sfxia](https://rxi.itch.io/sfxia) - Tiny sound generator.
-    - 🆓 [ZzFX](https://killedbyapixel.github.io/ZzFX/) - Tiny JavaScript sound FX system / Zuper Zmall Zound Zynth. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/KilledByAPixel/ZzFX) ![GitHub last commit](https://img.shields.io/github/last-commit/KilledByAPixel/ZzFX)](https://github.com/KilledByAPixel/ZzFX)]
+    - ��� [ZzFX](https://killedbyapixel.github.io/ZzFX/) - Tiny JavaScript sound FX system / Zuper Zmall Zound Zynth. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/KilledByAPixel/ZzFX) ![GitHub last commit](https://img.shields.io/github/last-commit/KilledByAPixel/ZzFX)](https://github.com/KilledByAPixel/ZzFX)]
 
 ### Color / Palettes
 - 🌎 [Colormind](http://colormind.io) - Color scheme generator, can learn color styles from photographs, art, etc.
