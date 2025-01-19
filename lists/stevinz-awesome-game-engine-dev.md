@@ -236,7 +236,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 ### Graphical User Interface
-- 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Gui frameworks across all platforms and languages.
+- ���� [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Gui frameworks across all platforms and languages.
 
 ### Programming
 - 📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
@@ -623,7 +623,7 @@ _Language specific game engine development libraries / frameworks / code._
 - F#: Audio
     - 🔒 [FSound ![GitHub Repo Stars](https://img.shields.io/github/stars/albertp007/FSound) ![GitHub last commit](https://img.shields.io/github/last-commit/albertp007/FSound)](https://github.com/albertp007/FSound) - Sound processing library.
 - F#: Entity Component System
-    - ���� [Garnet ![GitHub Repo Stars](https://img.shields.io/github/stars/bcarruthers/garnet) ![GitHub last commit](https://img.shields.io/github/last-commit/bcarruthers/garnet)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
+    - 🎉 [Garnet ![GitHub Repo Stars](https://img.shields.io/github/stars/bcarruthers/garnet) ![GitHub last commit](https://img.shields.io/github/last-commit/bcarruthers/garnet)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
 - F#: Game Engine w/Editor
     - 🎉 [Nu Game Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/bryanedds/Nu) ![GitHub last commit](https://img.shields.io/github/last-commit/bryanedds/Nu)](https://github.com/bryanedds/Nu) - Cross-platform game engine built in the functional style.
 - F#: Gui
@@ -1275,7 +1275,7 @@ _Software to help with game engine / video game development._
     - 🆓 [Bfxr](https://www.bfxr.net) - Classic. For making simple sound effects for games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/increpare/bfxr) ![GitHub last commit](https://img.shields.io/github/last-commit/increpare/bfxr)](https://github.com/increpare/bfxr)]
     - 🆓 [ChipTone](https://sfbgames.itch.io/chiptone) - Tool for generating sound effects.
     - 💸 [sfxia](https://rxi.itch.io/sfxia) - Tiny sound generator.
-    - ��� [ZzFX](https://killedbyapixel.github.io/ZzFX/) - Tiny JavaScript sound FX system / Zuper Zmall Zound Zynth. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/KilledByAPixel/ZzFX) ![GitHub last commit](https://img.shields.io/github/last-commit/KilledByAPixel/ZzFX)](https://github.com/KilledByAPixel/ZzFX)]
+    - 🆓 [ZzFX](https://killedbyapixel.github.io/ZzFX/) - Tiny JavaScript sound FX system / Zuper Zmall Zound Zynth. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/KilledByAPixel/ZzFX) ![GitHub last commit](https://img.shields.io/github/last-commit/KilledByAPixel/ZzFX)](https://github.com/KilledByAPixel/ZzFX)]
 
 ### Color / Palettes
 - 🌎 [Colormind](http://colormind.io) - Color scheme generator, can learn color styles from photographs, art, etc.
