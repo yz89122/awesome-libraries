@@ -725,6 +725,7 @@ YAML
 ====
 
 * 👍 [cl-yaml ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/cl-yaml.git) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/cl-yaml.git)](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT][200].
+  * an active fork: [cl-RemiYaml](https://nanako.mooo.com/fossil/cl-remiyaml/index) with a few fixes. Not a drop-in replacement.
 * [nyaml ![GitHub Repo Stars](https://img.shields.io/github/stars/jasom/nyaml) ![GitHub last commit](https://img.shields.io/github/last-commit/jasom/nyaml)](https://github.com/jasom/nyaml) - A lisp native YAML parser. MIT.
 * [cl-yacclyaml ![GitHub Repo Stars](https://img.shields.io/github/stars/mabragor/cl-yaclyaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mabragor/cl-yaclyaml)](https://github.com/mabragor/cl-yaclyaml) - a pure lisp YAML processor (loader, but not yet dumper). [GPL3][2].
 
@@ -866,6 +867,9 @@ Typing
 ------
 
 * 👍 [Coalton ![GitHub Repo Stars](https://img.shields.io/github/stars/coalton-lang/coalton) ![GitHub last commit](https://img.shields.io/github/last-commit/coalton-lang/coalton)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT][200].
+  * [flime ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/flime) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/flime)](https://github.com/fukamachi/flime) - Real-time, project-wide Coalton compilation with isolated processes for LSP integration. [MIT][200].
+  * [tokyo-tojo-json ![GitHub Repo Stars](https://img.shields.io/github/stars/tojoqk/tokyo.tojo.json) ![GitHub last commit](https://img.shields.io/github/last-commit/tojoqk/tokyo.tojo.json)](https://github.com/tojoqk/tokyo.tojo.json) - a JSON parser implemented in Coalton.
+  * [coalton-threads ![GitHub Repo Stars](https://img.shields.io/github/stars/garlic0x1/coalton-threads) ![GitHub last commit](https://img.shields.io/github/last-commit/garlic0x1/coalton-threads)](https://github.com/garlic0x1/coalton-threads) - primitive thread and concurrency operations for Coalton.
 * 👍 [trivial-types ![GitHub Repo Stars](https://img.shields.io/github/stars/m2ym/trivial-types) ![GitHub last commit](https://img.shields.io/github/last-commit/m2ym/trivial-types)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL][8].
 * [defstar](https://bitbucket.org/eeeickythump/defstar/src/master/) - a collection of macros for easy inclusion of type declarations for arguments in lambda lists. [GNU GPL3][2]
 * [algebraic-data-types ![GitHub Repo Stars](https://img.shields.io/github/stars/stylewarning/cl-algebraic-data-type) ![GitHub last commit](https://img.shields.io/github/last-commit/stylewarning/cl-algebraic-data-type)](https://github.com/stylewarning/cl-algebraic-data-type) - defining algebraic data types in a similar spirit to Haskell or Standard ML, as well as for operating on them. [BSD_3Clause][15].
@@ -1584,6 +1588,7 @@ Readline, ncurses and other graphical helpers
   and tables on ANSI-compliant terminals. [GPL3][2].
 * [cl-progress-bar ![GitHub Repo Stars](https://img.shields.io/github/stars/sirherrbatka/cl-progress-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/sirherrbatka/cl-progress-bar)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT][200].
   * and [progressons ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/progressons) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/progressons)](https://github.com/vindarel/progressons), a progress bar on one line, for real an dumb terminals. MIT.
+* [text-draw ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/text-draw) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/text-draw)](https://github.com/Shinmera/text-draw) - Toolkit to draw graphics using pure Unicode text only: boxes, backgrounds, checkboxes and radio buttons, lines, arrows, tables, trees… zlib.
 
 Shells, shells interfaces
 -------------------------
