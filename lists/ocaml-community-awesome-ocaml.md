@@ -319,7 +319,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [cairo2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Chris00/ocaml-cairo) ![GitHub last commit](https://img.shields.io/github/last-commit/Chris00/ocaml-cairo)](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
   - [Vg ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/vg) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/vg)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
 - **3D**
-  - [glMLite ![GitHub Repo Stars](https://img.shields.io/github/stars/fccm/glMLite) ![GitHub last commit](https://img.shields.io/github/last-commit/fccm/glMLite)](https://github.com/fccm/glMLite) — OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
+  - [glMLite ![GitHub Repo Stars](https://img.shields.io/github/stars/fccm/glMLite) ![GitHub last commit](https://img.shields.io/github/last-commit/fccm/glMLite)](https://github.com/fccm/glMLite) ��� OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
   - [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
   - [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
 
@@ -483,7 +483,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Rpc.Parallel ![GitHub Repo Stars](https://img.shields.io/github/stars/janestreet/rpc_parallel) ![GitHub last commit](https://img.shields.io/github/last-commit/janestreet/rpc_parallel)](https://github.com/janestreet/rpc_parallel) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
   - [Nproc ![GitHub Repo Stars](https://img.shields.io/github/stars/MyLifeLabs/nproc) ![GitHub last commit](https://img.shields.io/github/last-commit/MyLifeLabs/nproc)](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
-  - [Parany ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/parany) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/parany)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
+  - [Parany ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/parany) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/parany)](https://github.com/UnixJunkie/parany) ��� Parallelize computation over independent items, even if there is an infinite number of them.
   - [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
   - [SPOC ![GitHub Repo Stars](https://img.shields.io/github/stars/mathiasbourgoin/SPOC) ![GitHub last commit](https://img.shields.io/github/last-commit/mathiasbourgoin/SPOC)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
