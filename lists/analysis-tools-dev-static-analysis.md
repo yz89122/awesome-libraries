@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -703,7 +703,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
 
-- [Closure Compiler](https://developers.google.com/closure/compiler) �� A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
+- [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 
 - [ClosureLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/google/closure-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-linter)](https://github.com/google/closure-linter) :warning: — Ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors.
 
@@ -1752,7 +1752,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [sass-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/sasstools/sass-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/sasstools/sass-lint)](https://github.com/sasstools/sass-lint) :warning: — A Node-only Sass linter for both sass and scss syntax.
 
-- [scsslint ![GitHub Repo Stars](https://img.shields.io/github/stars/brigade/scss-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/brigade/scss-lint)](https://github.com/brigade/scss-lint) — Linter for SCSS files.
+- [scsslint ![GitHub Repo Stars](https://img.shields.io/github/stars/brigade/scss-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/brigade/scss-lint)](https://github.com/brigade/scss-lint) :warning: — Linter for SCSS files.
 
 - [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS Specificity Graph Generator.
 
@@ -2032,7 +2032,7 @@ but with the following improvements:
 
 - [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
 
-- [mdl ![GitHub Repo Stars](https://img.shields.io/github/stars/mivok/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/mivok/markdownlint)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
+- [mdl ![GitHub Repo Stars](https://img.shields.io/github/stars/mivok/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/mivok/markdownlint)](https://github.com/mivok/markdownlint) :warning: — A tool to check Markdown files and flag style issues.
 
 - [mdsf ![GitHub Repo Stars](https://img.shields.io/github/stars/hougesen/mdsf) ![GitHub last commit](https://img.shields.io/github/last-commit/hougesen/mdsf)](https://github.com/hougesen/mdsf) — Format markdown code blocks using your favorite code formatters.
 
