@@ -106,7 +106,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - Ericsson Mobility Report - Sub-Saharan Africa - ([2024](https://www.ericsson.com/en/reports-and-papers/mobility-report/closer-look/sub-saharan-africa)) ([2015](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf))
 - [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Report covers a potpourri of countries based on OpenSignal data gathering.
 - [Open Signal - The state of mobile network experience in Africa](https://www.opensignal.com/2024/11/11/the-state-of-mobile-network-experience-in-africa) - (November 2024) A look at download speeds and network quality in 27 African countries.
-- [Lions go digital: The Internet’s transformative potential in Africa](https://www.mckinsey.com/industries/high-tech/our-insights/lions-go-digital-the-internets-transformative-potential-in-africa) - (2013) Report by global consulting firm McKinsey on the potential impact of the Internet in Africa.
+- [Lions go digital: The Internet���s transformative potential in Africa](https://www.mckinsey.com/industries/high-tech/our-insights/lions-go-digital-the-internets-transformative-potential-in-africa) - (2013) Report by global consulting firm McKinsey on the potential impact of the Internet in Africa.
 
 ## Other sources
 
