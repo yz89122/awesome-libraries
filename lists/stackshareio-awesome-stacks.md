@@ -387,7 +387,7 @@ Hosted tools to use to analyze user behavior for a web app.
 
 - [Segment](https://segment.com) - [🛠️](https://stackshare.io/segment) - A single hub to collect, translate and send your data with the flip of a switch.
 - [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [🛠️](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
-- [Amplitude](https://amplitude.com) - [����️](https://stackshare.io/amplitude) - User analytics to fuel explosive user growth.
+- [Amplitude](https://amplitude.com) - [🛠️](https://stackshare.io/amplitude) - User analytics to fuel explosive user growth.
 - [FullStory](https://www.fullstory.com/) - [🛠️](https://stackshare.io/fullstory) - Capture all your customer experience data in one powerful, easy-to-use platform.
 
 ### Streaming Analytics with Kafka, Spark, and Cassandra [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra)
@@ -436,7 +436,7 @@ Build, test, and deploy pipelines are configured by default.
 
 Build a simple and robust RESTful API.
 
-- [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-boot)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+- [Spring Boot](https://spring.io/projects/spring-boot) - [���](https://stackshare.io/spring-boot) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-boot)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 - [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/gradle/gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/gradle/gradle)](https://github.com/gradle/gradle)- A build tool with a focus on build automation and support for multi-language development.
 - [Java](https://docs.oracle.com/javase/specs/index.html) - [🛠️](https://stackshare.io/java) - Java is an Object-Oriented and one of the most used programming languages in the world.
 
