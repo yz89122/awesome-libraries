@@ -1273,7 +1273,7 @@ Kani verifies:
 <h2>Shell</h2>
 
 
-- [bashate ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/bashate) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/bashate)](https://github.com/openstack/bashate) — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
+- [bashate ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/bashate) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/bashate)](https://github.com/openstack/bashate) ��� Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
 
 - [i-Code CNES for Shell ![GitHub Repo Stars](https://img.shields.io/github/stars/lequal/i-CodeCNES) ![GitHub last commit](https://img.shields.io/github/last-commit/lequal/i-CodeCNES)](https://github.com/lequal/i-CodeCNES) — An open source static code analysis tool for Shell and Fortran (77 and 90).
 
@@ -1815,7 +1815,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [clair ![GitHub Repo Stars](https://img.shields.io/github/stars/coreos/clair) ![GitHub last commit](https://img.shields.io/github/last-commit/coreos/clair)](https://github.com/coreos/clair) — Vulnerability Static Analysis for Containers.
 
-- [collector ![GitHub Repo Stars](https://img.shields.io/github/stars/banyanops/collector) ![GitHub last commit](https://img.shields.io/github/last-commit/banyanops/collector)](https://github.com/banyanops/collector) :warning: �� Run arbitrary scripts inside containers, and gather useful information.
+- [collector ![GitHub Repo Stars](https://img.shields.io/github/stars/banyanops/collector) ![GitHub last commit](https://img.shields.io/github/last-commit/banyanops/collector)](https://github.com/banyanops/collector) :warning: — Run arbitrary scripts inside containers, and gather useful information.
 
 - [dagda ![GitHub Repo Stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) ![GitHub last commit](https://img.shields.io/github/last-commit/eliasgranderubio/dagda)](https://github.com/eliasgranderubio/dagda) :warning: — Perform static analysis of known vulnerabilities in docker images/containers.
 
