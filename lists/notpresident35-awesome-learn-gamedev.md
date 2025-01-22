@@ -444,7 +444,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 [VFX Talks Playlist](https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv) 🟪 - A playlist of VFX talks at GDC (the linked video is about Diablo, and is very insightful).
 
-[BiteyCastle Academy 2DFX Animation Course](https://chluaid.gumroad.com/l/bcafx) 💠�� - A full 2D FX animation course (completely free!)
+[BiteyCastle Academy 2DFX Animation Course](https://chluaid.gumroad.com/l/bcafx) 💠🟪 - A full 2D FX animation course (completely free!)
 
 [VFX Apprentice](https://www.vfxapprentice.com) - Several VFX courses geared towards developing a professional portfolio. _Very_ pricey, but may be worth your while if you are serious about VFX - it is a _hell_ of a lot cheaper than art school.
 
@@ -666,7 +666,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [WE CAN FIX IT IN UI](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1) 💠🟪 - A huge list of UI/UX resources!
 
 
-[Game UI Database](https://www.gameuidatabase.com/index.php) 💠���� - A searchable repository of UI designs from many different games to use as reference.
+[Game UI Database](https://www.gameuidatabase.com/index.php) 💠🟪 - A searchable repository of UI designs from many different games to use as reference.
 
 
 [Laws of UX](https://lawsofux.com/en/) - Best practices of UX design.
@@ -794,7 +794,7 @@ Royalty free music! Don't forget to check the license.
 [Leveling the Playing Field](https://ltpf.ramiismail.com) 💠🟪 - A blog/newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Past newsletters are archived here. I personally recommend "Budget Viability" as a starting point.
 
 
-[How to Market a Game](https://howtomarketagame.com) ����🟪 - A blog and a collection of resources by Chris Zukowski with advice on marketing and sales. I personally recommend his GDC talks "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy" as starting points.
+[How to Market a Game](https://howtomarketagame.com) 💠🟪 - A blog and a collection of resources by Chris Zukowski with advice on marketing and sales. I personally recommend his GDC talks "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy" as starting points.
 
 
 [Community Dev Newsletter and Blog](https://www.victoriatran.com) 💠🟪 - A blog and a newsletter by Victoria Tran with advice on community management, social media, and marketing. Past newsletters are archived here. I personally recommend "Failure Marketing" and "Charm your Communities" as starting points.
