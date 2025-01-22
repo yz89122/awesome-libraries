@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -703,7 +703,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
 
-- [Closure Compiler](https://developers.google.com/closure/compiler) �� A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
+- [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 
 - [ClosureLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/google/closure-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-linter)](https://github.com/google/closure-linter) :warning: — Ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors.
 
@@ -1273,7 +1273,7 @@ Kani verifies:
 <h2>Shell</h2>
 
 
-- [bashate ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/bashate) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/bashate)](https://github.com/openstack/bashate) ��� Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
+- [bashate ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/bashate) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/bashate)](https://github.com/openstack/bashate) — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
 
 - [i-Code CNES for Shell ![GitHub Repo Stars](https://img.shields.io/github/stars/lequal/i-CodeCNES) ![GitHub last commit](https://img.shields.io/github/last-commit/lequal/i-CodeCNES)](https://github.com/lequal/i-CodeCNES) — An open source static code analysis tool for Shell and Fortran (77 and 90).
 
@@ -1815,7 +1815,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [clair ![GitHub Repo Stars](https://img.shields.io/github/stars/coreos/clair) ![GitHub last commit](https://img.shields.io/github/last-commit/coreos/clair)](https://github.com/coreos/clair) — Vulnerability Static Analysis for Containers.
 
-- [collector ![GitHub Repo Stars](https://img.shields.io/github/stars/banyanops/collector) ![GitHub last commit](https://img.shields.io/github/last-commit/banyanops/collector)](https://github.com/banyanops/collector) :warning: — Run arbitrary scripts inside containers, and gather useful information.
+- [collector ![GitHub Repo Stars](https://img.shields.io/github/stars/banyanops/collector) ![GitHub last commit](https://img.shields.io/github/last-commit/banyanops/collector)](https://github.com/banyanops/collector) :warning: �� Run arbitrary scripts inside containers, and gather useful information.
 
 - [dagda ![GitHub Repo Stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) ![GitHub last commit](https://img.shields.io/github/last-commit/eliasgranderubio/dagda)](https://github.com/eliasgranderubio/dagda) :warning: — Perform static analysis of known vulnerabilities in docker images/containers.
 
