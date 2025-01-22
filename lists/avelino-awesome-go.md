@@ -2200,14 +2200,8 @@ _Unofficial libraries for package and dependency management._
 ## Resource Embedding
 
 - [debme ![GitHub Repo Stars](https://img.shields.io/github/stars/leaanthony/debme) ![GitHub last commit](https://img.shields.io/github/last-commit/leaanthony/debme)](https://github.com/leaanthony/debme) - Create an `embed.FS` from an existing `embed.FS` subdirectory.
-- [fileb0x ![GitHub Repo Stars](https://img.shields.io/github/stars/UnnoTed/fileb0x) ![GitHub last commit](https://img.shields.io/github/last-commit/UnnoTed/fileb0x)](https://github.com/UnnoTed/fileb0x) - Simple tool to embed files in go with focus on "customization" and ease to use.
-- [go-resources ![GitHub Repo Stars](https://img.shields.io/github/stars/omeid/go-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/omeid/go-resources)](https://github.com/omeid/go-resources) - Unfancy resources embedding with Go.
-- [go.rice ![GitHub Repo Stars](https://img.shields.io/github/stars/GeertJohan/go.rice) ![GitHub last commit](https://img.shields.io/github/last-commit/GeertJohan/go.rice)](https://github.com/GeertJohan/go.rice) - go.rice is a Go package that makes working with resources such as HTML, JS, CSS, images, and templates very easy.
-- [mule ![GitHub Repo Stars](https://img.shields.io/github/stars/wlbr/mule) ![GitHub last commit](https://img.shields.io/github/last-commit/wlbr/mule)](https://github.com/wlbr/mule) - Embed external resources like images, movies ... into Go source code to create single file binaries using `go generate`. Focused on simplicity.
-- [packr ![GitHub Repo Stars](https://img.shields.io/github/stars/gobuffalo/packr) ![GitHub last commit](https://img.shields.io/github/last-commit/gobuffalo/packr)](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
+- [embed](https://pkg.go.dev/embed) - Package embed provides access to files embedded in the running Go program.
 - [rebed ![GitHub Repo Stars](https://img.shields.io/github/stars/soypat/rebed) ![GitHub last commit](https://img.shields.io/github/last-commit/soypat/rebed)](https://github.com/soypat/rebed) - Recreate folder structures and files from Go 1.16's `embed.FS` type
-- [statik ![GitHub Repo Stars](https://img.shields.io/github/stars/rakyll/statik) ![GitHub last commit](https://img.shields.io/github/last-commit/rakyll/statik)](https://github.com/rakyll/statik) - Embeds static files into a Go executable.
-- [templify ![GitHub Repo Stars](https://img.shields.io/github/stars/wlbr/templify) ![GitHub last commit](https://img.shields.io/github/last-commit/wlbr/templify)](https://github.com/wlbr/templify) - Embed external template files into Go code to create single file binaries.
 - [vfsgen ![GitHub Repo Stars](https://img.shields.io/github/stars/shurcooL/vfsgen) ![GitHub last commit](https://img.shields.io/github/last-commit/shurcooL/vfsgen)](https://github.com/shurcooL/vfsgen) - Generates a vfsdata.go file that statically implements the given virtual filesystem.
 
 **[⬆ back to top](#contents)**
