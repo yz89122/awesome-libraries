@@ -459,6 +459,7 @@ become an Angular expert.
 * [abbi-ng-ai-image-descriptor ![GitHub Repo Stars](https://img.shields.io/github/stars/slsfi/abbi-ng-ai-image-descriptor) ![GitHub last commit](https://img.shields.io/github/last-commit/slsfi/abbi-ng-ai-image-descriptor)](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
 * [ng-flexbot ![GitHub Repo Stars](https://img.shields.io/github/stars/arolleaguekeng/ng-flexbot) ![GitHub last commit](https://img.shields.io/github/last-commit/arolleaguekeng/ng-flexbot)](https://github.com/arolleaguekeng/ng-flexbot) - An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context.
 * [Frontend AI](https://www.webcrumbs.org/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
+* [Gurubase](https://gurubase.io/g/angular) - Angular Guru leverages up-to-date information from the Angular documentation, Stack Overflow, and articles across the internet to answer your questions.
 
 #### Analytics
 
