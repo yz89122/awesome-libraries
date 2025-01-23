@@ -444,7 +444,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 [VFX Talks Playlist](https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv) 🟪 - A playlist of VFX talks at GDC (the linked video is about Diablo, and is very insightful).
 
-[BiteyCastle Academy 2DFX Animation Course](https://chluaid.gumroad.com/l/bcafx) 💠🟪 - A full 2D FX animation course (completely free!)
+[BiteyCastle Academy 2DFX Animation Course](https://chluaid.gumroad.com/l/bcafx) ��🟪 - A full 2D FX animation course (completely free!)
 
 [VFX Apprentice](https://www.vfxapprentice.com) - Several VFX courses geared towards developing a professional portfolio. _Very_ pricey, but may be worth your while if you are serious about VFX - it is a _hell_ of a lot cheaper than art school.
 
@@ -618,7 +618,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [The Evolution of Trust](https://ncase.me/trust/) 💠🟪 - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
 
 
-[Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) ���🟪 - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s) - dig through their game design backlog if you would like, but stick to the older stuff.
+[Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) 💠🟪 - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s) - dig through their game design backlog if you would like, but stick to the older stuff.
 
 
 [The Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) 💠🟪 - A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK.
