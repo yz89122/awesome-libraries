@@ -197,6 +197,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [SIML](https://simlbot.com/) - Synthetic Intelligence Markup Language, a next generation Chatbot & Digital Assistant Language.
 * [Mpt-Instruct-DotNet-S ![GitHub Repo Stars](https://img.shields.io/github/stars/NethermindEth/Mpt-Instruct-DotNet-S) ![GitHub last commit](https://img.shields.io/github/last-commit/NethermindEth/Mpt-Instruct-DotNet-S)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) - LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
 * [LLamaSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SciSharp/LLamaSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/SciSharp/LLamaSharp)](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
+* [LlmTornado ![GitHub Repo Stars](https://img.shields.io/github/stars/lofcz/LlmTornado) ![GitHub last commit](https://img.shields.io/github/last-commit/lofcz/LlmTornado)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
 
 ## Assembly Manipulation
 
@@ -778,6 +779,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [elmah.io](https://elmah.io) - Cloud logging for .NET web applications using ELMAH. Find bugs before you go live. Powerful search, API, integration with Slack, GitHub, Visual Studio and more. **[[Free for OSS](https://elmah.io/sponsorship/opensource)]** **[$]**
 * [BugSnag](https://docs.bugsnag.com/platforms/dotnet/) - Logs errors. Includes useful diagnostic info like stack trace, session, release, etc. Has a free tier. **[Free for OSS][$]**
 * [ZeroLog ![GitHub Repo Stars](https://img.shields.io/github/stars/Abc-Arbitrage/ZeroLog) ![GitHub last commit](https://img.shields.io/github/last-commit/Abc-Arbitrage/ZeroLog)](https://github.com/Abc-Arbitrage/ZeroLog) - ZeroLog is a zero-allocation .NET logging library. It provides basic logging capabilities to be used in latency-sensitive applications, where garbage collections are undesirable.
+* [AutoLoggerMessage ![GitHub Repo Stars](https://img.shields.io/github/stars/stbychkov/AutoLoggerMessage) ![GitHub last commit](https://img.shields.io/github/last-commit/stbychkov/AutoLoggerMessage)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ## Machine Learning and Data Science
 * [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
