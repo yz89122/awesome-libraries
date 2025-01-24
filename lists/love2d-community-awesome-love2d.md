@@ -247,8 +247,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Bump ![GitHub Repo Stars](https://img.shields.io/github/stars/kikito/bump.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/kikito/bump.lua)](https://github.com/kikito/bump.lua) - Collision detection library for Lua.
 * [HC](https://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects.
 * [loveblobs ![GitHub Repo Stars](https://img.shields.io/github/stars/exezin/loveblobs) ![GitHub last commit](https://img.shields.io/github/last-commit/exezin/loveblobs)](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
+* [slick ![GitHub Repo Stars](https://img.shields.io/github/stars/erinmaus/slick) ![GitHub last commit](https://img.shields.io/github/last-commit/erinmaus/slick)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
 * [Strike ![GitHub Repo Stars](https://img.shields.io/github/stars/Aweptimum/Strike) ![GitHub last commit](https://img.shields.io/github/last-commit/Aweptimum/Strike)](https://github.com/Aweptimum/Strike) - 2D collision detection library. Extendable, based on Separating-Axis-Theorem.
-
 
 ## Platforms
 *Ports for Platforms other than the ones officially supported by LÖVE*
