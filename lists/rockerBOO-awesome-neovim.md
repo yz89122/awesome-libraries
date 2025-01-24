@@ -543,6 +543,7 @@
 - [moyiz/command-and-cursor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/moyiz/command-and-cursor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/moyiz/command-and-cursor.nvim)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
 - [rachartier/tiny-devicons-auto-colors.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-devicons-auto-colors.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-devicons-auto-colors.nvim)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
 - [TaDaa/vimade ![GitHub Repo Stars](https://img.shields.io/github/stars/TaDaa/vimade) ![GitHub last commit](https://img.shields.io/github/last-commit/TaDaa/vimade)](https://github.com/TaDaa/vimade) - Dim, fade, tint, animate, and customize colors in your windows and buffers.
+- [xzbdmw/colorful-menu.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/xzbdmw/colorful-menu.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/xzbdmw/colorful-menu.nvim)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 <!--lint disable double-link -->
 
