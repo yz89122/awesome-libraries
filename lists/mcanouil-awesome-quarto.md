@@ -68,6 +68,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Workshop: Parameterized Reports with Quarto](https://jadeyryan.quarto.pub/rladies-dc-quarto-params/) - A 2-hour code-along workshop to learn parameterized reporting with `quarto` and `purrr` to generate multiple format outputs (materials: <https://github.com/jadeynryan/parameterized-quarto-workshop>).
 - [Turorials: Quarto Visual Editor and RStudio](https://youtube.com/playlist?list=PLEzw67WWDg80-fT1hq2IZf7D62tRmKy8f&si=ECVfFIH1bg6_JfjS) - A YouTube playlist of short videos tutorials for beginners to work with Quarto Visual Editor and RStudio by Andy Field.
 - [Quarto for amsmath LaTeX users](https://nmfs-opensci.github.io/quarto-amsmath) - Notes focused on addressing issues related to using amsmath LaTeX for numbered equations and fancy math in Quarto books, specifically for HTML and PDF rendering.
+- [Tutorial: A step-by-step guide to parameterized reporting in R using Quarto](https://rfortherestofus.com/2024/06/parameterized-reporting-quarto) - A walkthrough of how to use parameterized reporting with Quarto with videos.
 
 ## Blog posts
 
@@ -140,6 +141,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [babelquarto](https://docs.ropensci.org/babelquarto/) - R package to help set up, and render, multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html)).
 - [quartodoc ![GitHub Repo Stars](https://img.shields.io/github/stars/machow/quartodoc) ![GitHub last commit](https://img.shields.io/github/last-commit/machow/quartodoc)](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
 - [altdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/etiennebacher/altdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/etiennebacher/altdoc)](https://github.com/etiennebacher/altdoc) - Alternative to pkgdown to document R packages.
+- [surveydown](https://surveydown.org/) - A platform for making markdown-based surveys with Quarto, Shiny, and Supabase.
 
 ## Continuous integration / Continuous deployment
 
