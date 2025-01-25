@@ -91,6 +91,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Svelte Society](https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw)
 - [Svelte Mastery](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA)
+- [Joy of Code](https://www.youtube.com/@JoyofCodeDev)
 
 ### Tutorials
 
@@ -129,9 +130,11 @@ _UI frameworks for mobile._
 - [svelte-asyncable ![GitHub Repo Stars](https://img.shields.io/github/stars/sveltetools/svelte-asyncable) ![GitHub last commit](https://img.shields.io/github/last-commit/sveltetools/svelte-asyncable)](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
 - [exome ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcisbee/exome) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcisbee/exome)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 - [tanstack-store](https://tanstack.com/store/latest/docs/framework/svelte/quick-start) - Framework agnostic type-safe store w/ reactive framework adapters.
+-
 
 ## UI Libraries
 
+- [lomer-ui](https://ui.lomer.dev) - A dead-simple CLI tool to instantly kickstart your components.
 - [shadcn-svelte](https://www.shadcn-svelte.com/) - Beautifully designed components that you can copy and paste into your apps.
 - [SvelteUI](https://svelteui.dev/) - all inclusive Svelte library - Components, Actions, Utilities, Animations.
 - [Flowbite Svelte](https://flowbite-svelte.com/) - Open-source Svelte UI components built with Tailwind CSS and Flowbite.
@@ -217,6 +220,10 @@ _Display non-editable events in a calendar._
 - [Layer Cake ![GitHub Repo Stars](https://img.shields.io/github/stars/mhkeller/layercake) ![GitHub last commit](https://img.shields.io/github/last-commit/mhkeller/layercake)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 - [LayerChart ![GitHub Repo Stars](https://img.shields.io/github/stars/techniq/layerchart) ![GitHub last commit](https://img.shields.io/github/last-commit/techniq/layerchart)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
+### Graphs
+
+- [svelte-flow](https://svelteflow.dev) - A customizable Svelte component for building node-based editors and interactive diagrams by the creators of React Flow
+
 ### Miscellaneous
 
 - [Svelte Tweakpane UI](https://kitschpatrol.com/svelte-tweakpane-ui) - UI elements from [Tweakpane](https://tweakpane.github.io/docs/) wrapped in a collection of idiomatic Svelte components.
@@ -238,6 +245,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [svelte-pwa-template ![GitHub Repo Stars](https://img.shields.io/github/stars/tretapey/svelte-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/tretapey/svelte-pwa)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. _(pre-v5)_
 - [vite-svelte-docker-template ![GitHub Repo Stars](https://img.shields.io/github/stars/bavragor/vite-svelte-docker-template) ![GitHub last commit](https://img.shields.io/github/last-commit/bavragor/vite-svelte-docker-template)](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 - [svelte-docs-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/code-gio/svelte-docs-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/code-gio/svelte-docs-starter)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
+- [template-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/phaserjs/template-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/phaserjs/template-svelte)](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
 
 ## Utilities
 
@@ -270,6 +278,7 @@ _Individual form components._
 
 - [sswr ![GitHub Repo Stars](https://img.shields.io/github/stars/ConsoleTVs/sswr) ![GitHub last commit](https://img.shields.io/github/last-commit/ConsoleTVs/sswr)](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
 - [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
+- [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
 
 ### Sound & Video
 
