@@ -614,6 +614,7 @@
 - [YesPlayMusic ![GitHub Repo Stars](https://img.shields.io/github/stars/qier222/YesPlayMusic) ![GitHub last commit](https://img.shields.io/github/last-commit/qier222/YesPlayMusic)](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 - [douyin ![GitHub Repo Stars](https://img.shields.io/github/stars/zyronon/douyin) ![GitHub last commit](https://img.shields.io/github/last-commit/zyronon/douyin)](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
 - [MyIP ![GitHub Repo Stars](https://img.shields.io/github/stars/jason5ng32/MyIP) ![GitHub last commit](https://img.shields.io/github/last-commit/jason5ng32/MyIP)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
+- [fylepad ![GitHub Repo Stars](https://img.shields.io/github/stars/imrofayel/fylepad) ![GitHub last commit](https://img.shields.io/github/last-commit/imrofayel/fylepad)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 
 ### Commercial Products
 
