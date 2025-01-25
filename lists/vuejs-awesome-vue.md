@@ -613,6 +613,7 @@
 - [slidev ![GitHub Repo Stars](https://img.shields.io/github/stars/slidevjs/slidev) ![GitHub last commit](https://img.shields.io/github/last-commit/slidevjs/slidev)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [YesPlayMusic ![GitHub Repo Stars](https://img.shields.io/github/stars/qier222/YesPlayMusic) ![GitHub last commit](https://img.shields.io/github/last-commit/qier222/YesPlayMusic)](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 - [douyin ![GitHub Repo Stars](https://img.shields.io/github/stars/zyronon/douyin) ![GitHub last commit](https://img.shields.io/github/last-commit/zyronon/douyin)](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
+- [MyIP ![GitHub Repo Stars](https://img.shields.io/github/stars/jason5ng32/MyIP) ![GitHub last commit](https://img.shields.io/github/last-commit/jason5ng32/MyIP)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
 
 ### Commercial Products
 
@@ -900,7 +901,7 @@ _Set of components + responsive layout system_
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
 - [Stellar UI ![GitHub Repo Stars](https://img.shields.io/github/stars/ManukMinasyan/stellar-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ManukMinasyan/stellar-ui)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 - [Shadcn UI ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-vue/shadcn-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-vue/shadcn-vue)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn-ui/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn-ui/ui)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-vue/radix-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-vue/radix-vue)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss)](https://github.com/tailwindlabs/tailwindcss)).
-- [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and [Tailwind CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss)](https://github.com/tailwindlabs/tailwindcss)).
+- [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and Tailwind CSS.
 - [flowbite-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/flowbite-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/flowbite-vue)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 
 #### Mobile
@@ -1023,6 +1024,7 @@ _Tables / data grids_
 - [tanstack-table ![GitHub Repo Stars](https://img.shields.io/github/stars/tanstack/table) ![GitHub last commit](https://img.shields.io/github/last-commit/tanstack/table)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 - [vuetify-drilldown-table ![GitHub Repo Stars](https://img.shields.io/github/stars/webdevnerdstuff/vuetify-drilldown-table) ![GitHub last commit](https://img.shields.io/github/last-commit/webdevnerdstuff/vuetify-drilldown-table)](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
 - [vxe-table ![GitHub Repo Stars](https://img.shields.io/github/stars/x-extends/vxe-table) ![GitHub last commit](https://img.shields.io/github/last-commit/x-extends/vxe-table)](https://github.com/x-extends/vxe-table) - Vue form/table solution.
+- [hy-vue-gantt ![GitHub Repo Stars](https://img.shields.io/github/stars/Xeyos88/HyVueGantt) ![GitHub last commit](https://img.shields.io/github/last-commit/Xeyos88/HyVueGantt)](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
 
 #### Notification
 
@@ -1298,6 +1300,7 @@ _Switch / on/off toggle / checkbox_
 - [vue-toggles ![GitHub Repo Stars](https://img.shields.io/github/stars/juliandreas/vue-toggles) ![GitHub last commit](https://img.shields.io/github/last-commit/juliandreas/vue-toggles)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 - [@vueform/toggle ![GitHub Repo Stars](https://img.shields.io/github/stars/vueform/toggle) ![GitHub last commit](https://img.shields.io/github/last-commit/vueform/toggle)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
 - [vue-collapsed ![GitHub Repo Stars](https://img.shields.io/github/stars/smastrom/vue-collapsed) ![GitHub last commit](https://img.shields.io/github/last-commit/smastrom/vue-collapsed)](https://github.com/smastrom/vue-collapsed) - Vue 3 CSS height transition from any to auto and vice versa. Accordion ready.
+- [vue-enhanced-check ![GitHub Repo Stars](https://img.shields.io/github/stars/keiwen/vue-enhancedCheck) ![GitHub last commit](https://img.shields.io/github/last-commit/keiwen/vue-enhancedCheck)](https://github.com/keiwen/vue-enhancedCheck) - Enhanced checkboxes / radio input + toggle, components for vue 3
 
 ##### Masked Input
 
@@ -1445,6 +1448,7 @@ _Detect when components enter viewport_
 - [@formkit/auto-animate ![GitHub Repo Stars](https://img.shields.io/github/stars/formkit/auto-animate) ![GitHub last commit](https://img.shields.io/github/last-commit/formkit/auto-animate)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 - [blottie ![GitHub Repo Stars](https://img.shields.io/github/stars/Applelo/blottie) ![GitHub last commit](https://img.shields.io/github/last-commit/Applelo/blottie)](https://github.com/Applelo/blottie) Lottie component for Vue 3
 - [vue-countup-v3 ![GitHub Repo Stars](https://img.shields.io/github/stars/jizai1125/vue-countup-v3) ![GitHub last commit](https://img.shields.io/github/last-commit/jizai1125/vue-countup-v3)](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
+- [vue-to-counter ![GitHub Repo Stars](https://img.shields.io/github/stars/siaikin/vue-to-counter) ![GitHub last commit](https://img.shields.io/github/last-commit/siaikin/vue-to-counter)](https://github.com/siaikin/vue-to-counter) Scroll strings, numbers, dates like a slot machine.
 
 #### Meta Tags
 
@@ -1550,6 +1554,7 @@ _LocalStorage etc._
 - [pinia-xstate ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/pinia-xstate) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/pinia-xstate)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 - [pinia-orm ![GitHub Repo Stars](https://img.shields.io/github/stars/CodeDredd/pinia-orm) ![GitHub last commit](https://img.shields.io/github/last-commit/CodeDredd/pinia-orm)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 - [pinia-persistedstate-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/iendeavor/pinia-plugin-persistedstate-2) ![GitHub last commit](https://img.shields.io/github/last-commit/iendeavor/pinia-plugin-persistedstate-2)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
+- [tauri-plugin-pinia ![GitHub Repo Stars](https://img.shields.io/github/stars/ferreira-tb/tauri-store) ![GitHub last commit](https://img.shields.io/github/last-commit/ferreira-tb/tauri-store)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
 
 ##### Authentication/Authorization
 

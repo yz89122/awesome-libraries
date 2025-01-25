@@ -703,7 +703,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
 
-- [Closure Compiler](https://developers.google.com/closure/compiler) �� A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
+- [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 
 - [ClosureLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/google/closure-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-linter)](https://github.com/google/closure-linter) :warning: — Ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors.
 
@@ -1273,7 +1273,7 @@ Kani verifies:
 <h2>Shell</h2>
 
 
-- [bashate ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/bashate) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/bashate)](https://github.com/openstack/bashate) ��� Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
+- [bashate ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/bashate) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/bashate)](https://github.com/openstack/bashate) — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
 
 - [i-Code CNES for Shell ![GitHub Repo Stars](https://img.shields.io/github/stars/lequal/i-CodeCNES) ![GitHub last commit](https://img.shields.io/github/last-commit/lequal/i-CodeCNES)](https://github.com/lequal/i-CodeCNES) — An open source static code analysis tool for Shell and Fortran (77 and 90).
 
