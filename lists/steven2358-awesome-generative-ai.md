@@ -140,22 +140,12 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Synthical](https://synthical.com) - AI-powered collaborative research environment.
 - [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
+- [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
 
 ### Other text generators
 
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
-
-### Developer tools
-
-- [agenta ![GitHub Repo Stars](https://img.shields.io/github/stars/agenta-ai/agenta) ![GitHub last commit](https://img.shields.io/github/last-commit/agenta-ai/agenta)](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment.
-- [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
-- [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
-- [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
-- [gpt4all ![GitHub Repo Stars](https://img.shields.io/github/stars/nomic-ai/gpt4all) ![GitHub last commit](https://img.shields.io/github/last-commit/nomic-ai/gpt4all)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
-- [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
-- [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
-- [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 
 ## Coding
 
@@ -193,6 +183,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/ollama/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/ollama/ollama)](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/vanna-ai/vanna) ![GitHub last commit](https://img.shields.io/github/last-commit/vanna-ai/vanna)](https://github.com/vanna-ai/vanna)
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
+- [agenta ![GitHub Repo Stars](https://img.shields.io/github/stars/agenta-ai/agenta) ![GitHub last commit](https://img.shields.io/github/last-commit/agenta-ai/agenta)](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
 
 ## Agents
 
