@@ -108,7 +108,6 @@ _Development and testing tools for Bluetooth Low Energy (BLE) applications, incl
 
 _Web-based resources, frameworks, and tools for building Bluetooth Low Energy (BLE) applications using JavaScript and web technologies._
 
-- [Web Bluetooth Device Info ![GitHub Repo Stars](https://img.shields.io/github/stars/urish/web-bluetooth-device-info) ![GitHub last commit](https://img.shields.io/github/last-commit/urish/web-bluetooth-device-info)](https://github.com/urish/web-bluetooth-device-info) - Web Bluetooth demo to get information about a connected Bluetooth device.
 - [Web Bluetooth Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/WebBluetoothCG/demos) ![GitHub last commit](https://img.shields.io/github/last-commit/WebBluetoothCG/demos)](https://github.com/WebBluetoothCG/demos) - A collection of Web Bluetooth API usage examples.
 
 ## Security
