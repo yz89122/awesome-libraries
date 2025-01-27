@@ -343,7 +343,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [ESBMC](http://esbmc.org) — ESBMC is an open source, permissively licensed, context-bounded model checker based on satisfiability modulo theories for the verification of single- and multi-threaded C/C++ programs.
 
-- [flawfinder](http://dwheeler.com/flawfinder/) :warning: �� Finds possible security weaknesses.
+- [flawfinder](http://dwheeler.com/flawfinder/) :warning: — Finds possible security weaknesses.
 
 - [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) :warning: — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 
@@ -2072,7 +2072,7 @@ but with the following improvements:
 
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html) :warning: — iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
 
-- [Mariana Trench](https://mariana-tren.ch/) — Our security focused static analysis tool for Android and Java applications. Mariana Trench analyzes Dalvik bytecode and is built to run fast on large codebases (10s of millions of lines of code). It can find vulnerabilities as code changes, before it ever lands in your repository.
+- [Mariana Trench](https://mariana-tren.ch/) ��� Our security focused static analysis tool for Android and Java applications. Mariana Trench analyzes Dalvik bytecode and is built to run fast on large codebases (10s of millions of lines of code). It can find vulnerabilities as code changes, before it ever lands in your repository.
 
 - [Oversecured](https://oversecured.com) :copyright: — Enterprise vulnerability scanner for Android and iOS apps. It allows app owners and developers to secure each new version of a mobile app by integrating Oversecured into the development process.
 
