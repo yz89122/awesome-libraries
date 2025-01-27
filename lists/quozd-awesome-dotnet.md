@@ -51,6 +51,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [DateTime](#datetime)
   * [Decompilation](#decompilation)
   * [Deployment](#deployment)
+  * [Desktop](#desktop)
   * [DirectX](#directx)
   * [Distributed Computing](#distributed-computing)
   * [DLR](#dlr)
@@ -461,6 +462,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## DirectX
 
 * [Vortice.Windows ![GitHub Repo Stars](https://img.shields.io/github/stars/amerkoleci/Vortice.Windows) ![GitHub last commit](https://img.shields.io/github/last-commit/amerkoleci/Vortice.Windows)](https://github.com/amerkoleci/Vortice.Windows) - Cross platform .NET standard libraries for DirectX, WIC, Direct2D1, XInput, XAudio and X3DAudio
+
+## Desktop
+
+* [Sucrose Wallpaper Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Taiizor/Sucrose) ![GitHub last commit](https://img.shields.io/github/last-commit/Taiizor/Sucrose)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ## Distributed Computing
 
@@ -1240,6 +1245,7 @@ metadata in media files, including video, audio, and photo formats
 * [Another Redis Desktop Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/qishibo/AnotherRedisDesktopManager) ![GitHub last commit](https://img.shields.io/github/last-commit/qishibo/AnotherRedisDesktopManager)](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 * [OctaneEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/gregyjames/OctaneDownloader) ![GitHub last commit](https://img.shields.io/github/last-commit/gregyjames/OctaneDownloader)](https://github.com/gregyjames/OctaneDownloader) - A high performance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling.
 * [FastCloner ![GitHub Repo Stars](https://img.shields.io/github/stars/lofcz/FastCloner) ![GitHub last commit](https://img.shields.io/github/last-commit/lofcz/FastCloner)](https://github.com/lofcz/FastCloner) - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
+* [STranslate ![GitHub Repo Stars](https://img.shields.io/github/stars/ZGGSONG/STranslate) ![GitHub last commit](https://img.shields.io/github/last-commit/ZGGSONG/STranslate)](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
   
 ## Trading
 
