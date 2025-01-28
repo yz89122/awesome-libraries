@@ -74,7 +74,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Clojure
 
-- [Alda ![GitHub Repo Stars](https://img.shields.io/github/stars/alda-lang/alda) ![GitHub last commit](https://img.shields.io/github/last-commit/alda-lang/alda)](https://github.com/alda-lang/alda) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. 🎶
 - [Metabase ![GitHub Repo Stars](https://img.shields.io/github/stars/metabase/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/metabase/metabase)](https://github.com/metabase/metabase) _(label: good first issue)_ <br> Open source business intelligence and analytics platform
 
 ## Dart
@@ -94,6 +93,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Go
 
+- [Alda ![GitHub Repo Stars](https://img.shields.io/github/stars/alda-lang/alda) ![GitHub last commit](https://img.shields.io/github/last-commit/alda-lang/alda)](https://github.com/alda-lang/alda) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. 🎶
 - [containerd ![GitHub Repo Stars](https://img.shields.io/github/stars/containerd/containerd) ![GitHub last commit](https://img.shields.io/github/last-commit/containerd/containerd)](https://github.com/containerd/containerd) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Docker/CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/cli)](https://github.com/docker/cli) _(label: exp/beginner)_ <br> The Docker CLI
 - [Dragonfly ![GitHub Repo Stars](https://img.shields.io/github/stars/dragonflyoss/Dragonfly2) ![GitHub last commit](https://img.shields.io/github/last-commit/dragonflyoss/Dragonfly2)](https://github.com/dragonflyoss/Dragonfly2) _(label: good first issue)_ <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
