@@ -165,7 +165,7 @@ System integration is the process of linking together different IT systems (com
 - [OpenL Tablets (⭐163) ![GitHub Repo Stars](https://img.shields.io/github/stars/openl-tablets/openl-tablets) ![GitHub last commit](https://img.shields.io/github/last-commit/openl-tablets/openl-tablets)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
 <!--lint disable-->
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 <!--lint enable-->
 ### BPM
 *BPM solutions are software tools that help businesses streamline and automate their operational processes to improve efficiency and productivity. These solutions typically provide features such as process modeling, workflow management, task automation, and reporting. They can be used to automate a wide range of processes, from simple tasks like data entry to complex workflows involving multiple departments and stakeholders.*
