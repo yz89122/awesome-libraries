@@ -72,7 +72,7 @@ If you're new to project management and/or production role, I strongly recommend
 
 - 🎓 [Nearly Universal Principles of Projects](https://nupp.guide/) - NUPP is a collection of nearly universal principles of projects: those we’d do well to follow in all projects, regardless of the methodologies and approaches that we use, to maximize our success.
 - 🎓 [P3.express](https://p3.express/) - P3.express is a minimalist, practical project management system. It’s easy to learn, easy to use, and easy to teach.
-- ���� [micro.P3.express](https://micro.p3.express/) - micro.P3.express is a flavor of P3.express designed for micro-projects with approximately 1 to 7 team members.
+- 🎓 [micro.P3.express](https://micro.p3.express/) - micro.P3.express is a flavor of P3.express designed for micro-projects with approximately 1 to 7 team members.
 
 ### Designing a Production Process
 
