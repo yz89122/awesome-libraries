@@ -365,6 +365,9 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 ##### Ruby
 - [GTFS-viz ![GitHub Repo Stars](https://img.shields.io/github/stars/vasile/GTFS-viz) ![GitHub last commit](https://img.shields.io/github/last-commit/vasile/GTFS-viz)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map ![GitHub Repo Stars](https://img.shields.io/github/stars/vasile/transit-map) ![GitHub last commit](https://img.shields.io/github/last-commit/vasile/transit-map)](https://github.com/vasile/transit-map) web application)
 
+##### Rust
+- [gtfs-structure ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-transit/gtfs-structure) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-transit/gtfs-structure)](https://github.com/rust-transit/gtfs-structure) - This crates provides GTFS structures and helpers to read GTFS archives.
+
 #### GTFS Converters
 
 Converters from various static schedule formats to and from GTFS.
@@ -472,6 +475,7 @@ Converters from various static schedule formats to and from GTFS.
 #### GTFS Realtime Libraries & Demo Apps
 
 - [gtfs-realtime-bindings ![GitHub Repo Stars](https://img.shields.io/github/stars/google/gtfs-realtime-bindings) ![GitHub last commit](https://img.shields.io/github/last-commit/google/gtfs-realtime-bindings)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification ![GitHub Repo Stars](https://img.shields.io/github/stars/google/transit) ![GitHub last commit](https://img.shields.io/github/last-commit/google/transit)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
+- [gtfs-rt](https://crates.io/crates/gtfs-rt) - Rust crate to read, write, and manipulate GTFS-Realtime data
 - [GTFS-realtime Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/OneBusAway/onebusaway-gtfs-realtime-exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/OneBusAway/onebusaway-gtfs-realtime-exporter)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
 - [GTFS-realtime Alerts Producer Demo ![GitHub Repo Stars](https://img.shields.io/github/stars/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime Service Alerts.
 - [GTFS-realtime Alerts Producer Web Application ![GitHub Repo Stars](https://img.shields.io/github/stars/OneBusAway/onebusaway-service-alerts) ![GitHub last commit](https://img.shields.io/github/last-commit/OneBusAway/onebusaway-service-alerts)](https://github.com/OneBusAway/onebusaway-service-alerts) - A Java-based web application for producing GTFS-realtime Service Alerts.
