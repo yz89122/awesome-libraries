@@ -44,7 +44,7 @@ sellers who aren't evil for physical resources.
     - [ORMs](#orms)
     - [Persistent object databases](#persistent-object-databases)
     - [Graph databases](#graph-databases)
-    - [Wrappers](#wrappers)
+    - [Other DB wrappers](#other-db-wrappers)
     - [Migration tools](#migration-tools)
     - [To third parties](#to-third-parties)
     - [Tools](#tools)
@@ -145,6 +145,7 @@ sellers who aren't evil for physical resources.
     - [Vim & Neovim](#vim--neovim)
     - [Eclipse](#eclipse)
     - [Lem](#lem)
+    - [LispWorks](#lispworks)
     - [Atom, Pulsar](#atom-pulsar)
     - [Sublime Text](#sublime-text)
     - [VSCode](#vscode)
@@ -1408,6 +1409,7 @@ Numerical and Scientific
   * [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
   * [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
   * [Maxima on Jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/robert-dodier/maxima-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-dodier/maxima-jupyter)](https://github.com/robert-dodier/maxima-jupyter)
+  * [new, POC] [Maxima in the browser on WASM](https://maxima-on-wasm.pages.dev/), [sources](https://gitlab.com/spaghettisalat/maxima/-/tree/emscripten-port-deployed)
   * it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)) and [maxima-interface ![GitHub Repo Stars](https://img.shields.io/github/stars/jmbr/maxima-interface) ![GitHub last commit](https://img.shields.io/github/last-commit/jmbr/maxima-interface)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
   * it can be used [from a Lisp REPL](https://mahmoodsheikh36.github.io/post/20230510181916-maxima_in_lisp/).
 * [numcl ![GitHub Repo Stars](https://img.shields.io/github/stars/numcl/numcl) ![GitHub last commit](https://img.shields.io/github/last-commit/numcl/numcl)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3][9].
@@ -1700,6 +1702,11 @@ Sly extensions:
 * 🚀 [Lem on the cloud](https://www.youtube.com/watch?v=IMN7feOQOak) (video presentation)
   * "Rooms is a product that runs Lem, a text editor created in Common Lisp, in the Cloud and can be used by multiple users."
   * NEW as of April, 2024.
+
+## LispWorks
+
+* [lw-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/apr3vau/lw-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/apr3vau/lw-plugins)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
+  * terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
 
 
 ## Atom, Pulsar ##
