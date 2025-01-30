@@ -544,6 +544,7 @@
 - [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 - [rails-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/y-takey/rails-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/y-takey/rails-dashboard)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 - [Optic ![GitHub Repo Stars](https://img.shields.io/github/stars/opticdev/optic) ![GitHub last commit](https://img.shields.io/github/last-commit/opticdev/optic)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
+- [Liam ERD](https://liambx.com/) - Generate Beautiful ER-Diagrams from your schema.rb. Using ruby/prism WASM with Node.js.
 
 [Back to top][link_toc]
 

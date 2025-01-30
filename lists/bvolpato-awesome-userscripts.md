@@ -64,7 +64,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### Ads
 
-* [Anti-Adblock Killer](http://reek.github.io/anti-adblock-killer/) - Bypasses anti-adblock functionality in websites.
 * [AntiAdware ![GitHub Repo Stars](https://img.shields.io/github/stars/handyuserscripts/antiadware) ![GitHub last commit](https://img.shields.io/github/last-commit/handyuserscripts/antiadware)](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
