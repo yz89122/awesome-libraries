@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -1249,7 +1249,7 @@ Kani verifies:
 
 - [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
 
-- [tsqllint ![GitHub Repo Stars](https://img.shields.io/github/stars/tsqllint/tsqllint) ![GitHub last commit](https://img.shields.io/github/last-commit/tsqllint/tsqllint)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
+- [tsqllint ![GitHub Repo Stars](https://img.shields.io/github/stars/tsqllint/tsqllint) ![GitHub last commit](https://img.shields.io/github/last-commit/tsqllint/tsqllint)](https://github.com/tsqllint/tsqllint) ��� T-SQL-specific linter.
 
 - [TSqlRules ![GitHub Repo Stars](https://img.shields.io/github/stars/ashleyglee/TSqlRules) ![GitHub last commit](https://img.shields.io/github/last-commit/ashleyglee/TSqlRules)](https://github.com/ashleyglee/TSqlRules) :warning: — TSQL Static Code Analysis Rules for SQL Server.
 
@@ -2319,7 +2319,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [languagetool](https://languagetool.org) — Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 
-- [misspell-fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/vlajos/misspell-fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/vlajos/misspell-fixer)](https://github.com/vlajos/misspell-fixer) :warning: ��� Quick tool for fixing common misspellings, typos in source code.
+- [misspell-fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/vlajos/misspell-fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/vlajos/misspell-fixer)](https://github.com/vlajos/misspell-fixer) :warning: — Quick tool for fixing common misspellings, typos in source code.
 
 - [Misspelled Words In Context](https://jwilk.net/software/mwic) — A spell-checker that groups possible misspellings and shows them in their contexts.
 
