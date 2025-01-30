@@ -1249,7 +1249,7 @@ Kani verifies:
 
 - [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
 
-- [tsqllint ![GitHub Repo Stars](https://img.shields.io/github/stars/tsqllint/tsqllint) ![GitHub last commit](https://img.shields.io/github/last-commit/tsqllint/tsqllint)](https://github.com/tsqllint/tsqllint) ��� T-SQL-specific linter.
+- [tsqllint ![GitHub Repo Stars](https://img.shields.io/github/stars/tsqllint/tsqllint) ![GitHub last commit](https://img.shields.io/github/last-commit/tsqllint/tsqllint)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
 
 - [TSqlRules ![GitHub Repo Stars](https://img.shields.io/github/stars/ashleyglee/TSqlRules) ![GitHub last commit](https://img.shields.io/github/last-commit/ashleyglee/TSqlRules)](https://github.com/ashleyglee/TSqlRules) :warning: — TSQL Static Code Analysis Rules for SQL Server.
 
