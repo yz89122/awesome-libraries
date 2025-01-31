@@ -473,7 +473,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [query-selector-shadow-dom ![GitHub Repo Stars](https://img.shields.io/github/stars/webdriverio/query-selector-shadow-dom) ![GitHub last commit](https://img.shields.io/github/last-commit/webdriverio/query-selector-shadow-dom)](https://github.com/webdriverio/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 - [shadow-automation-selenium ![GitHub Repo Stars](https://img.shields.io/github/stars/sukgu/shadow-automation-selenium) ![GitHub last commit](https://img.shields.io/github/last-commit/sukgu/shadow-automation-selenium)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
 - [Testing Shadow DOM elements in Selenium](https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/) - In Selenium 4, there is now a way to access Shadow DOM nodes.
-- [Test web components with Playwright](https://alexbilson.dev/plants/technology/test-web-components-with-playwright/) - So you��ve created a native web component or two. How do you test them in popular browsers?
+- [Test web components with Playwright](https://alexbilson.dev/plants/technology/test-web-components-with-playwright/) - So you’ve created a native web component or two. How do you test them in popular browsers?
 - [W3C Webdriver conquering automation of Shadow DOM](https://staleelement.medium.com/w3c-webdriver-conquering-automation-of-shadow-dom-chapter-2-d92c7fe9e74c) - Shadow DOM tree and its interaction with the W3C Webdriver.
 
 ### Tools
