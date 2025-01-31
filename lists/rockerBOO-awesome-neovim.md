@@ -232,6 +232,7 @@
 - [k2589/LLuMinate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/k2589/lluminate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/k2589/lluminate.nvim)](https://github.com/k2589/lluminate.nvim) - Enrich context for LLM with LSP hover added to clipboard.
 - [supermaven-inc/supermaven-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/supermaven-inc/supermaven-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/supermaven-inc/supermaven-nvim)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 - [milanglacier/yarepl.nvim#aider-extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/milanglacier/yarepl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/milanglacier/yarepl.nvim)](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
+- [Davidyz/VectorCode ![GitHub Repo Stars](https://img.shields.io/github/stars/davidyz/vectorcode) ![GitHub last commit](https://img.shields.io/github/last-commit/davidyz/vectorcode)](https://github.com/davidyz/vectorcode) - Supercharge your LLM experience with repository-level RAG.
 - [dlants/magenta.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dlants/magenta.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dlants/magenta.nvim)](https://github.com/dlants/magenta.nvim) - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
 
 <!--lint disable double-link -->
@@ -844,6 +845,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Note Taking
 
+- [lfilho/note2cal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lfilho/note2cal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lfilho/note2cal.nvim)](https://github.com/lfilho/note2cal.nvim) - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
 - [0styx0/abbreinder.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/0styx0/abbreinder.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/0styx0/abbreinder.nvim)](https://github.com/0styx0/abbreinder.nvim) - Abbreviation reminders (Neovim >= 0.5).
 - [jakewvincent/mkdnflow.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jakewvincent/mkdnflow.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jakewvincent/mkdnflow.nvim)](https://github.com/jakewvincent/mkdnflow.nvim) - Fluent markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more).
 - [jbyuki/nabla.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jbyuki/nabla.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jbyuki/nabla.nvim)](https://github.com/jbyuki/nabla.nvim) - Take your scientific notes.
@@ -1030,6 +1032,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [theHamsta/nvim-dap-virtual-text ![GitHub Repo Stars](https://img.shields.io/github/stars/theHamsta/nvim-dap-virtual-text) ![GitHub last commit](https://img.shields.io/github/last-commit/theHamsta/nvim-dap-virtual-text)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
 - [chrisgrieser/nvim-chainsaw ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-chainsaw) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-chainsaw)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 - [Willem-J-an/visidata.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Willem-J-an/visidata.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Willem-J-an/visidata.nvim)](https://github.com/Willem-J-an/visidata.nvim) - Render pandas dataframes in nvim-dap using the power of visidata.
+- [igorlfs/nvim-dap-view ![GitHub Repo Stars](https://img.shields.io/github/stars/igorlfs/nvim-dap-view) ![GitHub last commit](https://img.shields.io/github/last-commit/igorlfs/nvim-dap-view)](https://github.com/igorlfs/nvim-dap-view) - A modern, minimalistic UI for nvim-dap.
 
 ### Quickfix
 
