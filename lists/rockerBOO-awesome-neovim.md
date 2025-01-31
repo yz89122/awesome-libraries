@@ -232,6 +232,7 @@
 - [k2589/LLuMinate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/k2589/lluminate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/k2589/lluminate.nvim)](https://github.com/k2589/lluminate.nvim) - Enrich context for LLM with LSP hover added to clipboard.
 - [supermaven-inc/supermaven-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/supermaven-inc/supermaven-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/supermaven-inc/supermaven-nvim)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 - [milanglacier/yarepl.nvim#aider-extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/milanglacier/yarepl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/milanglacier/yarepl.nvim)](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
+- [dlants/magenta.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dlants/magenta.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dlants/magenta.nvim)](https://github.com/dlants/magenta.nvim) - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
 
 <!--lint disable double-link -->
 
@@ -965,6 +966,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [dzfrias/arena.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dzfrias/arena.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dzfrias/arena.nvim)](https://github.com/dzfrias/arena.nvim) - A smart (frecency-based) buffer switcher.
 - [MisanthropicBit/decipher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MisanthropicBit/decipher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MisanthropicBit/decipher.nvim)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
 - [philosofonusus/ecolog.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/philosofonusus/ecolog.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/philosofonusus/ecolog.nvim)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
+- [theKnightsOfRohan/hexer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/theKnightsOfRohan/hexer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/theKnightsOfRohan/hexer.nvim)](https://github.com/theKnightsOfRohan/hexer.nvim) - Easily convert between binary representations without a conversion table.
 
 ### CSV Files
 
