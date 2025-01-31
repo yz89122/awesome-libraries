@@ -162,7 +162,7 @@
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
-- ����🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
+- 🎨🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 
 ## UI Libraries, Components & Templates
 
@@ -212,7 +212,7 @@
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI Patterns for Tailwind CSS.
 - 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
 - 🧩 [Snippets](https://snippets.alexandru.so) - Open source collection of animation snippets made for Tailwind CSS.
-- 🧩 [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
+- ���� [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
 - 🧩 [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 🧩 [RippleUI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
 - 🧩 [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
