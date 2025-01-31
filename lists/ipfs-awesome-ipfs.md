@@ -10,6 +10,7 @@ To submit your project, read the [Content Policy ![GitHub Repo Stars](https://im
 - [Apps](#apps)
 - [Browsers](#browsers)
 - [Tools](#tools)
+- [Debugging Tools & Learning](#debugging-tools--learning)
 - [Services & Platforms](#services--platforms)
 - [Pinning Services](#pinning-services)
 - [Stale Projects](#stale-projects)
@@ -50,17 +51,12 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
 - [TeaTime ![GitHub Repo Stars](https://img.shields.io/github/stars/bjesus/teatime) ![GitHub last commit](https://img.shields.io/github/last-commit/bjesus/teatime)](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub.
 
-
 ## Browsers
 A list of web browsers with IPFS integrations
 - [Agregore ![GitHub Repo Stars](https://img.shields.io/github/stars/AgregoreWeb/agregore-browser) ![GitHub last commit](https://img.shields.io/github/last-commit/AgregoreWeb/agregore-browser)](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
 - [Brave](https://brave.com/ipfs-support/) - A privacy-focused browser with many future forward features.
 - [galacteek ![GitHub Repo Stars](https://img.shields.io/github/stars/pinnaculum/galacteek) ![GitHub last commit](https://img.shields.io/github/last-commit/pinnaculum/galacteek)](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 - [Opera](https://blogs.opera.com/tips-and-tricks/2021/02/opera-crypto-files-for-keeps-ipfs-unstoppable-domains/) - Opera browser added support for `ipfs://` in 2021
-
-## IPFS in browsers
-
- - [Identify with Helia](https://helia-identify.on.fleek.co/)
 
 
 ## Tools
@@ -107,6 +103,16 @@ A list of web browsers with IPFS integrations
 - [VIPFS ![GitHub Repo Stars](https://img.shields.io/github/stars/Ideea-inc/vipfs) ![GitHub last commit](https://img.shields.io/github/last-commit/Ideea-inc/vipfs)](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS.
 - [wbipfs ![GitHub Repo Stars](https://img.shields.io/github/stars/wabarc/wbipfs) ![GitHub last commit](https://img.shields.io/github/last-commit/wabarc/wbipfs)](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
 - [youtube2ipfs ![GitHub Repo Stars](https://img.shields.io/github/stars/dokterbob/youtube2ipfs) ![GitHub last commit](https://img.shields.io/github/last-commit/dokterbob/youtube2ipfs)](https://github.com/dokterbob/youtube2ipfs) - Download videos from YouTube (and similar video platforms) and add them to IPFS.
+
+## Debugging Tools & Learning
+
+- [IPFS Check](https://check.ipfs.network/)
+- [Helia Identify](https://helia-identify.on.fleek.co/)
+- [CID Inspector](https://cid.ipfs.tech/)
+- [File to UnixFS DAG](https://dag.ipfs.tech/)
+- [IPLD Explorer](https://explore.ipld.io)
+- [Public Gateway Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/ipfs/public-gateway-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/ipfs/public-gateway-checker)](https://github.com/ipfs/public-gateway-checker)
+- [IPNS Inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/ipfs/ipns-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/ipfs/ipns-inspector)](https://github.com/ipfs/ipns-inspector)
 
 ## Services & Platforms
 

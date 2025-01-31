@@ -286,7 +286,7 @@
 
 ### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-and-dragons-castle-ravenloft-board-game)
 
-> The master of Ravenloft is having guests for dinner – and you are invited!\
+> The master of Ravenloft is having guests for dinner �� and you are invited!\
 > Evil lurks in the towers and dungeons of Castle Ravenloft, and only heroes of exceptional bravery can survive the horrors within.\
 > Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.
 
