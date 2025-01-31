@@ -928,7 +928,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 - [Amazon Wants to 'Win at Games.' So Why Hasn't It?](https://www.wired.com/story/amazon-wants-to-win-at-games-so-why-hasnt-it/) - “Any product manager can go between any business—from groceries to film to games to Kindle. The skillset is interchangeable. They just have to learn the particular market.”
 
-- “Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are paid good money and the bad ones end up wreaking havoc where they are paid at least some money. That, also, is [Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease) in action.” ([source](https://news.ycombinator.com/item?id=20448929)) - Explains how the pool of professional managers gets distributed into the various sectors of the economy.
+- ���Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are paid good money and the bad ones end up wreaking havoc where they are paid at least some money. That, also, is [Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease) in action.” ([source](https://news.ycombinator.com/item?id=20448929)) - Explains how the pool of professional managers gets distributed into the various sectors of the economy.
 
 ### Promotion
 
@@ -1066,7 +1066,7 @@ At a company level, re-orgs are mostly strategic and your influence on them depe
 
 - [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/) - “If you know what problem you're solving and you know how to solve it, a bureaucratic organization will do. Stick with what you know. If you're writing software, that's a generative activity. You need a high-resilience org chart. Fewer boxes, more flexibility.”
 
-- [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - “Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.��� This is an attempt to extract from the ground up signals pointing to inadequate structure. My cautionary tale: this might only work up to a point depending on the company's culture.
+- [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - “Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.” This is an attempt to extract from the ground up signals pointing to inadequate structure. My cautionary tale: this might only work up to a point depending on the company's culture.
 
 - “When everything is great success, people behind that success shadow the people who could make success in the future. (…) Netflix is great example of how to do big transition right. Netflix was in renting DVDs by mail business. When the decision to move to streaming was made, Netflix CEO did not allow managers who responsible for DVD renting business into meetings where the future was planned.” ([source](https://news.ycombinator.com/item?id=21395557)).
 
