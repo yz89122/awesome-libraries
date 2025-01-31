@@ -189,7 +189,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Go
 
-* [gocrud ![GitHub Repo Stars](https://img.shields.io/github/stars/manishrjain/gocrud) ![GitHub last commit](https://img.shields.io/github/last-commit/manishrjain/gocrud)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data �� to make building REST services fast and easy.
+* [gocrud ![GitHub Repo Stars](https://img.shields.io/github/stars/manishrjain/gocrud) ![GitHub last commit](https://img.shields.io/github/last-commit/manishrjain/gocrud)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 * [go-json-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/ant0ine/go-json-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/ant0ine/go-json-rest)](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily.
 * [sleepy ![GitHub Repo Stars](https://img.shields.io/github/stars/dougblack/sleepy) ![GitHub last commit](https://img.shields.io/github/last-commit/dougblack/sleepy)](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
 * [restit ![GitHub Repo Stars](https://img.shields.io/github/stars/yookoala/restit) ![GitHub last commit](https://img.shields.io/github/last-commit/yookoala/restit)](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
