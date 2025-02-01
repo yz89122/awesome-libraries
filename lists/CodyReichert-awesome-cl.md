@@ -2093,6 +2093,10 @@ Plotting
 * [kai ![GitHub Repo Stars](https://img.shields.io/github/stars/komi1230/kai) ![GitHub last commit](https://img.shields.io/github/last-commit/komi1230/kai)](https://github.com/komi1230/kai) - A high-level plotter library for Common Lisp. A wrapper around the [Plotly](https://plotly.com/javascript/) JS library. [MIT][200].
 * [ADW-Charting](https://common-lisp.net/project/adw-charting/) - A simple chart drawing library written completely in Common Lisp. Also includes a backend to Google's chart service. BSD-like.
 
+cool but WIP:
+
+* [plotly-user ![GitHub Repo Stars](https://img.shields.io/github/stars/ajberkley/plotly-user) ![GitHub last commit](https://img.shields.io/github/last-commit/ajberkley/plotly-user)](https://github.com/ajberkley/plotly-user) -  Use plotly in your browser to explore data from a Common Lisp REPL. [BSD_3Clause][15].
+
 Plotting with text:
 
 * [cl-text-plot ![GitHub Repo Stars](https://img.shields.io/github/stars/moneylobster/cl-text-plot) ![GitHub last commit](https://img.shields.io/github/last-commit/moneylobster/cl-text-plot)](https://github.com/moneylobster/cl-text-plot/) -  Plot with text in Common Lisp. No licence specified.
