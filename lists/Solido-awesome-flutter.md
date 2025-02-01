@@ -488,7 +488,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Web
 
-- [Responsive Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/Codelessly/ResponsiveFramework) ![GitHub last commit](https://img.shields.io/github/last-commit/Codelessly/ResponsiveFramework)](https://github.com/Codelessly/ResponsiveFramework) [1262⭐] - Automatically adapt UI to different screen sizes. Responsiveness made simple by [Codelessly](https://codelessly.com)
+- [Responsive Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/Codelessly/ResponsiveFramework) ![GitHub last commit](https://img.shields.io/github/last-commit/Codelessly/ResponsiveFramework)](https://github.com/Codelessly/ResponsiveFramework) [1262���] - Automatically adapt UI to different screen sizes. Responsiveness made simple by [Codelessly](https://codelessly.com)
 
 ## Experimental
 
