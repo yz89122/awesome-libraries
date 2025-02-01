@@ -70,7 +70,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [Source code ![GitHub Repo Stars](https://img.shields.io/github/stars/danny-avila/LibreChat) ![GitHub last commit](https://img.shields.io/github/last-commit/danny-avila/LibreChat)](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code ![GitHub Repo Stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/mckaywrigley/chatbot-ui)](https://github.com/mckaywrigley/chatbot-ui).
-- [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs like OpenAI’s GPT-4 or Groq. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/janhq/jan) ![GitHub last commit](https://img.shields.io/github/last-commit/janhq/jan)](https://github.com/janhq/jan)
 
 ### Search engines
 
@@ -184,10 +183,16 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 - [SymbolicAI ![GitHub Repo Stars](https://img.shields.io/github/stars/Xpitfire/symbolicai) ![GitHub last commit](https://img.shields.io/github/last-commit/Xpitfire/symbolicai)](https://github.com/Xpitfire/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
-- [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/ollama/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/ollama/ollama)](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/vanna-ai/vanna) ![GitHub last commit](https://img.shields.io/github/last-commit/vanna-ai/vanna)](https://github.com/vanna-ai/vanna)
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
 - [agenta ![GitHub Repo Stars](https://img.shields.io/github/stars/agenta-ai/agenta) ![GitHub last commit](https://img.shields.io/github/last-commit/agenta-ai/agenta)](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
+
+### Local LLM Deployment
+- [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/ollama/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/ollama/ollama)](https://github.com/ollama/ollama) - Get up and running with large language models locally.
+- [Open WebUI ![GitHub Repo Stars](https://img.shields.io/github/stars/open-webui/open-webui) ![GitHub last commit](https://img.shields.io/github/last-commit/open-webui/open-webui)](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
+- [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/janhq/jan) ![GitHub last commit](https://img.shields.io/github/last-commit/janhq/jan)](https://github.com/janhq/jan)
+- [Msty](https://msty.app/) - A straightworward and powerful interface for local and online AI models.
+- [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
 
 ## Agents
 
