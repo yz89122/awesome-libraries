@@ -251,7 +251,7 @@ The categories below highlight the diverse roles these organizations play in bui
 - [The Information Security Forum (ISF)](https://www.securityforum.org/) - A global, independent organization dedicated to benchmarking and sharing best practices in information security.
 - [The International Organization for Standardization (ISO)](https://www.iso.org/) - An international organizational body composed of representatives which conduct closed research for creation of standards.
 - [The Information Systems Audit and Control Association (ISACA)](https://www.isaca.org/) - An international professional association focused on IT governance, which conducts research for and on behalf of the members.
-- [The International Information System Security Certification Consortium (ISC)²](https://www.isc2.org/) - An American not-for-profit organization which conducts research for consumers of their cybersecurity training and certifications.
+- [The International Information System Security Certification Consortium (ISC)��](https://www.isc2.org/) - An American not-for-profit organization which conducts research for consumers of their cybersecurity training and certifications.
 - [SANS Institute](https://www.sans.org/) - A private U.S. for-profit company which conducts research for consumers of their cybersecurity training and certifications.
 - [Trusted Computing Group (TCG)](https://trustedcomputinggroup.org/) - Develops and promotes open standards for hardware-enabled security.
 
