@@ -391,7 +391,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
 * 📝 [Notes on Differential Geometry and Lie Groups](https://www.cis.upenn.edu/~jean/gbooks/manif.html) - Jean Gallier (University of Pennsylvania)
 * 📝 [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
-* ��� [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
+* 📝 [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
 * 📝 [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)
 * 📝 [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W. Thurston
 * 📝 [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
@@ -461,7 +461,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins
 * 📝 [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
 * 📝 [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910)
-* 📝 [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (1911)
+* ���� [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (1911)
 * 📝 [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz, Jeff Zeager
 
 ### Harmonic Analysis
