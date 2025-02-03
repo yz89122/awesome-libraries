@@ -463,7 +463,16 @@ Docker images
 * [base-lisp-image ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/base-lisp-image) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/base-lisp-image)](https://github.com/40ants/base-lisp-image) - base
   Docker image for Common Lisp projects with SBCL or CCL and the latest
   ASDF, Qlot and Roswell.
+* [40ants/setup-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/setup-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/setup-lisp)](https://github.com/40ants/setup-lisp) -  GitHub Action to Setup Common Lisp tools.
+  * updates ASDF, installs Qlot, installs Roswell
+  * for multiple implementations
+  * for Ubuntu, OSX and Windows.
+  * Example use: [Trial's CI ![GitHub Repo Stars](https://img.shields.io/github/stars/Shirakumo/trial) ![GitHub last commit](https://img.shields.io/github/last-commit/Shirakumo/trial)](https://github.com/Shirakumo/trial/blob/master/.github/workflows/examples.yml)
 * [archlinux-cl ![GitHub Repo Stars](https://img.shields.io/github/stars/yitzchak/archlinux-cl) ![GitHub last commit](https://img.shields.io/github/last-commit/yitzchak/archlinux-cl)](https://github.com/yitzchak/archlinux-cl) - Docker Arch Linux image with Common Lisp implementations (7 to this day). MIT.
+
+See also:
+
+* another [GitHub CI example from cookiecutter-lisp-game ![GitHub Repo Stars](https://img.shields.io/github/stars/lockie/cookiecutter-lisp-game) ![GitHub last commit](https://img.shields.io/github/last-commit/lockie/cookiecutter-lisp-game)](https://github.com/lockie/cookiecutter-lisp-game/blob/main/%7B%7Bcookiecutter.project_slug%7D%7D/.github/workflows/package.yml) to build binaries on the three platforms.
 
 
 Foreign Function Interface, languages interop
