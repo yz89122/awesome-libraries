@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -889,13 +889,13 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) :warning: — Builds a dependency graph for a project.
 
-- [PhpDeprecationDetector ![GitHub Repo Stars](https://img.shields.io/github/stars/wapmorgan/PhpDeprecationDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpDeprecationDetector)](https://github.com/wapmorgan/PhpDeprecationDetector) — Analyzer of PHP code to search issues with deprecated functionality in newer interpreter versions.  It finds removed objects (functions, variables, constants and ini-directives),  deprecated functions functionality, and usage of forbidden names or tricks (e.g. reserved identifiers in newer versions).
+- [PhpDeprecationDetector ![GitHub Repo Stars](https://img.shields.io/github/stars/wapmorgan/PhpDeprecationDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpDeprecationDetector)](https://github.com/wapmorgan/PhpDeprecationDetector) :warning: — Analyzer of PHP code to search issues with deprecated functionality in newer interpreter versions.  It finds removed objects (functions, variables, constants and ini-directives),  deprecated functions functionality, and usage of forbidden names or tricks (e.g. reserved identifiers in newer versions).
 
 - [phpdoc-to-typehint ![GitHub Repo Stars](https://img.shields.io/github/stars/dunglas/phpdoc-to-typehint) ![GitHub last commit](https://img.shields.io/github/last-commit/dunglas/phpdoc-to-typehint)](https://github.com/dunglas/phpdoc-to-typehint) :warning: — Add scalar type hints and return types to existing PHP projects using PHPDoc annotations.
 
 - [phpDocumentor](https://www.phpdoc.org) — Analyzes PHP source code to generate documentation.
 
-- [phploc ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phploc) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phploc)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
+- [phploc ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phploc) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phploc)](https://github.com/sebastianbergmann/phploc) :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 
 - [PHPMD](https://phpmd.org) — Finds possible bugs in your code.
 
@@ -1178,7 +1178,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cargo-spellcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/drahnr/cargo-spellcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/drahnr/cargo-spellcheck)](https://github.com/drahnr/cargo-spellcheck) — Checks all your documentation for spelling and grammar mistakes  with hunspell (ready) and languagetool (preview)
 
-- [cargo-unused-features ![GitHub Repo Stars](https://img.shields.io/github/stars/TimonPost/cargo-unused-features) ![GitHub last commit](https://img.shields.io/github/last-commit/TimonPost/cargo-unused-features)](https://github.com/TimonPost/cargo-unused-features) :warning: — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
+- [cargo-unused-features ![GitHub Repo Stars](https://img.shields.io/github/stars/TimonPost/cargo-unused-features) ![GitHub last commit](https://img.shields.io/github/last-commit/TimonPost/cargo-unused-features)](https://github.com/TimonPost/cargo-unused-features) — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
 It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positive.
 
 - [clippy](https://rust-lang.github.io/rust-clippy) — A code linter to catch common mistakes and improve your Rust code.
