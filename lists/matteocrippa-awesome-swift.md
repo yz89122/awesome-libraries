@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1075 | February 03, 2025 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1077 | February 03, 2025 |
 
 In parternship with:
 
@@ -259,6 +259,7 @@ In parternship with:
 * [CocoaPods ![GitHub Repo Stars](https://img.shields.io/github/stars/CocoaPods/CocoaPods) ![GitHub last commit](https://img.shields.io/github/last-commit/CocoaPods/CocoaPods)](https://github.com/CocoaPods/CocoaPods) - The most used dependency manager.
 * [Mint ![GitHub Repo Stars](https://img.shields.io/github/stars/yonaskolb/Mint) ![GitHub last commit](https://img.shields.io/github/last-commit/yonaskolb/Mint)](https://github.com/yonaskolb/Mint) - A package manager that installs and runs Swift command line tools.
 * [swift-package-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/swiftlang/swift-package-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/swiftlang/swift-package-manager)](https://github.com/swiftlang/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
+* [Swiftly ![GitHub Repo Stars](https://img.shields.io/github/stars/swiftlang/swiftly) ![GitHub last commit](https://img.shields.io/github/last-commit/swiftlang/swiftly)](https://github.com/swiftlang/swiftly) - Swift CLI toolchain installer to install different versions of Swift.
 
 ## Patterns
 
@@ -280,6 +281,7 @@ In parternship with:
 * [Beak ![GitHub Repo Stars](https://img.shields.io/github/stars/yonaskolb/Beak) ![GitHub last commit](https://img.shields.io/github/last-commit/yonaskolb/Beak)](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
 * [BetterCodable ![GitHub Repo Stars](https://img.shields.io/github/stars/marksands/BetterCodable) ![GitHub last commit](https://img.shields.io/github/last-commit/marksands/BetterCodable)](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
 * [CodableWrappers ![GitHub Repo Stars](https://img.shields.io/github/stars/GottaGetSwifty/CodableWrappers) ![GitHub last commit](https://img.shields.io/github/last-commit/GottaGetSwifty/CodableWrappers)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+* [Forked ![GitHub Repo Stars](https://img.shields.io/github/stars/drewmccormack/Forked) ![GitHub last commit](https://img.shields.io/github/last-commit/drewmccormack/Forked)](https://github.com/drewmccormack/Forked) - Generalized approach to managing shared data in Swift applications to support Local-first apps.
 * [Fugen ![GitHub Repo Stars](https://img.shields.io/github/stars/almazrafi/Fugen) ![GitHub last commit](https://img.shields.io/github/last-commit/almazrafi/Fugen)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
 * [MemberwiseInit ![GitHub Repo Stars](https://img.shields.io/github/stars/gohanlon/swift-memberwise-init-macro) ![GitHub last commit](https://img.shields.io/github/last-commit/gohanlon/swift-memberwise-init-macro)](https://github.com/gohanlon/swift-memberwise-init-macro) - `@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.
 * [Model2App ![GitHub Repo Stars](https://img.shields.io/github/stars/Q-Mobile/Model2App) ![GitHub last commit](https://img.shields.io/github/last-commit/Q-Mobile/Model2App)](https://github.com/Q-Mobile/Model2App) - Turn your data model into a working CRUD app.
