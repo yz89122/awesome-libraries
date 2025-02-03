@@ -132,6 +132,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [IanniX ![GitHub Repo Stars](https://img.shields.io/github/stars/iannix/IanniX) ![GitHub last commit](https://img.shields.io/github/last-commit/iannix/IanniX)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
 * [Inscore](http://inscore.sourceforge.net/) - an environmnent for the design of interactive, augmented music scores.
 * [Leipzig ![GitHub Repo Stars](https://img.shields.io/github/stars/ctford/leipzig) ![GitHub last commit](https://img.shields.io/github/last-commit/ctford/leipzig)](https://github.com/ctford/leipzig) - a composition library for Overtone.
+* [Leiter ![GitHub Repo Stars](https://img.shields.io/github/stars/kad1kad/leiter) ![GitHub last commit](https://img.shields.io/github/last-commit/kad1kad/leiter)](https://github.com/kad1kad/leiter) - TypeScript-based library designed to generate musical scales.
 * [Midica ![GitHub Repo Stars](https://img.shields.io/github/stars/truj/midica) ![GitHub last commit](https://img.shields.io/github/last-commit/truj/midica)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 * [music21](http://web.mit.edu/music21/) - A Toolkit for Computational Musicology.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
