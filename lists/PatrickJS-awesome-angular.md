@@ -1287,6 +1287,7 @@ to simplify usage and allow quick customization.
 * [ngx-error-msg ![GitHub Repo Stars](https://img.shields.io/github/stars/fakeJan499/ngx-error-msg) ![GitHub last commit](https://img.shields.io/github/last-commit/fakeJan499/ngx-error-msg)](https://github.com/fakeJan499/ngx-error-msg) - The error message mapping library for Angular.
 * [ngx-form-errors ![GitHub Repo Stars](https://img.shields.io/github/stars/NationalBankBelgium/ngx-form-errors) ![GitHub last commit](https://img.shields.io/github/last-commit/NationalBankBelgium/ngx-form-errors)](https://github.com/NationalBankBelgium/ngx-form-errors) - Display form validation errors for Angular Reactive forms.
 * [ngx-iban-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/SKaDiZZ/ngx-iban-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/SKaDiZZ/ngx-iban-validator)](https://github.com/SKaDiZZ/ngx-iban-validator) - IBAN Validator for your reactive Angular forms, comes without any dependencies and can be used even outside of Angular as standalone function in any JS project. It can perform format, digit, and length IBAN validations.
+* [ngx-validators ![GitHub Repo Stars](https://img.shields.io/github/stars/marcellodotgg/ngx-validators) ![GitHub last commit](https://img.shields.io/github/last-commit/marcellodotgg/ngx-validators)](https://github.com/marcellodotgg/ngx-validators) - A library that provides additional Angular Validators, including the ones Angular provides.
 
 #### Icons
 
@@ -1418,6 +1419,7 @@ to simplify usage and allow quick customization.
 * [HERE maps API for JavaScript](https://www.here.com/docs/bundle/maps-api-for-javascript-developer-guide/page/topics/angular-practices.html) - You can integrate [HERE](https://www.here.com/) Maps with Angular to display interactive maps, geocode addresses, calculate routes, and more, all within the context of your Angular application.
 * [ngx-gaia-gis ![GitHub Repo Stars](https://img.shields.io/github/stars/Olympus-Analytics/ngx-gaia-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/Olympus-Analytics/ngx-gaia-gis)](https://github.com/Olympus-Analytics/ngx-gaia-gis) - An Angular service that simplifies map creation and interaction using the powerful [OpenLayers](https://openlayers.org/) library.
 * [ngx-google-maps-places ![GitHub Repo Stars](https://img.shields.io/github/stars/lekhmanrus/ngx-google-maps-places) ![GitHub last commit](https://img.shields.io/github/last-commit/lekhmanrus/ngx-google-maps-places)](https://github.com/lekhmanrus/ngx-google-maps-places) - Wrapper for new Google Maps Places API, making it easier to integrate Google Places functionality into Angular applications.
+* [angular-yandex-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/ddubrava/angular-yandex-maps) ![GitHub last commit](https://img.shields.io/github/last-commit/ddubrava/angular-yandex-maps)](https://github.com/ddubrava/angular-yandex-maps) - Yandex.Maps Angular components that implement the Yandex.Maps JavaScript API.
 
 #### Markdown
 
