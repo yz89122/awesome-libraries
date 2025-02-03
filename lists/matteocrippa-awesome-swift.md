@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1075 | November 10, 2024 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1075 | February 03, 2025 |
 
 In parternship with:
 
@@ -1386,7 +1386,7 @@ In parternship with:
 * [GSMessage ![GitHub Repo Stars](https://img.shields.io/github/stars/wxxsw/GSMessages) ![GitHub last commit](https://img.shields.io/github/last-commit/wxxsw/GSMessages)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 * [Kamagari ![GitHub Repo Stars](https://img.shields.io/github/stars/tasanobu-zz/Kamagari) ![GitHub last commit](https://img.shields.io/github/last-commit/tasanobu-zz/Kamagari)](https://github.com/tasanobu-zz/Kamagari) - Simple UIAlertController builder class.
 * [Loaf ![GitHub Repo Stars](https://img.shields.io/github/stars/schmidyy/Loaf) ![GitHub last commit](https://img.shields.io/github/last-commit/schmidyy/Loaf)](https://github.com/schmidyy/Loaf) - A simple framework for easy iOS Toasts.
-* [MijickPopupView ![GitHub Repo Stars](https://img.shields.io/github/stars/Mijick/PopupView) ![GitHub last commit](https://img.shields.io/github/last-commit/Mijick/PopupView)](https://github.com/Mijick/PopupView) - Present any popup in no time. Keep your code clean.
+* [MijickPopups ![GitHub Repo Stars](https://img.shields.io/github/stars/Mijick/Popups) ![GitHub last commit](https://img.shields.io/github/last-commit/Mijick/Popups)](https://github.com/Mijick/Popups) - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple.
 * [NotificationBanner ![GitHub Repo Stars](https://img.shields.io/github/stars/Daltron/NotificationBanner) ![GitHub last commit](https://img.shields.io/github/last-commit/Daltron/NotificationBanner)](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
 * [PMAlertController ![GitHub Repo Stars](https://img.shields.io/github/stars/pmusolino/PMAlertController) ![GitHub last commit](https://img.shields.io/github/last-commit/pmusolino/PMAlertController)](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
 * [PopupDialog ![GitHub Repo Stars](https://img.shields.io/github/stars/orderella/PopupDialog) ![GitHub last commit](https://img.shields.io/github/last-commit/orderella/PopupDialog)](https://github.com/orderella/PopupDialog) - A simple, customizable popup dialog. Replaces UIAlertController alert style.
