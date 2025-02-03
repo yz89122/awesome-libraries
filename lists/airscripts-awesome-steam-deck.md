@@ -103,6 +103,7 @@ Choose what you find more suitable for you:
 - [EmulationStation DE](https://gitlab.com/es-de/emulationstation-de) - Frontend for browsing and launching games from various collections.
 - [PCSX2 ![GitHub Repo Stars](https://img.shields.io/github/stars/PCSX2/pcsx2) ![GitHub last commit](https://img.shields.io/github/last-commit/PCSX2/pcsx2)](https://github.com/PCSX2/pcsx2) - PS2 Emulator.
 - [RPCS3 ![GitHub Repo Stars](https://img.shields.io/github/stars/RPCS3/rpcs3) ![GitHub last commit](https://img.shields.io/github/last-commit/RPCS3/rpcs3)](https://github.com/RPCS3/rpcs3) - PS3 Emulator.
+- [shadPS4 ![GitHub Repo Stars](https://img.shields.io/github/stars/shadps4-emu/shadPS4) ![GitHub last commit](https://img.shields.io/github/last-commit/shadps4-emu/shadPS4)](https://github.com/shadps4-emu/shadPS4) - PS4 Emulator.
 - [PPSSPP ![GitHub Repo Stars](https://img.shields.io/github/stars/hrydgard/ppsspp) ![GitHub last commit](https://img.shields.io/github/last-commit/hrydgard/ppsspp)](https://github.com/hrydgard/ppsspp) - PSP Emulator.
 - [Vita3K ![GitHub Repo Stars](https://img.shields.io/github/stars/Vita3K/Vita3K) ![GitHub last commit](https://img.shields.io/github/last-commit/Vita3K/Vita3K)](https://github.com/Vita3K/Vita3K) - PS Vita Emulator.
 - [bsnes ![GitHub Repo Stars](https://img.shields.io/github/stars/bsnes-emu/bsnes) ![GitHub last commit](https://img.shields.io/github/last-commit/bsnes-emu/bsnes)](https://github.com/bsnes-emu/bsnes) - SNES Emulator.
