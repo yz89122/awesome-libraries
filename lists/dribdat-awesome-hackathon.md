@@ -133,13 +133,14 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 - [Dribdat wiki ![GitHub Repo Stars](https://img.shields.io/github/stars/dribdat/docs) ![GitHub last commit](https://img.shields.io/github/last-commit/dribdat/docs)](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
 - [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
-- [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
 - [Hackathon Guidelines - Opendata.ch](https://opendata.ch/guidelines) - Principles for hackathons from the Swiss open data community.
 - [Hackathon Hackers Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/HackathonHackers/Hackathon-Resources) ![GitHub last commit](https://img.shields.io/github/last-commit/HackathonHackers/Hackathon-Resources)](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups ![GitHub Repo Stars](https://img.shields.io/github/stars/HackathonHackers/groups) ![GitHub last commit](https://img.shields.io/github/last-commit/HackathonHackers/groups)](https://github.com/HackathonHackers/groups).
 - [Hackathon Leitfaden ![GitHub Repo Stars](https://img.shields.io/github/stars/okfde/hackathon-leitfaden) ![GitHub last commit](https://img.shields.io/github/last-commit/okfde/hackathon-leitfaden)](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
 - [Hackathon Toolbox](https://hackathontoolbox.com/) - Suggests technical tools by stage of hackathon development.
 - [Hackathon.guide ![GitHub Repo Stars](https://img.shields.io/github/stars/JoshData/hackathon.guide) ![GitHub last commit](https://img.shields.io/github/last-commit/JoshData/hackathon.guide)](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Hackday Manifesto ![GitHub Repo Stars](https://img.shields.io/github/stars/hackdaymanifesto/site) ![GitHub last commit](https://img.shields.io/github/last-commit/hackdaymanifesto/site)](https://github.com/hackdaymanifesto/site) - How to make your event a success, and avoid common pitfalls.
+- [Hack4TheFuture Guidebook](https://hack4thefuture.eu/Guidebook_Hack4theFuture_02.pdf) - from an EU project, a book on running international events.
+- [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
 - [Hack Tools](https://hack-tools.github.io/) - Theodoros Ploumis has great advice for attendees, evaluators and organizers.
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
