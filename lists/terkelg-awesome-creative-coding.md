@@ -465,7 +465,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Shepherding random grids](https://inconvergent.net/2016/shepherding-random-grids/) - Tiny guide to shepherding random grids.
 - [Shepherding random growth](https://inconvergent.net/2016/shepherding-random-growth/) - Tiny guide to shepherding random growth.
 
-## Machine learning �� Computer Vision • Ai
+## Machine learning • Computer Vision • Ai
 
 - [ml4a](https://ml4a.net/) - Machine learning for artists.
 - [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.

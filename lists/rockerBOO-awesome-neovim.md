@@ -444,6 +444,7 @@
 - [polirritmico/telescope-lazy-plugins.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/polirritmico/telescope-lazy-plugins.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/polirritmico/telescope-lazy-plugins.nvim)](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.
 - [MagicDuck/grug-far.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MagicDuck/grug-far.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MagicDuck/grug-far.nvim)](https://github.com/MagicDuck/grug-far.nvim) - Buffer-based live search and replace with full power of `rg` flags. Grug like!
 - [chrisgrieser/nvim-rip-substitute ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-rip-substitute) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-rip-substitute)](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`.
+- [wsdjeg/flygrep.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/flygrep.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/flygrep.nvim)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
 
 <!--lint disable double-link -->
 
