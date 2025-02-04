@@ -75,11 +75,11 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 
 ## Farm Management Systems and Record Keeping
 
-- [AgroSense](https://bitbucket.org/corizon/agrosense) - Free and open source farm management suite built with Java.
 - [farmOS ![GitHub Repo Stars](https://img.shields.io/github/stars/farmOS/farmOS) ![GitHub last commit](https://img.shields.io/github/last-commit/farmOS/farmOS)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
 - [Ekylibre ![GitHub Repo Stars](https://img.shields.io/github/stars/ekylibre/ekylibre) ![GitHub last commit](https://img.shields.io/github/last-commit/ekylibre/ekylibre)](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
 - [Soil Mate ![GitHub Repo Stars](https://img.shields.io/github/stars/Open-Source-Agriculture/soil_mate) ![GitHub last commit](https://img.shields.io/github/last-commit/Open-Source-Agriculture/soil_mate)](https://github.com/Open-Source-Agriculture/soil_mate) - Helper app designed to assist the collection of soil data.
 - [Tania ![GitHub Repo Stars](https://img.shields.io/github/stars/Tanibox/tania-core) ![GitHub last commit](https://img.shields.io/github/last-commit/Tanibox/tania-core)](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
+- [LiteFarm ![GitHub Repo Stars](https://img.shields.io/github/stars/LiteFarmOrg/LiteFarm) ![GitHub last commit](https://img.shields.io/github/last-commit/LiteFarmOrg/LiteFarm)](https://github.com/LiteFarmOrg/LiteFarm) - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
 
 ## Geospatial and GIS
 
