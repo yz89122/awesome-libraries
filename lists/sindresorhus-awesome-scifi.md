@@ -364,7 +364,7 @@ This book is not just filled to the brim with interesting and novel ideas about 
 <details>
   <summary>Description</summary>
 
-  > In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
+  > In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion �� four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
 </details>
 
 ##### [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.4]
@@ -3095,7 +3095,7 @@ A worthy successor to The Next Generation, well developed characters, great Xind
   > A century before Captain Kirk's five-year mission, Jonathan Archer captains Earth ship Enterprise NX-01 during the early years of Starfleet leading up to the formation of the Federation and the Earth-Romulan War.
 </details>
 
-#### [Star Trek: The Next Generation](https://www.imdb.com/title/tt0092455/) (1987��1994) [8.7]
+#### [Star Trek: The Next Generation](https://www.imdb.com/title/tt0092455/) (1987–1994) [8.7]
 
 Categories: `action` `adventure` `mystery`
 
