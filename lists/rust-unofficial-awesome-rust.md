@@ -630,6 +630,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 
 ### Vulnerability Research
 
+* [0xdea/haruspex ![GitHub Repo Stars](https://img.shields.io/github/stars/0xdea/haruspex) ![GitHub last commit](https://img.shields.io/github/last-commit/0xdea/haruspex)](https://github.com/0xdea/haruspex) [[haruspex](https://crates.io/crates/haruspex)] - Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler [![build ![GitHub Repo Stars](https://img.shields.io/github/stars/0xdea/haruspex) ![GitHub last commit](https://img.shields.io/github/last-commit/0xdea/haruspex)](https://github.com/0xdea/haruspex/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/haruspex/actions/workflows/build.yml)
 * [0xdea/rhabdomancer ![GitHub Repo Stars](https://img.shields.io/github/stars/0xdea/rhabdomancer) ![GitHub last commit](https://img.shields.io/github/last-commit/0xdea/rhabdomancer)](https://github.com/0xdea/rhabdomancer) [[rhabdomancer](https://crates.io/crates/rhabdomancer)] - Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file [![build ![GitHub Repo Stars](https://img.shields.io/github/stars/0xdea/rhabdomancer) ![GitHub last commit](https://img.shields.io/github/last-commit/0xdea/rhabdomancer)](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml)
 
 ### Web
