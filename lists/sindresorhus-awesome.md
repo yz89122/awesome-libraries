@@ -581,7 +581,6 @@
 
 ## Media
 
-- [Creative Commons Media ![GitHub Repo Stars](https://img.shields.io/github/stars/shime/creative-commons-media) ![GitHub last commit](https://img.shields.io/github/last-commit/shime/creative-commons-media)](https://github.com/shime/creative-commons-media#readme)
 - [Fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/brabadu/awesome-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/brabadu/awesome-fonts)](https://github.com/brabadu/awesome-fonts#readme)
 - [Codeface ![GitHub Repo Stars](https://img.shields.io/github/stars/chrissimpkins/codeface) ![GitHub last commit](https://img.shields.io/github/last-commit/chrissimpkins/codeface)](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
 - [Stock Resources ![GitHub Repo Stars](https://img.shields.io/github/stars/neutraltone/awesome-stock-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/neutraltone/awesome-stock-resources)](https://github.com/neutraltone/awesome-stock-resources#readme)
@@ -677,7 +676,6 @@
 - [Open Companies ![GitHub Repo Stars](https://img.shields.io/github/stars/opencompany/awesome-open-company) ![GitHub last commit](https://img.shields.io/github/last-commit/opencompany/awesome-open-company)](https://github.com/opencompany/awesome-open-company#readme)
 - [Places to Post Your Startup ![GitHub Repo Stars](https://img.shields.io/github/stars/mmccaff/PlacesToPostYourStartup) ![GitHub last commit](https://img.shields.io/github/last-commit/mmccaff/PlacesToPostYourStartup)](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
 - [OKR Methodology ![GitHub Repo Stars](https://img.shields.io/github/stars/domenicosolazzo/awesome-okr) ![GitHub last commit](https://img.shields.io/github/last-commit/domenicosolazzo/awesome-okr)](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
-- [Leading and Managing ![GitHub Repo Stars](https://img.shields.io/github/stars/LappleApple/awesome-leading-and-managing) ![GitHub last commit](https://img.shields.io/github/last-commit/LappleApple/awesome-leading-and-managing)](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
 - [Indie ![GitHub Repo Stars](https://img.shields.io/github/stars/mezod/awesome-indie) ![GitHub last commit](https://img.shields.io/github/last-commit/mezod/awesome-indie)](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
 - [Tools of the Trade ![GitHub Repo Stars](https://img.shields.io/github/stars/cjbarber/ToolsOfTheTrade) ![GitHub last commit](https://img.shields.io/github/last-commit/cjbarber/ToolsOfTheTrade)](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 - [Clean Tech ![GitHub Repo Stars](https://img.shields.io/github/stars/nglgzz/awesome-clean-tech) ![GitHub last commit](https://img.shields.io/github/last-commit/nglgzz/awesome-clean-tech)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
@@ -900,4 +898,3 @@
 - [Awesome CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/umutphp/awesome-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/umutphp/awesome-cli)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
-- [Open Source Heroes - Awesome](https://opensource-heroes.com/awesome) - View Awesome lists with extra info like stars, last update, and license.
