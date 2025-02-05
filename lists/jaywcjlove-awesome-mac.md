@@ -18,7 +18,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 
 **Explanation**
 
-[English](README.md) | [中文](README-zh.md)
+[中文](README-zh.md) | [Awesome Command Line Apps](./command-line-apps.md)
 
 ![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
