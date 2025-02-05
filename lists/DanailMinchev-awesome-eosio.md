@@ -14,8 +14,6 @@
 ## Contents
 
 - [Official](#official)
-- [EdenOS](#edenos)
-- [Mandel](#mandel)
 - [Learn](#learn)
   - [Websites](#websites)
   - [Books](#books)
@@ -50,30 +48,11 @@
 
 Official resources.
 
-- [EOS Community](https://eoscommunity.org/)
-- [EOS Network Foundation](https://www.eosn.foundation/)
-- [GitHub](https://github.com/EOSIO)
-- [Technical White Paper ![GitHub Repo Stars](https://img.shields.io/github/stars/EOSIO/Documentation) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/Documentation)](https://github.com/EOSIO/Documentation)
-- [Bug Bounty Program](https://hackerone.com/eosio)
-- [Blog](https://medium.com/eosio)
+- [EOS Network Foundation](https://eosnetwork.com/)
+- [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/AntelopeIO/spring) ![GitHub last commit](https://img.shields.io/github/last-commit/AntelopeIO/spring)](https://github.com/AntelopeIO/spring)
+- [Blue Paper](https://eosnetwork.com/blog/category/eos-blue-papers/n)
 - [StackExchange for Q&A](https://eosio.stackexchange.com/)
-- [YouTube](https://www.youtube.com/c/eosio)
-- [Block.one](https://block.one/)
-
-## EdenOS
-
-EdenOS resources.
-
-- [Website](http://edeneos.org/) - Official Website.
-- [eoscommunity](https://github.com/eoscommunity) - Official GitHub.
-- [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
-
-## Mandel
-
-Mandel resources.
-
-- [eosnetworkfoundation/mandel ![GitHub Repo Stars](https://img.shields.io/github/stars/eosnetworkfoundation/mandel) ![GitHub last commit](https://img.shields.io/github/last-commit/eosnetworkfoundation/mandel)](https://github.com/eosnetworkfoundation/mandel) - Official GitHub.
-- [gofractally](https://github.com/gofractally) - Eden team repository with new Mandel resources and tools.
+- [YouTube](https://www.youtube.com/@EOSNetworkFoundation)
 
 ## Learn
 
