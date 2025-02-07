@@ -397,11 +397,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
 language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/aunit) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/aunit)](https://github.com/AdaCore/aunit) - Ada unit testing framework.
+- [bbt ![GitHub Repo Stars](https://img.shields.io/github/stars/LionelDraghi/bbt) ![GitHub last commit](https://img.shields.io/github/last-commit/LionelDraghi/bbt)](https://github.com/LionelDraghi/bbt) - Simple tool to black box check the behavior of an executable through the command line.
 - [gnatbdd ![GitHub Repo Stars](https://img.shields.io/github/stars/briot/gnatbdd) ![GitHub last commit](https://img.shields.io/github/last-commit/briot/gnatbdd)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 - [scripted-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/scripted_testing) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/scripted_testing)](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
 
 ### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada.
+- [elogs ![GitHub Repo Stars](https://img.shields.io/github/stars/kevlar700/elogs) ![GitHub last commit](https://img.shields.io/github/last-commit/kevlar700/elogs)](https://github.com/kevlar700/elogs) - Logging framework for embedded systems absent of runtime errors.
 
 ### Machine Learning
 - [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - Fuzzy machine learning framework.
@@ -532,6 +534,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aforth ![GitHub Repo Stars](https://img.shields.io/github/stars/samueltardieu/aforth) ![GitHub last commit](https://img.shields.io/github/last-commit/samueltardieu/aforth)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 - [parser-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/flyx/ParserTools) ![GitHub last commit](https://img.shields.io/github/last-commit/flyx/ParserTools)](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 - [xia ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/xia) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/xia)](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
+- [ada-lisp-embedded ![GitHub Repo Stars](https://img.shields.io/github/stars/BrentSeidel/Ada-Lisp-Embedded) ![GitHub last commit](https://img.shields.io/github/last-commit/BrentSeidel/Ada-Lisp-Embedded)](https://github.com/BrentSeidel/Ada-Lisp-Embedded) - Embeddable Lisp interpreter.
 
 ### Format Readers, Writers and Checkers
 - [ini-files ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/ini-files) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/ini-files)](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -581,7 +584,6 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 [template-parser]: https://github.com/AdaCore/templates-parser
 
 ### Graphics and Multimedia
-- [orka ![GitHub Repo Stars](https://img.shields.io/github/stars/onox/orka) ![GitHub last commit](https://img.shields.io/github/last-commit/onox/orka)](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 - [opengl-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/flyx/OpenGLAda) ![GitHub last commit](https://img.shields.io/github/last-commit/flyx/OpenGLAda)](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
 - [adagl ![GitHub Repo Stars](https://img.shields.io/github/stars/godunko/adagl) ![GitHub last commit](https://img.shields.io/github/last-commit/godunko/adagl)](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
 - [sdlada ![GitHub Repo Stars](https://img.shields.io/github/stars/Lucretia/sdlada) ![GitHub last commit](https://img.shields.io/github/last-commit/Lucretia/sdlada)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
