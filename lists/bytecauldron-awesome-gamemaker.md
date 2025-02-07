@@ -238,6 +238,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Lighting System 2D ![GitHub Repo Stars](https://img.shields.io/github/stars/borup3/Lighting-System-2D) ![GitHub last commit](https://img.shields.io/github/last-commit/borup3/Lighting-System-2D)](https://github.com/borup3/Lighting-System-2D) - Requires GameMaker 2.2+ according to the repo.
 - [GameMaker Lighting Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/bilouw/Gamemaker-Lighting-Engine) ![GitHub last commit](https://img.shields.io/github/last-commit/bilouw/Gamemaker-Lighting-Engine)](https://github.com/bilouw/Gamemaker-Lighting-Engine) - Tile-based Lighting Engine that projects shadows.
 - [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+- [Crystal](https://foxyofjungle.itch.io/crystal-2d-lighting-engine) - Complete and efficient 2D lighting solution. 💸
 
 ## Shaders
 
