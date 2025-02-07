@@ -292,7 +292,7 @@ Development state:
 * [MagicBox](https://autohotkey.com/boards/viewtopic.php?p=100953#p100953) - by [Alguimist](https://autohotkey.com/boards/memberlist.php?mode=viewprofile&u=64723) - MagicBox is a development tool to assist in the creation of message boxes. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?p=100953#p100953).
 
 ### Script Recorders and Writers
-* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=143). GitHub [link ![GitHub Repo Stars](https://img.shields.io/github/stars/Pulover/PuloversMacroCreator) ![GitHub last commit](https://img.shields.io/github/last-commit/Pulover/PuloversMacroCreator)](https://github.com/Pulover/PuloversMacroCreator).
+* [Pulover���s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=143). GitHub [link ![GitHub Repo Stars](https://img.shields.io/github/stars/Pulover/PuloversMacroCreator) ![GitHub last commit](https://img.shields.io/github/last-commit/Pulover/PuloversMacroCreator)](https://github.com/Pulover/PuloversMacroCreator).
 
 ### Web Syntax Highlighters
 * [highlight.js](https://highlightjs.org/) - A syntax highlighter written in JavaScript supporting more than 130 languages (including AutoHotkey).
