@@ -300,7 +300,7 @@ described in [RFC 8032]
 
 ## HTML/XML Parsing
  * [docx_cr_converter ![GitHub Repo Stars](https://img.shields.io/github/stars/aristotelesbr/docx_cr_converter) ![GitHub last commit](https://img.shields.io/github/last-commit/aristotelesbr/docx_cr_converter)](https://github.com/aristotelesbr/docx_cr_converter) - parse DOCX Word
- * [myhtml ![GitHub Repo Stars](https://img.shields.io/github/stars/kostya/myhtml) ![GitHub last commit](https://img.shields.io/github/last-commit/kostya/myhtml)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
+ * [lexbor ![GitHub Repo Stars](https://img.shields.io/github/stars/kostya/lexbor) ![GitHub last commit](https://img.shields.io/github/last-commit/kostya/lexbor)](https://github.com/kostya/lexbor) - Fast HTML5 Parser that includes CSS selectors
 
 ## HTTP
  * [Cable ![GitHub Repo Stars](https://img.shields.io/github/stars/cable-cr/cable) ![GitHub last commit](https://img.shields.io/github/last-commit/cable-cr/cable)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
