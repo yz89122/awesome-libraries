@@ -465,6 +465,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Data visualization
 *Data visualization Libraries*
 
+* [gplot++ ![GitHub Repo Stars](https://img.shields.io/github/stars/ziotom78/gplotpp) ![GitHub last commit](https://img.shields.io/github/last-commit/ziotom78/gplotpp)](https://github.com/ziotom78/gplotpp) - Cross-platform header-only C++ plotting library that interfaces with Gnuplot. [MIT]
 * [matplotplusplus ![GitHub Repo Stars](https://img.shields.io/github/stars/alandefreitas/matplotplusplus) ![GitHub last commit](https://img.shields.io/github/last-commit/alandefreitas/matplotplusplus)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 
 ## Debug

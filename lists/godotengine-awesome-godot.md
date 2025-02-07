@@ -440,6 +440,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 *Other stuff.*
 
+- [asdf-godot ![GitHub Repo Stars](https://img.shields.io/github/stars/mkungla/asdf-godot) ![GitHub last commit](https://img.shields.io/github/last-commit/mkungla/asdf-godot)](https://github.com/mkungla/asdf-godot) - Godot plugin for the [asdf version manager](https://asdf-vm.com).
 - [codetranslator ![GitHub Repo Stars](https://img.shields.io/github/stars/HaSa1002/codetranslator) ![GitHub last commit](https://img.shields.io/github/last-commit/HaSa1002/codetranslator)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 - [gd2cs.py ![GitHub Repo Stars](https://img.shields.io/github/stars/kiriri/gd2cs.py) ![GitHub last commit](https://img.shields.io/github/last-commit/kiriri/gd2cs.py)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
