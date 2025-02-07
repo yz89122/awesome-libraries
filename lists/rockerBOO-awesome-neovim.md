@@ -321,6 +321,7 @@
 - [Kicamon/markdown-table-mode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kicamon/markdown-table-mode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kicamon/markdown-table-mode.nvim)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 - [SCJangra/table-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SCJangra/table-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SCJangra/table-nvim)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
 - [nvim-telescope/telescope-bibtex.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-telescope/telescope-bibtex.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-telescope/telescope-bibtex.nvim)](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
+- [Thiago4532/mdmath.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Thiago4532/mdmath.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Thiago4532/mdmath.nvim)](https://github.com/Thiago4532/mdmath.nvim) - A markdown equation previewer, using Kitty Graphics Protocol.
 
 ### PHP
 
@@ -684,6 +685,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [bartekjaszczak/luma-nvim](https://gitlab.com/bartekjaszczak/luma-nvim) - A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
 - [bartekjaszczak/finale-nvim](https://gitlab.com/bartekjaszczak/finale-nvim) - A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
 - [m15a/nvim-srcerite ![GitHub Repo Stars](https://img.shields.io/github/stars/m15a/nvim-srcerite) ![GitHub last commit](https://img.shields.io/github/last-commit/m15a/nvim-srcerite)](https://github.com/m15a/nvim-srcerite) - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
+- [neko-night/nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neko-night/nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neko-night/nvim)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
 
 ### Lua Colorscheme
 
