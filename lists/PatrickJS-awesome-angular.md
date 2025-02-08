@@ -81,6 +81,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Forms](#forms)
     * [General](#general)
     * [Form Controls](#form-controls)
+    * [JSON Forms](#json-forms)
     * [Validation](#validation)
   * [Icons](#icons)
   * [Images](#images)
@@ -1217,10 +1218,7 @@ become an Angular expert.
 * [angular-imask ![GitHub Repo Stars](https://img.shields.io/github/stars/uNmAnNeR/imaskjs) ![GitHub last commit](https://img.shields.io/github/last-commit/uNmAnNeR/imaskjs)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
 * [ngx-mask ![GitHub Repo Stars](https://img.shields.io/github/stars/JsDaddy/ngx-mask) ![GitHub last commit](https://img.shields.io/github/last-commit/JsDaddy/ngx-mask)](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
 * [maskito ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/maskito) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/maskito)](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
-* [ngx-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-formly/ngx-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-formly/ngx-formly)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
-* [formio ![GitHub Repo Stars](https://img.shields.io/github/stars/formio/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/formio/angular)](https://github.com/formio/angular) - JSON powered forms for Angular.
 * [ng-dynamic-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/udos86/ng-dynamic-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/udos86/ng-dynamic-forms)](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
-* [fluent-form ![GitHub Repo Stars](https://img.shields.io/github/stars/fluent-form/fluent-form) ![GitHub last commit](https://img.shields.io/github/last-commit/fluent-form/fluent-form)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
 * [reactive-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/reactive-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/reactive-forms)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 * [ng-signal-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/timdeschryver/ng-signal-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/timdeschryver/ng-signal-forms)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
 * [ngx-sub-form ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudnc/ngx-sub-form) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudnc/ngx-sub-form)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
@@ -1275,6 +1273,15 @@ become an Angular expert.
 * [ngx-super-select-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/HesamKashefi/ngx-super-select-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/HesamKashefi/ngx-super-select-tree)](https://github.com/HesamKashefi/ngx-super-select-tree) - A single/multiple choice drop down tree for Angular!
 * [ngx-easy-emoji-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/PsySanchez/ngx-easy-emoji-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/PsySanchez/ngx-easy-emoji-picker)](https://github.com/PsySanchez/ngx-easy-emoji-picker) - Angular library that seamlessly integrates emoji selection into your application.
 * [ngx-mat-table-multi-sort ![GitHub Repo Stars](https://img.shields.io/github/stars/pgerke/ngx-mat-table-multi-sort) ![GitHub last commit](https://img.shields.io/github/last-commit/pgerke/ngx-mat-table-multi-sort)](https://github.com/pgerke/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
+
+##### JSON Forms
+
+* [ngx-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-formly/ngx-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-formly/ngx-formly)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
+* [formio ![GitHub Repo Stars](https://img.shields.io/github/stars/formio/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/formio/angular)](https://github.com/formio/angular) - JSON powered forms for Angular.
+* [fluent-form ![GitHub Repo Stars](https://img.shields.io/github/stars/fluent-form/fluent-form) ![GitHub last commit](https://img.shields.io/github/last-commit/fluent-form/fluent-form)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
+* [jsonforms ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipsesource/jsonforms) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipsesource/jsonforms)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+* [jsonforms-angular-seed ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipsesource/jsonforms-angular-seed) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipsesource/jsonforms-angular-seed)](https://github.com/eclipsesource/jsonforms-angular-seed) - Angular-based JSON Forms seed app.
+* [ng-formworks ![GitHub Repo Stars](https://img.shields.io/github/stars/zahmo/ng-formworks) ![GitHub last commit](https://img.shields.io/github/last-commit/zahmo/ng-formworks)](https://github.com/zahmo/ng-formworks) - An Angular [JSON Schema](https://json-schema.org/) Form builder, similar to, and mostly API compatible with, [Angular Schema Form](http://schemaform.io/examples/bootstrap-example.html), [React JSON Schema Form](https://rjsf-team.github.io/react-jsonschema-form/), and [JSON Form](https://ulion.github.io/jsonform/playground/).
 
 ##### Validation
 
@@ -1462,7 +1469,6 @@ to simplify usage and allow quick customization.
 * [angular components ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/components) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/components)](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 * [lithium-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/lVlyke/lithium-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/lVlyke/lithium-angular)](https://github.com/lVlyke/lithium-angular) - Reactive components made easy! Lithium provides utilities that enable seamless reactive state and event interactions for Angular components.
 * [rxweb ![GitHub Repo Stars](https://img.shields.io/github/stars/rxweb/rxweb) ![GitHub last commit](https://img.shields.io/github/last-commit/rxweb/rxweb)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
-* [jsonforms ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipsesource/jsonforms) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipsesource/jsonforms)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 * [ngspot ![GitHub Repo Stars](https://img.shields.io/github/stars/DmitryEfimenko/ngspot) ![GitHub last commit](https://img.shields.io/github/last-commit/DmitryEfimenko/ngspot)](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
 * [ngx-grpc ![GitHub Repo Stars](https://img.shields.io/github/stars/smnbbrv/ngx-grpc) ![GitHub last commit](https://img.shields.io/github/last-commit/smnbbrv/ngx-grpc)](https://github.com/smnbbrv/ngx-grpc) - Angular gRPC framework.
 * [ts-cacheable ![GitHub Repo Stars](https://img.shields.io/github/stars/angelnikolov/ts-cacheable) ![GitHub last commit](https://img.shields.io/github/last-commit/angelnikolov/ts-cacheable)](https://github.com/angelnikolov/ts-cacheable) - A popular platform-agnostic caching library.
