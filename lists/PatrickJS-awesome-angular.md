@@ -1237,6 +1237,7 @@ become an Angular expert.
 * [@luistabotelho/angular-signal-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/luistabotelho/angular-signal-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/luistabotelho/angular-signal-forms)](https://github.com/luistabotelho/angular-signal-forms) - Simple Angular library to implement forms with signals.
 * [ngx-form-object ![GitHub Repo Stars](https://img.shields.io/github/stars/infinum/ngx-form-object) ![GitHub last commit](https://img.shields.io/github/last-commit/infinum/ngx-form-object)](https://github.com/infinum/ngx-form-object) - ngx-form-object is an abstraction on top of Angular's reactive forms. It generates a form from a given model and automatically handles creation of nested forms (HasOne and HasMany model relationships).
 * [reactive-form-extensions](https://gitlab.com/Riuen/reactive-form-extensions) - This project improves Angular's ReactiveForms with useful features like trimming inputs, showing error messages, and changing CSS classes based on validation rules, all without extra dependencies and with less code.
+* [pro-form ![GitHub Repo Stars](https://img.shields.io/github/stars/ProAngular/pro-form) ![GitHub last commit](https://img.shields.io/github/last-commit/ProAngular/pro-form)](https://github.com/ProAngular/pro-form) - A predefined set of reactive and reusable form input components based on Angular Material.
 
 ##### Form Controls
 
@@ -1555,6 +1556,7 @@ to simplify usage and allow quick customization.
 * [@omnedia/ngx-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-scrollbar)](https://github.com/omnedia/ngx-scrollbar) - This component offers a custom scrollbar with smooth scrolling functionality and allows for full control over its appearance through styling.
 * [ngx-perfect-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/Harvest-Dev/ngx-perfect-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/Harvest-Dev/ngx-perfect-scrollbar)](https://github.com/Harvest-Dev/ngx-perfect-scrollbar) - This fork of [ngx-perfect-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-perfect-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-perfect-scrollbar)](https://github.com/zefoy/ngx-perfect-scrollbar) is an Angular wrapper library for [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/).
 * [ngx-virtual-dnd-list ![GitHub Repo Stars](https://img.shields.io/github/stars/mfuu/ngx-virtual-dnd-list) ![GitHub last commit](https://img.shields.io/github/last-commit/mfuu/ngx-virtual-dnd-list)](https://github.com/mfuu/ngx-virtual-dnd-list) - A virtual scrolling list component that can be sorted by dragging.
+* [ngx-scroll-top ![GitHub Repo Stars](https://img.shields.io/github/stars/ProAngular/ngx-scroll-top) ![GitHub last commit](https://img.shields.io/github/last-commit/ProAngular/ngx-scroll-top)](https://github.com/ProAngular/ngx-scroll-top) - Configurable, lightweight back to top button for Angular projects.
 
 #### State Management
 
@@ -1760,6 +1762,7 @@ for the creation of web applications developed with Angular.
 * [ngx-treeview2 ![GitHub Repo Stars](https://img.shields.io/github/stars/TapBeep/ngx-treeview2) ![GitHub last commit](https://img.shields.io/github/last-commit/TapBeep/ngx-treeview2)](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
 * [ngx-imageviewer ![GitHub Repo Stars](https://img.shields.io/github/stars/viobui/ngx-imageviewer) ![GitHub last commit](https://img.shields.io/github/last-commit/viobui/ngx-imageviewer)](https://github.com/viobui/ngx-imageviewer) - Generate a image/pdf viewer using canvas.
 * [ngx-json-schema-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/jy95/ngx-json-schema-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/jy95/ngx-json-schema-viewer)](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
+* [ngx-gist ![GitHub Repo Stars](https://img.shields.io/github/stars/ProAngular/ngx-gist) ![GitHub last commit](https://img.shields.io/github/last-commit/ProAngular/ngx-gist)](https://github.com/ProAngular/ngx-gist) - An Angular Material and highlightjs styled display box for GitHub gist and local code snippets.
 
 #### Misc Components
 
