@@ -706,7 +706,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Haxe-Blockly ![GitHub Repo Stars](https://img.shields.io/github/stars/nickmain/haxe-blockly) ![GitHub last commit](https://img.shields.io/github/last-commit/nickmain/haxe-blockly)](https://github.com/nickmain/haxe-blockly) - Haxe wrapper for [Blockly](https://developers.google.com/blockly)
 
 ### Lua
-- ��� [Awesome Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/LewisJEllis/awesome-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/LewisJEllis/awesome-lua)](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
+- 📚 [Awesome Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/LewisJEllis/awesome-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/LewisJEllis/awesome-lua)](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
 - Lua: Game Framework
     - 🎉 [3DreamEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/3dreamengine/3DreamEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/3dreamengine/3DreamEngine)](https://github.com/3dreamengine/3DreamEngine) - 3D engine on top of _LÖVE_.
     - 🎉 [Gideros ![GitHub Repo Stars](https://img.shields.io/github/stars/gideros/gideros) ![GitHub last commit](https://img.shields.io/github/last-commit/gideros/gideros)](https://github.com/gideros/gideros) - 2D/3D cross-platform games with Lua. [[Website](http://giderosmobile.com/)]
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
