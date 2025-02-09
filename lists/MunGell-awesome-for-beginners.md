@@ -19,7 +19,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 |--|--|
 |Misc|[.NET](#net)|
 |A|[Angular](#angular), [Ansible](#ansible)|
-|C|[C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure)|
+|C|[C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure), [CSS](#css)|
 |D|[Dart](#dart)|
 |E|[Elixir](#elixir), [Elm](#elm)|
 |G|[Go](#go)|
@@ -74,6 +74,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Clojure
 
 - [Metabase ![GitHub Repo Stars](https://img.shields.io/github/stars/metabase/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/metabase/metabase)](https://github.com/metabase/metabase) _(label: good first issue)_ <br> Open source business intelligence and analytics platform
+
+## CSS
+
+- [ImprovedTube ![GitHub Repo Stars](https://img.shields.io/github/stars/code-charity/youtube) ![GitHub last commit](https://img.shields.io/github/last-commit/code-charity/youtube)](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 
 ## Dart
 
@@ -162,6 +166,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Hoppscotch ![GitHub Repo Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch) ![GitHub last commit](https://img.shields.io/github/last-commit/hoppscotch/hoppscotch)](https://github.com/hoppscotch/hoppscotch) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
 - [HueHive ![GitHub Repo Stars](https://img.shields.io/github/stars/croma-app/croma) ![GitHub last commit](https://img.shields.io/github/last-commit/croma-app/croma)](https://github.com/croma-app/croma) _(label: good first issue)_ <br> A open source react native app iOS and android for color palette management
 - [iD ![GitHub Repo Stars](https://img.shields.io/github/stars/openstreetmap/iD) ![GitHub last commit](https://img.shields.io/github/last-commit/openstreetmap/iD)](https://github.com/openstreetmap/iD) _(label: good first issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
+- [ImprovedTube ![GitHub Repo Stars](https://img.shields.io/github/stars/code-charity/youtube) ![GitHub last commit](https://img.shields.io/github/last-commit/code-charity/youtube)](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 - [Jasmine ![GitHub Repo Stars](https://img.shields.io/github/stars/jasmine/jasmine) ![GitHub last commit](https://img.shields.io/github/last-commit/jasmine/jasmine)](https://github.com/jasmine/jasmine) _(label: good first issue)_ <br> Simple JavaScript testing framework for browsers and node.js.
 - [Jest ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/jest) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/jest)](https://github.com/facebook/jest) _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
 - [json-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/json-editor/json-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/json-editor/json-editor)](https://github.com/json-editor/json-editor) _(label: good first issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
@@ -233,7 +238,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## MLOps
 
-- [SuperDuperDB ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperDuperDB/superduperdb) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperDuperDB/superduperdb)](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> ����SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
+- [SuperDuperDB ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperDuperDB/superduperdb) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperDuperDB/superduperdb)](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 
 ## Perl
 
