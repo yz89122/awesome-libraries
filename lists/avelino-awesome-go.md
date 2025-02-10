@@ -2371,6 +2371,7 @@ _Libraries and tools for binary serialization._
 
 _Libraries and tools for stream processing and reactive programming._
 
+- [go-etl ![GitHub Repo Stars](https://img.shields.io/github/stars/Breeze0806/go-etl) ![GitHub last commit](https://img.shields.io/github/last-commit/Breeze0806/go-etl)](https://github.com/Breeze0806/go-etl) - A lightweight toolkit for data source extraction, transformation, and loading (ETL).
 - [go-streams ![GitHub Repo Stars](https://img.shields.io/github/stars/reugn/go-streams) ![GitHub last commit](https://img.shields.io/github/last-commit/reugn/go-streams)](https://github.com/reugn/go-streams) - Go stream processing library.
 - [goio ![GitHub Repo Stars](https://img.shields.io/github/stars/primetalk/goio) ![GitHub last commit](https://img.shields.io/github/last-commit/primetalk/goio)](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
 - [machine ![GitHub Repo Stars](https://img.shields.io/github/stars/whitaker-io/machine) ![GitHub last commit](https://img.shields.io/github/last-commit/whitaker-io/machine)](https://github.com/whitaker-io/machine) - Go library for writing and generating stream workers with built in metrics and traceability.
