@@ -332,6 +332,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [hatchet ![GitHub Repo Stars](https://img.shields.io/github/stars/hatchet-dev/hatchet-v1-archived) ![GitHub last commit](https://img.shields.io/github/last-commit/hatchet-dev/hatchet-v1-archived)](https://github.com/hatchet-dev/hatchet-v1-archived) - An all-in-one Terraform management tool. :skull:
 - [hcl2json ![GitHub Repo Stars](https://img.shields.io/github/stars/tmccombs/hcl2json) ![GitHub last commit](https://img.shields.io/github/last-commit/tmccombs/hcl2json)](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json.
 - [hcldump ![GitHub Repo Stars](https://img.shields.io/github/stars/magodo/hcldump) ![GitHub last commit](https://img.shields.io/github/last-commit/magodo/hcldump)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
+- [hcledit ![GitHub Repo Stars](https://img.shields.io/github/stars/mercari/hcledit) ![GitHub last commit](https://img.shields.io/github/last-commit/mercari/hcledit)](https://github.com/mercari/hcledit) - Go package to edit HCL configuration
 - [hcledit ![GitHub Repo Stars](https://img.shields.io/github/stars/minamijoyo/hcledit) ![GitHub last commit](https://img.shields.io/github/last-commit/minamijoyo/hcledit)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 - [hclgrep ![GitHub Repo Stars](https://img.shields.io/github/stars/magodo/hclgrep) ![GitHub last commit](https://img.shields.io/github/last-commit/magodo/hclgrep)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
 - [iam-policy-json-to-terraform ![GitHub Repo Stars](https://img.shields.io/github/stars/flosell/iam-policy-json-to-terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/flosell/iam-policy-json-to-terraform)](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
@@ -454,6 +455,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [travelgrunt ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanilves/travelgrunt) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanilves/travelgrunt)](https://github.com/ivanilves/travelgrunt) - cd inside [mono]repos without fatigue!
 - [validIaC ![GitHub Repo Stars](https://img.shields.io/github/stars/gofireflyio/validiac) ![GitHub last commit](https://img.shields.io/github/last-commit/gofireflyio/validiac)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 - [xterrafile ![GitHub Repo Stars](https://img.shields.io/github/stars/devopsmakers/xterrafile) ![GitHub last commit](https://img.shields.io/github/last-commit/devopsmakers/xterrafile)](https://github.com/devopsmakers/xterrafile) Systematically manage external modules from the module registry, git, or local directories for use in Terraform (written in Go). :skull:
+- [yj ![GitHub Repo Stars](https://img.shields.io/github/stars/sclevine/yj) ![GitHub last commit](https://img.shields.io/github/last-commit/sclevine/yj)](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [yor ![GitHub Repo Stars](https://img.shields.io/github/stars/bridgecrewio/yor) ![GitHub last commit](https://img.shields.io/github/last-commit/bridgecrewio/yor)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ### CI
@@ -467,11 +469,13 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Libraries
 
+- [hcl-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/martinohmann/hcl-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/martinohmann/hcl-rs)](https://github.com/martinohmann/hcl-rs) - HCL parsing and encoding libraries for rust with serde support
 - [hcl4j ![GitHub Repo Stars](https://img.shields.io/github/stars/bertramdev/hcl4j) ![GitHub last commit](https://img.shields.io/github/last-commit/bertramdev/hcl4j)](https://github.com/bertramdev/hcl4j) - HCL parser in Java
 - [nu_plugin_hcl ![GitHub Repo Stars](https://img.shields.io/github/stars/Yethal/nu_plugin_hcl) ![GitHub last commit](https://img.shields.io/github/last-commit/Yethal/nu_plugin_hcl)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell ![GitHub Repo Stars](https://img.shields.io/github/stars/nushell/nushell) ![GitHub last commit](https://img.shields.io/github/last-commit/nushell/nushell)](https://github.com/nushell/nushell)
 - [pyhcl ![GitHub Repo Stars](https://img.shields.io/github/stars/virtuald/pyhcl) ![GitHub last commit](https://img.shields.io/github/last-commit/virtuald/pyhcl)](https://github.com/virtuald/pyhcl) - HCL parser in Python
 - [python-hcl2 ![GitHub Repo Stars](https://img.shields.io/github/stars/amplify-education/python-hcl2) ![GitHub last commit](https://img.shields.io/github/last-commit/amplify-education/python-hcl2)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 - [rhcl ![GitHub Repo Stars](https://img.shields.io/github/stars/winebarrel/rhcl) ![GitHub last commit](https://img.shields.io/github/last-commit/winebarrel/rhcl)](https://github.com/winebarrel/rhcl) - Pure Ruby HCL parser :skull:
+- [tree-sitter-hcl ![GitHub Repo Stars](https://img.shields.io/github/stars/tree-sitter-grammars/tree-sitter-hcl) ![GitHub last commit](https://img.shields.io/github/last-commit/tree-sitter-grammars/tree-sitter-hcl)](https://github.com/tree-sitter-grammars/tree-sitter-hcl) - HCL grammar for tree-sitter
 
 ## Boilerplates
 
@@ -535,8 +539,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Intellij](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
 - [Terraform-ls ![GitHub Repo Stars](https://img.shields.io/github/stars/hashicorp/terraform-ls) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/terraform-ls)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 - [Terraform-lsp ![GitHub Repo Stars](https://img.shields.io/github/stars/juliosueiras/terraform-lsp) ![GitHub last commit](https://img.shields.io/github/last-commit/juliosueiras/terraform-lsp)](https://github.com/juliosueiras/terraform-lsp) (Language Server Protocol for Terraform)
-- [Vim-Terraform ![GitHub Repo Stars](https://img.shields.io/github/stars/hashivim/vim-terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/hashivim/vim-terraform)](https://github.com/hashivim/vim-terraform)
+- [vim-hcl ![GitHub Repo Stars](https://img.shields.io/github/stars/jvirtanen/vim-hcl) ![GitHub last commit](https://img.shields.io/github/last-commit/jvirtanen/vim-hcl)](https://github.com/jvirtanen/vim-hcl) - Syntax highlighting for HCL
 - [Vim-Terraform-Completion ![GitHub Repo Stars](https://img.shields.io/github/stars/juliosueiras/vim-terraform-completion) ![GitHub last commit](https://img.shields.io/github/last-commit/juliosueiras/vim-terraform-completion)](https://github.com/juliosueiras/vim-terraform-completion)
+- [Vim-Terraform ![GitHub Repo Stars](https://img.shields.io/github/stars/hashivim/vim-terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/hashivim/vim-terraform)](https://github.com/hashivim/vim-terraform)
 - [VS Code](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 
 ## License
