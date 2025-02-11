@@ -321,7 +321,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ##### Certification
 
-* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
+* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. **[Free Weekend Feb 22-23](https://certificates.dev/angular/free-weekend)** UNLIMITED ACCESS TO ANGULAR MID-LEVEL CERTIFICATION TRAINING. Includes all theory, coding challenges, quizzes, and even a mock exam!
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 * [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.
@@ -1693,6 +1693,7 @@ to simplify usage and allow quick customization.
 * [ngx-nighthawk ![GitHub Repo Stars](https://img.shields.io/github/stars/evenuxjs/ngx-nighthawk) ![GitHub last commit](https://img.shields.io/github/last-commit/evenuxjs/ngx-nighthawk)](https://github.com/evenuxjs/ngx-nighthawk) - It offers a comprehensive set of components that are highly configurable and user-friendly. This package integrates the best open-source tools, such as Bootstrip — a streamlined version of Bootstrap that focuses solely on Grid and Utility features.
 * [tableau-ui-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/serionist/tableau-ui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/serionist/tableau-ui-angular)](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
 * [ng-verse ![GitHub Repo Stars](https://img.shields.io/github/stars/lukonik/ng-verse) ![GitHub last commit](https://img.shields.io/github/last-commit/lukonik/ng-verse)](https://github.com/lukonik/ng-verse) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://www.ng-verse.dev/) for more.
+* [primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/primitives)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 
 ##### Material Based
 
