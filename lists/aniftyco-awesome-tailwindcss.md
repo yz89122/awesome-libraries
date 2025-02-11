@@ -115,7 +115,7 @@
 - 🎨🌍🔧 [Palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs Tailwind CSS configuration files.
 - 🎨🌍🔧 [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Color explorer for Tailwind CSS.
-- 🎨🌍�� [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
+- 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
 - 🎨🌍🔧 [Gradient Designer](https://gradient-designer.csspost.com/) - Generate gradients for Tailwind 2.0+.
 - 🎨🌍🔧 [Grayscale Design](https://grayscale.design/) - A Luminance-based color palette generator.
 - 🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of pre-configured Tailwind CSS gradients with directional options.
