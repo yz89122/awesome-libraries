@@ -32,7 +32,6 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | [BitcartCC](https://bitcartcc.com) | No fees | Yes | Yes | No | 1 GB RAM, 10 GB Storage, Docker |
 | [LnMe ![GitHub Repo Stars](https://img.shields.io/github/stars/bumi/lnme) ![GitHub last commit](https://img.shields.io/github/last-commit/bumi/lnme)](https://github.com/bumi/lnme) | No fees | Yes | Yes | No | LND node |
 | [SatSale ![GitHub Repo Stars](https://img.shields.io/github/stars/SatSale/SatSale) ![GitHub last commit](https://img.shields.io/github/last-commit/SatSale/SatSale)](https://github.com/SatSale/SatSale) | No fees | Yes | Yes | Weakhands: [swap to USDT on Liquid ![GitHub Repo Stars](https://img.shields.io/github/stars/SatSale/SatSale) ![GitHub last commit](https://img.shields.io/github/last-commit/SatSale/SatSale)](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101), no-KYC | Python. Bitcoin node, Lightning node & WooCommerce optional. |
-| [CypherpunkPay](https://cypherpunkpay.org/) | No fees | No | Yes | No | Linux (1GB RAM) |
 | [Keagate ![GitHub Repo Stars](https://img.shields.io/github/stars/dilan-dio4/Keagate) ![GitHub last commit](https://img.shields.io/github/last-commit/dilan-dio4/Keagate)](https://github.com/dilan-dio4/Keagate) | No fees | No | Yes | No | 1 GB RAM, Unix |
 | [LNURL Daemon ![GitHub Repo Stars](https://img.shields.io/github/stars/yanascz/lnurld) ![GitHub last commit](https://img.shields.io/github/last-commit/yanascz/lnurld)](https://github.com/yanascz/lnurld) | No fees | Yes | Yes | No | LND node |
 
@@ -45,10 +44,10 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
 | [Blockonomics](https://www.blockonomics.co/merchants) | 1% | No | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | No |
-| [Bittery.io](https://bittery.io/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | No |
 | [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
 | [Bitrequest](https://bitrequest.io/) | No fees | Yes | Yes | No | No |
 | [Zaprite](https://zaprite.com/) | $25 per month | Yes | Yes | No | No |
+| [Paymento](https://paymento.io/) | 0.5% | No | Yes | No | No |
 
 ### Custodial
 
@@ -56,16 +55,14 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
-| [Confirmo](https://confirmo.net/) | 0.8% | Yes | No | Yes | Information about business / website. May require certain documents. |
-| [CoinGate](https://coingate.com/accept-bitcoin) | 1% (merchant) + some [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee) (customer) | Yes | No | Yes | Requires [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq), officially translated in english. |
+| [Confirmo](https://confirmo.net/) | 1.3% (0.8% invoicing + 0.5% payouts) | Yes | No | Yes | Information about business / website. May require certain documents. |
+| [CoinGate](https://coingate.com/accept) | 1% (merchant) + some [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee) (customer) | Yes | No | Yes | Requires [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq), officially translated in english. |
 | [CoinPayments](https://www.coinpayments.net/) | 0.5% | Yes | No | No | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
-| [GloBee](https://globee.com/) | 1% ($10 min. invoice) | Yes | No | Via [Luno](https://www.luno.com) and [Uphold](https://uphold.com/) | Information about business / website. May require certain documents. |
 | [OpenNode](https://www.opennode.co/) | 1% | Yes | No | Yes | Requires [KYC/KYB documents](https://help.opennode.com/en/articles/3654899-kyc-and-kyb-requirements) |
-| [Strike](https://strike.acinq.co/) | 1% | Only | No | No | For companies, the name of a company and a physical address. |
+| [Strike](https://strike.me/business/) | 1% | Only | No | No | Requires [basic business info, documents, identity verifications of owners and operators](https://strike.me/faq/how-do-i-sign-up-for-a-strike-business-account/). |
 | [Coinremitter](https://coinremitter.com/) | 0.23% + 0.0001 | No | No | No | No |
 | [Utrust](https://utrust.com/) | 1% | No | No | Yes | Require certain documents. |
 | [NOWPayments](https://nowpayments.io/) | ≤0.5% | No | No | No | KYC/AML procedure applied to certain clients, wallet addresses and select assets. |
-| [COINQVEST](https://www.coinqvest.com/) | 0.5-1%, [Free to try](https://www.coinqvest.com/en/pricing) | No | No | Yes (USD, EUR, ARS, BRL, NGN) | Requires KYC verification. |
 | [ElenPAY](https://elenpay.tech) | ≤1% | Yes | Yes | No (Soon) | Low KYC |
 | [Speed](https://tryspeed.com/) | 1% | Yes | No | No | No |
 
