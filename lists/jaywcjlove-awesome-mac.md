@@ -542,6 +542,8 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - Professional drawing software.
 * [Vectornator: Design Software](https://www.vectornator.io/) - The Most Intuitive and Precise Illustration Software in the Galaxy. [![App Store][app-store Icon]](https://apps.apple.com/us/app/vectornator-design-software/id1219074514)
 * [Vectr](https://vectr.com/) - Free graphics editor used to create vector graphics easily and intuitively. ![Freeware][Freeware Icon]
+* [Nugget ![GitHub Repo Stars](https://img.shields.io/github/stars/cartesiancs/nugget-app) ![GitHub last commit](https://img.shields.io/github/last-commit/cartesiancs/nugget-app)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
+
 
 ### Prototyping and Mind-Mapping Tools
 
