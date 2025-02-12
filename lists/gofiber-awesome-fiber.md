@@ -13,8 +13,10 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 <br>
 
 ## Contents
+
 <!--lint disable awesome-toc-->
 <!--lint disable awesome-git-repo-age-->
+
 - [⚙️ Middlewares](#%EF%B8%8F-middlewares)
   - [🧬 Core](#-core)
   - [🔗 External](#-external)
@@ -28,14 +30,17 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 - [🤖 Benchmarks](#-benchmarks)
 
 ## ⚙️ Middlewares
+
 Where to discover Fiber middlewares.
 
 ### 🧬 Core
+
 List of middlewares that are included within the Fiber framework.
+
 - [Adaptor ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber/tree/master/middleware/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
 - [BasicAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber/tree/master/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
 - [Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses.
-- [Compress ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
+- [Compress ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber/tree/master/middleware/compress) - Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
 - [CORS ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber/tree/master/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
 - [CSRF ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - Protect from CSRF exploits.
 - [Earlydata ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber/tree/master/middleware/earlydata) - Early data support for Fiber.
@@ -62,13 +67,16 @@ List of middlewares that are included within the Fiber framework.
 - [Timeout ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
 
 ### 🔗 External
+
 List of externally hosted middleware modules and maintained by the [Fiber team ![GitHub Repo Stars](https://img.shields.io/github/stars/orgs/gofiber) ![GitHub last commit](https://img.shields.io/github/last-commit/orgs/gofiber)](https://github.com/orgs/gofiber/people).
+
 - [storage ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/storage) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/storage)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
 - [template ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/template) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/template)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
 
-
 ### ‍💻 Contrib
+
 List of third party middlewares and maintained by the Fiber team and community.
+
 - [casbin ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/contrib)](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
 - [fiberi18n ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/contrib)](https://github.com/gofiber/contrib/tree/main/fiberi18n) - Middleware for i18n support in Fiber.
 - [fibernewrelic ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/contrib)](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
@@ -82,7 +90,9 @@ List of third party middlewares and maintained by the Fiber team and community.
 - [websocket ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/contrib)](https://github.com/gofiber/contrib/tree/main/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
 
 ### 🌱 Third Party
+
 List of middlewares that are created by the Fiber community.
+
 - [shareed2k/fiber_tracing ![GitHub Repo Stars](https://img.shields.io/github/stars/shareed2k/fiber_tracing) ![GitHub last commit](https://img.shields.io/github/last-commit/shareed2k/fiber_tracing)](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
 - [shareed2k/fiber_limiter ![GitHub Repo Stars](https://img.shields.io/github/stars/shareed2k/fiber_limiter) ![GitHub last commit](https://img.shields.io/github/last-commit/shareed2k/fiber_limiter)](https://github.com/shareed2k/fiber_limiter) - Limiter using redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
 - [ansrivas/fiberprometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/ansrivas/fiberprometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/ansrivas/fiberprometheus)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
@@ -100,46 +110,54 @@ List of middlewares that are created by the Fiber community.
 - [mikhail-bigun/fiberlogrus ![GitHub Repo Stars](https://img.shields.io/github/stars/mikhail-bigun/fiberlogrus) ![GitHub last commit](https://img.shields.io/github/last-commit/mikhail-bigun/fiberlogrus)](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
 - [Idan-Fishman/fiber-bind ![GitHub Repo Stars](https://img.shields.io/github/stars/Idan-Fishman/fiber-bind) ![GitHub last commit](https://img.shields.io/github/last-commit/Idan-Fishman/fiber-bind)](https://github.com/Idan-Fishman/fiber-bind) - Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files.
 - [rodrigoodhin/fiper](https://gitlab.com/rodrigoodhin/fiper) - FiPer is a library that provides Fiber with Role Based Access Control (RBAC) using JWT and with database persistence using two ORM libraries are supported: Gorm and Bun.
-- [zeiss/fiber-goth ![GitHub Repo Stars](https://img.shields.io/github/stars/ZEISS/fiber-goth) ![GitHub last commit](https://img.shields.io/github/last-commit/ZEISS/fiber-goth)](https://github.com/ZEISS/fiber-goth) -  Simple middleware to integrate authentication to your Fiber applications.
+- [zeiss/fiber-goth ![GitHub Repo Stars](https://img.shields.io/github/stars/ZEISS/fiber-goth) ![GitHub last commit](https://img.shields.io/github/last-commit/ZEISS/fiber-goth)](https://github.com/ZEISS/fiber-goth) - Simple middleware to integrate authentication to your Fiber applications.
 - [zeiss/fiber-authz ![GitHub Repo Stars](https://img.shields.io/github/stars/ZEISS/fiber-authz) ![GitHub last commit](https://img.shields.io/github/last-commit/ZEISS/fiber-authz)](https://github.com/ZEISS/fiber-authz) - A middleware to secure routes in Fiber with a defined RBAC model.
 - [zeiss/fiber-htmx ![GitHub Repo Stars](https://img.shields.io/github/stars/ZEISS/fiber-htmx) ![GitHub last commit](https://img.shields.io/github/last-commit/ZEISS/fiber-htmx)](https://github.com/ZEISS/fiber-htmx) - A middleware for using HTMX in Fiber.
 - [jsorb84/ssefiber ![GitHub Repo Stars](https://img.shields.io/github/stars/jsorb84/ssefiber) ![GitHub last commit](https://img.shields.io/github/last-commit/jsorb84/ssefiber)](https://github.com/jsorb84/ssefiber) - A basic SSE Implementation for Fiber.
 - [streamerd/fibergun ![GitHub Repo Stars](https://img.shields.io/github/stars/streamerd/fibergun) ![GitHub last commit](https://img.shields.io/github/last-commit/streamerd/fibergun)](https://github.com/streamerd/fibergun) - A GunDB middleware for Fiber. Enables easy integration of GunDB, a decentralized database.
 
 ## 🚧 Boilerplates
+
 Premade boilerplates for Fiber.
+
 - [gofiber/boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/boilerplate)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
 - [fiber-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasvvugt/fiber-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasvvugt/fiber-boilerplate)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
 - [sujit-baniya/fiber-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/sujit-baniya/fiber-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/sujit-baniya/fiber-boilerplate)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
 - [goravel/fiber ![GitHub Repo Stars](https://img.shields.io/github/stars/goravel/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/goravel/fiber)](https://github.com/goravel/fiber) - Laravel similar boilerplate with support for Fiber.
 - [create-go-app/fiber-go-template ![GitHub Repo Stars](https://img.shields.io/github/stars/create-go-app/fiber-go-template) ![GitHub last commit](https://img.shields.io/github/last-commit/create-go-app/fiber-go-template)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
-- [efectn/fiber-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/efectn/fiber-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/efectn/fiber-boilerplate)](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber. 
+- [efectn/fiber-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/efectn/fiber-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/efectn/fiber-boilerplate)](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber.
 - [embedmode/fiberseed ![GitHub Repo Stars](https://img.shields.io/github/stars/embedmode/fiberseed) ![GitHub last commit](https://img.shields.io/github/last-commit/embedmode/fiberseed)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
 - [GalvinGao/gofiber-template ![GitHub Repo Stars](https://img.shields.io/github/stars/GalvinGao/gofiber-template) ![GitHub last commit](https://img.shields.io/github/last-commit/GalvinGao/gofiber-template)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
 - [mikhail-bigun/go-app-template ![GitHub Repo Stars](https://img.shields.io/github/stars/mikhail-bigun/go-app-template) ![GitHub last commit](https://img.shields.io/github/last-commit/mikhail-bigun/go-app-template)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
 - [amrebada/go-modules ![GitHub Repo Stars](https://img.shields.io/github/stars/amrebada/go-modules) ![GitHub last commit](https://img.shields.io/github/last-commit/amrebada/go-modules)](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
-- [ingeniousambivert/fiber-bootstrapped ![GitHub Repo Stars](https://img.shields.io/github/stars/ingeniousambivert/fiber-bootstrapped) ![GitHub last commit](https://img.shields.io/github/last-commit/ingeniousambivert/fiber-bootstrapped)](https://github.com/ingeniousambivert/fiber-bootstrapped) - A toolkit for Go projects embracing a service-centric architecture, inspired by the principles of FeathersJS. 
+- [ingeniousambivert/fiber-bootstrapped ![GitHub Repo Stars](https://img.shields.io/github/stars/ingeniousambivert/fiber-bootstrapped) ![GitHub last commit](https://img.shields.io/github/last-commit/ingeniousambivert/fiber-bootstrapped)](https://github.com/ingeniousambivert/fiber-bootstrapped) - A toolkit for Go projects embracing a service-centric architecture, inspired by the principles of FeathersJS.
 - [sebajax/go-vertical-slice-architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/sebajax/go-vertical-slice-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/sebajax/go-vertical-slice-architecture)](https://github.com/sebajax/go-vertical-slice-architecture) - Vertical Slice Architecture code archetype using Fiber and Uber dig. A maintainable, and scalable code organization.
 - [go-rat/fiber-skeleton ![GitHub Repo Stars](https://img.shields.io/github/stars/go-rat/fiber-skeleton) ![GitHub last commit](https://img.shields.io/github/last-commit/go-rat/fiber-skeleton)](https://github.com/go-rat/fiber-skeleton) - Fiber skeleton to powers web projects, support wire-based dependency injection.
 
 ## 📁 Recipes
+
 Recipes for Fiber.
+
 - [gofiber/recipes ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/recipes) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/recipes)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
 - [kiyonlin/fiblar-demo ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyonlin/fiblar-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyonlin/fiblar-demo)](https://github.com/kiyonlin/fiblar-demo) - Fiber v1 + angular demo.
 - [koddr/tutorial-go-fiber-rest-api ![GitHub Repo Stars](https://img.shields.io/github/stars/koddr/tutorial-go-fiber-rest-api) ![GitHub last commit](https://img.shields.io/github/last-commit/koddr/tutorial-go-fiber-rest-api)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
 - [firebase007/go-rest-api-with-fiber ![GitHub Repo Stars](https://img.shields.io/github/stars/firebase007/go-rest-api-with-fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/firebase007/go-rest-api-with-fiber)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
 - [chawk/go_fiber_quickstart ![GitHub Repo Stars](https://img.shields.io/github/stars/chawk/go_fiber_quickstart) ![GitHub last commit](https://img.shields.io/github/last-commit/chawk/go_fiber_quickstart)](https://github.com/chawk/go_fiber_quickstart) - Fiber quick start example project.
 - [EricLau1/go-fiber-auth-api ![GitHub Repo Stars](https://img.shields.io/github/stars/EricLau1/go-fiber-auth-api) ![GitHub last commit](https://img.shields.io/github/last-commit/EricLau1/go-fiber-auth-api)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
-- [alpody/golang-fiber-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/alpody/golang-fiber-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/alpody/golang-fiber-realworld-example-app)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger. 
+- [alpody/golang-fiber-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/alpody/golang-fiber-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/alpody/golang-fiber-realworld-example-app)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
+- [paundraP/golang-starter-template ![GitHub Repo Stars](https://img.shields.io/github/stars/paundraP/Go-Starter-Template) ![GitHub last commit](https://img.shields.io/github/last-commit/paundraP/Go-Starter-Template)](https://github.com/paundraP/Go-Starter-Template) - Golang REST API with authentication, authorization, and integrated payment gateway support.
 
 ## 🛠️ Tools
+
 Several tools to make Fiber usage easier.
+
 - [go-dawn/dawn ![GitHub Repo Stars](https://img.shields.io/github/stars/go-dawn/dawn) ![GitHub last commit](https://img.shields.io/github/last-commit/go-dawn/dawn)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
 - [tompston/gomakeme ![GitHub Repo Stars](https://img.shields.io/github/stars/tompston/gomakeme) ![GitHub last commit](https://img.shields.io/github/last-commit/tompston/gomakeme)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 - [ryanbekhen/feserve ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanbekhen/feserve) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanbekhen/feserve)](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or docker image to serve frontend and load balancer applications.
 - [deepmap/oapi-codegen ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmap/oapi-codegen) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmap/oapi-codegen)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 
 ## 📖 Articles
+
 Articles about Fiber written by the community.
 
 - [Working with middlewares and boilerplates](https://dev.to/koddr/go-fiber-by-examples-working-with-middlewares-and-boilerplates-3p0m)
@@ -165,19 +183,19 @@ Articles about Fiber written by the community.
 - [Build a fullstack app with Go Fiber, Docker, and Postgres](https://dev.to/divrhino/build-a-fullstack-app-with-go-fiber-docker-and-postgres-1jg6)
 - [Create a CRUD app with Go Fiber, docker, and Postgres](https://dev.to/divrhino/create-a-crud-app-with-go-fiber-docker-and-postgres-47e3)
 
-
 ## 📺 Videos
+
 Video tutorials created by the community about Fiber.
 
 - [Is Fiber the best Go web framework? Better than Gin?](https://youtu.be/10miByMOGfY)
 
-
 ## 🤖 Benchmarks
+
 Several benchmarks to compare Fiber with other frameworks.
+
 - [TechEmpower](https://www.techempower.com/benchmarks/#section=data-r20&hw=ph&test=json) - Project provides performance measures across a wide field of web application frameworks.
 - [web-frameworks-benchmark](https://web-frameworks-benchmark.netlify.app/result) - Project aims to measure the differences between the various programming language frameworks.
 - [go-web-framework-benchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/smallnest/go-web-framework-benchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/smallnest/go-web-framework-benchmark)](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
-
 
 ### 👍 Contributing
 
