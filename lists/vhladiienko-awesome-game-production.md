@@ -166,7 +166,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 - [Game Developer](https://www.gamedeveloper.com/rss.xml) - RSS feed of the gamedeveloper.com (ex. gamasutra.com) - both news and articles, all about game development (including production).
 - [Naavik](https://naavik.co/feed) - A very high-quality business-focused blog to stay up-to-date on the industry. Check out their "Deep Dives" series for case studies on the failures and successes of pupular titles and studios.
 
-## ��� Websites and other resources
+## 🌐 Websites and other resources
 
 - [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) - A Google Sheet with salarie statistics, put together by Evva Karr <sup><a name="eva-karr" href="#eva-karr-fn">*</a></sup>
 - [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - Not sure how accurate this data is, as I'm not from USA.
