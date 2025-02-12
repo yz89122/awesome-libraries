@@ -53,7 +53,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. #opensource
 - [Mistral](https://mistral.ai/en/models) - Cutting-edge open-weight LLMs by Mistral AI. #opensource
 - [Grok](https://grok.x.ai/) - An LLM by xAI with [open source ![GitHub Repo Stars](https://img.shields.io/github/stars/xai-org/grok-1) ![GitHub last commit](https://img.shields.io/github/last-commit/xai-org/grok-1)](https://github.com/xai-org/grok-1) and open weights. #opensource
-- [Google AI Studio](https://aistudio.google.com/) - A web-based tool to prototype with Gemini and experimental models.
 - [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/QwenLM/Qwen) ![GitHub last commit](https://img.shields.io/github/last-commit/QwenLM/Qwen)](https://github.com/QwenLM/Qwen)
 
 ### Chatbots
@@ -197,6 +196,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
 - [agenta ![GitHub Repo Stars](https://img.shields.io/github/stars/agenta-ai/agenta) ![GitHub last commit](https://img.shields.io/github/last-commit/agenta-ai/agenta)](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
 - [Together AI](https://www.together.ai/) - Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
+
+### Playgrounds
+- [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
+- [Google AI Studio](https://aistudio.google.com/) - A web-based tool to prototype with Gemini and experimental models.
+- [GitHub Models ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/models) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/models)](https://github.com/marketplace/models) - Find and experiment with AI models to develop a generative AI application.
 
 ### Local LLM Deployment
 - [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/ollama/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/ollama/ollama)](https://github.com/ollama/ollama) - Get up and running with large language models locally.
