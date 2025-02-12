@@ -512,6 +512,7 @@ become an Angular expert.
 * [lbx-jwt ![GitHub Repo Stars](https://img.shields.io/github/stars/Service-Soft/lbx-jwt) ![GitHub last commit](https://img.shields.io/github/last-commit/Service-Soft/lbx-jwt)](https://github.com/Service-Soft/lbx-jwt) - Provides JWT authentication for loopback applications. Includes storing roles inside tokens and handling refreshing. Built-in reuse detection.
 * [corbado](https://www.corbado.com/#signup-init) - [Integrate](https://docs.corbado.com/corbado-complete/frontend-integration/angular) Corbado with Angular to use passkeys for authentication.
 * [kinde-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/luukhaijes/kinde-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/luukhaijes/kinde-angular)](https://github.com/luukhaijes/kinde-angular) - Angular wrapper around the [Kinde](https://kinde.com/) Typescript [SDK](https://docs.kinde.com/developer-tools/sdks/backend/typescript-sdk/).
+* [Logto](https://logto.io/) - An open-source Auth0 alternative for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML open standards for authentication and authorization. This [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites) can help you use Logto with Angular.
 
 #### Builders
 
@@ -857,6 +858,7 @@ become an Angular expert.
 * [@rainerhahnekamp/angular-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/rainerhahnekamp/angular-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/rainerhahnekamp/angular-starter)](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
 * [BoilerPlate-FirebaseAngular ![GitHub Repo Stars](https://img.shields.io/github/stars/Yewo-Devs/BoilerPlate-FirebaseAngular) ![GitHub last commit](https://img.shields.io/github/last-commit/Yewo-Devs/BoilerPlate-FirebaseAngular)](https://github.com/Yewo-Devs/BoilerPlate-FirebaseAngular) - Starting point for apps built using .NET, Angular, and Firebase.
 * [extreme-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/joematthews/extreme-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/joematthews/extreme-angular)](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
+* [ng-advance ![GitHub Repo Stars](https://img.shields.io/github/stars/ksunny-works/ng-advance) ![GitHub last commit](https://img.shields.io/github/last-commit/ksunny-works/ng-advance)](https://github.com/ksunny-works/ng-advance) - A modern and fully-configured Angular starter template, empowering developers to quickly bootstrap their Angular projects with tools like Prettier, Jest, Husky, and ESLint.
 
 ##### Paid
 
@@ -1238,6 +1240,7 @@ become an Angular expert.
 * [ngx-form-object ![GitHub Repo Stars](https://img.shields.io/github/stars/infinum/ngx-form-object) ![GitHub last commit](https://img.shields.io/github/last-commit/infinum/ngx-form-object)](https://github.com/infinum/ngx-form-object) - ngx-form-object is an abstraction on top of Angular's reactive forms. It generates a form from a given model and automatically handles creation of nested forms (HasOne and HasMany model relationships).
 * [reactive-form-extensions](https://gitlab.com/Riuen/reactive-form-extensions) - This project improves Angular's ReactiveForms with useful features like trimming inputs, showing error messages, and changing CSS classes based on validation rules, all without extra dependencies and with less code.
 * [pro-form ![GitHub Repo Stars](https://img.shields.io/github/stars/ProAngular/pro-form) ![GitHub last commit](https://img.shields.io/github/last-commit/ProAngular/pro-form)](https://github.com/ProAngular/pro-form) - A predefined set of reactive and reusable form input components based on Angular Material.
+* [ngx-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/nncl/ngx-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/nncl/ngx-forms)](https://github.com/nncl/ngx-forms) - Collection of Angular form functions, that will help you build your applications.
 
 ##### Form Controls
 
@@ -1516,6 +1519,7 @@ to simplify usage and allow quick customization.
 * [angular-notification ![GitHub Repo Stars](https://img.shields.io/github/stars/lazycuh/angular-notification) ![GitHub last commit](https://img.shields.io/github/last-commit/lazycuh/angular-notification)](https://github.com/lazycuh/angular-notification) - A singleton, global Angular service to programmatically show notifications.
 * [ngx-toastr-message ![GitHub Repo Stars](https://img.shields.io/github/stars/One-Zero-Code/ngx-toastr-message) ![GitHub last commit](https://img.shields.io/github/last-commit/One-Zero-Code/ngx-toastr-message)](https://github.com/One-Zero-Code/ngx-toastr-message) - A lightweight, customizable Angular library for displaying toast notifications.
 * [ngx-french-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/thiagopg84/ngx-french-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/thiagopg84/ngx-french-toast)](https://github.com/thiagopg84/ngx-french-toast) - A lightweight and customizable toast library for your Angular 14+ applications. Show informative toast messages to enhance user experience and provide important feedback or collect data with dynamically imported components.
+* [ng-fast-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/rperezll/ng-fast-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/rperezll/ng-fast-toast)](https://github.com/rperezll/ng-fast-toast) - A fast and lightweight library for Angular 18+, also compatible with Ionic projects (based on Angular), that makes handling alerts and notifications effortless. Styled with Tailwind, but built for production with a fully agnostic approach using Shadow DOM.
 
 #### Printing
 
@@ -1694,6 +1698,7 @@ to simplify usage and allow quick customization.
 * [tableau-ui-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/serionist/tableau-ui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/serionist/tableau-ui-angular)](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
 * [ng-verse ![GitHub Repo Stars](https://img.shields.io/github/stars/lukonik/ng-verse) ![GitHub last commit](https://img.shields.io/github/last-commit/lukonik/ng-verse)](https://github.com/lukonik/ng-verse) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://www.ng-verse.dev/) for more.
 * [primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/primitives)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+* [xUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Rikarin/xui) ![GitHub last commit](https://img.shields.io/github/last-commit/Rikarin/xui)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 
 ##### Material Based
 
