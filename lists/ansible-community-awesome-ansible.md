@@ -119,6 +119,7 @@ For more information about communication, see the [Ansible communication guide](
 - [aar-doc - Automated Ansible Role Documentation ![GitHub Repo Stars](https://img.shields.io/github/stars/telekom-mms/Automated-Ansible-Role-Documentation) ![GitHub last commit](https://img.shields.io/github/last-commit/telekom-mms/Automated-Ansible-Role-Documentation)](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
 - [antsichaut ![GitHub Repo Stars](https://img.shields.io/github/stars/ansible-community/antsichaut) ![GitHub last commit](https://img.shields.io/github/last-commit/ansible-community/antsichaut)](https://github.com/ansible-community/antsichaut) - Automate the filling of a changelog.yaml used by antsibull-changelog.
 - [ansibledb ![GitHub Repo Stars](https://img.shields.io/github/stars/nbentoumi/ansibledb) ![GitHub last commit](https://img.shields.io/github/last-commit/nbentoumi/ansibledb)](https://github.com/nbentoumi/ansibledb) - Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.
+- [Ansible Template Playground](https://tech-playground.com/playgrounds/ansible-template/) - Online playground for running, testing and sharing Ansible templates.
 
 ## Blog posts and opinions
 
