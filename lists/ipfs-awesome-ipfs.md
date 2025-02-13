@@ -61,7 +61,7 @@ A list of web browsers with IPFS integrations
 
 ## Tools
 
-- [bifrost-gateway ![GitHub Repo Stars](https://img.shields.io/github/stars/ipfs/bifrost-gateway) ![GitHub last commit](https://img.shields.io/github/last-commit/ipfs/bifrost-gateway)](https://github.com/ipfs/bifrost-gateway) - [EXPERIMENTAL] A lightweight IPFS Gateway daemon backed by a remote data store.
+- [Blumen ![GitHub Repo Stars](https://img.shields.io/github/stars/StauroDEV/blumen) ![GitHub last commit](https://img.shields.io/github/last-commit/StauroDEV/blumen)](https://github.com/StauroDEV/blumen) - Blumen is a CLI to deploy apps on the decentralized web using IPFS and Ethereum
 - [create-ipfs-app ![GitHub Repo Stars](https://img.shields.io/github/stars/alexbakers/create-ipfs-app) ![GitHub last commit](https://img.shields.io/github/last-commit/alexbakers/create-ipfs-app)](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
 - [dScan ![GitHub Repo Stars](https://img.shields.io/github/stars/p2plabsxyz/dscan) ![GitHub last commit](https://img.shields.io/github/last-commit/p2plabsxyz/dscan)](https://github.com/p2plabsxyz/dscan) - A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs.
 - [dump-ipfs ![GitHub Repo Stars](https://img.shields.io/github/stars/quasarch/dump-ipfs) ![GitHub last commit](https://img.shields.io/github/last-commit/quasarch/dump-ipfs)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
