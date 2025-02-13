@@ -726,6 +726,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Knet ![GitHub Repo Stars](https://img.shields.io/github/stars/denizyuret/Knet.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/denizyuret/Knet.jl)](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework.
 * [Flux](https://fluxml.ai/) - Relax! Flux is the ML library that doesn't make you tensor
 * [MLJ ![GitHub Repo Stars](https://img.shields.io/github/stars/alan-turing-institute/MLJ.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/alan-turing-institute/MLJ.jl)](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework.
+* [CluGen ![GitHub Repo Stars](https://img.shields.io/github/stars/clugen/CluGen.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/clugen/CluGen.jl)](https://github.com/clugen/CluGen.jl/) - Multidimensional cluster generation in Julia.
 
 <a name="julia-natural-language-processing"></a>
 #### Natural Language Processing
@@ -880,7 +881,7 @@ on MNIST digits[DEEP LEARNING].
 * [Optunity](https://optunity.readthedocs.io/en/latest/) - A library dedicated to automated hyperparameter optimization with a simple, lightweight API to facilitate drop-in replacement of grid search. Optunity is written in Python but interfaces seamlessly with MATLAB.
 * [MXNet ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-mxnet) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-mxnet)](https://github.com/apache/incubator-mxnet/) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
 * [Machine Learning in MatLab/Octave ![GitHub Repo Stars](https://img.shields.io/github/stars/trekhleb/machine-learning-octave) ![GitHub last commit](https://img.shields.io/github/last-commit/trekhleb/machine-learning-octave)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
-
+* [MOCluGen ![GitHub Repo Stars](https://img.shields.io/github/stars/clugen/MOCluGen) ![GitHub last commit](https://img.shields.io/github/last-commit/clugen/MOCluGen)](https://github.com/clugen/MOCluGen/) - Multidimensional cluster generation in MATLAB/Octave.
 
 <a name="matlab-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
@@ -1108,6 +1109,7 @@ be
 * [Haystack ![GitHub Repo Stars](https://img.shields.io/github/stars/deepset-ai/haystack) ![GitHub last commit](https://img.shields.io/github/last-commit/deepset-ai/haystack)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
 * [CometLLM ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/comet-llm) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/comet-llm)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
 * [Transformers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/transformers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/transformers)](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
+* [TextCL ![GitHub Repo Stars](https://img.shields.io/github/stars/alinapetukhova/textcl) ![GitHub last commit](https://img.shields.io/github/last-commit/alinapetukhova/textcl)](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
@@ -1160,6 +1162,7 @@ be
 * [hebel ![GitHub Repo Stars](https://img.shields.io/github/stars/hannes-brt/hebel) ![GitHub last commit](https://img.shields.io/github/last-commit/hannes-brt/hebel)](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python. **[Deprecated]**
 * [Chainer ![GitHub Repo Stars](https://img.shields.io/github/stars/chainer/chainer) ![GitHub last commit](https://img.shields.io/github/last-commit/chainer/chainer)](https://github.com/chainer/chainer) - Flexible neural network framework.
 * [prophet](https://facebook.github.io/prophet/) - Fast and automated time series forecasting framework by Facebook.
+* [skforecast ![GitHub Repo Stars](https://img.shields.io/github/stars/skforecast/skforecast) ![GitHub last commit](https://img.shields.io/github/last-commit/skforecast/skforecast)](https://github.com/skforecast/skforecast) - Python library for time series forecasting using machine learning models. It works with any regressor compatible with the scikit-learn API, including popular options like LightGBM, XGBoost, CatBoost, Keras, and many others.
 * [gensim ![GitHub Repo Stars](https://img.shields.io/github/stars/RaRe-Technologies/gensim) ![GitHub last commit](https://img.shields.io/github/last-commit/RaRe-Technologies/gensim)](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
 * [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
 * [topicwizard ![GitHub Repo Stars](https://img.shields.io/github/stars/x-tabdeveloping/topic-wizard) ![GitHub last commit](https://img.shields.io/github/last-commit/x-tabdeveloping/topic-wizard)](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
@@ -1279,6 +1282,7 @@ be
 * [CometML ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/comet-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/comet-examples)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 * [Okrolearn ![GitHub Repo Stars](https://img.shields.io/github/stars/Okerew/okrolearn) ![GitHub last commit](https://img.shields.io/github/last-commit/Okerew/okrolearn)](https://github.com/Okerew/okrolearn): A python machine learning library created to combine powefull data analasys feautures with tensors and machine learning components, while mantaining support for other libraries.
 * [Opik ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/opik) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/opik)](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
+* [pyclugen ![GitHub Repo Stars](https://img.shields.io/github/stars/clugen/pyclugen) ![GitHub last commit](https://img.shields.io/github/last-commit/clugen/pyclugen)](https://github.com/clugen/pyclugen) - Multidimensional cluster generation in Python.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
@@ -1644,6 +1648,7 @@ be
 * [igraph](https://igraph.org/r/) - binding to igraph library - General purpose graph library.
 * [MXNet ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-mxnet) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-mxnet)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
 * [TDSP-Utilities ![GitHub Repo Stars](https://img.shields.io/github/stars/Azure/Azure-TDSP-Utilities) ![GitHub last commit](https://img.shields.io/github/last-commit/Azure/Azure-TDSP-Utilities)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
+* [clugenr ![GitHub Repo Stars](https://img.shields.io/github/stars/clugen/clugenr) ![GitHub last commit](https://img.shields.io/github/last-commit/clugen/clugenr)](https://github.com/clugen/clugenr/) - Multidimensional cluster generation in R.
 
 <a name="r-data-analysis--data-visualization"></a>
 #### Data Manipulation | Data Analysis | Data Visualization
