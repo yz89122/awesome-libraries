@@ -667,6 +667,7 @@ become an Angular expert.
 * [ngx-http-request-state ![GitHub Repo Stars](https://img.shields.io/github/stars/daiscog/ngx-http-request-state) ![GitHub last commit](https://img.shields.io/github/last-commit/daiscog/ngx-http-request-state)](https://github.com/daiscog/ngx-http-request-state) - An Angular library for wrapping HttpClient responses with loading & error information.
 * [ngs-request-tracker ![GitHub Repo Stars](https://img.shields.io/github/stars/andrei-shpileuski/ngs-request-tracker) ![GitHub last commit](https://img.shields.io/github/last-commit/andrei-shpileuski/ngs-request-tracker)](https://github.com/andrei-shpileuski/ngs-request-tracker) - A library for tracking, storing, and displaying statistics on all HTTP requests.
 * [ngx-pwa ![GitHub Repo Stars](https://img.shields.io/github/stars/Service-Soft/ngx-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/Service-Soft/ngx-pwa)](https://github.com/Service-Soft/ngx-pwa) - Provides additional functionality around Angular pwa's. Most notably being able to cache and sync POST/PATCH/DELETE Requests.
+* [ngx-repository ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ngx-repository) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ngx-repository)](https://github.com/paddls/ngx-repository) - Easily create a strongly typed data client (HTTP REST or Firestore) in your Angular project.
 
 #### Integrations
 
@@ -728,6 +729,7 @@ become an Angular expert.
 * [ngx-reactify ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-reactify) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-reactify)](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
 * [solidgate ![GitHub Repo Stars](https://img.shields.io/github/stars/solidgate-tech/angular-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/solidgate-tech/angular-sdk)](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
 * [Otter ![GitHub Repo Stars](https://img.shields.io/github/stars/AmadeusITGroup/otter) ![GitHub last commit](https://img.shields.io/github/last-commit/AmadeusITGroup/otter)](https://github.com/AmadeusITGroup/otter) - A highly modular framework whose goal is to provide a common platform to accelerate and facilitate the development on Angular web applications. It is split into several units to cover different aspects of these applications (localization, testing, customization, etc.). Also, to customize an application, metadata can be extracted from the application source code and injected into a CMS to manage dynamic configuration.
+* [ngx-serializer ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ngx-serializer) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ngx-serializer)](https://github.com/paddls/ngx-serializer) - Angular wrapper of @paddls/ts-serializer library.
 
 #### Internationalization
 
@@ -1503,6 +1505,7 @@ to simplify usage and allow quick customization.
 * [nxt-components ![GitHub Repo Stars](https://img.shields.io/github/stars/Liquid-JS/nxt-components) ![GitHub last commit](https://img.shields.io/github/last-commit/Liquid-JS/nxt-components)](https://github.com/Liquid-JS/nxt-components) - A collection of various Angular components.
 * [ngx-signal-plus ![GitHub Repo Stars](https://img.shields.io/github/stars/milad-hub/ngx-signal-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/milad-hub/ngx-signal-plus)](https://github.com/milad-hub/ngx-signal-plus) - A comprehensive utility library for Angular Signals that provides enhanced functionality, operators, and utilities.
 * [ngx-nuts-and-bolts ![GitHub Repo Stars](https://img.shields.io/github/stars/infinum/ngx-nuts-and-bolts) ![GitHub last commit](https://img.shields.io/github/last-commit/infinum/ngx-nuts-and-bolts)](https://github.com/infinum/ngx-nuts-and-bolts) - A collection of commonly used pieces of Angular-related code that are used by [Infinum](https://infinum.com/).
+* [ngx-common ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ngx-common) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ngx-common)](https://github.com/paddls/ngx-common) - A collection of useful features to enhance your Angular apps.
 
 #### Modals
 
@@ -1890,6 +1893,7 @@ for the creation of web applications developed with Angular.
 * [ng-rxjs-safe-subscribe ![GitHub Repo Stars](https://img.shields.io/github/stars/piotrekn/ng-rxjs-safe-subscribe) ![GitHub last commit](https://img.shields.io/github/last-commit/piotrekn/ng-rxjs-safe-subscribe)](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
 * [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
 * [eslint-plugin-rxjs-x ![GitHub Repo Stars](https://img.shields.io/github/stars/JasonWeinzierl/eslint-plugin-rxjs-x) ![GitHub last commit](https://img.shields.io/github/last-commit/JasonWeinzierl/eslint-plugin-rxjs-x)](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs ![GitHub Repo Stars](https://img.shields.io/github/stars/cartant/eslint-plugin-rxjs) ![GitHub last commit](https://img.shields.io/github/last-commit/cartant/eslint-plugin-rxjs)](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
+* [rxjs-common ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/rxjs-common) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/rxjs-common)](https://github.com/paddls/rxjs-common) - A collection of useful RxJS operators.
 
 #### TypeScript
 
@@ -1914,6 +1918,7 @@ for the creation of web applications developed with Angular.
 * [ngx-exhaustive-check ![GitHub Repo Stars](https://img.shields.io/github/stars/soc221b/ngx-exhaustive-check) ![GitHub last commit](https://img.shields.io/github/last-commit/soc221b/ngx-exhaustive-check)](https://github.com/soc221b/ngx-exhaustive-check) - Angular utility for ensuring exhaustive checks on TypeScript discriminated unions, enhancing type safety and reliability.
 * [mutates ![GitHub Repo Stars](https://img.shields.io/github/stars/IKatsuba/mutates) ![GitHub last commit](https://img.shields.io/github/last-commit/IKatsuba/mutates)](https://github.com/IKatsuba/mutates) - A powerful toolset for mutating the Abstract Syntax Tree (AST) of TypeScript files. It is a fork of [ng-morph ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-morph) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-morph)](https://github.com/taiga-family/ng-morph), with a broader focus beyond Angular-specific transformations, allowing for extensive AST modifications in any TypeScript project.
 * [type-fest ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/type-fest) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/type-fest)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
+* [ts-serializer ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ts-serializer) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ts-serializer)](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes.
 
 #### Other Lists
 
