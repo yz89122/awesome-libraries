@@ -517,6 +517,7 @@ become an Angular expert.
 * [kinde-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/luukhaijes/kinde-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/luukhaijes/kinde-angular)](https://github.com/luukhaijes/kinde-angular) - Angular wrapper around the [Kinde](https://kinde.com/) Typescript [SDK](https://docs.kinde.com/developer-tools/sdks/backend/typescript-sdk/).
 * [Logto](https://logto.io/) - An open-source Auth0 alternative for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML open standards for authentication and authorization. This [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites) can help you use Logto with Angular.
 * [MojoAuth](https://mojoauth.com/) - The Simplest Way to [integrate](https://docs.mojoauth.com/guides/angular) passkeys.
+* [SuperTokens](https://supertokens.com) - Configure your [Angular](https://supertokens.com/docs/quickstart/frontend-setup) application to use SuperTokens for authentication.
 
 #### Builders
 
@@ -726,6 +727,7 @@ become an Angular expert.
 * [ngx-viz ![GitHub Repo Stars](https://img.shields.io/github/stars/vedph/ngx-viz) ![GitHub last commit](https://img.shields.io/github/last-commit/vedph/ngx-viz)](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
 * [ngx-reactify ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-reactify) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-reactify)](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
 * [solidgate ![GitHub Repo Stars](https://img.shields.io/github/stars/solidgate-tech/angular-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/solidgate-tech/angular-sdk)](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
+* [Otter ![GitHub Repo Stars](https://img.shields.io/github/stars/AmadeusITGroup/otter) ![GitHub last commit](https://img.shields.io/github/last-commit/AmadeusITGroup/otter)](https://github.com/AmadeusITGroup/otter) - A highly modular framework whose goal is to provide a common platform to accelerate and facilitate the development on Angular web applications. It is split into several units to cover different aspects of these applications (localization, testing, customization, etc.). Also, to customize an application, metadata can be extracted from the application source code and injected into a CMS to manage dynamic configuration.
 
 #### Internationalization
 
@@ -872,6 +874,7 @@ become an Angular expert.
 * [BoilerPlate-FirebaseAngular ![GitHub Repo Stars](https://img.shields.io/github/stars/Yewo-Devs/BoilerPlate-FirebaseAngular) ![GitHub last commit](https://img.shields.io/github/last-commit/Yewo-Devs/BoilerPlate-FirebaseAngular)](https://github.com/Yewo-Devs/BoilerPlate-FirebaseAngular) - Starting point for apps built using .NET, Angular, and Firebase.
 * [extreme-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/joematthews/extreme-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/joematthews/extreme-angular)](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
 * [ng-advance ![GitHub Repo Stars](https://img.shields.io/github/stars/ksunny-works/ng-advance) ![GitHub last commit](https://img.shields.io/github/last-commit/ksunny-works/ng-advance)](https://github.com/ksunny-works/ng-advance) - A modern and fully-configured Angular starter template, empowering developers to quickly bootstrap their Angular projects with tools like Prettier, Jest, Husky, and ESLint.
+* [@wlucha/angular-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/wlucha/angular-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/wlucha/angular-starter)](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
 
 ##### Paid
 
@@ -993,6 +996,7 @@ become an Angular expert.
 * [ngx-countUp ![GitHub Repo Stars](https://img.shields.io/github/stars/inorganik/ngx-countUp) ![GitHub last commit](https://img.shields.io/github/last-commit/inorganik/ngx-countUp)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 * [ngx-animated-counter ![GitHub Repo Stars](https://img.shields.io/github/stars/BugSplat-Git/ngx-animated-counter) ![GitHub last commit](https://img.shields.io/github/last-commit/BugSplat-Git/ngx-animated-counter)](https://github.com/BugSplat-Git/ngx-animated-counter) - BugSplat's library provides simple count up and count down number animations.
 * [ngx-dom-confetti ![GitHub Repo Stars](https://img.shields.io/github/stars/damingerdai/ngx-dom-confetti) ![GitHub last commit](https://img.shields.io/github/last-commit/damingerdai/ngx-dom-confetti)](https://github.com/damingerdai/ngx-dom-confetti) - Celebrate success with dom confetti on Angular projects!
+* [ngx-dotlottie-web ![GitHub Repo Stars](https://img.shields.io/github/stars/victor-enogwe/ngx-dotlottie-web) ![GitHub last commit](https://img.shields.io/github/last-commit/victor-enogwe/ngx-dotlottie-web)](https://github.com/victor-enogwe/ngx-dotlottie-web) - Angular JavaScript library for rendering Lottie and dotLottie animations in Node.js and web environments.
 
 #### Calendars
 
@@ -1280,6 +1284,7 @@ become an Angular expert.
 * [ngx-easy-emoji-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/PsySanchez/ngx-easy-emoji-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/PsySanchez/ngx-easy-emoji-picker)](https://github.com/PsySanchez/ngx-easy-emoji-picker) - Angular library that seamlessly integrates emoji selection into your application.
 * [ngx-mat-table-multi-sort ![GitHub Repo Stars](https://img.shields.io/github/stars/pgerke/ngx-mat-table-multi-sort) ![GitHub last commit](https://img.shields.io/github/last-commit/pgerke/ngx-mat-table-multi-sort)](https://github.com/pgerke/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
 * [ngx-virtual-select-field ![GitHub Repo Stars](https://img.shields.io/github/stars/Vizer/ngx-virtual-select-field) ![GitHub last commit](https://img.shields.io/github/last-commit/Vizer/ngx-virtual-select-field)](https://github.com/Vizer/ngx-virtual-select-field) - This package replicates the Angular Material Select component with virtual scroll capabilities with help of cdk-virtual-scroll.
+* [ng-country-select ![GitHub Repo Stars](https://img.shields.io/github/stars/wlucha/ng-country-select) ![GitHub last commit](https://img.shields.io/github/last-commit/wlucha/ng-country-select)](https://github.com/wlucha/ng-country-select) - A smart, multilingual country search with flags and codes.
 
 ##### JSON Forms
 
@@ -1497,6 +1502,7 @@ to simplify usage and allow quick customization.
 * [ng-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/js-smart/ng-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/js-smart/ng-kit)](https://github.com/js-smart/ng-kit) - Reusable Angular components built with Angular Material and Bootstrap 5.x, Utility classes/functions for Date, Form and String operations.
 * [nxt-components ![GitHub Repo Stars](https://img.shields.io/github/stars/Liquid-JS/nxt-components) ![GitHub last commit](https://img.shields.io/github/last-commit/Liquid-JS/nxt-components)](https://github.com/Liquid-JS/nxt-components) - A collection of various Angular components.
 * [ngx-signal-plus ![GitHub Repo Stars](https://img.shields.io/github/stars/milad-hub/ngx-signal-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/milad-hub/ngx-signal-plus)](https://github.com/milad-hub/ngx-signal-plus) - A comprehensive utility library for Angular Signals that provides enhanced functionality, operators, and utilities.
+* [ngx-nuts-and-bolts ![GitHub Repo Stars](https://img.shields.io/github/stars/infinum/ngx-nuts-and-bolts) ![GitHub last commit](https://img.shields.io/github/last-commit/infinum/ngx-nuts-and-bolts)](https://github.com/infinum/ngx-nuts-and-bolts) - A collection of commonly used pieces of Angular-related code that are used by [Infinum](https://infinum.com/).
 
 #### Modals
 
