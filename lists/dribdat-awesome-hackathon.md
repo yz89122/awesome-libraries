@@ -28,6 +28,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [HackAssistant ![GitHub Repo Stars](https://img.shields.io/github/stars/HackAssistant/hackassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/HackAssistant/hackassistant)](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
 - [Hackatuning ![GitHub Repo Stars](https://img.shields.io/github/stars/leognmotta/hackatuning) ![GitHub last commit](https://img.shields.io/github/last-commit/leognmotta/hackatuning)](https://github.com/leognmotta/hackatuning) - Early stage hackathon management platform. `js`
 - [HackathonManager ![GitHub Repo Stars](https://img.shields.io/github/stars/codeRIT/hackathon-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/codeRIT/hackathon-manager)](https://github.com/codeRIT/hackathon-manager) - Hackathon registration & logistics, compatible with MyMLH.
+- [Hackathon Management System ![GitHub Repo Stars](https://img.shields.io/github/stars/Teplitsa/hackathon) ![GitHub last commit](https://img.shields.io/github/last-commit/Teplitsa/hackathon)](https://github.com/Teplitsa/hackathon) - A comprehensive WordPress plugin by [Teplitsa](https://hms.te-st.org/). `php`
 - [HackDash ![GitHub Repo Stars](https://img.shields.io/github/stars/impronunciable/hackdash) ![GitHub last commit](https://img.shields.io/github/last-commit/impronunciable/hackdash)](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
 - [Hackerspace3 ![GitHub Repo Stars](https://img.shields.io/github/stars/govhackaustralia/hackerspace3) ![GitHub last commit](https://img.shields.io/github/last-commit/govhackaustralia/hackerspace3)](https://github.com/govhackaustralia/hackerspace3) - Competition Management System for the GovHack Hackathon. `ruby`
 - [HackPortal ![GitHub Repo Stars](https://img.shields.io/github/stars/acmutd/hackportal) ![GitHub last commit](https://img.shields.io/github/last-commit/acmutd/hackportal)](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
@@ -47,6 +48,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Devpost](https://github.com/challengepost) - U.S. company whose customers market developer tools and jobs to the community.
 - [Hacksuite ![GitHub Repo Stars](https://img.shields.io/github/stars/DevtranetHQ/Hacksuite) ![GitHub last commit](https://img.shields.io/github/last-commit/DevtranetHQ/Hacksuite)](https://github.com/DevtranetHQ/Hacksuite) - A fullstack suite of apps from Devtranet for hosting virtual hackathons.
 - [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada. 
+- [Nosu](https://www.nosu.io/) - New VC funded AI tools for announcing, generating and quickly checking hackathon projects from true fans of the genre.
 - [Stackref](https://github.com/StackRef) ([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
 - [TAIKAI](https://github.com/taikai) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
@@ -114,6 +116,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 ### Coaching
 
+- [Awesome README ![GitHub Repo Stars](https://img.shields.io/github/stars/matiassingers/awesome-readme) ![GitHub last commit](https://img.shields.io/github/last-commit/matiassingers/awesome-readme)](https://github.com/matiassingers/awesome-readme) - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 - [HELPq ![GitHub Repo Stars](https://img.shields.io/github/stars/ehzhang/helpq) ![GitHub last commit](https://img.shields.io/github/last-commit/ehzhang/helpq)](https://github.com/ehzhang/helpq) - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 - [Hangar ![GitHub Repo Stars](https://img.shields.io/github/stars/AmericanAirlines/Hangar) ![GitHub last commit](https://img.shields.io/github/last-commit/AmericanAirlines/Hangar)](https://github.com/AmericanAirlines/Hangar) - A Slack bot to help with judging and coaching at hackathons.
 - [Leadership & Governance](https://opensource.guide/leadership-and-governance/) - Handbook for open source project, that also applies well for hackathon teams.
