@@ -1282,7 +1282,7 @@ English-language description for use by biologists.
 
 * [Virtual reality: A survival guide for the social scientist](https://stanfordvr.com/mm/2009/fox-jmp-vr-survival.pdf) - ***Journal of Media Psychology***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=17318470193315023264&hl=en&as_sdt=0,5)].
 
-* [The psychology of virtual reality](https://psycnet.apa.org/record/2022-60836-006) - ***The psychology of technology: Social science research in the age of Big Data (pp. 155–193), American Psychological Association***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=11535480055596209683&hl=en&as_sdt=0,5&as_ylo=2021)]. Jeremy Bailenson's review on the applications of Virtual Reality to behavioral studies.
+* [The psychology of virtual reality](https://psycnet.apa.org/record/2022-60836-006) - ***The psychology of technology: Social science research in the age of Big Data (pp. 155���193), American Psychological Association***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=11535480055596209683&hl=en&as_sdt=0,5&as_ylo=2021)]. Jeremy Bailenson's review on the applications of Virtual Reality to behavioral studies.
 
 * [How Immersive Is Enough? A Meta-Analysis of the Effect of Immersive Technology on User Presence](https://stanfordvr.com/mm/2015/cummings-mp-how-immersive.pdf) - ***Media Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=9218122072360464558&hl=en&as_sdt=0,5)]. A meta-analysis on the extent to which technologies need to be immersive in order to generate a sense of presence.
 
