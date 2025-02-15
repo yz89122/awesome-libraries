@@ -169,6 +169,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Sinon.JS ![GitHub Repo Stars](https://img.shields.io/github/stars/sinonjs/sinon) ![GitHub last commit](https://img.shields.io/github/last-commit/sinonjs/sinon)](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 * [expect.js ![GitHub Repo Stars](https://img.shields.io/github/stars/Automattic/expect.js) ![GitHub last commit](https://img.shields.io/github/last-commit/Automattic/expect.js)](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 * [proxyquire ![GitHub Repo Stars](https://img.shields.io/github/stars/thlorenz/proxyquire) ![GitHub last commit](https://img.shields.io/github/last-commit/thlorenz/proxyquire)](https://github.com/thlorenz/proxyquire) - Stub nodejs's require.
+* [Supertest ![GitHub Repo Stars](https://img.shields.io/github/stars/visionmedia/supertest) ![GitHub last commit](https://img.shields.io/github/last-commit/visionmedia/supertest)](https://github.com/visionmedia/supertest) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest
 
 ### Coverage
 
