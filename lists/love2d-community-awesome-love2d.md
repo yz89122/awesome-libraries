@@ -396,7 +396,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Brackets](http://brackets.io/) - A modern, open source text editor by Adobe (obsolete).
 	* [Lua Syntax Highlighter ![GitHub Repo Stars](https://img.shields.io/github/stars/ForbesLindesay/brackets-language-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/ForbesLindesay/brackets-language-extensions)](https://github.com/ForbesLindesay/brackets-language-extensions) - Add Lua syntax highlighting in Brackets.
-	* [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) - Provides L��VE code hints.
+	* [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) - Provides LÖVE code hints.
 	* [Run LÖVE ![GitHub Repo Stars](https://img.shields.io/github/stars/instilledbee/run-love2d) ![GitHub last commit](https://img.shields.io/github/last-commit/instilledbee/run-love2d)](https://github.com/instilledbee/run-love2d) - Run LÖVE projects with a hotkey.
 * [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support.
 	* [API Syntax Hightlight ![GitHub Repo Stars](https://img.shields.io/github/stars/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) ![GitHub last commit](https://img.shields.io/github/last-commit/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio)](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) - Script to add LOVE API syntax highlighting to ZBS.
