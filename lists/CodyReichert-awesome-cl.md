@@ -1258,7 +1258,7 @@ See also:
 Deployment
 ----------
 
-* 👍 [deploy](https://shinmera.github.io/deploy) - A toolkit for binary deployment of Lisp applications, with extra support for foreign shared libraries. [zlib][33].
+* �� [deploy](https://shinmera.github.io/deploy) - A toolkit for binary deployment of Lisp applications, with extra support for foreign shared libraries. [zlib][33].
 * [common-lisp-heroku-example ![GitHub Repo Stars](https://img.shields.io/github/stars/fstamour/common-lisp-heroku-example) ![GitHub last commit](https://img.shields.io/github/last-commit/fstamour/common-lisp-heroku-example)](https://github.com/fstamour/common-lisp-heroku-example) -  Example of Common Lisp server on Heroku using Docker.
 * [cube ![GitHub Repo Stars](https://img.shields.io/github/stars/xh4/cube) ![GitHub last commit](https://img.shields.io/github/last-commit/xh4/cube)](https://github.com/xh4/cube) - Kubernetes client library for Common LISP generated from the Swagger specification. [MIT][200].
 * [s2i-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/container-lisp/s2i-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/container-lisp/s2i-lisp)](https://github.com/container-lisp/s2i-lisp) - Source-to-Image builder image based on CentOS or alternatively RHEL7 for building Common LISP images for OpenShift (and also Docker). It features an up-to-date SBCL with Quicklisp installation, SLIME or SLY integration and allows customization via environment variables. [Apache2][89]
