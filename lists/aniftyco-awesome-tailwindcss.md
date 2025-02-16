@@ -190,7 +190,7 @@
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
-- �� [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
@@ -341,7 +341,7 @@
 - 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 - 🎥 [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
-- 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
+- ��� [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
 <p align="center">
