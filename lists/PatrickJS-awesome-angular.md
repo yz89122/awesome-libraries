@@ -353,6 +353,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-debugging-challenge ![GitHub Repo Stars](https://img.shields.io/github/stars/ppsdang/angular-debugging-challenge) ![GitHub last commit](https://img.shields.io/github/last-commit/ppsdang/angular-debugging-challenge)](https://github.com/ppsdang/angular-debugging-challenge) - This repository hosts an Angular-based project designed as a coding and debugging exercise.
 * [angular-api-challenge ![GitHub Repo Stars](https://img.shields.io/github/stars/ppsdang/angular-api-challenge) ![GitHub last commit](https://img.shields.io/github/last-commit/ppsdang/angular-api-challenge)](https://github.com/ppsdang/angular-api-challenge) - This repository hosts an Angular-based project designed as a api integration exercise.
 * [angular-exercises ![GitHub Repo Stars](https://img.shields.io/github/stars/kobi-hari-courses/angular-exercises) ![GitHub last commit](https://img.shields.io/github/last-commit/kobi-hari-courses/angular-exercises)](https://github.com/kobi-hari-courses/angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
+* [angular-debug-quest ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-courses-lab/angular-debug-quest) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-courses-lab/angular-debug-quest)](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
 
 ##### Online Training
 
@@ -962,6 +963,7 @@ become an Angular expert.
 * [fast-facts/ng-update ![GitHub Repo Stars](https://img.shields.io/github/stars/fast-facts/ng-update) ![GitHub last commit](https://img.shields.io/github/last-commit/fast-facts/ng-update)](https://github.com/fast-facts/ng-update) - A Github Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
 * [npx-app-updater ![GitHub Repo Stars](https://img.shields.io/github/stars/DSI-HUG/ngx-app-updater) ![GitHub last commit](https://img.shields.io/github/last-commit/DSI-HUG/ngx-app-updater)](https://github.com/DSI-HUG/ngx-app-updater) - When a new version of your application is deployed, this library will trigger a user notification to inform them that updates are available.
 * [ngx-update-app ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-update-app) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-update-app)](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
+* [Angular Caniuse](https://www.angular.courses/caniuse) - Track Angular features from preview to stable stages.
 
 ---
 
