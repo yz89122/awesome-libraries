@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -587,7 +587,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [safesql ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/safesql) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/safesql)](https://github.com/stripe/safesql) :warning: — Static analysis tool for Golang that protects against SQL injections.
 
-- [shisho ![GitHub Repo Stars](https://img.shields.io/github/stars/flatt-security/shisho) ![GitHub last commit](https://img.shields.io/github/last-commit/flatt-security/shisho)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
+- [shisho ![GitHub Repo Stars](https://img.shields.io/github/stars/flatt-security/shisho) ![GitHub last commit](https://img.shields.io/github/last-commit/flatt-security/shisho)](https://github.com/flatt-security/shisho) :warning: ��� A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 
 - [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 
@@ -863,7 +863,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) — A Static Code Analyzer for PHP.
 
-- [PHP Refactoring Browser](https://qafoolabs.github.io/php-refactoring-browser) — Refactoring helper.
+- [PHP Refactoring Browser](https://qafoolabs.github.io/php-refactoring-browser) ��� Refactoring helper.
 
 - [PHP Semantic Versioning Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/tomzx/php-semver-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/tomzx/php-semver-checker)](https://github.com/tomzx/php-semver-checker) :warning: — Suggests a next version according to semantic versioning.
 
