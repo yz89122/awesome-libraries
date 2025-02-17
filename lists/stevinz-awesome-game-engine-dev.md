@@ -532,7 +532,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Magic Enum ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/magic_enum) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/magic_enum)](https://github.com/Neargye/magic_enum) - Header-only C++17, provides static reflection for enums.
     - 🎉 [Meta ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/meta) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/meta)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++17.
     - 🎉 [Nameof ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/nameof) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/nameof)](https://github.com/Neargye/nameof) - Header-only C++17, provides nameof macros to obtain name of a variable.
-    - �� [Ponder ![GitHub Repo Stars](https://img.shields.io/github/stars/billyquith/ponder) ![GitHub last commit](https://img.shields.io/github/last-commit/billyquith/ponder)](https://github.com/billyquith/ponder) - Expose C++17 classes and objects so they can used as data.
+    - 🎉 [Ponder ![GitHub Repo Stars](https://img.shields.io/github/stars/billyquith/ponder) ![GitHub last commit](https://img.shields.io/github/last-commit/billyquith/ponder)](https://github.com/billyquith/ponder) - Expose C++17 classes and objects so they can used as data.
     - 🎉 [Reflect ![GitHub Repo Stars](https://img.shields.io/github/stars/stevinz/reflect) ![GitHub last commit](https://img.shields.io/github/last-commit/stevinz/reflect)](https://github.com/stevinz/reflect) - Small, flexible, single-header library for runtime reflection and meta data in C++11.
     - 🎉 [RTTR ![GitHub Repo Stars](https://img.shields.io/github/stars/rttrorg/rttr) ![GitHub last commit](https://img.shields.io/github/last-commit/rttrorg/rttr)](https://github.com/rttrorg/rttr) - Reflection for C++11.
 - C++: Scripting
@@ -587,7 +587,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Game Framework
     - 🎉 [FNA ![GitHub Repo Stars](https://img.shields.io/github/stars/FNA-XNA/FNA) ![GitHub last commit](https://img.shields.io/github/last-commit/FNA-XNA/FNA)](https://github.com/FNA-XNA/FNA) - Reimplementation of the Microsoft XNA Game Studio 4.0 libraries.
     - 🎉 [Monofoxe ![GitHub Repo Stars](https://img.shields.io/github/stars/Martenfur/Monofoxe) ![GitHub last commit](https://img.shields.io/github/last-commit/Martenfur/Monofoxe)](https://github.com/Martenfur/Monofoxe) - Game engine designed to simplify working with _MonoGame_.
-    - ��� [MonoGame ![GitHub Repo Stars](https://img.shields.io/github/stars/MonoGame/MonoGame) ![GitHub last commit](https://img.shields.io/github/last-commit/MonoGame/MonoGame)](https://github.com/MonoGame/MonoGame) 🔥 - Framework for creating cross-platform games. [[Website](https://www.monogame.net/)]
+    - 🎉 [MonoGame ![GitHub Repo Stars](https://img.shields.io/github/stars/MonoGame/MonoGame) ![GitHub last commit](https://img.shields.io/github/last-commit/MonoGame/MonoGame)](https://github.com/MonoGame/MonoGame) 🔥 - Framework for creating cross-platform games. [[Website](https://www.monogame.net/)]
     - 🎉 [Nez ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/Nez) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/Nez)](https://github.com/prime31/Nez) - Feature-rich 2D framework built on _MonoGame_.
     - 🎉 [Protogame ![GitHub Repo Stars](https://img.shields.io/github/stars/RedpointGames/Protogame) ![GitHub last commit](https://img.shields.io/github/last-commit/RedpointGames/Protogame)](https://github.com/RedpointGames/Protogame) - Cross-platform 2D/3D game engine built on _MonoGame_.
 - C#: Geometry
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework

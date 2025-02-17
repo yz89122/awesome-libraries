@@ -190,7 +190,7 @@
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
-- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- �� [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
@@ -259,7 +259,7 @@
 - 🚀 [Create React App with EmotionJS ![GitHub Repo Stars](https://img.shields.io/github/stars/muhajirframe/react-tailwind-emotion-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/muhajirframe/react-tailwind-emotion-starter)](https://github.com/muhajirframe/react-tailwind-emotion-starter) - CRA boilerplate using Tailwind CSS and Emotion JS.
 - 📟 [Create React App with TypeScript ![GitHub Repo Stars](https://img.shields.io/github/stars/dance2die/cra-template-tailwindcss-typescript) ![GitHub last commit](https://img.shields.io/github/last-commit/dance2die/cra-template-tailwindcss-typescript)](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
 - 📟 [Next.js PWA ![GitHub Repo Stars](https://img.shields.io/github/stars/msaaddev/create-next-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/msaaddev/create-next-pwa)](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
-- ���� [new-tailwind-app ![GitHub Repo Stars](https://img.shields.io/github/stars/msaaddev/new-tailwind-app) ![GitHub last commit](https://img.shields.io/github/last-commit/msaaddev/new-tailwind-app)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
+- 📟 [new-tailwind-app ![GitHub Repo Stars](https://img.shields.io/github/stars/msaaddev/new-tailwind-app) ![GitHub last commit](https://img.shields.io/github/last-commit/msaaddev/new-tailwind-app)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 - 🚀 [Tailwind CSS Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/michelegera/create-tailwindcss-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/create-tailwindcss-boilerplate)](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/taylorbryant/tailwind-jekyll) ![GitHub last commit](https://img.shields.io/github/last-commit/taylorbryant/tailwind-jekyll)](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/mhanberg/jekyll-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/mhanberg/jekyll-tailwind-starter)](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.

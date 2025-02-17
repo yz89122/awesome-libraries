@@ -70,6 +70,7 @@
 ### Command-line
 
 - [crepl ![GitHub Repo Stars](https://img.shields.io/github/stars/l1mey112/crepl) ![GitHub last commit](https://img.shields.io/github/last-commit/l1mey112/crepl)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
+- [fdup ![GitHub Repo Stars](https://img.shields.io/github/stars/gechandesu/fdup) ![GitHub last commit](https://img.shields.io/github/last-commit/gechandesu/fdup)](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 - [github-releases ![GitHub Repo Stars](https://img.shields.io/github/stars/Dracks/repo-download-asset) ![GitHub last commit](https://img.shields.io/github/last-commit/Dracks/repo-download-asset)](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 - [HN-top ![GitHub Repo Stars](https://img.shields.io/github/stars/BafS/hn-top) ![GitHub last commit](https://img.shields.io/github/last-commit/BafS/hn-top)](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [klonol ![GitHub Repo Stars](https://img.shields.io/github/stars/hungrybluedev/klonol) ![GitHub last commit](https://img.shields.io/github/last-commit/hungrybluedev/klonol)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
