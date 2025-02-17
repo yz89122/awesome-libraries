@@ -133,6 +133,7 @@
 - [Meltano](https://meltano.com/) - CLI & code-first ELT.
   - [Singer SDK](https://sdk.meltano.com) - The fastest way to build custom data extractors and loaders compliant with the Singer Spec.
 - [Google Sheets ETL ![GitHub Repo Stars](https://img.shields.io/github/stars/fulldecent/google-sheets-etl) ![GitHub last commit](https://img.shields.io/github/last-commit/fulldecent/google-sheets-etl)](https://github.com/fulldecent/google-sheets-etl) - Live import all your Google Sheets to your data warehouse.
+- [CsvPath Framework](https://www.csvpath.org/) - A delimited data preboarding framework that fills the gap between MFT and the data lake.
 
 ## File System
 
