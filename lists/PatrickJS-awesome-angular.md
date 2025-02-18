@@ -670,6 +670,7 @@ become an Angular expert.
 * [ngs-request-tracker ![GitHub Repo Stars](https://img.shields.io/github/stars/andrei-shpileuski/ngs-request-tracker) ![GitHub last commit](https://img.shields.io/github/last-commit/andrei-shpileuski/ngs-request-tracker)](https://github.com/andrei-shpileuski/ngs-request-tracker) - A library for tracking, storing, and displaying statistics on all HTTP requests.
 * [ngx-pwa ![GitHub Repo Stars](https://img.shields.io/github/stars/Service-Soft/ngx-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/Service-Soft/ngx-pwa)](https://github.com/Service-Soft/ngx-pwa) - Provides additional functionality around Angular pwa's. Most notably being able to cache and sync POST/PATCH/DELETE Requests.
 * [ngx-repository ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ngx-repository) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ngx-repository)](https://github.com/paddls/ngx-repository) - Easily create a strongly typed data client (HTTP REST or Firestore) in your Angular project.
+* [ng-rest-client ![GitHub Repo Stars](https://img.shields.io/github/stars/gizm0bill/gzm) ![GitHub last commit](https://img.shields.io/github/last-commit/gizm0bill/gzm)](https://github.com/gizm0bill/gzm/tree/master/libs/ng-rest-client) - This library provides a set of decorators for simplifying HTTP requests. It enables developers to define RESTful API clients using decorators for common HTTP methods.
 
 #### Integrations
 
@@ -1296,6 +1297,7 @@ become an Angular expert.
 * [ngx-mat-table-multi-sort ![GitHub Repo Stars](https://img.shields.io/github/stars/pgerke/ngx-mat-table-multi-sort) ![GitHub last commit](https://img.shields.io/github/last-commit/pgerke/ngx-mat-table-multi-sort)](https://github.com/pgerke/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
 * [ngx-virtual-select-field ![GitHub Repo Stars](https://img.shields.io/github/stars/Vizer/ngx-virtual-select-field) ![GitHub last commit](https://img.shields.io/github/last-commit/Vizer/ngx-virtual-select-field)](https://github.com/Vizer/ngx-virtual-select-field) - This package replicates the Angular Material Select component with virtual scroll capabilities with help of cdk-virtual-scroll.
 * [ng-country-select ![GitHub Repo Stars](https://img.shields.io/github/stars/wlucha/ng-country-select) ![GitHub last commit](https://img.shields.io/github/last-commit/wlucha/ng-country-select)](https://github.com/wlucha/ng-country-select) - A smart, multilingual country search with flags and codes.
+* [ngx-card-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/filip194/ngx-card-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/filip194/ngx-card-wrapper)](https://github.com/filip194/ngx-card-wrapper) - Angular >=16 wrapper for [card.js ![GitHub Repo Stars](https://img.shields.io/github/stars/jessepollak/card) ![GitHub last commit](https://img.shields.io/github/last-commit/jessepollak/card)](https://github.com/jessepollak/card), which provides a credit card form.
 
 ##### JSON Forms
 
